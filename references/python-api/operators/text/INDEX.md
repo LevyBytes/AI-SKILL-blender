@@ -1,0 +1,47 @@
+# Text
+
+- Open when you need bpy.ops.text.autocomplete: [bpy.ops.text.autocomplete](text-autocomplete.md).
+- Open when you need bpy.ops.text.comment_toggle: [bpy.ops.text.comment_toggle](text-comment-toggle.md).
+- Open when you need bpy.ops.text.convert_whitespace: [bpy.ops.text.convert_whitespace](text-convert-whitespace.md).
+- Open when you need bpy.ops.text.copy: [bpy.ops.text.copy](text-copy.md).
+- Open when you need bpy.ops.text.cursor_set: [bpy.ops.text.cursor_set](text-cursor-set.md).
+- Open when you need bpy.ops.text.cut: [bpy.ops.text.cut](text-cut.md).
+- Open when you need bpy.ops.text.delete: [bpy.ops.text.delete](text-delete.md).
+- Open when you need bpy.ops.text.duplicate_line: [bpy.ops.text.duplicate_line](text-duplicate-line.md).
+- Open when you need bpy.ops.text.find_set_selected: [bpy.ops.text.find_set_selected](text-find-set-selected.md).
+- Open when you need bpy.ops.text.find: [bpy.ops.text.find](text-find.md).
+- Open when you need bpy.ops.text.indent_or_autocomplete: [bpy.ops.text.indent_or_autocomplete](text-indent-or-autocomplete.md).
+- Open when you need bpy.ops.text.indent: [bpy.ops.text.indent](text-indent.md).
+- Open when you need bpy.ops.text.insert: [bpy.ops.text.insert](text-insert.md).
+- Open when you need bpy.ops.text.jump_to_file_at_point: [bpy.ops.text.jump_to_file_at_point](text-jump-to-file-at-point.md).
+- Open when you need bpy.ops.text.jump: [bpy.ops.text.jump](text-jump.md).
+- Open when you need bpy.ops.text.line_break: [bpy.ops.text.line_break](text-line-break.md).
+- Open when you need bpy.ops.text.line_number: [bpy.ops.text.line_number](text-line-number.md).
+- Open when you need bpy.ops.text.make_internal: [bpy.ops.text.make_internal](text-make-internal.md).
+- Open when you need bpy.ops.text.move_lines: [bpy.ops.text.move_lines](text-move-lines.md).
+- Open when you need bpy.ops.text.move_select: [bpy.ops.text.move_select](text-move-select.md).
+- Open when you need bpy.ops.text.move: [bpy.ops.text.move](text-move.md).
+- Open when you need bpy.ops.text.new: [bpy.ops.text.new](text-new.md).
+- Open when you need bpy.ops.text.open: [bpy.ops.text.open](text-open.md).
+- Open when you need bpy.ops.text.overwrite_toggle: [bpy.ops.text.overwrite_toggle](text-overwrite-toggle.md).
+- Open when you need bpy.ops.text.paste: [bpy.ops.text.paste](text-paste.md).
+- Open when you need bpy.ops.text.reload: [bpy.ops.text.reload](text-reload.md).
+- Open when you need bpy.ops.text.replace_set_selected: [bpy.ops.text.replace_set_selected](text-replace-set-selected.md).
+- Open when you need bpy.ops.text.replace: [bpy.ops.text.replace](text-replace.md).
+- Open when you need bpy.ops.text.resolve_conflict: [bpy.ops.text.resolve_conflict](text-resolve-conflict.md).
+- Open when you need bpy.ops.text.run_script: [bpy.ops.text.run_script](text-run-script.md).
+- Open when you need bpy.ops.text.save_as: [bpy.ops.text.save_as](text-save-as.md).
+- Open when you need bpy.ops.text.save: [bpy.ops.text.save](text-save.md).
+- Open when you need bpy.ops.text.scroll_bar: [bpy.ops.text.scroll_bar](text-scroll-bar.md).
+- Open when you need bpy.ops.text.scroll: [bpy.ops.text.scroll](text-scroll.md).
+- Open when you need bpy.ops.text.select_all: [bpy.ops.text.select_all](text-select-all.md).
+- Open when you need bpy.ops.text.select_line: [bpy.ops.text.select_line](text-select-line.md).
+- Open when you need bpy.ops.text.select_word: [bpy.ops.text.select_word](text-select-word.md).
+- Open when you need bpy.ops.text.selection_set: [bpy.ops.text.selection_set](text-selection-set.md).
+- Open when you need bpy.ops.text.start_find: [bpy.ops.text.start_find](text-start-find.md).
+- Open when you need bpy.ops.text.to_3d_object: [bpy.ops.text.to_3d_object](text-to-3d-object.md).
+- Open when you need bpy.ops.text.unindent: [bpy.ops.text.unindent](text-unindent.md).
+- Open when you need bpy.ops.text.unlink: [bpy.ops.text.unlink](text-unlink.md).
+- Open when you need bpy.ops.text.update_shader: [bpy.ops.text.update_shader](text-update-shader.md).
+
+[Parent topics](../INDEX.md).

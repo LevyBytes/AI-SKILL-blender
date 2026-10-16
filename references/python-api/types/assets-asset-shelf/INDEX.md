@@ -1,0 +1,45 @@
+# Asset shelf
+
+- Open when you need bpy.types.AssetShelf: asset_library_reference: [bpy.types.AssetShelf: asset_library_reference](asset-shelf-asset-library-reference.md).
+- Open when you need bpy.types.AssetShelf: bl_activate_operator, bl_default_preview_size, bl_drag_operator, bl_idname, bl_options, bl_space_type: [bpy.types.AssetShelf: bl_activate_operator, bl_default_preview_size, bl_drag_operator, bl_idname, bl_options, bl_space_type](asset-shelf-bl.md).
+- Open when you need bpy.types.AssetShelf: filter_action: [bpy.types.AssetShelf: filter_action](asset-shelf-filter-action.md).
+- Open when you need bpy.types.AssetShelf: filter_annotations: [bpy.types.AssetShelf: filter_annotations](asset-shelf-filter-annotations.md).
+- Open when you need bpy.types.AssetShelf: filter_armature: [bpy.types.AssetShelf: filter_armature](asset-shelf-filter-armature.md).
+- Open when you need bpy.types.AssetShelf: filter_brush: [bpy.types.AssetShelf: filter_brush](asset-shelf-filter-brush.md).
+- Open when you need bpy.types.AssetShelf: filter_cachefile: [bpy.types.AssetShelf: filter_cachefile](asset-shelf-filter-cachefile.md).
+- Open when you need bpy.types.AssetShelf: filter_camera: [bpy.types.AssetShelf: filter_camera](asset-shelf-filter-camera.md).
+- Open when you need bpy.types.AssetShelf: filter_curve: [bpy.types.AssetShelf: filter_curve](asset-shelf-filter-curve.md).
+- Open when you need bpy.types.AssetShelf: filter_curves: [bpy.types.AssetShelf: filter_curves](asset-shelf-filter-curves.md).
+- Open when you need bpy.types.AssetShelf: filter_font: [bpy.types.AssetShelf: filter_font](asset-shelf-filter-font.md).
+- Open when you need bpy.types.AssetShelf: filter_grease_pencil: [bpy.types.AssetShelf: filter_grease_pencil](asset-shelf-filter-grease-pencil.md).
+- Open when you need bpy.types.AssetShelf: filter_group: [bpy.types.AssetShelf: filter_group](asset-shelf-filter-group.md).
+- Open when you need bpy.types.AssetShelf: filter_image: [bpy.types.AssetShelf: filter_image](asset-shelf-filter-image.md).
+- Open when you need bpy.types.AssetShelf: filter_lattice: [bpy.types.AssetShelf: filter_lattice](asset-shelf-filter-lattice.md).
+- Open when you need bpy.types.AssetShelf: filter_light_probe: [bpy.types.AssetShelf: filter_light_probe](asset-shelf-filter-light-probe.md).
+- Open when you need bpy.types.AssetShelf: filter_light: [bpy.types.AssetShelf: filter_light](asset-shelf-filter-light.md).
+- Open when you need bpy.types.AssetShelf: filter_linestyle: [bpy.types.AssetShelf: filter_linestyle](asset-shelf-filter-linestyle.md).
+- Open when you need bpy.types.AssetShelf: filter_mask: [bpy.types.AssetShelf: filter_mask](asset-shelf-filter-mask.md).
+- Open when you need bpy.types.AssetShelf: filter_material: [bpy.types.AssetShelf: filter_material](asset-shelf-filter-material.md).
+- Open when you need bpy.types.AssetShelf: filter_mesh: [bpy.types.AssetShelf: filter_mesh](asset-shelf-filter-mesh.md).
+- Open when you need bpy.types.AssetShelf: filter_metaball: [bpy.types.AssetShelf: filter_metaball](asset-shelf-filter-metaball.md).
+- Open when you need bpy.types.AssetShelf: filter_movie_clip: [bpy.types.AssetShelf: filter_movie_clip](asset-shelf-filter-movie-clip.md).
+- Open when you need bpy.types.AssetShelf: filter_node_tree: [bpy.types.AssetShelf: filter_node_tree](asset-shelf-filter-node-tree.md).
+- Open when you need bpy.types.AssetShelf: filter_object: [bpy.types.AssetShelf: filter_object](asset-shelf-filter-object.md).
+- Open when you need bpy.types.AssetShelf: filter_paint_curve: [bpy.types.AssetShelf: filter_paint_curve](asset-shelf-filter-paint-curve.md).
+- Open when you need bpy.types.AssetShelf: filter_palette: [bpy.types.AssetShelf: filter_palette](asset-shelf-filter-palette.md).
+- Open when you need bpy.types.AssetShelf: filter_particle_settings: [bpy.types.AssetShelf: filter_particle_settings](asset-shelf-filter-particle-settings.md).
+- Open when you need bpy.types.AssetShelf: filter_pointcloud: [bpy.types.AssetShelf: filter_pointcloud](asset-shelf-filter-pointcloud.md).
+- Open when you need bpy.types.AssetShelf: filter_scene: [bpy.types.AssetShelf: filter_scene](asset-shelf-filter-scene.md).
+- Open when you need bpy.types.AssetShelf: filter_sound: [bpy.types.AssetShelf: filter_sound](asset-shelf-filter-sound.md).
+- Open when you need bpy.types.AssetShelf: filter_speaker: [bpy.types.AssetShelf: filter_speaker](asset-shelf-filter-speaker.md).
+- Open when you need bpy.types.AssetShelf: filter_text: [bpy.types.AssetShelf: filter_text](asset-shelf-filter-text.md).
+- Open when you need bpy.types.AssetShelf: filter_texture: [bpy.types.AssetShelf: filter_texture](asset-shelf-filter-texture.md).
+- Open when you need bpy.types.AssetShelf: filter_volume: [bpy.types.AssetShelf: filter_volume](asset-shelf-filter-volume.md).
+- Open when you need bpy.types.AssetShelf: filter_work_space: [bpy.types.AssetShelf: filter_work_space](asset-shelf-filter-work-space.md).
+- Open when you need bpy.types.AssetShelf: filter_world: [bpy.types.AssetShelf: filter_world](asset-shelf-filter-world.md).
+- Open when you need bpy.types.AssetShelf: methods: [bpy.types.AssetShelf: methods](asset-shelf-methods.md).
+- Open when you need bpy.types.AssetShelf: preview_size: [bpy.types.AssetShelf: preview_size](asset-shelf-preview-size.md).
+- Open when you need bpy.types.AssetShelf: search_filter: [bpy.types.AssetShelf: search_filter](asset-shelf-search-filter.md).
+- Open when you need bpy.types.AssetShelf: show_names: [bpy.types.AssetShelf: show_names](asset-shelf-show-names.md).
+
+[Parent topics](../assets/INDEX.md).

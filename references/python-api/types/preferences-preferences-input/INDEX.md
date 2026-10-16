@@ -1,0 +1,44 @@
+# Preferences input
+
+- Open when you need bpy.types.PreferencesInput: drag_threshold, drag_threshold_mouse, drag_threshold_tablet: [bpy.types.PreferencesInput: drag_threshold, drag_threshold_mouse, drag_threshold_tablet](preferences-input-drag.md).
+- Open when you need bpy.types.PreferencesInput: invert_mouse_zoom, invert_zoom_wheel: [bpy.types.PreferencesInput: invert_mouse_zoom, invert_zoom_wheel](preferences-input-invert.md).
+- Open when you need bpy.types.PreferencesInput: methods: [bpy.types.PreferencesInput: methods](preferences-input-methods.md).
+- Open when you need bpy.types.PreferencesInput: mouse_double_click_time, mouse_emulate_3_button_modifier: [bpy.types.PreferencesInput: mouse_double_click_time, mouse_emulate_3_button_modifier](preferences-input-mouse.md).
+- Open when you need bpy.types.PreferencesInput: move_threshold: [bpy.types.PreferencesInput: move_threshold](preferences-input-move-threshold.md).
+- Open when you need bpy.types.PreferencesInput: navigation_mode: [bpy.types.PreferencesInput: navigation_mode](preferences-input-navigation-mode.md).
+- Open when you need bpy.types.PreferencesInput: ndof_deadzone: [bpy.types.PreferencesInput: ndof_deadzone](preferences-input-ndof-deadzone.md).
+- Open when you need bpy.types.PreferencesInput: ndof_fly_helicopter: [bpy.types.PreferencesInput: ndof_fly_helicopter](preferences-input-ndof-fly-helicopter.md).
+- Open when you need bpy.types.PreferencesInput: ndof_fly_speed_auto: [bpy.types.PreferencesInput: ndof_fly_speed_auto](preferences-input-ndof-fly-speed-auto.md).
+- Open when you need bpy.types.PreferencesInput: ndof_lock_camera_pan_zoom: [bpy.types.PreferencesInput: ndof_lock_camera_pan_zoom](preferences-input-ndof-lock-camera-pan-zoom.md).
+- Open when you need bpy.types.PreferencesInput: ndof_lock_horizon: [bpy.types.PreferencesInput: ndof_lock_horizon](preferences-input-ndof-lock-horizon.md).
+- Open when you need bpy.types.PreferencesInput: ndof_navigation_mode: [bpy.types.PreferencesInput: ndof_navigation_mode](preferences-input-ndof-navigation-mode.md).
+- Open when you need bpy.types.PreferencesInput: ndof_orbit_center_auto: [bpy.types.PreferencesInput: ndof_orbit_center_auto](preferences-input-ndof-orbit-center-auto.md).
+- Open when you need bpy.types.PreferencesInput: ndof_orbit_center_selected: [bpy.types.PreferencesInput: ndof_orbit_center_selected](preferences-input-ndof-orbit-center-selected.md).
+- Open when you need bpy.types.PreferencesInput: ndof_panx_invert_axis: [bpy.types.PreferencesInput: ndof_panx_invert_axis](preferences-input-ndof-panx-invert-axis.md).
+- Open when you need bpy.types.PreferencesInput: ndof_pany_invert_axis: [bpy.types.PreferencesInput: ndof_pany_invert_axis](preferences-input-ndof-pany-invert-axis.md).
+- Open when you need bpy.types.PreferencesInput: ndof_panz_invert_axis: [bpy.types.PreferencesInput: ndof_panz_invert_axis](preferences-input-ndof-panz-invert-axis.md).
+- Open when you need bpy.types.PreferencesInput: ndof_rotation_sensitivity: [bpy.types.PreferencesInput: ndof_rotation_sensitivity](preferences-input-ndof-rotation-sensitivity.md).
+- Open when you need bpy.types.PreferencesInput: ndof_rotx_invert_axis: [bpy.types.PreferencesInput: ndof_rotx_invert_axis](preferences-input-ndof-rotx-invert-axis.md).
+- Open when you need bpy.types.PreferencesInput: ndof_roty_invert_axis: [bpy.types.PreferencesInput: ndof_roty_invert_axis](preferences-input-ndof-roty-invert-axis.md).
+- Open when you need bpy.types.PreferencesInput: ndof_rotz_invert_axis: [bpy.types.PreferencesInput: ndof_rotz_invert_axis](preferences-input-ndof-rotz-invert-axis.md).
+- Open when you need bpy.types.PreferencesInput: ndof_show_guide_orbit_axis: [bpy.types.PreferencesInput: ndof_show_guide_orbit_axis](preferences-input-ndof-show-guide-orbit-axis.md).
+- Open when you need bpy.types.PreferencesInput: ndof_show_guide_orbit_center: [bpy.types.PreferencesInput: ndof_show_guide_orbit_center](preferences-input-ndof-show-guide-orbit-center.md).
+- Open when you need bpy.types.PreferencesInput: ndof_translation_sensitivity: [bpy.types.PreferencesInput: ndof_translation_sensitivity](preferences-input-ndof-translation-sensitivity.md).
+- Open when you need bpy.types.PreferencesInput: ndof_zoom_direction: [bpy.types.PreferencesInput: ndof_zoom_direction](preferences-input-ndof-zoom-direction.md).
+- Open when you need bpy.types.PreferencesInput: pressure_softness, pressure_threshold_max: [bpy.types.PreferencesInput: pressure_softness, pressure_threshold_max](preferences-input-pressure.md).
+- Open when you need bpy.types.PreferencesInput: show_tablet_debug_values: [bpy.types.PreferencesInput: show_tablet_debug_values](preferences-input-show-tablet-debug-values.md).
+- Open when you need bpy.types.PreferencesInput: tablet_api: [bpy.types.PreferencesInput: tablet_api](preferences-input-tablet-api.md).
+- Open when you need bpy.types.PreferencesInput: touchpad_scroll_direction: [bpy.types.PreferencesInput: touchpad_scroll_direction](preferences-input-touchpad-scroll-direction.md).
+- Open when you need bpy.types.PreferencesInput: use_auto_perspective: [bpy.types.PreferencesInput: use_auto_perspective](preferences-input-use-auto-perspective.md).
+- Open when you need bpy.types.PreferencesInput: use_drag_immediately: [bpy.types.PreferencesInput: use_drag_immediately](preferences-input-use-drag-immediately.md).
+- Open when you need bpy.types.PreferencesInput: use_emulate_numpad: [bpy.types.PreferencesInput: use_emulate_numpad](preferences-input-use-emulate-numpad.md).
+- Open when you need bpy.types.PreferencesInput: use_mouse_continuous, use_mouse_depth_navigate, use_mouse_emulate_3_button: [bpy.types.PreferencesInput: use_mouse_continuous, use_mouse_depth_navigate, use_mouse_emulate_3_button](preferences-input-use-mouse.md).
+- Open when you need bpy.types.PreferencesInput: use_multitouch_gestures: [bpy.types.PreferencesInput: use_multitouch_gestures](preferences-input-use-multitouch-gestures.md).
+- Open when you need bpy.types.PreferencesInput: use_numeric_input_advanced: [bpy.types.PreferencesInput: use_numeric_input_advanced](preferences-input-use-numeric-input-advanced.md).
+- Open when you need bpy.types.PreferencesInput: use_rotate_around_active: [bpy.types.PreferencesInput: use_rotate_around_active](preferences-input-use-rotate-around-active.md).
+- Open when you need bpy.types.PreferencesInput: use_zoom_to_mouse: [bpy.types.PreferencesInput: use_zoom_to_mouse](preferences-input-use-zoom-to-mouse.md).
+- Open when you need bpy.types.PreferencesInput: view_rotate_method, view_rotate_sensitivity_trackball, view_rotate_sensitivity_turntable, view_zoom_axis, view_zoom_method: [bpy.types.PreferencesInput: view_rotate_method, view_rotate_sensitivity_trackball, view_rotate_sensitivity_turntable, view_zoom_axis, view_zoom_method](preferences-input-view.md).
+- Open when you need bpy.types.PreferencesInput: walk_navigation: [bpy.types.PreferencesInput: walk_navigation](preferences-input-walk-navigation.md).
+- Open when you need bpy.types.PreferencesInput: xr_navigation: [bpy.types.PreferencesInput: xr_navigation](preferences-input-xr-navigation.md).
+
+[Parent topics](../preferences/INDEX.md).

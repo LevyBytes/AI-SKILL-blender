@@ -1,0 +1,19 @@
+# bpy.ops.text.scroll
+
+bpy.ops.text. scroll ( * , lines = 1 )
+
+Not yet documented; contributions welcome.
+
+Parameters :
+
+lines ( int ) – Lines, Number of lines to scroll (in [-inf, inf], optional)
+
+Returns :
+
+Result of the operator call.
+
+Return type :
+
+set[Literal[Operator Return Items]]
+
+[Related references](INDEX.md).

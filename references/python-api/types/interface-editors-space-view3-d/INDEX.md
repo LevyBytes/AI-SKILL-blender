@@ -1,0 +1,75 @@
+# Space view3 d
+
+- Open when you need bpy.types.SpaceView3D: camera: [bpy.types.SpaceView3D: camera](space-view3-d-camera.md).
+- Open when you need bpy.types.SpaceView3D: clip_end, clip_start: [bpy.types.SpaceView3D: clip_end, clip_start](space-view3-d-clip.md).
+- Open when you need bpy.types.SpaceView3D: icon_from_show_object_viewport: [bpy.types.SpaceView3D: icon_from_show_object_viewport](space-view3-d-icon-from-show-object-viewport.md).
+- Open when you need bpy.types.SpaceView3D: lens: [bpy.types.SpaceView3D: lens](space-view3-d-lens.md).
+- Open when you need bpy.types.SpaceView3D: local_view: [bpy.types.SpaceView3D: local_view](space-view3-d-local-view.md).
+- Open when you need bpy.types.SpaceView3D: lock_bone: [bpy.types.SpaceView3D: lock_bone](space-view3-d-lock-bone.md).
+- Open when you need bpy.types.SpaceView3D: lock_camera: [bpy.types.SpaceView3D: lock_camera](space-view3-d-lock-camera.md).
+- Open when you need bpy.types.SpaceView3D: lock_cursor: [bpy.types.SpaceView3D: lock_cursor](space-view3-d-lock-cursor.md).
+- Open when you need bpy.types.SpaceView3D: lock_object: [bpy.types.SpaceView3D: lock_object](space-view3-d-lock-object.md).
+- Open when you need bpy.types.SpaceView3D: methods: [bpy.types.SpaceView3D: methods](space-view3-d-methods.md).
+- Open when you need bpy.types.SpaceView3D: mirror_xr_session: [bpy.types.SpaceView3D: mirror_xr_session](space-view3-d-mirror-xr-session.md).
+- Open when you need bpy.types.SpaceView3D: overlay: [bpy.types.SpaceView3D: overlay](space-view3-d-overlay.md).
+- Open when you need bpy.types.SpaceView3D: region_3d, region_quadviews: [bpy.types.SpaceView3D: region_3d, region_quadviews](space-view3-d-region.md).
+- Open when you need bpy.types.SpaceView3D: render_border_max_x, render_border_max_y, render_border_min_x, render_border_min_y: [bpy.types.SpaceView3D: render_border_max_x, render_border_max_y, render_border_min_x, render_border_min_y](space-view3-d-render.md).
+- Open when you need bpy.types.SpaceView3D: shading: [bpy.types.SpaceView3D: shading](space-view3-d-shading.md).
+- Open when you need bpy.types.SpaceView3D: show_bundle_names: [bpy.types.SpaceView3D: show_bundle_names](space-view3-d-show-bundle-names.md).
+- Open when you need bpy.types.SpaceView3D: show_camera_path: [bpy.types.SpaceView3D: show_camera_path](space-view3-d-show-camera-path.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_camera_dof_distance: [bpy.types.SpaceView3D: show_gizmo_camera_dof_distance](space-view3-d-show-gizmo-camera-dof-distance.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_camera_lens: [bpy.types.SpaceView3D: show_gizmo_camera_lens](space-view3-d-show-gizmo-camera-lens.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_context: [bpy.types.SpaceView3D: show_gizmo_context](space-view3-d-show-gizmo-context.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_empty_force_field: [bpy.types.SpaceView3D: show_gizmo_empty_force_field](space-view3-d-show-gizmo-empty-force-field.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_empty_image: [bpy.types.SpaceView3D: show_gizmo_empty_image](space-view3-d-show-gizmo-empty-image.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_light_look_at: [bpy.types.SpaceView3D: show_gizmo_light_look_at](space-view3-d-show-gizmo-light-look-at.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_light_size: [bpy.types.SpaceView3D: show_gizmo_light_size](space-view3-d-show-gizmo-light-size.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_modifier: [bpy.types.SpaceView3D: show_gizmo_modifier](space-view3-d-show-gizmo-modifier.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_navigate: [bpy.types.SpaceView3D: show_gizmo_navigate](space-view3-d-show-gizmo-navigate.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_object_rotate: [bpy.types.SpaceView3D: show_gizmo_object_rotate](space-view3-d-show-gizmo-object-rotate.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_object_scale: [bpy.types.SpaceView3D: show_gizmo_object_scale](space-view3-d-show-gizmo-object-scale.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_object_translate: [bpy.types.SpaceView3D: show_gizmo_object_translate](space-view3-d-show-gizmo-object-translate.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo_tool: [bpy.types.SpaceView3D: show_gizmo_tool](space-view3-d-show-gizmo-tool.md).
+- Open when you need bpy.types.SpaceView3D: show_gizmo: [bpy.types.SpaceView3D: show_gizmo](space-view3-d-show-gizmo.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_armature: [bpy.types.SpaceView3D: show_object_select_armature](space-view3-d-show-object-select-armature.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_camera: [bpy.types.SpaceView3D: show_object_select_camera](space-view3-d-show-object-select-camera.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_curve: [bpy.types.SpaceView3D: show_object_select_curve](space-view3-d-show-object-select-curve.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_curves: [bpy.types.SpaceView3D: show_object_select_curves](space-view3-d-show-object-select-curves.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_empty: [bpy.types.SpaceView3D: show_object_select_empty](space-view3-d-show-object-select-empty.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_font: [bpy.types.SpaceView3D: show_object_select_font](space-view3-d-show-object-select-font.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_grease_pencil: [bpy.types.SpaceView3D: show_object_select_grease_pencil](space-view3-d-show-object-select-grease-pencil.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_lattice: [bpy.types.SpaceView3D: show_object_select_lattice](space-view3-d-show-object-select-lattice.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_light_probe: [bpy.types.SpaceView3D: show_object_select_light_probe](space-view3-d-show-object-select-light-probe.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_light: [bpy.types.SpaceView3D: show_object_select_light](space-view3-d-show-object-select-light.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_mesh: [bpy.types.SpaceView3D: show_object_select_mesh](space-view3-d-show-object-select-mesh.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_meta: [bpy.types.SpaceView3D: show_object_select_meta](space-view3-d-show-object-select-meta.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_pointcloud: [bpy.types.SpaceView3D: show_object_select_pointcloud](space-view3-d-show-object-select-pointcloud.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_speaker: [bpy.types.SpaceView3D: show_object_select_speaker](space-view3-d-show-object-select-speaker.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_surf: [bpy.types.SpaceView3D: show_object_select_surf](space-view3-d-show-object-select-surf.md).
+- Open when you need bpy.types.SpaceView3D: show_object_select_volume: [bpy.types.SpaceView3D: show_object_select_volume](space-view3-d-show-object-select-volume.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_armature: [bpy.types.SpaceView3D: show_object_viewport_armature](space-view3-d-show-object-viewport-armature.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_camera: [bpy.types.SpaceView3D: show_object_viewport_camera](space-view3-d-show-object-viewport-camera.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_curve: [bpy.types.SpaceView3D: show_object_viewport_curve](space-view3-d-show-object-viewport-curve.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_curves: [bpy.types.SpaceView3D: show_object_viewport_curves](space-view3-d-show-object-viewport-curves.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_empty: [bpy.types.SpaceView3D: show_object_viewport_empty](space-view3-d-show-object-viewport-empty.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_font: [bpy.types.SpaceView3D: show_object_viewport_font](space-view3-d-show-object-viewport-font.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_grease_pencil: [bpy.types.SpaceView3D: show_object_viewport_grease_pencil](space-view3-d-show-object-viewport-grease-pencil.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_lattice: [bpy.types.SpaceView3D: show_object_viewport_lattice](space-view3-d-show-object-viewport-lattice.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_light_probe: [bpy.types.SpaceView3D: show_object_viewport_light_probe](space-view3-d-show-object-viewport-light-probe.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_light: [bpy.types.SpaceView3D: show_object_viewport_light](space-view3-d-show-object-viewport-light.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_mesh: [bpy.types.SpaceView3D: show_object_viewport_mesh](space-view3-d-show-object-viewport-mesh.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_meta: [bpy.types.SpaceView3D: show_object_viewport_meta](space-view3-d-show-object-viewport-meta.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_pointcloud: [bpy.types.SpaceView3D: show_object_viewport_pointcloud](space-view3-d-show-object-viewport-pointcloud.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_speaker: [bpy.types.SpaceView3D: show_object_viewport_speaker](space-view3-d-show-object-viewport-speaker.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_surf: [bpy.types.SpaceView3D: show_object_viewport_surf](space-view3-d-show-object-viewport-surf.md).
+- Open when you need bpy.types.SpaceView3D: show_object_viewport_volume: [bpy.types.SpaceView3D: show_object_viewport_volume](space-view3-d-show-object-viewport-volume.md).
+- Open when you need bpy.types.SpaceView3D: show_reconstruction: [bpy.types.SpaceView3D: show_reconstruction](space-view3-d-show-reconstruction.md).
+- Open when you need bpy.types.SpaceView3D: show_region_asset_shelf, show_region_hud, show_region_tool_header, show_region_toolbar, show_region_ui: [bpy.types.SpaceView3D: show_region_asset_shelf, show_region_hud, show_region_tool_header, show_region_toolbar, show_region_ui](space-view3-d-show-region.md).
+- Open when you need bpy.types.SpaceView3D: show_stereo_3d_cameras, show_stereo_3d_convergence_plane, show_stereo_3d_volume: [bpy.types.SpaceView3D: show_stereo_3d_cameras, show_stereo_3d_convergence_plane, show_stereo_3d_volume](space-view3-d-show-stereo.md).
+- Open when you need bpy.types.SpaceView3D: show_viewer: [bpy.types.SpaceView3D: show_viewer](space-view3-d-show-viewer.md).
+- Open when you need bpy.types.SpaceView3D: stereo_3d_camera, stereo_3d_convergence_plane_alpha, stereo_3d_eye, stereo_3d_volume_alpha: [bpy.types.SpaceView3D: stereo_3d_camera, stereo_3d_convergence_plane_alpha, stereo_3d_eye, stereo_3d_volume_alpha](space-view3-d-stereo.md).
+- Open when you need bpy.types.SpaceView3D: tracks_display_size, tracks_display_type: [bpy.types.SpaceView3D: tracks_display_size, tracks_display_type](space-view3-d-tracks.md).
+- Open when you need bpy.types.SpaceView3D: use_local_camera, use_local_collections: [bpy.types.SpaceView3D: use_local_camera, use_local_collections](space-view3-d-use-local.md).
+- Open when you need bpy.types.SpaceView3D: use_render_border: [bpy.types.SpaceView3D: use_render_border](space-view3-d-use-render-border.md).
+
+[Parent topics](../interface-editors/INDEX.md).

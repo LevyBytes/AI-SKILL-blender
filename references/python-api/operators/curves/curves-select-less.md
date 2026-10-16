@@ -1,0 +1,10 @@
+# bpy.ops.curves.select_less
+
+**bpy.ops.curves.select_less**( )
+
+Reduce the selection by one layer.
+
+Returns: Result of the operator call.
+Return type: set[Literal[Operator Return Items]]
+
+[Related references](INDEX.md).

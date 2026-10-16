@@ -1,0 +1,7 @@
+# Geometry Attribute Constraint
+
+## Geometry Attribute Constraint
+
+The Geometry Attribute constraint transforms an object or bone from a target object's sampled geometry-attribute data, so motion and deformation can be driven directly by procedural geometry outputs such as Geometry Nodes positions or orientations. Options: Target (the object to read geometry from — Mesh, Curve, Point Cloud, or Instance); Offset with Target Transform (apply the target's world transform atop the attribute's); Attribute Name (the sampled attribute, default "position"); Data Type (which components drive the transform) — Vector (affects location), Quaternion (affects rotation), or 4x4 Matrix (affects the whole transform, with Location/Rotation/Scale toggleable separately but removing matrix shearing); Domain — Point (Mesh, Curve, or Point Cloud), Edge or Face or Face Corner (Mesh), Spline (Curve), or Instance; Sample Index (which geometry element to sample, clamped to what's present); Mix Mode, combining the copied and existing transforms — Replace, Before Original (Full) (simple matrix multiply as if the target is a parent in Full Inherit Scale mode, shearing when rotation meets non-uniform scale), Before Original (Split Channels) (location, rotation, scale handled separately, like three Copy constraints), After Original Full (the same as a child in Full mode, with the same shear caveat), and After Original (Split Channels); and Influence.
+
+[Related references](INDEX.md).

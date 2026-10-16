@@ -1,0 +1,7 @@
+# Armature Structure
+
+## Armature Structure
+
+Armatures imitate real skeletons, made of bones that are rigid by default — but you have more freedom than with a real skeleton: besides the natural rotation of bones, you can move and even scale them, and bones needn't connect to each other (they can be entirely free). Still, the most natural, useful setups relate some bones to others, forming "chains of bones" that act like limbs (see Chains of Bones). Chains of bones: an armature's bones can be fully independent (changing one doesn't affect the others), but that's rarely useful — to make a leg, every bone after the thigh should move with it in coordination, which is achieved by parenting each bone to the next, creating a chain. Chains can branch (for example, five fingers on one hand bone). Bones are chained by linking a parent's tip to a child's root, and those can be connected (always at exactly the same point) or free (like an ordinary parent-child object relationship). One bone can parent several children, so it can belong to several chains at once. A chain's first bone is its root bone and its last is the tip bone (not to be confused with the similarly named joints). Chains matter a lot in posing (especially forward kinematics versus automatic inverse kinematics); you build and edit them in Edit Mode, but except for connected bones their relationships don't affect transforms there (transforming a parent won't move its children). The easiest way to manage relationships is the Relations panel in the Bone tab.
+
+[Related references](INDEX.md).

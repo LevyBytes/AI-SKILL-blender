@@ -1,0 +1,53 @@
+# Xr session settings
+
+- Open when you need bpy.types.XrSessionSettings: base_pose_angle, base_pose_location, base_pose_object, base_pose_type, base_scale: [bpy.types.XrSessionSettings: base_pose_angle, base_pose_location, base_pose_object, base_pose_type, base_scale](xr-session-settings-base.md).
+- Open when you need bpy.types.XrSessionSettings: clip_end, clip_start: [bpy.types.XrSessionSettings: clip_end, clip_start](xr-session-settings-clip.md).
+- Open when you need bpy.types.XrSessionSettings: controller_draw_style: [bpy.types.XrSessionSettings: controller_draw_style](xr-session-settings-controller-draw-style.md).
+- Open when you need bpy.types.XrSessionSettings: fly_speed: [bpy.types.XrSessionSettings: fly_speed](xr-session-settings-fly-speed.md).
+- Open when you need bpy.types.XrSessionSettings: icon_from_show_object_viewport: [bpy.types.XrSessionSettings: icon_from_show_object_viewport](xr-session-settings-icon-from-show-object-viewport.md).
+- Open when you need bpy.types.XrSessionSettings: methods: [bpy.types.XrSessionSettings: methods](xr-session-settings-methods.md).
+- Open when you need bpy.types.XrSessionSettings: shading: [bpy.types.XrSessionSettings: shading](xr-session-settings-shading.md).
+- Open when you need bpy.types.XrSessionSettings: show_annotation: [bpy.types.XrSessionSettings: show_annotation](xr-session-settings-show-annotation.md).
+- Open when you need bpy.types.XrSessionSettings: show_controllers: [bpy.types.XrSessionSettings: show_controllers](xr-session-settings-show-controllers.md).
+- Open when you need bpy.types.XrSessionSettings: show_custom_overlays: [bpy.types.XrSessionSettings: show_custom_overlays](xr-session-settings-show-custom-overlays.md).
+- Open when you need bpy.types.XrSessionSettings: show_floor: [bpy.types.XrSessionSettings: show_floor](xr-session-settings-show-floor.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_extras: [bpy.types.XrSessionSettings: show_object_extras](xr-session-settings-show-object-extras.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_armature: [bpy.types.XrSessionSettings: show_object_select_armature](xr-session-settings-show-object-select-armature.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_camera: [bpy.types.XrSessionSettings: show_object_select_camera](xr-session-settings-show-object-select-camera.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_curve: [bpy.types.XrSessionSettings: show_object_select_curve](xr-session-settings-show-object-select-curve.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_curves: [bpy.types.XrSessionSettings: show_object_select_curves](xr-session-settings-show-object-select-curves.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_empty: [bpy.types.XrSessionSettings: show_object_select_empty](xr-session-settings-show-object-select-empty.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_font: [bpy.types.XrSessionSettings: show_object_select_font](xr-session-settings-show-object-select-font.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_grease_pencil: [bpy.types.XrSessionSettings: show_object_select_grease_pencil](xr-session-settings-show-object-select-grease-pencil.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_lattice: [bpy.types.XrSessionSettings: show_object_select_lattice](xr-session-settings-show-object-select-lattice.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_light_probe: [bpy.types.XrSessionSettings: show_object_select_light_probe](xr-session-settings-show-object-select-light-probe.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_light: [bpy.types.XrSessionSettings: show_object_select_light](xr-session-settings-show-object-select-light.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_mesh: [bpy.types.XrSessionSettings: show_object_select_mesh](xr-session-settings-show-object-select-mesh.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_meta: [bpy.types.XrSessionSettings: show_object_select_meta](xr-session-settings-show-object-select-meta.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_pointcloud: [bpy.types.XrSessionSettings: show_object_select_pointcloud](xr-session-settings-show-object-select-pointcloud.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_speaker: [bpy.types.XrSessionSettings: show_object_select_speaker](xr-session-settings-show-object-select-speaker.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_surf: [bpy.types.XrSessionSettings: show_object_select_surf](xr-session-settings-show-object-select-surf.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_select_volume: [bpy.types.XrSessionSettings: show_object_select_volume](xr-session-settings-show-object-select-volume.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_armature: [bpy.types.XrSessionSettings: show_object_viewport_armature](xr-session-settings-show-object-viewport-armature.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_camera: [bpy.types.XrSessionSettings: show_object_viewport_camera](xr-session-settings-show-object-viewport-camera.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_curve: [bpy.types.XrSessionSettings: show_object_viewport_curve](xr-session-settings-show-object-viewport-curve.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_curves: [bpy.types.XrSessionSettings: show_object_viewport_curves](xr-session-settings-show-object-viewport-curves.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_empty: [bpy.types.XrSessionSettings: show_object_viewport_empty](xr-session-settings-show-object-viewport-empty.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_font: [bpy.types.XrSessionSettings: show_object_viewport_font](xr-session-settings-show-object-viewport-font.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_grease_pencil: [bpy.types.XrSessionSettings: show_object_viewport_grease_pencil](xr-session-settings-show-object-viewport-grease-pencil.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_lattice: [bpy.types.XrSessionSettings: show_object_viewport_lattice](xr-session-settings-show-object-viewport-lattice.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_light_probe: [bpy.types.XrSessionSettings: show_object_viewport_light_probe](xr-session-settings-show-object-viewport-light-probe.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_light: [bpy.types.XrSessionSettings: show_object_viewport_light](xr-session-settings-show-object-viewport-light.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_mesh: [bpy.types.XrSessionSettings: show_object_viewport_mesh](xr-session-settings-show-object-viewport-mesh.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_meta: [bpy.types.XrSessionSettings: show_object_viewport_meta](xr-session-settings-show-object-viewport-meta.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_pointcloud: [bpy.types.XrSessionSettings: show_object_viewport_pointcloud](xr-session-settings-show-object-viewport-pointcloud.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_speaker: [bpy.types.XrSessionSettings: show_object_viewport_speaker](xr-session-settings-show-object-viewport-speaker.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_surf: [bpy.types.XrSessionSettings: show_object_viewport_surf](xr-session-settings-show-object-viewport-surf.md).
+- Open when you need bpy.types.XrSessionSettings: show_object_viewport_volume: [bpy.types.XrSessionSettings: show_object_viewport_volume](xr-session-settings-show-object-viewport-volume.md).
+- Open when you need bpy.types.XrSessionSettings: show_passthrough: [bpy.types.XrSessionSettings: show_passthrough](xr-session-settings-show-passthrough.md).
+- Open when you need bpy.types.XrSessionSettings: show_selection: [bpy.types.XrSessionSettings: show_selection](xr-session-settings-show-selection.md).
+- Open when you need bpy.types.XrSessionSettings: use_absolute_tracking: [bpy.types.XrSessionSettings: use_absolute_tracking](xr-session-settings-use-absolute-tracking.md).
+- Open when you need bpy.types.XrSessionSettings: use_positional_tracking: [bpy.types.XrSessionSettings: use_positional_tracking](xr-session-settings-use-positional-tracking.md).
+- Open when you need bpy.types.XrSessionSettings: view_scale: [bpy.types.XrSessionSettings: view_scale](xr-session-settings-view-scale.md).
+
+[Parent topics](../interface-virtual-reality/INDEX.md).

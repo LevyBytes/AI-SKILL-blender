@@ -1,0 +1,51 @@
+# Preferences view
+
+- Open when you need bpy.types.PreferencesView: border_width: [bpy.types.PreferencesView: border_width](preferences-view-border-width.md).
+- Open when you need bpy.types.PreferencesView: color_picker_type: [bpy.types.PreferencesView: color_picker_type](preferences-view-color-picker-type.md).
+- Open when you need bpy.types.PreferencesView: factor_display_type: [bpy.types.PreferencesView: factor_display_type](preferences-view-factor-display-type.md).
+- Open when you need bpy.types.PreferencesView: filebrowser_display_type: [bpy.types.PreferencesView: filebrowser_display_type](preferences-view-filebrowser-display-type.md).
+- Open when you need bpy.types.PreferencesView: font_path_ui, font_path_ui_mono: [bpy.types.PreferencesView: font_path_ui, font_path_ui_mono](preferences-view-font.md).
+- Open when you need bpy.types.PreferencesView: gizmo_size, gizmo_size_navigate_v3d: [bpy.types.PreferencesView: gizmo_size, gizmo_size_navigate_v3d](preferences-view-gizmo.md).
+- Open when you need bpy.types.PreferencesView: header_align: [bpy.types.PreferencesView: header_align](preferences-view-header-align.md).
+- Open when you need bpy.types.PreferencesView: lookdev_sphere_size: [bpy.types.PreferencesView: lookdev_sphere_size](preferences-view-lookdev-sphere-size.md).
+- Open when you need bpy.types.PreferencesView: menu_close_leave: [bpy.types.PreferencesView: menu_close_leave](preferences-view-menu-close-leave.md).
+- Open when you need bpy.types.PreferencesView: methods: [bpy.types.PreferencesView: methods](preferences-view-methods.md).
+- Open when you need bpy.types.PreferencesView: mini_axis_brightness, mini_axis_size, mini_axis_type: [bpy.types.PreferencesView: mini_axis_brightness, mini_axis_size, mini_axis_type](preferences-view-mini.md).
+- Open when you need bpy.types.PreferencesView: open_sublevel_delay, open_toplevel_delay: [bpy.types.PreferencesView: open_sublevel_delay, open_toplevel_delay](preferences-view-open.md).
+- Open when you need bpy.types.PreferencesView: pie_animation_timeout, pie_initial_timeout, pie_menu_confirm, pie_menu_radius, pie_menu_threshold, pie_tap_timeout: [bpy.types.PreferencesView: pie_animation_timeout, pie_initial_timeout, pie_menu_confirm, pie_menu_radius, pie_menu_threshold, pie_tap_timeout](preferences-view-pie.md).
+- Open when you need bpy.types.PreferencesView: playback_fps_samples: [bpy.types.PreferencesView: playback_fps_samples](preferences-view-playback-fps-samples.md).
+- Open when you need bpy.types.PreferencesView: preferences_display_type: [bpy.types.PreferencesView: preferences_display_type](preferences-view-preferences-display-type.md).
+- Open when you need bpy.types.PreferencesView: render_display_type: [bpy.types.PreferencesView: render_display_type](preferences-view-render-display-type.md).
+- Open when you need bpy.types.PreferencesView: rotation_angle: [bpy.types.PreferencesView: rotation_angle](preferences-view-rotation-angle.md).
+- Open when you need bpy.types.PreferencesView: show_addons_enabled_only: [bpy.types.PreferencesView: show_addons_enabled_only](preferences-view-show-addons-enabled-only.md).
+- Open when you need bpy.types.PreferencesView: show_area_handle: [bpy.types.PreferencesView: show_area_handle](preferences-view-show-area-handle.md).
+- Open when you need bpy.types.PreferencesView: show_column_layout: [bpy.types.PreferencesView: show_column_layout](preferences-view-show-column-layout.md).
+- Open when you need bpy.types.PreferencesView: show_developer_ui: [bpy.types.PreferencesView: show_developer_ui](preferences-view-show-developer-ui.md).
+- Open when you need bpy.types.PreferencesView: show_extensions_updates: [bpy.types.PreferencesView: show_extensions_updates](preferences-view-show-extensions-updates.md).
+- Open when you need bpy.types.PreferencesView: show_gizmo: [bpy.types.PreferencesView: show_gizmo](preferences-view-show-gizmo.md).
+- Open when you need bpy.types.PreferencesView: show_navigate_ui: [bpy.types.PreferencesView: show_navigate_ui](preferences-view-show-navigate-ui.md).
+- Open when you need bpy.types.PreferencesView: show_number_arrows: [bpy.types.PreferencesView: show_number_arrows](preferences-view-show-number-arrows.md).
+- Open when you need bpy.types.PreferencesView: show_object_info: [bpy.types.PreferencesView: show_object_info](preferences-view-show-object-info.md).
+- Open when you need bpy.types.PreferencesView: show_playback_fps: [bpy.types.PreferencesView: show_playback_fps](preferences-view-show-playback-fps.md).
+- Open when you need bpy.types.PreferencesView: show_splash: [bpy.types.PreferencesView: show_splash](preferences-view-show-splash.md).
+- Open when you need bpy.types.PreferencesView: show_statusbar_memory, show_statusbar_scene_duration, show_statusbar_stats, show_statusbar_version, show_statusbar_vram: [bpy.types.PreferencesView: show_statusbar_memory, show_statusbar_scene_duration, show_statusbar_stats, show_statusbar_version, show_statusbar_vram](preferences-view-show-statusbar.md).
+- Open when you need bpy.types.PreferencesView: show_tooltips, show_tooltips_python: [bpy.types.PreferencesView: show_tooltips, show_tooltips_python](preferences-view-show-tooltips.md).
+- Open when you need bpy.types.PreferencesView: show_view_name: [bpy.types.PreferencesView: show_view_name](preferences-view-show-view-name.md).
+- Open when you need bpy.types.PreferencesView: smooth_view: [bpy.types.PreferencesView: smooth_view](preferences-view-smooth-view.md).
+- Open when you need bpy.types.PreferencesView: text_hinting: [bpy.types.PreferencesView: text_hinting](preferences-view-text-hinting.md).
+- Open when you need bpy.types.PreferencesView: timecode_style: [bpy.types.PreferencesView: timecode_style](preferences-view-timecode-style.md).
+- Open when you need bpy.types.PreferencesView: ui_line_width, ui_scale: [bpy.types.PreferencesView: ui_line_width, ui_scale](preferences-view-ui.md).
+- Open when you need bpy.types.PreferencesView: use_filter_brushes_by_tool: [bpy.types.PreferencesView: use_filter_brushes_by_tool](preferences-view-use-filter-brushes-by-tool.md).
+- Open when you need bpy.types.PreferencesView: use_fresnel_edit: [bpy.types.PreferencesView: use_fresnel_edit](preferences-view-use-fresnel-edit.md).
+- Open when you need bpy.types.PreferencesView: use_mouse_over_open: [bpy.types.PreferencesView: use_mouse_over_open](preferences-view-use-mouse-over-open.md).
+- Open when you need bpy.types.PreferencesView: use_reduce_motion: [bpy.types.PreferencesView: use_reduce_motion](preferences-view-use-reduce-motion.md).
+- Open when you need bpy.types.PreferencesView: use_save_prompt: [bpy.types.PreferencesView: use_save_prompt](preferences-view-use-save-prompt.md).
+- Open when you need bpy.types.PreferencesView: use_text_antialiasing, use_text_render_subpixelaa: [bpy.types.PreferencesView: use_text_antialiasing, use_text_render_subpixelaa](preferences-view-use-text.md).
+- Open when you need bpy.types.PreferencesView: use_translate_interface, use_translate_new_dataname, use_translate_reports, use_translate_tooltips: [bpy.types.PreferencesView: use_translate_interface, use_translate_new_dataname, use_translate_reports, use_translate_tooltips](preferences-view-use-translate.md).
+- Open when you need bpy.types.PreferencesView: use_weight_color_range: [bpy.types.PreferencesView: use_weight_color_range](preferences-view-use-weight-color-range.md).
+- Open when you need bpy.types.PreferencesView: view_frame_keyframes, view_frame_seconds, view_frame_type: [bpy.types.PreferencesView: view_frame_keyframes, view_frame_seconds, view_frame_type](preferences-view-view.md).
+- Open when you need bpy.types.PreferencesView: view2d_grid_spacing_min: [bpy.types.PreferencesView: view2d_grid_spacing_min](preferences-view-view2d-grid-spacing-min.md).
+- Open when you need bpy.types.PreferencesView: weight_color_range: [bpy.types.PreferencesView: weight_color_range](preferences-view-weight-color-range.md).
+- Open when you need bpy.types.PreferencesView: PreferencesView: [bpy.types.PreferencesView: PreferencesView](preferences-view.md).
+
+[Parent topics](../preferences/INDEX.md).

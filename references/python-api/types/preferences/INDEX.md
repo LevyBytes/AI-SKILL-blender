@@ -1,0 +1,45 @@
+# Preferences
+
+- Open when you need Addon: [Addon](../preferences-addon/INDEX.md).
+- Open when you need Addon preferences: [Addon preferences](../preferences-addon-preferences/INDEX.md).
+- Open when you need bpy.types.Addons: [bpy.types.Addons](addons.md).
+- Open when you need bpy.types.Preferences: addons: [bpy.types.Preferences: addons](preferences-addons.md).
+- Open when you need bpy.types.Preferences: app_template: [bpy.types.Preferences: app_template](preferences-app-template.md).
+- Open when you need bpy.types.PreferencesApps: [bpy.types.PreferencesApps](preferences-apps-type.md).
+- Open when you need bpy.types.Preferences: apps: [bpy.types.Preferences: apps](preferences-apps.md).
+- Open when you need bpy.types.Preferences: autoexec_paths: [bpy.types.Preferences: autoexec_paths](preferences-autoexec-paths.md).
+- Open when you need Preferences edit: [Preferences edit](../preferences-preferences-edit/INDEX.md).
+- Open when you need bpy.types.Preferences: edit: [bpy.types.Preferences: edit](preferences-edit.md).
+- Open when you need Preferences experimental: [Preferences experimental](../preferences-preferences-experimental/INDEX.md).
+- Open when you need bpy.types.Preferences: experimental: [bpy.types.Preferences: experimental](preferences-experimental.md).
+- Open when you need bpy.types.PreferencesExtensions: [bpy.types.PreferencesExtensions](preferences-extensions-type.md).
+- Open when you need bpy.types.Preferences: extensions: [bpy.types.Preferences: extensions](preferences-extensions.md).
+- Open when you need Preferences file paths: [Preferences file paths](../preferences-preferences-file-paths/INDEX.md).
+- Open when you need bpy.types.Preferences: filepaths: [bpy.types.Preferences: filepaths](preferences-filepaths.md).
+- Open when you need Preferences input: [Preferences input](../preferences-preferences-input/INDEX.md).
+- Open when you need bpy.types.Preferences: inputs: [bpy.types.Preferences: inputs](preferences-inputs.md).
+- Open when you need bpy.types.Preferences: is_dirty: [bpy.types.Preferences: is_dirty](preferences-is-dirty.md).
+- Open when you need bpy.types.PreferencesKeymap: [bpy.types.PreferencesKeymap](preferences-keymap-type.md).
+- Open when you need bpy.types.Preferences: keymap: [bpy.types.Preferences: keymap](preferences-keymap.md).
+- Open when you need bpy.types.Preferences: methods: [bpy.types.Preferences: methods](preferences-methods.md).
+- Open when you need bpy.types.Preferences: show_hidden_ids: [bpy.types.Preferences: show_hidden_ids](preferences-show-hidden-ids.md).
+- Open when you need bpy.types.Preferences: studio_lights: [bpy.types.Preferences: studio_lights](preferences-studio-lights.md).
+- Open when you need Preferences system: [Preferences system](../preferences-preferences-system/INDEX.md).
+- Open when you need bpy.types.Preferences: system: [bpy.types.Preferences: system](preferences-system.md).
+- Open when you need bpy.types.Preferences: themes: [bpy.types.Preferences: themes](preferences-themes.md).
+- Open when you need bpy.types.Preferences: ui_styles: [bpy.types.Preferences: ui_styles](preferences-ui-styles.md).
+- Open when you need bpy.types.Preferences: use_preferences_save: [bpy.types.Preferences: use_preferences_save](preferences-use-preferences-save.md).
+- Open when you need bpy.types.Preferences: use_recent_searches: [bpy.types.Preferences: use_recent_searches](preferences-use-recent-searches.md).
+- Open when you need bpy.types.Preferences: version: [bpy.types.Preferences: version](preferences-version.md).
+- Open when you need Preferences view: [Preferences view](../preferences-preferences-view/INDEX.md).
+- Open when you need bpy.types.Preferences: view: [bpy.types.Preferences: view](preferences-view.md).
+- Open when you need bpy.types.ScriptDirectoryCollection: [bpy.types.ScriptDirectoryCollection](script-directory-collection.md).
+- Open when you need bpy.types.ScriptDirectory: [bpy.types.ScriptDirectory](script-directory.md).
+- Open when you need Studio light: [Studio light](../preferences-studio-light/INDEX.md).
+- Open when you need bpy.types.StudioLights: [bpy.types.StudioLights](studio-lights.md).
+- Open when you need Themes: [Themes](../preferences-themes/INDEX.md).
+- Open when you need User extension repo: [User extension repo](../preferences-user-extension-repo/INDEX.md).
+- Open when you need bpy.types.UserExtensionRepoCollection: [bpy.types.UserExtensionRepoCollection](user-extension-repo-collection.md).
+- Open when you need bpy.types.UserSolidLight: [bpy.types.UserSolidLight](user-solid-light.md).
+
+[Parent topics](../INDEX.md).

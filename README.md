@@ -1,50 +1,53 @@
-# Blender Documentation Reference
+# Blender
 
-> _Faithful, task-routed reference for the Blender Manual and the Blender Python API — bpy scripting, animation, materials/nodes, rendering, linked libraries, and add-ons._
-
-Part of **[Agent Kaizen](https://github.com/DirectorGunner/agent-kaizen)** — Agent Kaizen is designed to support reliable AI agent workflows, context engineering, and AI systems engineering in VS Code, Codex, and Claude Code. Build reusable agent skills, reduce unnecessary context loading, add validation loops, and apply Spec → Verifier → Environment scaffolding to new and existing projects.
-
-This repository is the `blender` skill: a reusable, trigger-rich task handbook that an AI coding agent (OpenAI Codex, Claude Code) loads on demand when a task matches its triggers.
-
-## What this skill covers
-
-This skill spans the Blender Manual and the Blender Python API (`bpy`): bpy scripting, operators, and add-ons/extensions; actions, F-curves, keyframes, and animation; materials, shader nodes, textures, and images; cameras, lights, and rendering; linked libraries and append/link; and panels, properties, and operators. It routes to **six area sub-skills** — `actions-fcurves`, `addons-panels`, `cameras-lights`, `linked-libraries`, `material-nodes`, and `python-api` — so the agent opens only the area that matches. It fires even when "Blender" isn't named but a `.blend` file, `bpy`, or a Blender operator/shortcut is in play. It is not for other DCC tools (Maya, 3ds Max, Houdini, Cinema 4D) or non-`bpy` Python.
-
-## What's inside
-
-- `SKILL.md` — the router frontmatter (`name` + trigger-rich `description`) that routes to sub-skills.
-- sub-skill folders — each a focused area with its own `SKILL.md`, `references/`, and `GOTCHA.md`.
-- `GOTCHA.md` — known pitfalls and edge cases.
-
-## Use it
-
-This skill is one git repo inside the Agent Kaizen **skills store**. The store nests two folders on purpose: the outer **`SKILLS\`** is a VS Code project for building and maintaining skills (its own workspace + tooling), and the inner lowercase **`skills\`** holds every skill as its own repo. That split lets a project pull skills two ways — the **whole `skills\` folder at once** (loads everything — **not recommended**) or **one skill at a time** (recommended: load only what a task needs and stay under Claude Code's skill-listing budget).
-
-Paths below use **`%DEVROOT%`** — the `DEVROOT` environment variable pointing at the folder that contains `SKILLS\`. Set it once by running **`SetDevRoot.cmd`** in the SKILLS repo root (no admin); a new shell then resolves `%DEVROOT%` automatically.
-
-Link **just this skill** (recommended) — a Windows directory junction, no admin:
-
-```cmd
-mklink /J .agents\skills\blender  "%DEVROOT%\SKILLS\skills\blender"
-mklink /J .claude\skills\blender  "%DEVROOT%\SKILLS\skills\blender"
+```mermaid
+---
+config:
+  flowchart:
+    wrappingWidth: 400
+---
+flowchart LR
+    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
+    skill("Blender"):::skill
+    first(["Scenes + Workflows"]):::topic
+    second(["Python + Operators"]):::topic
+    third(["Nodes + Rendering"]):::accent
+    brand --- skill
+    skill --- first
+    skill --- second
+    skill --- third
+    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
+    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
+    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
+    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
+    linkStyle default stroke:#38bdf8,stroke-width:1px
 ```
 
-Or link the **whole store** at once (loads every skill — not recommended outside a skills-dev project):
+Blender references that connect creative workflows with the Python APIs used to automate and extend them. Manual subjects, RNA types, operators, enumeration values and complete examples have distinct routes, making it easier to find the right level of detail for a task.
 
-```cmd
-mklink /J .agents\skills  "%DEVROOT%\SKILLS\skills"
-mklink /J .claude\skills  "%DEVROOT%\SKILLS\skills"
-```
+Use when working with Blender workflows or Python APIs: .blend files, bpy scripting, operators, add-ons, extensions, animation, rigging, modeling, geometry and shader nodes, materials, UVs, sculpting, painting, cameras, lighting, rendering, compositing, video editing, linked libraries, or user-interface controls. Use for exact Blender identifiers, parameters, shortcuts, context requirements and version-specific behavior. Not for other DCC applications or general Python unrelated to Blender.
 
-Remove a link (the store copy is untouched):
+## What this skill helps with
 
-```cmd
-rmdir .agents\skills\blender
-rmdir .claude\skills\blender
-```
+| Task | Useful reference material |
+| --- | --- |
+| [Navigate creative workflows](references/manual/INDEX.md) | Find modeling, animation, nodes, rendering, editors and file workflows. |
+| [Understand Python integration](references/python-api/INDEX.md) | Use scripting guides and module references with their context requirements. |
+| [Look up exact API contracts](references/python-api/types/INDEX.md) | Inspect RNA types and follow separate operator and enumeration catalogs. |
+| [Adapt complete examples](references/python-api/examples/INDEX.md) | Find rendering, UI, USD, geometry and property-accessor examples with their supporting context. |
 
-The agent (OpenAI Codex, Claude Code) then auto-loads this skill whenever a task matches its triggers. Built and validated with **[skill-drafting](https://github.com/DirectorGunner/AI-skill-drafting)** to the Agent Kaizen gold standard.
+## The work behind the references
 
-## License
+The manual and Python API are reorganized into descriptive subject trees. Naming, navigation and source-preservation checks accompanied repairs to identified examples and content boundaries, keeping code and the context required to interpret it connected.
 
-Licensed under **AGPL-3.0**, matching the [Agent Kaizen](https://github.com/DirectorGunner/agent-kaizen) project.
+## Start here
+
+Start with [SKILL.md](SKILL.md) and follow its context routes.
+
+Begin with [version and context guidance](references/blender-version-and-context.md). Match the installed Blender version, editor mode and operator context before adapting an example. Python modules under `references/` accompany the documentation; the root resource folders reserve space for future additions.
+
+## Sources and license
+
+Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://docs.blender.org/) when dealing with defects or issues that may come up from interpreting this skill's references.
+
+Licensed under **AGPL-3.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

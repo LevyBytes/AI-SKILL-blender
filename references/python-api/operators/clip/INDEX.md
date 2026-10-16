@@ -1,0 +1,71 @@
+# Clip
+
+- Open when you need bpy.ops.clip.add_marker_at_click: [bpy.ops.clip.add_marker_at_click](clip-add-marker-at-click.md).
+- Open when you need bpy.ops.clip.add_marker_move: [bpy.ops.clip.add_marker_move](clip-add-marker-move.md).
+- Open when you need bpy.ops.clip.add_marker_slide: [bpy.ops.clip.add_marker_slide](clip-add-marker-slide.md).
+- Open when you need bpy.ops.clip.add_marker: [bpy.ops.clip.add_marker](clip-add-marker.md).
+- Open when you need bpy.ops.clip.apply_solution_scale: [bpy.ops.clip.apply_solution_scale](clip-apply-solution-scale.md).
+- Open when you need bpy.ops.clip.average_tracks: [bpy.ops.clip.average_tracks](clip-average-tracks.md).
+- Open when you need bpy.ops.clip.bundles_to_mesh: [bpy.ops.clip.bundles_to_mesh](clip-bundles-to-mesh.md).
+- Open when you need bpy.ops.clip.camera_preset_add: [bpy.ops.clip.camera_preset_add](clip-camera-preset-add.md).
+- Open when you need bpy.ops.clip.change_frame: [bpy.ops.clip.change_frame](clip-change-frame.md).
+- Open when you need bpy.ops.clip.clean_tracks: [bpy.ops.clip.clean_tracks](clip-clean-tracks.md).
+- Open when you need bpy.ops.clip.clear_solution: [bpy.ops.clip.clear_solution](clip-clear-solution.md).
+- Open when you need bpy.ops.clip.clear_track_path: [bpy.ops.clip.clear_track_path](clip-clear-track-path.md).
+- Open when you need bpy.ops.clip.constraint_to_fcurve: [bpy.ops.clip.constraint_to_fcurve](clip-constraint-to-fcurve.md).
+- Open when you need bpy.ops.clip.copy_tracks: [bpy.ops.clip.copy_tracks](clip-copy-tracks.md).
+- Open when you need bpy.ops.clip.create_plane_track: [bpy.ops.clip.create_plane_track](clip-create-plane-track.md).
+- Open when you need bpy.ops.clip.cursor_set: [bpy.ops.clip.cursor_set](clip-cursor-set.md).
+- Open when you need bpy.ops.clip.delete_marker: [bpy.ops.clip.delete_marker](clip-delete-marker.md).
+- Open when you need bpy.ops.clip.delete_proxy: [bpy.ops.clip.delete_proxy](clip-delete-proxy.md).
+- Open when you need bpy.ops.clip.delete_track: [bpy.ops.clip.delete_track](clip-delete-track.md).
+- Open when you need bpy.ops.clip.detect_features: [bpy.ops.clip.detect_features](clip-detect-features.md).
+- Open when you need bpy.ops.clip.disable_markers: [bpy.ops.clip.disable_markers](clip-disable-markers.md).
+- Open when you need bpy.ops.clip.dopesheet_select_channel: [bpy.ops.clip.dopesheet_select_channel](clip-dopesheet-select-channel.md).
+- Open when you need bpy.ops.clip.dopesheet_view_all: [bpy.ops.clip.dopesheet_view_all](clip-dopesheet-view-all.md).
+- Open when you need bpy.ops.clip.filter_tracks: [bpy.ops.clip.filter_tracks](clip-filter-tracks.md).
+- Open when you need bpy.ops.clip.frame_jump: [bpy.ops.clip.frame_jump](clip-frame-jump.md).
+- Open when you need bpy.ops.clip.hide_tracks_clear: [bpy.ops.clip.hide_tracks_clear](clip-hide-tracks-clear.md).
+- Open when you need bpy.ops.clip.hide_tracks: [bpy.ops.clip.hide_tracks](clip-hide-tracks.md).
+- Open when you need bpy.ops.clip.join_tracks: [bpy.ops.clip.join_tracks](clip-join-tracks.md).
+- Open when you need bpy.ops.clip.keyframe_delete: [bpy.ops.clip.keyframe_delete](clip-keyframe-delete.md).
+- Open when you need bpy.ops.clip.keyframe_insert: [bpy.ops.clip.keyframe_insert](clip-keyframe-insert.md).
+- Open when you need bpy.ops.clip.lock_selection_toggle: [bpy.ops.clip.lock_selection_toggle](clip-lock-selection-toggle.md).
+- Open when you need bpy.ops.clip.lock_tracks: [bpy.ops.clip.lock_tracks](clip-lock-tracks.md).
+- Open when you need bpy.ops.clip.mode_set: [bpy.ops.clip.mode_set](clip-mode-set.md).
+- Open when you need bpy.ops.clip.new_image_from_plane_marker: [bpy.ops.clip.new_image_from_plane_marker](clip-new-image-from-plane-marker.md).
+- Open when you need bpy.ops.clip.open: [bpy.ops.clip.open](clip-open.md).
+- Open when you need bpy.ops.clip.paste_tracks: [bpy.ops.clip.paste_tracks](clip-paste-tracks.md).
+- Open when you need bpy.ops.clip.prefetch: [bpy.ops.clip.prefetch](clip-prefetch.md).
+- Open when you need bpy.ops.clip.rebuild_proxy: [bpy.ops.clip.rebuild_proxy](clip-rebuild-proxy.md).
+- Open when you need bpy.ops.clip.refine_markers: [bpy.ops.clip.refine_markers](clip-refine-markers.md).
+- Open when you need bpy.ops.clip.reload: [bpy.ops.clip.reload](clip-reload.md).
+- Open when you need bpy.ops.clip.select_all: [bpy.ops.clip.select_all](clip-select-all.md).
+- Open when you need bpy.ops.clip.select_box: [bpy.ops.clip.select_box](clip-select-box.md).
+- Open when you need bpy.ops.clip.select_circle: [bpy.ops.clip.select_circle](clip-select-circle.md).
+- Open when you need bpy.ops.clip.select_grouped: [bpy.ops.clip.select_grouped](clip-select-grouped.md).
+- Open when you need bpy.ops.clip.select_lasso: [bpy.ops.clip.select_lasso](clip-select-lasso.md).
+- Open when you need bpy.ops.clip.select: [bpy.ops.clip.select](clip-select.md).
+- Open when you need bpy.ops.clip.set_active_clip: [bpy.ops.clip.set_active_clip](clip-set-active-clip.md).
+- Open when you need bpy.ops.clip.set_axis: [bpy.ops.clip.set_axis](clip-set-axis.md).
+- Open when you need bpy.ops.clip.set_origin: [bpy.ops.clip.set_origin](clip-set-origin.md).
+- Open when you need bpy.ops.clip.set_plane: [bpy.ops.clip.set_plane](clip-set-plane.md).
+- Open when you need bpy.ops.clip.set_scale: [bpy.ops.clip.set_scale](clip-set-scale.md).
+- Open when you need bpy.ops.clip.set_scene_frames: [bpy.ops.clip.set_scene_frames](clip-set-scene-frames.md).
+- Open when you need bpy.ops.clip.set_solution_scale: [bpy.ops.clip.set_solution_scale](clip-set-solution-scale.md).
+- Open when you need bpy.ops.clip.set_solver_keyframe: [bpy.ops.clip.set_solver_keyframe](clip-set-solver-keyframe.md).
+- Open when you need bpy.ops.clip.set_viewport_background: [bpy.ops.clip.set_viewport_background](clip-set-viewport-background.md).
+- Open when you need bpy.ops.clip.setup_tracking_scene: [bpy.ops.clip.setup_tracking_scene](clip-setup-tracking-scene.md).
+- Open when you need bpy.ops.clip.slide_marker: [bpy.ops.clip.slide_marker](clip-slide-marker.md).
+- Open when you need bpy.ops.clip.slide_plane_marker: [bpy.ops.clip.slide_plane_marker](clip-slide-plane-marker.md).
+- Open when you need bpy.ops.clip.solve_camera: [bpy.ops.clip.solve_camera](clip-solve-camera.md).
+- Open when you need bpy.ops.clip.tracking_object_new: [bpy.ops.clip.tracking_object_new](clip-tracking-object-new.md).
+- Open when you need bpy.ops.clip.tracking_object_remove: [bpy.ops.clip.tracking_object_remove](clip-tracking-object-remove.md).
+- Open when you need bpy.ops.clip.tracking_settings_preset_add: [bpy.ops.clip.tracking_settings_preset_add](clip-tracking-settings-preset-add.md).
+- Open when you need bpy.ops.clip.update_image_from_plane_marker: [bpy.ops.clip.update_image_from_plane_marker](clip-update-image-from-plane-marker.md).
+- Open when you need Graph operations: [Graph operations](../clip-graph-operations/INDEX.md).
+- Open when you need Stabilize operations: [Stabilize operations](../clip-stabilize-operations/INDEX.md).
+- Open when you need Track operations: [Track operations](../clip-track-operations/INDEX.md).
+- Open when you need View operations: [View operations](../clip-view-operations/INDEX.md).
+
+[Parent topics](../INDEX.md).

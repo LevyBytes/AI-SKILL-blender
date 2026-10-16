@@ -1,0 +1,68 @@
+# Types
+
+- Open when you need freestyle.types.AdjacencyIterator: [freestyle.types.AdjacencyIterator](adjacency-iterator.md).
+- Open when you need freestyle.types.BBox: [freestyle.types.BBox](b-box.md).
+- Open when you need freestyle.types.BinaryPredicate0D: [freestyle.types.BinaryPredicate0D](binary-predicate0-d.md).
+- Open when you need freestyle.types.BinaryPredicate1D: [freestyle.types.BinaryPredicate1D](binary-predicate1-d.md).
+- Open when you need freestyle.types.Chain: [freestyle.types.Chain](chain.md).
+- Open when you need freestyle.types.ChainingIterator: [freestyle.types.ChainingIterator](chaining-iterator.md).
+- Open when you need freestyle.types.CurvePointIterator: [freestyle.types.CurvePointIterator](curve-point-iterator.md).
+- Open when you need freestyle.types.CurvePoint: [freestyle.types.CurvePoint](curve-point.md).
+- Open when you need freestyle.types.Curve: [freestyle.types.Curve](curve.md).
+- Open when you need freestyle.types.FEdgeSharp: [freestyle.types.FEdgeSharp](f-edge-sharp.md).
+- Open when you need freestyle.types.FEdgeSmooth: [freestyle.types.FEdgeSmooth](f-edge-smooth.md).
+- Open when you need freestyle.types.FEdge: [freestyle.types.FEdge](f-edge.md).
+- Open when you need freestyle.types.Id: [freestyle.types.Id](id.md).
+- Open when you need freestyle.types.IntegrationType: [freestyle.types.IntegrationType](integration-type.md).
+- Open when you need freestyle.types.Interface0DIterator: [freestyle.types.Interface0DIterator](interface0-d-iterator.md).
+- Open when you need freestyle.types.Interface0D: [freestyle.types.Interface0D](interface0-d.md).
+- Open when you need Interface1 d: [Interface1 d](../freestyle-types-interface1-d/INDEX.md).
+- Open when you need freestyle.types.Iterator: [freestyle.types.Iterator](iterator.md).
+- Open when you need freestyle.types.Material: [freestyle.types.Material](material.md).
+- Open when you need freestyle.types.MediumType: [freestyle.types.MediumType](medium-type.md).
+- Open when you need freestyle.types.Nature: [freestyle.types.Nature](nature.md).
+- Open when you need Noise: [Noise](../freestyle-types-noise/INDEX.md).
+- Open when you need freestyle.types.NonTVertex: [freestyle.types.NonTVertex](non-t-vertex.md).
+- Open when you need Operators: [Operators](../freestyle-types-operators/INDEX.md).
+- Open when you need freestyle.types.orientedViewEdgeIterator: [freestyle.types.orientedViewEdgeIterator](oriented-view-edge-iterator.md).
+- Open when you need freestyle.types.SShape: [freestyle.types.SShape](s-shape.md).
+- Open when you need freestyle.types.SVertexIterator: [freestyle.types.SVertexIterator](s-vertex-iterator.md).
+- Open when you need freestyle.types.SVertex: [freestyle.types.SVertex](s-vertex.md).
+- Open when you need Stroke: [Stroke](../freestyle-types-stroke/INDEX.md).
+- Open when you need Stroke attribute: [Stroke attribute](../freestyle-types-stroke-attribute/INDEX.md).
+- Open when you need freestyle.types.StrokeShader: [freestyle.types.StrokeShader](stroke-shader.md).
+- Open when you need freestyle.types.StrokeVertexIterator: [freestyle.types.StrokeVertexIterator](stroke-vertex-iterator.md).
+- Open when you need freestyle.types.StrokeVertex: [freestyle.types.StrokeVertex](stroke-vertex.md).
+- Open when you need freestyle.types.TVertex: [freestyle.types.TVertex](t-vertex.md).
+- Open when you need freestyle.types: methods: [freestyle.types: methods](types-methods.md).
+- Open when you need freestyle.types: overview: [freestyle.types: overview](types-overview.md).
+- Open when you need freestyle.types: properties: [freestyle.types: properties](types-properties.md).
+- Open when you need freestyle.types.UnaryFunction0DDouble: [freestyle.types.UnaryFunction0DDouble](unary-function0-d-double.md).
+- Open when you need freestyle.types.UnaryFunction0DEdgeNature: [freestyle.types.UnaryFunction0DEdgeNature](unary-function0-d-edge-nature.md).
+- Open when you need freestyle.types.UnaryFunction0DFloat: [freestyle.types.UnaryFunction0DFloat](unary-function0-d-float.md).
+- Open when you need freestyle.types.UnaryFunction0DId: [freestyle.types.UnaryFunction0DId](unary-function0-d-id.md).
+- Open when you need freestyle.types.UnaryFunction0DMaterial: [freestyle.types.UnaryFunction0DMaterial](unary-function0-d-material.md).
+- Open when you need freestyle.types.UnaryFunction0DUnsigned: [freestyle.types.UnaryFunction0DUnsigned](unary-function0-d-unsigned.md).
+- Open when you need freestyle.types.UnaryFunction0DVec2f: [freestyle.types.UnaryFunction0DVec2f](unary-function0-d-vec2f.md).
+- Open when you need freestyle.types.UnaryFunction0DVec3f: [freestyle.types.UnaryFunction0DVec3f](unary-function0-d-vec3f.md).
+- Open when you need freestyle.types.UnaryFunction0DVectorViewShape: [freestyle.types.UnaryFunction0DVectorViewShape](unary-function0-d-vector-view-shape.md).
+- Open when you need freestyle.types.UnaryFunction0DViewShape: [freestyle.types.UnaryFunction0DViewShape](unary-function0-d-view-shape.md).
+- Open when you need freestyle.types.UnaryFunction0D: [freestyle.types.UnaryFunction0D](unary-function0-d.md).
+- Open when you need freestyle.types.UnaryFunction1DDouble: [freestyle.types.UnaryFunction1DDouble](unary-function1-d-double.md).
+- Open when you need freestyle.types.UnaryFunction1DEdgeNature: [freestyle.types.UnaryFunction1DEdgeNature](unary-function1-d-edge-nature.md).
+- Open when you need freestyle.types.UnaryFunction1DFloat: [freestyle.types.UnaryFunction1DFloat](unary-function1-d-float.md).
+- Open when you need freestyle.types.UnaryFunction1DUnsigned: [freestyle.types.UnaryFunction1DUnsigned](unary-function1-d-unsigned.md).
+- Open when you need freestyle.types.UnaryFunction1DVec2f: [freestyle.types.UnaryFunction1DVec2f](unary-function1-d-vec2f.md).
+- Open when you need freestyle.types.UnaryFunction1DVec3f: [freestyle.types.UnaryFunction1DVec3f](unary-function1-d-vec3f.md).
+- Open when you need freestyle.types.UnaryFunction1DVectorViewShape: [freestyle.types.UnaryFunction1DVectorViewShape](unary-function1-d-vector-view-shape.md).
+- Open when you need freestyle.types.UnaryFunction1DVoid: [freestyle.types.UnaryFunction1DVoid](unary-function1-d-void.md).
+- Open when you need freestyle.types.UnaryFunction1D: [freestyle.types.UnaryFunction1D](unary-function1-d.md).
+- Open when you need freestyle.types.UnaryPredicate0D: [freestyle.types.UnaryPredicate0D](unary-predicate0-d.md).
+- Open when you need freestyle.types.UnaryPredicate1D: [freestyle.types.UnaryPredicate1D](unary-predicate1-d.md).
+- Open when you need freestyle.types.ViewEdgeIterator: [freestyle.types.ViewEdgeIterator](view-edge-iterator.md).
+- Open when you need freestyle.types.ViewEdge: [freestyle.types.ViewEdge](view-edge.md).
+- Open when you need freestyle.types.ViewMap: [freestyle.types.ViewMap](view-map.md).
+- Open when you need freestyle.types.ViewShape: [freestyle.types.ViewShape](view-shape.md).
+- Open when you need freestyle.types.ViewVertex: [freestyle.types.ViewVertex](view-vertex.md).
+
+[Parent topics](../freestyle/INDEX.md).

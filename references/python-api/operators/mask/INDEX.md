@@ -1,0 +1,43 @@
+# Mask
+
+- Open when you need bpy.ops.mask.add_feather_vertex_slide: [bpy.ops.mask.add_feather_vertex_slide](mask-add-feather-vertex-slide.md).
+- Open when you need bpy.ops.mask.add_feather_vertex: [bpy.ops.mask.add_feather_vertex](mask-add-feather-vertex.md).
+- Open when you need bpy.ops.mask.add_vertex_slide: [bpy.ops.mask.add_vertex_slide](mask-add-vertex-slide.md).
+- Open when you need bpy.ops.mask.add_vertex: [bpy.ops.mask.add_vertex](mask-add-vertex.md).
+- Open when you need bpy.ops.mask.copy_splines: [bpy.ops.mask.copy_splines](mask-copy-splines.md).
+- Open when you need bpy.ops.mask.cyclic_toggle: [bpy.ops.mask.cyclic_toggle](mask-cyclic-toggle.md).
+- Open when you need bpy.ops.mask.delete: [bpy.ops.mask.delete](mask-delete.md).
+- Open when you need bpy.ops.mask.duplicate_move: [bpy.ops.mask.duplicate_move](mask-duplicate-move.md).
+- Open when you need bpy.ops.mask.duplicate: [bpy.ops.mask.duplicate](mask-duplicate.md).
+- Open when you need bpy.ops.mask.feather_weight_clear: [bpy.ops.mask.feather_weight_clear](mask-feather-weight-clear.md).
+- Open when you need bpy.ops.mask.handle_type_set: [bpy.ops.mask.handle_type_set](mask-handle-type-set.md).
+- Open when you need bpy.ops.mask.hide_view_clear: [bpy.ops.mask.hide_view_clear](mask-hide-view-clear.md).
+- Open when you need bpy.ops.mask.hide_view_set: [bpy.ops.mask.hide_view_set](mask-hide-view-set.md).
+- Open when you need bpy.ops.mask.layer_move: [bpy.ops.mask.layer_move](mask-layer-move.md).
+- Open when you need bpy.ops.mask.layer_new: [bpy.ops.mask.layer_new](mask-layer-new.md).
+- Open when you need bpy.ops.mask.layer_remove: [bpy.ops.mask.layer_remove](mask-layer-remove.md).
+- Open when you need bpy.ops.mask.new: [bpy.ops.mask.new](mask-new.md).
+- Open when you need bpy.ops.mask.normals_make_consistent: [bpy.ops.mask.normals_make_consistent](mask-normals-make-consistent.md).
+- Open when you need bpy.ops.mask.parent_clear: [bpy.ops.mask.parent_clear](mask-parent-clear.md).
+- Open when you need bpy.ops.mask.parent_set: [bpy.ops.mask.parent_set](mask-parent-set.md).
+- Open when you need bpy.ops.mask.paste_splines: [bpy.ops.mask.paste_splines](mask-paste-splines.md).
+- Open when you need bpy.ops.mask.primitive_circle_add: [bpy.ops.mask.primitive_circle_add](mask-primitive-circle-add.md).
+- Open when you need bpy.ops.mask.primitive_square_add: [bpy.ops.mask.primitive_square_add](mask-primitive-square-add.md).
+- Open when you need bpy.ops.mask.select_all: [bpy.ops.mask.select_all](mask-select-all.md).
+- Open when you need bpy.ops.mask.select_box: [bpy.ops.mask.select_box](mask-select-box.md).
+- Open when you need bpy.ops.mask.select_circle: [bpy.ops.mask.select_circle](mask-select-circle.md).
+- Open when you need bpy.ops.mask.select_lasso: [bpy.ops.mask.select_lasso](mask-select-lasso.md).
+- Open when you need bpy.ops.mask.select_less: [bpy.ops.mask.select_less](mask-select-less.md).
+- Open when you need bpy.ops.mask.select_linked_pick: [bpy.ops.mask.select_linked_pick](mask-select-linked-pick.md).
+- Open when you need bpy.ops.mask.select_linked: [bpy.ops.mask.select_linked](mask-select-linked.md).
+- Open when you need bpy.ops.mask.select_more: [bpy.ops.mask.select_more](mask-select-more.md).
+- Open when you need bpy.ops.mask.select: [bpy.ops.mask.select](mask-select.md).
+- Open when you need bpy.ops.mask.shape_key_clear: [bpy.ops.mask.shape_key_clear](mask-shape-key-clear.md).
+- Open when you need bpy.ops.mask.shape_key_feather_reset: [bpy.ops.mask.shape_key_feather_reset](mask-shape-key-feather-reset.md).
+- Open when you need bpy.ops.mask.shape_key_insert: [bpy.ops.mask.shape_key_insert](mask-shape-key-insert.md).
+- Open when you need bpy.ops.mask.shape_key_rekey: [bpy.ops.mask.shape_key_rekey](mask-shape-key-rekey.md).
+- Open when you need bpy.ops.mask.slide_point: [bpy.ops.mask.slide_point](mask-slide-point.md).
+- Open when you need bpy.ops.mask.slide_spline_curvature: [bpy.ops.mask.slide_spline_curvature](mask-slide-spline-curvature.md).
+- Open when you need bpy.ops.mask.switch_direction: [bpy.ops.mask.switch_direction](mask-switch-direction.md).
+
+[Parent topics](../INDEX.md).

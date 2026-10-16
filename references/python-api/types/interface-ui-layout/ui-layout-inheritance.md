@@ -1,0 +1,28 @@
+# bpy.types.UILayout: inheritance
+
+### UILayout(bpy_struct) 
+
+base class — bpy_struct
+class bpy.types. UILayout ( bpy_struct ) 
+
+Layout for the user interface within a panel or header.
+## See also
+
+- [Bpy Struct](../data-types-bpy-struct/INDEX.md)
+### Inherited Properties
+
+| Members | Members |
+| --- | --- |
+| bpy_struct.id_data | |
+### Inherited Functions
+
+| Members | Members |
+| --- | --- |
+| bpy_struct.as_pointer bpy_struct.driver_add bpy_struct.driver_remove bpy_struct.get bpy_struct.id_properties_clear bpy_struct.id_properties_ensure bpy_struct.id_properties_ui bpy_struct.is_property_hidden bpy_struct.is_property_overridable_library bpy_struct.is_property_readonly bpy_struct.is_property_set bpy_struct.items | bpy_struct.keyframe_delete bpy_struct.keyframe_insert bpy_struct.keys bpy_struct.path_from_id bpy_struct.path_from_module bpy_struct.path_resolve bpy_struct.pop bpy_struct.property_overridable_library_set bpy_struct.property_unset bpy_struct.rna_ancestors bpy_struct.type_recast bpy_struct.values |
+### References
+
+| Description | Description |
+| --- | --- |
+| AssetShelf.draw_context_menu Header.layout Menu.layout Node.draw_buttons Node.draw_buttons_ext NodeInternal.draw_buttons NodeInternal.draw_buttons_ext NodeSocket.draw NodeSocketStandard.draw NodeTreeInterfaceSocket.draw NodeTreeInterfaceSocketBool.draw NodeTreeInterfaceSocketBundle.draw NodeTreeInterfaceSocketClosure.draw NodeTreeInterfaceSocketCollection.draw NodeTreeInterfaceSocketColor.draw NodeTreeInterfaceSocketFloat.draw NodeTreeInterfaceSocketFloatAngle.draw NodeTreeInterfaceSocketFloatColorTemperature.draw NodeTreeInterfaceSocketFloatDistance.draw NodeTreeInterfaceSocketFloatFactor.draw NodeTreeInterfaceSocketFloatFrequency.draw NodeTreeInterfaceSocketFloatMass.draw NodeTreeInterfaceSocketFloatPercentage.draw NodeTreeInterfaceSocketFloatTime.draw NodeTreeInterfaceSocketFloatTimeAbsolute.draw NodeTreeInterfaceSocketFloatUnsigned.draw NodeTreeInterfaceSocketFloatWavelength.draw NodeTreeInterfaceSocketGeometry.draw NodeTreeInterfaceSocketImage.draw NodeTreeInterfaceSocketInt.draw NodeTreeInterfaceSocketIntFactor.draw NodeTreeInterfaceSocketIntPercentage.draw NodeTreeInterfaceSocketIntUnsigned.draw NodeTreeInterfaceSocketMaterial.draw NodeTreeInterfaceSocketMatrix.draw NodeTreeInterfaceSocketMenu.draw NodeTreeInterfaceSocketObject.draw NodeTreeInterfaceSocketRotation.draw NodeTreeInterfaceSocketShader.draw NodeTreeInterfaceSocketString.draw NodeTreeInterfaceSocketStringFilePath.draw NodeTreeInterfaceSocketTexture.draw NodeTreeInterfaceSocketVector.draw NodeTreeInterfaceSocketVector2D.draw | NodeTreeInterfaceSocketVector4D.draw NodeTreeInterfaceSocketVectorAcceleration.draw NodeTreeInterfaceSocketVectorAcceleration2D.draw NodeTreeInterfaceSocketVectorAcceleration4D.draw NodeTreeInterfaceSocketVectorDirection.draw NodeTreeInterfaceSocketVectorDirection2D.draw NodeTreeInterfaceSocketVectorDirection4D.draw NodeTreeInterfaceSocketVectorEuler.draw NodeTreeInterfaceSocketVectorEuler2D.draw NodeTreeInterfaceSocketVectorEuler4D.draw NodeTreeInterfaceSocketVectorFactor.draw NodeTreeInterfaceSocketVectorFactor2D.draw NodeTreeInterfaceSocketVectorFactor4D.draw NodeTreeInterfaceSocketVectorPercentage.draw NodeTreeInterfaceSocketVectorPercentage2D.draw NodeTreeInterfaceSocketVectorPercentage4D.draw NodeTreeInterfaceSocketVectorTranslation.draw NodeTreeInterfaceSocketVectorTranslation2D.draw NodeTreeInterfaceSocketVectorTranslation4D.draw NodeTreeInterfaceSocketVectorVelocity.draw NodeTreeInterfaceSocketVectorVelocity2D.draw NodeTreeInterfaceSocketVectorVelocity4D.draw NodeTreeInterfaceSocketVectorXYZ.draw NodeTreeInterfaceSocketVectorXYZ2D.draw NodeTreeInterfaceSocketVectorXYZ4D.draw Operator.layout Panel.layout UILayout.box UILayout.column UILayout.column_flow UILayout.grid_flow UILayout.menu_pie UILayout.panel UILayout.panel UILayout.panel_prop UILayout.panel_prop UILayout.row UILayout.split UILayout.template_light_linking_collection UIList.draw_filter UIList.draw_item UIPieMenu.layout UIPopover.layout UIPopupMenu.layout |
+
+[Related references](INDEX.md).

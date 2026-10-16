@@ -1,0 +1,7 @@
+# Copy Transforms Constraint
+
+## Copy Transforms Constraint
+
+The Copy Transforms constraint forces an object or bone to match a target's location, rotation, and scale together. Options: Target (the object or bone whose transforms to copy); Remove Target Shear (strip shear from the target's transform before mixing, leaving pure translation, rotation, and scale — so a rotated child of a non-uniformly scaled parent, which would otherwise shear, and anything copying it, can be fixed); Mix, combining the target's current transform with the owner's original — Replace (the target's transform replaces the owner's), Before Original (Full) (applied before the owner's, as if the owner were a child of the target with no constraint, shearing with a non-uniformly scaled "parent" and rotated "child" like Inherit Scale Full), Before Original (Aligned) (prevents shear by scaling the "child" along its own axes, like Inherit Scale Aligned), Before Original (Split Channels) (each channel computed separately — equivalent to a Copy Location, Copy Rotation, and Copy Scale all using Offset/Before Original, though slightly different with sheared inputs, and differing from Aligned in that the child's location is affected only by the parent's location), and After Original (Full/Aligned/Split Channels) (like Before Original but as if the target were a child of the owner); Target/Owner (the spaces for reading and applying transforms); and Influence.
+
+[Related references](INDEX.md).

@@ -1,0 +1,57 @@
+# Blend data
+
+- Open when you need bpy.types.BlendData: actions: [bpy.types.BlendData: actions](blend-data-actions.md).
+- Open when you need bpy.types.BlendData: annotations: [bpy.types.BlendData: annotations](blend-data-annotations.md).
+- Open when you need bpy.types.BlendData: armatures: [bpy.types.BlendData: armatures](blend-data-armatures.md).
+- Open when you need bpy.types.BlendData: batch_remove: [bpy.types.BlendData: batch_remove](blend-data-batch-remove.md).
+- Open when you need bpy.types.BlendData: brushes: [bpy.types.BlendData: brushes](blend-data-brushes.md).
+- Open when you need bpy.types.BlendData: cache_files: [bpy.types.BlendData: cache_files](blend-data-cache-files.md).
+- Open when you need bpy.types.BlendData: cameras: [bpy.types.BlendData: cameras](blend-data-cameras.md).
+- Open when you need bpy.types.BlendData: collections: [bpy.types.BlendData: collections](blend-data-collections.md).
+- Open when you need bpy.types.BlendData: colorspace: [bpy.types.BlendData: colorspace](blend-data-colorspace.md).
+- Open when you need bpy.types.BlendData: curves: [bpy.types.BlendData: curves](blend-data-curves.md).
+- Open when you need bpy.types.BlendData: file_path_foreach, file_path_map: [bpy.types.BlendData: file_path_foreach, file_path_map](blend-data-file.md).
+- Open when you need bpy.types.BlendData: filepath: [bpy.types.BlendData: filepath](blend-data-filepath.md).
+- Open when you need bpy.types.BlendData: fonts: [bpy.types.BlendData: fonts](blend-data-fonts.md).
+- Open when you need bpy.types.BlendData: grease_pencils: [bpy.types.BlendData: grease_pencils](blend-data-grease-pencils.md).
+- Open when you need bpy.types.BlendData: hair_curves: [bpy.types.BlendData: hair_curves](blend-data-hair-curves.md).
+- Open when you need bpy.types.BlendData: images: [bpy.types.BlendData: images](blend-data-images.md).
+- Open when you need bpy.types.BlendData: inheritance: [bpy.types.BlendData: inheritance](blend-data-inheritance.md).
+- Open when you need bpy.types.BlendData: is_dirty: [bpy.types.BlendData: is_dirty](blend-data-is-dirty.md).
+- Open when you need bpy.types.BlendData: is_saved: [bpy.types.BlendData: is_saved](blend-data-is-saved.md).
+- Open when you need bpy.types.BlendData: lattices: [bpy.types.BlendData: lattices](blend-data-lattices.md).
+- Open when you need bpy.types.BlendData: libraries: [bpy.types.BlendData: libraries](blend-data-libraries.md).
+- Open when you need bpy.types.BlendData: lightprobes: [bpy.types.BlendData: lightprobes](blend-data-lightprobes.md).
+- Open when you need bpy.types.BlendData: lights: [bpy.types.BlendData: lights](blend-data-lights.md).
+- Open when you need bpy.types.BlendData: linestyles: [bpy.types.BlendData: linestyles](blend-data-linestyles.md).
+- Open when you need bpy.types.BlendData: masks: [bpy.types.BlendData: masks](blend-data-masks.md).
+- Open when you need bpy.types.BlendData: materials: [bpy.types.BlendData: materials](blend-data-materials.md).
+- Open when you need bpy.types.BlendData: meshes: [bpy.types.BlendData: meshes](blend-data-meshes.md).
+- Open when you need bpy.types.BlendData: metaballs: [bpy.types.BlendData: metaballs](blend-data-metaballs.md).
+- Open when you need bpy.types.BlendData: movieclips: [bpy.types.BlendData: movieclips](blend-data-movieclips.md).
+- Open when you need bpy.types.BlendData: node_groups: [bpy.types.BlendData: node_groups](blend-data-node-groups.md).
+- Open when you need bpy.types.BlendData: objects: [bpy.types.BlendData: objects](blend-data-objects.md).
+- Open when you need bpy.types.BlendData: orphans_purge: [bpy.types.BlendData: orphans_purge](blend-data-orphans-purge.md).
+- Open when you need bpy.types.BlendData: pack_linked_ids_hierarchy: [bpy.types.BlendData: pack_linked_ids_hierarchy](blend-data-pack-linked-ids-hierarchy.md).
+- Open when you need bpy.types.BlendData: paint_curves: [bpy.types.BlendData: paint_curves](blend-data-paint-curves.md).
+- Open when you need bpy.types.BlendData: palettes: [bpy.types.BlendData: palettes](blend-data-palettes.md).
+- Open when you need bpy.types.BlendData: particles: [bpy.types.BlendData: particles](blend-data-particles.md).
+- Open when you need bpy.types.BlendData: pointclouds: [bpy.types.BlendData: pointclouds](blend-data-pointclouds.md).
+- Open when you need bpy.types.BlendData: bl_rna_get_subclass, bl_rna_get_subclass_py: [bpy.types.BlendData: bl_rna_get_subclass, bl_rna_get_subclass_py](blend-data-rna-subclasses.md).
+- Open when you need bpy.types.BlendData: scenes: [bpy.types.BlendData: scenes](blend-data-scenes.md).
+- Open when you need bpy.types.BlendData: screens: [bpy.types.BlendData: screens](blend-data-screens.md).
+- Open when you need bpy.types.BlendData: shape_keys: [bpy.types.BlendData: shape_keys](blend-data-shape-keys.md).
+- Open when you need bpy.types.BlendData: sounds: [bpy.types.BlendData: sounds](blend-data-sounds.md).
+- Open when you need bpy.types.BlendData: speakers: [bpy.types.BlendData: speakers](blend-data-speakers.md).
+- Open when you need bpy.types.BlendData: static temp_data: [bpy.types.BlendData: static temp_data](blend-data-static-temp-data.md).
+- Open when you need bpy.types.BlendData: texts: [bpy.types.BlendData: texts](blend-data-texts.md).
+- Open when you need bpy.types.BlendData: textures: [bpy.types.BlendData: textures](blend-data-textures.md).
+- Open when you need bpy.types.BlendData: use_autopack: [bpy.types.BlendData: use_autopack](blend-data-use-autopack.md).
+- Open when you need bpy.types.BlendData: user_map: [bpy.types.BlendData: user_map](blend-data-user-map.md).
+- Open when you need bpy.types.BlendData: version: [bpy.types.BlendData: version](blend-data-version.md).
+- Open when you need bpy.types.BlendData: volumes: [bpy.types.BlendData: volumes](blend-data-volumes.md).
+- Open when you need bpy.types.BlendData: window_managers: [bpy.types.BlendData: window_managers](blend-data-window-managers.md).
+- Open when you need bpy.types.BlendData: workspaces: [bpy.types.BlendData: workspaces](blend-data-workspaces.md).
+- Open when you need bpy.types.BlendData: worlds: [bpy.types.BlendData: worlds](blend-data-worlds.md).
+
+[Parent topics](../libraries-files-data-block-collections/INDEX.md).

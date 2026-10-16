@@ -1,0 +1,50 @@
+# Grease pencil
+
+- Open when you need bpy.types.AnnotationFrame: [bpy.types.AnnotationFrame](annotation-frame.md).
+- Open when you need bpy.types.AnnotationFrames: [bpy.types.AnnotationFrames](annotation-frames.md).
+- Open when you need Annotation layer: [Annotation layer](../grease-pencil-annotation-layer/INDEX.md).
+- Open when you need bpy.types.AnnotationLayers: [bpy.types.AnnotationLayers](annotation-layers.md).
+- Open when you need bpy.types.AnnotationStrokePoint: [bpy.types.AnnotationStrokePoint](annotation-stroke-point.md).
+- Open when you need bpy.types.AnnotationStroke: [bpy.types.AnnotationStroke](annotation-stroke.md).
+- Open when you need bpy.types.Annotation: [bpy.types.Annotation](annotation.md).
+- Open when you need bpy.types.GPencilInterpolateSettings: [bpy.types.GPencilInterpolateSettings](g-pencil-interpolate-settings.md).
+- Open when you need G pencil sculpt guide: [G pencil sculpt guide](../grease-pencil-g-pencil-sculpt-guide/INDEX.md).
+- Open when you need G pencil sculpt settings: [G pencil sculpt settings](../grease-pencil-g-pencil-sculpt-settings/INDEX.md).
+- Open when you need bpy.types.GpPaint: [bpy.types.GpPaint](gp-paint.md).
+- Open when you need bpy.types.GpSculptPaint: [bpy.types.GpSculptPaint](gp-sculpt-paint.md).
+- Open when you need bpy.types.GpVertexPaint: [bpy.types.GpVertexPaint](gp-vertex-paint.md).
+- Open when you need bpy.types.GpWeightPaint: [bpy.types.GpWeightPaint](gp-weight-paint.md).
+- Open when you need bpy.types.GreasePencil: after_color: [bpy.types.GreasePencil: after_color](grease-pencil-after-color.md).
+- Open when you need bpy.types.GreasePencil: animation_data: [bpy.types.GreasePencil: animation_data](grease-pencil-animation-data.md).
+- Open when you need bpy.types.GreasePencil: attributes: [bpy.types.GreasePencil: attributes](grease-pencil-attributes.md).
+- Open when you need bpy.types.GreasePencil: before_color: [bpy.types.GreasePencil: before_color](grease-pencil-before-color.md).
+- Open when you need bpy.types.GreasePencil: color_attributes: [bpy.types.GreasePencil: color_attributes](grease-pencil-color-attributes.md).
+- Open when you need Grease pencil dash modifier data: [Grease pencil dash modifier data](../grease-pencil-grease-pencil-dash-modifier-data/INDEX.md).
+- Open when you need Grease pencil dash modifier segment: [Grease pencil dash modifier segment](../grease-pencil-grease-pencil-dash-modifier-segment/INDEX.md).
+- Open when you need Grease pencil drawing: [Grease pencil drawing](../grease-pencil-grease-pencil-drawing/INDEX.md).
+- Open when you need bpy.types.GreasePencilFrame — class-contract, Inherited Properties, Inherited Functions, References, GreasePencilFrame(bpy_struct): [bpy.types.GreasePencilFrame — class-contract, Inherited Properties, Inherited Functions, References, GreasePencilFrame(bpy_struct)](grease-pencil-frame-class-contract.md).
+- Open when you need bpy.types.GreasePencilFrame — GreasePencilFrame(bpy_struct): [bpy.types.GreasePencilFrame — GreasePencilFrame(bpy_struct)](grease-pencil-frame-grease-pencil-frame-bpy-struct.md).
+- Open when you need Grease pencil frames: [Grease pencil frames](../grease-pencil-grease-pencil-frames/INDEX.md).
+- Open when you need bpy.types.GreasePencil: ghost_after_range, ghost_before_range: [bpy.types.GreasePencil: ghost_after_range, ghost_before_range](grease-pencil-ghost.md).
+- Open when you need Grease pencil layer: [Grease pencil layer](../grease-pencil-grease-pencil-layer/INDEX.md).
+- Open when you need bpy.types.GreasePencilLayerGroup: [bpy.types.GreasePencilLayerGroup](grease-pencil-layer-group.md).
+- Open when you need bpy.types.GreasePencil: layer_groups: [bpy.types.GreasePencil: layer_groups](grease-pencil-layer-groups.md).
+- Open when you need bpy.types.GreasePencilLayerMask: [bpy.types.GreasePencilLayerMask](grease-pencil-layer-mask.md).
+- Open when you need bpy.types.GreasePencilLayerMasks: [bpy.types.GreasePencilLayerMasks](grease-pencil-layer-masks.md).
+- Open when you need bpy.types.GreasePencil: layers: [bpy.types.GreasePencil: layers](grease-pencil-layers.md).
+- Open when you need bpy.types.GreasePencil: materials: [bpy.types.GreasePencil: materials](grease-pencil-materials.md).
+- Open when you need bpy.types.GreasePencil: methods: [bpy.types.GreasePencil: methods](grease-pencil-methods.md).
+- Open when you need bpy.types.GreasePencil: onion_factor, onion_keyframe_type, onion_mode: [bpy.types.GreasePencil: onion_factor, onion_keyframe_type, onion_mode](grease-pencil-onion.md).
+- Open when you need bpy.types.GreasePencil: root_nodes: [bpy.types.GreasePencil: root_nodes](grease-pencil-root-nodes.md).
+- Open when you need bpy.types.GreasePencil: stroke_depth_order: [bpy.types.GreasePencil: stroke_depth_order](grease-pencil-stroke-depth-order.md).
+- Open when you need Grease pencil thick modifier data: [Grease pencil thick modifier data](../grease-pencil-grease-pencil-thick-modifier-data/INDEX.md).
+- Open when you need bpy.types.GreasePencilTimeModifierSegment — class-contract, Inherited Properties, Inherited Functions, References, GreasePencilTimeModifierSegment(bpy_struct): [bpy.types.GreasePencilTimeModifierSegment — class-contract, Inherited Properties, Inherited Functions, References, GreasePencilTimeModifierSegment(bpy_struct)](grease-pencil-time-modifier-segment-class-contract.md).
+- Open when you need bpy.types.GreasePencilTimeModifierSegment — GreasePencilTimeModifierSegment(bpy_struct): [bpy.types.GreasePencilTimeModifierSegment — GreasePencilTimeModifierSegment(bpy_struct)](grease-pencil-time-modifier-segment.md).
+- Open when you need Grease pencil tree node: [Grease pencil tree node](../grease-pencil-grease-pencil-tree-node/INDEX.md).
+- Open when you need bpy.types.GreasePencil: use_autolock_layers: [bpy.types.GreasePencil: use_autolock_layers](grease-pencil-use-autolock-layers.md).
+- Open when you need bpy.types.GreasePencil: use_ghost_custom_colors: [bpy.types.GreasePencil: use_ghost_custom_colors](grease-pencil-use-ghost-custom-colors.md).
+- Open when you need bpy.types.GreasePencil: use_onion_fade, use_onion_loop: [bpy.types.GreasePencil: use_onion_fade, use_onion_loop](grease-pencil-use-onion.md).
+- Open when you need Grease pencilv3 layer group: [Grease pencilv3 layer group](../grease-pencil-grease-pencilv3-layer-group/INDEX.md).
+- Open when you need Grease pencilv3 layers: [Grease pencilv3 layers](../grease-pencil-grease-pencilv3-layers/INDEX.md).
+
+[Parent topics](../INDEX.md).

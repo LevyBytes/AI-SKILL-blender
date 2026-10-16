@@ -1,0 +1,20 @@
+# Icon Items — snap icons
+
+| Value | Meaning |
+| --- | --- |
+| `SNAP_OFF` | `SNAP_OFF`. |
+| `SNAP_ON` | `SNAP_ON`. |
+| `SNAP_EDGE` | `SNAP_EDGE`. |
+| `SNAP_FACE_CENTER` | `SNAP_FACE_CENTER`. |
+| `SNAP_FACE_NEAREST` | `SNAP_FACE_NEAREST`. |
+| `SNAP_FACE` | `SNAP_FACE`. |
+| `SNAP_GRID` | `SNAP_GRID`. |
+| `SNAP_INCREMENT` | `SNAP_INCREMENT`. |
+| `SNAP_MIDPOINT` | `SNAP_MIDPOINT`. |
+| `SNAP_NORMAL` | `SNAP_NORMAL`. |
+| `SNAP_PEEL_OBJECT` | `SNAP_PEEL_OBJECT`. |
+| `SNAP_PERPENDICULAR` | `SNAP_PERPENDICULAR`. |
+| `SNAP_VERTEX` | `SNAP_VERTEX`. |
+| `SNAP_VOLUME` | `SNAP_VOLUME`. |
+
+[Related references](INDEX.md).

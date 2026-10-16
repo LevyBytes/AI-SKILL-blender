@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Blender version and context", "file": "references/blender-version-and-context.md", "summary": "Open when you need Blender version and context.", "keywords": []},
+  {"topic": "Blender Manual", "file": "references/manual/INDEX.md", "summary": "Open when you need Blender Manual.", "keywords": []},
+  {"topic": "Blender Python API", "file": "references/python-api/INDEX.md", "summary": "Open when you need Blender Python API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": []}
+]}

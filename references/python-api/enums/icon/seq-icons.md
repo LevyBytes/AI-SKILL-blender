@@ -1,0 +1,15 @@
+# Icon Items — seq icons
+
+| Value | Meaning |
+| --- | --- |
+| `SEQ_CHROMA_SCOPE` | `SEQ_CHROMA_SCOPE`. |
+| `SEQ_HISTOGRAM` | `SEQ_HISTOGRAM`. |
+| `SEQ_LUMA_WAVEFORM` | `SEQ_LUMA_WAVEFORM`. |
+| `SEQ_PREVIEW` | `SEQ_PREVIEW`. |
+| `SEQ_SEQUENCER` | `SEQ_SEQUENCER`. |
+| `SEQ_SPLITVIEW` | `SEQ_SPLITVIEW`. |
+| `SEQ_STRIP_DUPLICATE` | `SEQ_STRIP_DUPLICATE`. |
+| `SEQ_STRIP_META` | `SEQ_STRIP_META`. |
+| `SEQ_STRIP_MODIFIER` | `SEQ_STRIP_MODIFIER`. |
+
+[Related references](INDEX.md).

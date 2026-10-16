@@ -1,0 +1,45 @@
+# Grease pencil lineart
+
+- Open when you need bpy.types.GreasePencilLineartModifier: chaining_image_threshold: [bpy.types.GreasePencilLineartModifier: chaining_image_threshold](grease-pencil-lineart-modifier-chaining-image-threshold.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: crease_threshold: [bpy.types.GreasePencilLineartModifier: crease_threshold](grease-pencil-lineart-modifier-crease-threshold.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: invert_source_vertex_group: [bpy.types.GreasePencilLineartModifier: invert_source_vertex_group](grease-pencil-lineart-modifier-invert-source-vertex-group.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: is_baked: [bpy.types.GreasePencilLineartModifier: is_baked](grease-pencil-lineart-modifier-is-baked.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: level_end, level_start: [bpy.types.GreasePencilLineartModifier: level_end, level_start](grease-pencil-lineart-modifier-level.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: light_contour_object: [bpy.types.GreasePencilLineartModifier: light_contour_object](grease-pencil-lineart-modifier-light-contour-object.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: methods: [bpy.types.GreasePencilLineartModifier: methods](grease-pencil-lineart-modifier-methods.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: opacity: [bpy.types.GreasePencilLineartModifier: opacity](grease-pencil-lineart-modifier-opacity.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: overscan: [bpy.types.GreasePencilLineartModifier: overscan](grease-pencil-lineart-modifier-overscan.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: radius: [bpy.types.GreasePencilLineartModifier: radius](grease-pencil-lineart-modifier-radius.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: shadow_camera_far, shadow_camera_near, shadow_camera_size, shadow_region_filtering: [bpy.types.GreasePencilLineartModifier: shadow_camera_far, shadow_camera_near, shadow_camera_size, shadow_region_filtering](grease-pencil-lineart-modifier-shadow.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: silhouette_filtering: [bpy.types.GreasePencilLineartModifier: silhouette_filtering](grease-pencil-lineart-modifier-silhouette-filtering.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: smooth_tolerance: [bpy.types.GreasePencilLineartModifier: smooth_tolerance](grease-pencil-lineart-modifier-smooth-tolerance.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: source_camera, source_collection, source_object, source_type, source_vertex_group: [bpy.types.GreasePencilLineartModifier: source_camera, source_collection, source_object, source_type, source_vertex_group](grease-pencil-lineart-modifier-source.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: split_angle: [bpy.types.GreasePencilLineartModifier: split_angle](grease-pencil-lineart-modifier-split-angle.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: stroke_depth_offset: [bpy.types.GreasePencilLineartModifier: stroke_depth_offset](grease-pencil-lineart-modifier-stroke-depth-offset.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: target_layer, target_material: [bpy.types.GreasePencilLineartModifier: target_layer, target_material](grease-pencil-lineart-modifier-target.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_back_face_culling: [bpy.types.GreasePencilLineartModifier: use_back_face_culling](grease-pencil-lineart-modifier-use-back-face-culling.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_cache: [bpy.types.GreasePencilLineartModifier: use_cache](grease-pencil-lineart-modifier-use-cache.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_clip_plane_boundaries: [bpy.types.GreasePencilLineartModifier: use_clip_plane_boundaries](grease-pencil-lineart-modifier-use-clip-plane-boundaries.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_contour: [bpy.types.GreasePencilLineartModifier: use_contour](grease-pencil-lineart-modifier-use-contour.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_crease, use_crease_on_sharp, use_crease_on_smooth: [bpy.types.GreasePencilLineartModifier: use_crease, use_crease_on_sharp, use_crease_on_smooth](grease-pencil-lineart-modifier-use-crease.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_custom_camera: [bpy.types.GreasePencilLineartModifier: use_custom_camera](grease-pencil-lineart-modifier-use-custom-camera.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_detail_preserve: [bpy.types.GreasePencilLineartModifier: use_detail_preserve](grease-pencil-lineart-modifier-use-detail-preserve.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_edge_mark, use_edge_overlap: [bpy.types.GreasePencilLineartModifier: use_edge_mark, use_edge_overlap](grease-pencil-lineart-modifier-use-edge.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_face_mark, use_face_mark_boundaries, use_face_mark_invert, use_face_mark_keep_contour: [bpy.types.GreasePencilLineartModifier: use_face_mark, use_face_mark_boundaries, use_face_mark_invert, use_face_mark_keep_contour](grease-pencil-lineart-modifier-use-face.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_fuzzy_all, use_fuzzy_intersections: [bpy.types.GreasePencilLineartModifier: use_fuzzy_all, use_fuzzy_intersections](grease-pencil-lineart-modifier-use-fuzzy.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_geometry_space_chain: [bpy.types.GreasePencilLineartModifier: use_geometry_space_chain](grease-pencil-lineart-modifier-use-geometry-space-chain.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_image_boundary_trimming: [bpy.types.GreasePencilLineartModifier: use_image_boundary_trimming](grease-pencil-lineart-modifier-use-image-boundary-trimming.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_intersection, use_intersection_mask, use_intersection_match: [bpy.types.GreasePencilLineartModifier: use_intersection, use_intersection_mask, use_intersection_match](grease-pencil-lineart-modifier-use-intersection.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_invert_collection, use_invert_silhouette: [bpy.types.GreasePencilLineartModifier: use_invert_collection, use_invert_silhouette](grease-pencil-lineart-modifier-use-invert.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_light_contour: [bpy.types.GreasePencilLineartModifier: use_light_contour](grease-pencil-lineart-modifier-use-light-contour.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_loose, use_loose_as_contour, use_loose_edge_chain: [bpy.types.GreasePencilLineartModifier: use_loose, use_loose_as_contour, use_loose_edge_chain](grease-pencil-lineart-modifier-use-loose.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_material, use_material_mask, use_material_mask_bits, use_material_mask_match: [bpy.types.GreasePencilLineartModifier: use_material, use_material_mask, use_material_mask_bits, use_material_mask_match](grease-pencil-lineart-modifier-use-material.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_multiple_levels: [bpy.types.GreasePencilLineartModifier: use_multiple_levels](grease-pencil-lineart-modifier-use-multiple-levels.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_object_instances: [bpy.types.GreasePencilLineartModifier: use_object_instances](grease-pencil-lineart-modifier-use-object-instances.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_offset_towards_custom_camera: [bpy.types.GreasePencilLineartModifier: use_offset_towards_custom_camera](lineart-modifier-custom-camera-offset.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_output_vertex_group_match_by_name: [bpy.types.GreasePencilLineartModifier: use_output_vertex_group_match_by_name](lineart-modifier-output-vertex-group-name-match.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_overlap_edge_type_support: [bpy.types.GreasePencilLineartModifier: use_overlap_edge_type_support](grease-pencil-lineart-modifier-use-overlap-edge-type-support.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: use_shadow: [bpy.types.GreasePencilLineartModifier: use_shadow](grease-pencil-lineart-modifier-use-shadow.md).
+- Open when you need bpy.types.GreasePencilLineartModifier: vertex_group: [bpy.types.GreasePencilLineartModifier: vertex_group](grease-pencil-lineart-modifier-vertex-group.md).
+
+[Parent topics](../modifiers/INDEX.md).

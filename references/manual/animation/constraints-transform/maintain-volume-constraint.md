@@ -1,0 +1,7 @@
+# Maintain Volume Constraint
+
+## Maintain Volume Constraint
+
+The Maintain Volume constraint keeps an object or bone at its original volume by automatically scaling down two axes when another is scaled up (and vice versa) — useful for squash and stretch on stylized characters. Options: Mode, how the non-free axes are scaled — Strict (adjust the non-free axes so volume is always exactly kept; scaling the free axis up scales both non-free axes down, and scaling one non-free axis up scales the other down), Uniform (keeps volume correctly only while the object is scaled equally on all three axes; scaling the free axis alone also scales the non-free axes down but in an exaggerated, volume-losing way, so it's not recommended, and scaling a non-free axis has no effect on the other, allowing deviation from the target volume), or Single Axis (like Uniform but correct only while scaling purely along the free axis; since only one axis is adjusted to keep volume rather than three, this can cut the number of animation curves, and changing a non-free axis again has no effect on the other); Free Axis (the axis that keeps its user-set scale, the other two adjusting to maintain volume); Volume (the target volume as a ratio of the original — if all three axes default to scale 2 and that should be kept, set Volume to 2×2×2 = 8); Owner (the space for determining and adjusting scale); and Influence.
+
+[Related references](INDEX.md).

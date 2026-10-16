@@ -1,0 +1,11 @@
+# bpy.types.Theme: theme_area
+
+theme_area
+
+(default '`USER_INTERFACE`' )
+
+Type :
+
+Literal[‘`USER_INTERFACE`’, ‘STYLE’, ‘REGIONS’, ‘COMMON’, ‘`VIEW_3D`’, ‘`DOPESHEET_EDITOR`’, ‘`FILE_BROWSER`’, ‘`GRAPH_EDITOR`’, ‘`IMAGE_EDITOR`’, ‘INFO’, ‘`CLIP_EDITOR`’, ‘`NODE_EDITOR`’, ‘`NLA_EDITOR`’, ‘OUTLINER’, ‘PREFERENCES’, ‘PROPERTIES’, ‘CONSOLE’, ‘SPREADSHEET’, ‘STATUSBAR’, ‘`TEXT_EDITOR`’, ‘TOPBAR’, ‘`SEQUENCE_EDITOR`’, ‘`BONE_COLOR_SETS`’]
+
+[Related references](INDEX.md).

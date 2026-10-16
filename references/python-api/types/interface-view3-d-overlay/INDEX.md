@@ -1,0 +1,59 @@
+# View3 d overlay
+
+- Open when you need bpy.types.View3DOverlay: bone_wire_alpha: [bpy.types.View3DOverlay: bone_wire_alpha](view3-d-overlay-bone-wire-alpha.md).
+- Open when you need bpy.types.View3DOverlay: display_handle: [bpy.types.View3DOverlay: display_handle](view3-d-overlay-display-handle.md).
+- Open when you need bpy.types.View3DOverlay: fade_inactive_alpha: [bpy.types.View3DOverlay: fade_inactive_alpha](view3-d-overlay-fade-inactive-alpha.md).
+- Open when you need bpy.types.View3DOverlay: gpencil_fade_layer, gpencil_fade_objects, gpencil_grid_color, gpencil_grid_offset, gpencil_grid_opacity, gpencil_grid_scale, gpencil_grid_subdivisions, gpencil_vertex_paint_opacity: [bpy.types.View3DOverlay: gpencil_fade_layer, gpencil_fade_objects, gpencil_grid_color, gpencil_grid_offset, gpencil_grid_opacity, gpencil_grid_scale, gpencil_grid_subdivisions, gpencil_vertex_paint_opacity](view3-d-overlay-gpencil.md).
+- Open when you need bpy.types.View3DOverlay: grid_lines, grid_scale, grid_scale_unit, grid_subdivisions: [bpy.types.View3DOverlay: grid_lines, grid_scale, grid_scale_unit, grid_subdivisions](view3-d-overlay-grid.md).
+- Open when you need bpy.types.View3DOverlay: methods: [bpy.types.View3DOverlay: methods](view3-d-overlay-methods.md).
+- Open when you need bpy.types.View3DOverlay: normals_constant_screen_size, normals_length: [bpy.types.View3DOverlay: normals_constant_screen_size, normals_length](view3-d-overlay-normals.md).
+- Open when you need bpy.types.View3DOverlay: retopology_offset: [bpy.types.View3DOverlay: retopology_offset](view3-d-overlay-retopology-offset.md).
+- Open when you need bpy.types.View3DOverlay: sculpt_curves_cage_opacity, sculpt_mode_face_sets_opacity, sculpt_mode_mask_opacity: [bpy.types.View3DOverlay: sculpt_curves_cage_opacity, sculpt_mode_face_sets_opacity, sculpt_mode_mask_opacity](view3-d-overlay-sculpt.md).
+- Open when you need bpy.types.View3DOverlay: show_annotation: [bpy.types.View3DOverlay: show_annotation](view3-d-overlay-show-annotation.md).
+- Open when you need bpy.types.View3DOverlay: show_axis_x, show_axis_y, show_axis_z: [bpy.types.View3DOverlay: show_axis_x, show_axis_y, show_axis_z](view3-d-overlay-show-axis.md).
+- Open when you need bpy.types.View3DOverlay: show_bones: [bpy.types.View3DOverlay: show_bones](view3-d-overlay-show-bones.md).
+- Open when you need bpy.types.View3DOverlay: show_camera_guides, show_camera_passepartout: [bpy.types.View3DOverlay: show_camera_guides, show_camera_passepartout](view3-d-overlay-show-camera.md).
+- Open when you need bpy.types.View3DOverlay: show_cursor: [bpy.types.View3DOverlay: show_cursor](view3-d-overlay-show-cursor.md).
+- Open when you need bpy.types.View3DOverlay: show_curve_normals: [bpy.types.View3DOverlay: show_curve_normals](view3-d-overlay-show-curve-normals.md).
+- Open when you need bpy.types.View3DOverlay: show_edge_bevel_weight, show_edge_crease, show_edge_seams, show_edge_sharp: [bpy.types.View3DOverlay: show_edge_bevel_weight, show_edge_crease, show_edge_seams, show_edge_sharp](view3-d-overlay-show-edge.md).
+- Open when you need bpy.types.View3DOverlay: show_extra_edge_angle, show_extra_edge_length, show_extra_face_angle, show_extra_face_area, show_extra_indices: [bpy.types.View3DOverlay: show_extra_edge_angle, show_extra_edge_length, show_extra_face_angle, show_extra_face_area, show_extra_indices](view3-d-overlay-show-extra.md).
+- Open when you need bpy.types.View3DOverlay: show_extras: [bpy.types.View3DOverlay: show_extras](view3-d-overlay-show-extras.md).
+- Open when you need bpy.types.View3DOverlay: show_face_center, show_face_normals, show_face_orientation: [bpy.types.View3DOverlay: show_face_center, show_face_normals, show_face_orientation](view3-d-overlay-show-face.md).
+- Open when you need bpy.types.View3DOverlay: show_faces: [bpy.types.View3DOverlay: show_faces](view3-d-overlay-show-faces.md).
+- Open when you need bpy.types.View3DOverlay: show_fade_inactive: [bpy.types.View3DOverlay: show_fade_inactive](view3-d-overlay-show-fade-inactive.md).
+- Open when you need bpy.types.View3DOverlay: show_floor: [bpy.types.View3DOverlay: show_floor](view3-d-overlay-show-floor.md).
+- Open when you need bpy.types.View3DOverlay: show_freestyle_edge_marks, show_freestyle_face_marks: [bpy.types.View3DOverlay: show_freestyle_edge_marks, show_freestyle_face_marks](view3-d-overlay-show-freestyle.md).
+- Open when you need bpy.types.View3DOverlay: show_light_colors: [bpy.types.View3DOverlay: show_light_colors](view3-d-overlay-show-light-colors.md).
+- Open when you need bpy.types.View3DOverlay: show_look_dev: [bpy.types.View3DOverlay: show_look_dev](view3-d-overlay-show-look-dev.md).
+- Open when you need bpy.types.View3DOverlay: show_motion_paths: [bpy.types.View3DOverlay: show_motion_paths](view3-d-overlay-show-motion-paths.md).
+- Open when you need bpy.types.View3DOverlay: show_object_origins, show_object_origins_all: [bpy.types.View3DOverlay: show_object_origins, show_object_origins_all](view3-d-overlay-show-object.md).
+- Open when you need bpy.types.View3DOverlay: show_onion_skins: [bpy.types.View3DOverlay: show_onion_skins](view3-d-overlay-show-onion-skins.md).
+- Open when you need bpy.types.View3DOverlay: show_ortho_grid: [bpy.types.View3DOverlay: show_ortho_grid](view3-d-overlay-show-ortho-grid.md).
+- Open when you need bpy.types.View3DOverlay: show_outline_selected: [bpy.types.View3DOverlay: show_outline_selected](view3-d-overlay-show-outline-selected.md).
+- Open when you need bpy.types.View3DOverlay: show_overlays: [bpy.types.View3DOverlay: show_overlays](view3-d-overlay-show-overlays.md).
+- Open when you need bpy.types.View3DOverlay: show_paint_wire: [bpy.types.View3DOverlay: show_paint_wire](view3-d-overlay-show-paint-wire.md).
+- Open when you need bpy.types.View3DOverlay: show_performance: [bpy.types.View3DOverlay: show_performance](view3-d-overlay-show-performance.md).
+- Open when you need bpy.types.View3DOverlay: show_relationship_lines: [bpy.types.View3DOverlay: show_relationship_lines](view3-d-overlay-show-relationship-lines.md).
+- Open when you need bpy.types.View3DOverlay: show_retopology: [bpy.types.View3DOverlay: show_retopology](view3-d-overlay-show-retopology.md).
+- Open when you need bpy.types.View3DOverlay: show_sculpt_curves_cage, show_sculpt_face_sets, show_sculpt_mask: [bpy.types.View3DOverlay: show_sculpt_curves_cage, show_sculpt_face_sets, show_sculpt_mask](view3-d-overlay-show-sculpt.md).
+- Open when you need bpy.types.View3DOverlay: show_split_normals: [bpy.types.View3DOverlay: show_split_normals](view3-d-overlay-show-split-normals.md).
+- Open when you need bpy.types.View3DOverlay: show_stats: [bpy.types.View3DOverlay: show_stats](view3-d-overlay-show-stats.md).
+- Open when you need bpy.types.View3DOverlay: show_statvis: [bpy.types.View3DOverlay: show_statvis](view3-d-overlay-show-statvis.md).
+- Open when you need bpy.types.View3DOverlay: show_text: [bpy.types.View3DOverlay: show_text](view3-d-overlay-show-text.md).
+- Open when you need bpy.types.View3DOverlay: show_vertex_normals: [bpy.types.View3DOverlay: show_vertex_normals](view3-d-overlay-show-vertex-normals.md).
+- Open when you need bpy.types.View3DOverlay: show_viewer_attribute, show_viewer_text: [bpy.types.View3DOverlay: show_viewer_attribute, show_viewer_text](view3-d-overlay-show-viewer.md).
+- Open when you need bpy.types.View3DOverlay: show_weight: [bpy.types.View3DOverlay: show_weight](view3-d-overlay-show-weight.md).
+- Open when you need bpy.types.View3DOverlay: show_wireframes: [bpy.types.View3DOverlay: show_wireframes](view3-d-overlay-show-wireframes.md).
+- Open when you need bpy.types.View3DOverlay: show_wpaint_contours: [bpy.types.View3DOverlay: show_wpaint_contours](view3-d-overlay-show-wpaint-contours.md).
+- Open when you need bpy.types.View3DOverlay: show_xray_bone: [bpy.types.View3DOverlay: show_xray_bone](view3-d-overlay-show-xray-bone.md).
+- Open when you need bpy.types.View3DOverlay: texture_paint_mode_opacity: [bpy.types.View3DOverlay: texture_paint_mode_opacity](view3-d-overlay-texture-paint-mode-opacity.md).
+- Open when you need bpy.types.View3DOverlay: use_debug_freeze_view_culling: [bpy.types.View3DOverlay: use_debug_freeze_view_culling](view3-d-overlay-use-debug-freeze-view-culling.md).
+- Open when you need bpy.types.View3DOverlay: use_gpencil_canvas_xray, use_gpencil_edit_lines, use_gpencil_fade_gp_objects, use_gpencil_fade_layers, use_gpencil_fade_objects, use_gpencil_grid, use_gpencil_multiedit_line_only, use_gpencil_onion_skin, use_gpencil_onion_skin_active_object, use_gpencil_show_directions, use_gpencil_show_material_name: [bpy.types.View3DOverlay: use_gpencil_canvas_xray, use_gpencil_edit_lines, use_gpencil_fade_gp_objects, use_gpencil_fade_layers, use_gpencil_fade_objects, use_gpencil_grid, use_gpencil_multiedit_line_only, use_gpencil_onion_skin, use_gpencil_onion_skin_active_object, use_gpencil_show_directions, use_gpencil_show_material_name](view3-d-overlay-use-gpencil.md).
+- Open when you need bpy.types.View3DOverlay: use_normals_constant_screen_size: [bpy.types.View3DOverlay: use_normals_constant_screen_size](view3-d-overlay-use-normals-constant-screen-size.md).
+- Open when you need bpy.types.View3DOverlay: vertex_opacity, vertex_paint_mode_opacity: [bpy.types.View3DOverlay: vertex_opacity, vertex_paint_mode_opacity](view3-d-overlay-vertex.md).
+- Open when you need bpy.types.View3DOverlay: viewer_attribute_opacity: [bpy.types.View3DOverlay: viewer_attribute_opacity](view3-d-overlay-viewer-attribute-opacity.md).
+- Open when you need bpy.types.View3DOverlay: weight_paint_mode_opacity: [bpy.types.View3DOverlay: weight_paint_mode_opacity](view3-d-overlay-weight-paint-mode-opacity.md).
+- Open when you need bpy.types.View3DOverlay: wireframe_opacity, wireframe_threshold: [bpy.types.View3DOverlay: wireframe_opacity, wireframe_threshold](view3-d-overlay-wireframe.md).
+- Open when you need bpy.types.View3DOverlay: xray_alpha_bone: [bpy.types.View3DOverlay: xray_alpha_bone](view3-d-overlay-xray-alpha-bone.md).
+
+[Parent topics](../interface/INDEX.md).

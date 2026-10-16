@@ -1,0 +1,7 @@
+# Viewport Display
+
+## Viewport Display
+
+Viewport Display (All Modes; Armature ‣ Viewport Display). Display As sets how all the armature's bones appear (individual bones can override this via their Display Type): Octahedral (the default, good for most editing — it shows the root (big joint) and tip (small joint), the bone's size since thickness is proportional to length, and the roll via its square section); Stick (the simplest, least intrusive — constant thin sticks giving no info on root/tip, size, or roll); B-Bone (the curves of smooth multi-segmented bones; see Bendy Bones); Envelope (the bone's deformation influence; see the bone page); and Wire (also shows the curves of smooth multi-segmented bones). Show: Names (display each bone's name); Shapes (in Object and Pose Mode, replace the default bone shape with a chosen object's; see Shaped Bones); Bone Colors (draw bones in their configured colors — disable to always use the default; see Bone Colors); In Front (always draw the armature on top of solid objects so it stays visible and selectable, the same option as in the Object data tab's Display panel, handy outside Wireframe mode); Axis (show each bone's local axes, relevant only in Edit and Pose Mode); Position (where the axes display sits along the bone — higher moves toward the tip, lower toward the root); and Relations (whether the Relationship Lines overlay draws from each parent's tail or head, the lines always going to the children's heads).
+
+[Related references](INDEX.md).

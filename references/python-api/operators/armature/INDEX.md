@@ -1,0 +1,41 @@
+# Armature
+
+- Open when you need bpy.ops.armature.align: [bpy.ops.armature.align](armature-align.md).
+- Open when you need bpy.ops.armature.assign_to_collection: [bpy.ops.armature.assign_to_collection](armature-assign-to-collection.md).
+- Open when you need bpy.ops.armature.autoside_names: [bpy.ops.armature.autoside_names](armature-autoside-names.md).
+- Open when you need bpy.ops.armature.bone_primitive_add: [bpy.ops.armature.bone_primitive_add](armature-bone-primitive-add.md).
+- Open when you need bpy.ops.armature.calculate_roll: [bpy.ops.armature.calculate_roll](armature-calculate-roll.md).
+- Open when you need bpy.ops.armature.click_extrude: [bpy.ops.armature.click_extrude](armature-click-extrude.md).
+- Open when you need bpy.ops.armature.copy_bone_color_to_selected: [bpy.ops.armature.copy_bone_color_to_selected](armature-copy-bone-color-to-selected.md).
+- Open when you need bpy.ops.armature.delete: [bpy.ops.armature.delete](armature-delete.md).
+- Open when you need bpy.ops.armature.dissolve: [bpy.ops.armature.dissolve](armature-dissolve.md).
+- Open when you need bpy.ops.armature.duplicate_move: [bpy.ops.armature.duplicate_move](armature-duplicate-move.md).
+- Open when you need bpy.ops.armature.duplicate: [bpy.ops.armature.duplicate](armature-duplicate.md).
+- Open when you need bpy.ops.armature.extrude_forked: [bpy.ops.armature.extrude_forked](armature-extrude-forked.md).
+- Open when you need bpy.ops.armature.extrude_move: [bpy.ops.armature.extrude_move](armature-extrude-move.md).
+- Open when you need bpy.ops.armature.extrude: [bpy.ops.armature.extrude](armature-extrude.md).
+- Open when you need bpy.ops.armature.fill: [bpy.ops.armature.fill](armature-fill.md).
+- Open when you need bpy.ops.armature.flip_names: [bpy.ops.armature.flip_names](armature-flip-names.md).
+- Open when you need bpy.ops.armature.hide: [bpy.ops.armature.hide](armature-hide.md).
+- Open when you need bpy.ops.armature.move_to_collection: [bpy.ops.armature.move_to_collection](armature-move-to-collection.md).
+- Open when you need bpy.ops.armature.parent_clear: [bpy.ops.armature.parent_clear](armature-parent-clear.md).
+- Open when you need bpy.ops.armature.parent_set: [bpy.ops.armature.parent_set](armature-parent-set.md).
+- Open when you need bpy.ops.armature.reveal: [bpy.ops.armature.reveal](armature-reveal.md).
+- Open when you need bpy.ops.armature.roll_clear: [bpy.ops.armature.roll_clear](armature-roll-clear.md).
+- Open when you need bpy.ops.armature.select_all: [bpy.ops.armature.select_all](armature-select-all.md).
+- Open when you need bpy.ops.armature.select_hierarchy: [bpy.ops.armature.select_hierarchy](armature-select-hierarchy.md).
+- Open when you need bpy.ops.armature.select_less: [bpy.ops.armature.select_less](armature-select-less.md).
+- Open when you need bpy.ops.armature.select_linked_pick: [bpy.ops.armature.select_linked_pick](armature-select-linked-pick.md).
+- Open when you need bpy.ops.armature.select_linked: [bpy.ops.armature.select_linked](armature-select-linked.md).
+- Open when you need bpy.ops.armature.select_mirror: [bpy.ops.armature.select_mirror](armature-select-mirror.md).
+- Open when you need bpy.ops.armature.select_more: [bpy.ops.armature.select_more](armature-select-more.md).
+- Open when you need bpy.ops.armature.select_similar: [bpy.ops.armature.select_similar](armature-select-similar.md).
+- Open when you need bpy.ops.armature.separate: [bpy.ops.armature.separate](armature-separate.md).
+- Open when you need bpy.ops.armature.shortest_path_pick: [bpy.ops.armature.shortest_path_pick](armature-shortest-path-pick.md).
+- Open when you need bpy.ops.armature.split: [bpy.ops.armature.split](armature-split.md).
+- Open when you need bpy.ops.armature.subdivide: [bpy.ops.armature.subdivide](armature-subdivide.md).
+- Open when you need bpy.ops.armature.switch_direction: [bpy.ops.armature.switch_direction](armature-switch-direction.md).
+- Open when you need bpy.ops.armature.symmetrize: [bpy.ops.armature.symmetrize](armature-symmetrize.md).
+- Open when you need Collection operations: [Collection operations](../armature-collection-operations/INDEX.md).
+
+[Parent topics](../INDEX.md).

@@ -1,0 +1,44 @@
+# File
+
+- Open when you need bpy.ops.file.autopack_toggle: [bpy.ops.file.autopack_toggle](file-autopack-toggle.md).
+- Open when you need bpy.ops.file.bookmark_add: [bpy.ops.file.bookmark_add](file-bookmark-add.md).
+- Open when you need bpy.ops.file.bookmark_cleanup: [bpy.ops.file.bookmark_cleanup](file-bookmark-cleanup.md).
+- Open when you need bpy.ops.file.bookmark_delete: [bpy.ops.file.bookmark_delete](file-bookmark-delete.md).
+- Open when you need bpy.ops.file.bookmark_move: [bpy.ops.file.bookmark_move](file-bookmark-move.md).
+- Open when you need bpy.ops.file.cancel: [bpy.ops.file.cancel](file-cancel.md).
+- Open when you need bpy.ops.file.delete: [bpy.ops.file.delete](file-delete.md).
+- Open when you need bpy.ops.file.directory_new: [bpy.ops.file.directory_new](file-directory-new.md).
+- Open when you need bpy.ops.file.edit_directory_path: [bpy.ops.file.edit_directory_path](file-edit-directory-path.md).
+- Open when you need bpy.ops.file.execute: [bpy.ops.file.execute](file-execute.md).
+- Open when you need bpy.ops.file.external_operation: [bpy.ops.file.external_operation](file-external-operation.md).
+- Open when you need bpy.ops.file.filenum: [bpy.ops.file.filenum](file-filenum.md).
+- Open when you need bpy.ops.file.filepath_drop: [bpy.ops.file.filepath_drop](file-filepath-drop.md).
+- Open when you need bpy.ops.file.find_missing_files: [bpy.ops.file.find_missing_files](file-find-missing-files.md).
+- Open when you need bpy.ops.file.hidedot: [bpy.ops.file.hidedot](file-hidedot.md).
+- Open when you need bpy.ops.file.highlight: [bpy.ops.file.highlight](file-highlight.md).
+- Open when you need bpy.ops.file.make_paths_absolute: [bpy.ops.file.make_paths_absolute](file-make-paths-absolute.md).
+- Open when you need bpy.ops.file.make_paths_relative: [bpy.ops.file.make_paths_relative](file-make-paths-relative.md).
+- Open when you need bpy.ops.file.mouse_execute: [bpy.ops.file.mouse_execute](file-mouse-execute.md).
+- Open when you need bpy.ops.file.next: [bpy.ops.file.next](file-next.md).
+- Open when you need bpy.ops.file.pack_all: [bpy.ops.file.pack_all](file-pack-all.md).
+- Open when you need bpy.ops.file.pack_libraries: [bpy.ops.file.pack_libraries](file-pack-libraries.md).
+- Open when you need bpy.ops.file.parent: [bpy.ops.file.parent](file-parent.md).
+- Open when you need bpy.ops.file.previous: [bpy.ops.file.previous](file-previous.md).
+- Open when you need bpy.ops.file.refresh: [bpy.ops.file.refresh](file-refresh.md).
+- Open when you need bpy.ops.file.rename: [bpy.ops.file.rename](file-rename.md).
+- Open when you need bpy.ops.file.report_missing_files: [bpy.ops.file.report_missing_files](file-report-missing-files.md).
+- Open when you need bpy.ops.file.reset_recent: [bpy.ops.file.reset_recent](file-reset-recent.md).
+- Open when you need bpy.ops.file.select_all: [bpy.ops.file.select_all](file-select-all.md).
+- Open when you need bpy.ops.file.select_bookmark: [bpy.ops.file.select_bookmark](file-select-bookmark.md).
+- Open when you need bpy.ops.file.select_box: [bpy.ops.file.select_box](file-select-box.md).
+- Open when you need bpy.ops.file.select_walk: [bpy.ops.file.select_walk](file-select-walk.md).
+- Open when you need bpy.ops.file.select: [bpy.ops.file.select](file-select.md).
+- Open when you need bpy.ops.file.smoothscroll: [bpy.ops.file.smoothscroll](file-smoothscroll.md).
+- Open when you need bpy.ops.file.sort_column_ui_context: [bpy.ops.file.sort_column_ui_context](file-sort-column-ui-context.md).
+- Open when you need bpy.ops.file.start_filter: [bpy.ops.file.start_filter](file-start-filter.md).
+- Open when you need bpy.ops.file.unpack_all: [bpy.ops.file.unpack_all](file-unpack-all.md).
+- Open when you need bpy.ops.file.unpack_item: [bpy.ops.file.unpack_item](file-unpack-item.md).
+- Open when you need bpy.ops.file.unpack_libraries: [bpy.ops.file.unpack_libraries](file-unpack-libraries.md).
+- Open when you need bpy.ops.file.view_selected: [bpy.ops.file.view_selected](file-view-selected.md).
+
+[Parent topics](../INDEX.md).

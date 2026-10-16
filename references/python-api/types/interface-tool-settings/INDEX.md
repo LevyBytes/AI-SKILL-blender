@@ -1,0 +1,82 @@
+# Tool settings
+
+- Open when you need bpy.types.ToolSettings: anim_fix_to_cam_use_loc, anim_fix_to_cam_use_rot, anim_fix_to_cam_use_scale, anim_mirror_bone, anim_mirror_object, anim_relative_object: [bpy.types.ToolSettings: anim_fix_to_cam_use_loc, anim_fix_to_cam_use_rot, anim_fix_to_cam_use_scale, anim_mirror_bone, anim_mirror_object, anim_relative_object](tool-settings-anim.md).
+- Open when you need bpy.types.ToolSettings: annotation_stroke_placement_view2d, annotation_stroke_placement_view3d, annotation_thickness: [bpy.types.ToolSettings: annotation_stroke_placement_view2d, annotation_stroke_placement_view3d, annotation_thickness](tool-settings-annotation.md).
+- Open when you need bpy.types.ToolSettings: auto_keying_mode: [bpy.types.ToolSettings: auto_keying_mode](tool-settings-auto-keying-mode.md).
+- Open when you need bpy.types.ToolSettings: curve_paint_settings: [bpy.types.ToolSettings: curve_paint_settings](tool-settings-curve-paint-settings.md).
+- Open when you need bpy.types.ToolSettings: curves_sculpt: [bpy.types.ToolSettings: curves_sculpt](tool-settings-curves-sculpt.md).
+- Open when you need bpy.types.ToolSettings: custom_bevel_profile_preset: [bpy.types.ToolSettings: custom_bevel_profile_preset](tool-settings-custom-bevel-profile-preset.md).
+- Open when you need bpy.types.ToolSettings: double_threshold: [bpy.types.ToolSettings: double_threshold](tool-settings-double-threshold.md).
+- Open when you need bpy.types.ToolSettings: gpencil_interpolate, gpencil_paint, gpencil_sculpt, gpencil_sculpt_paint, gpencil_selectmode_edit, gpencil_stroke_placement_view3d, gpencil_stroke_snap_mode, gpencil_surface_offset, gpencil_vertex_paint, gpencil_weight_paint: [bpy.types.ToolSettings: gpencil_interpolate, gpencil_paint, gpencil_sculpt, gpencil_sculpt_paint, gpencil_selectmode_edit, gpencil_stroke_placement_view3d, gpencil_stroke_snap_mode, gpencil_surface_offset, gpencil_vertex_paint, gpencil_weight_paint](tool-settings-gpencil.md).
+- Open when you need bpy.types.ToolSettings: image_paint: [bpy.types.ToolSettings: image_paint](tool-settings-image-paint.md).
+- Open when you need bpy.types.ToolSettings: keyframe_type: [bpy.types.ToolSettings: keyframe_type](tool-settings-keyframe-type.md).
+- Open when you need bpy.types.ToolSettings: lock_markers: [bpy.types.ToolSettings: lock_markers](tool-settings-lock-markers.md).
+- Open when you need bpy.types.ToolSettings: lock_object_mode: [bpy.types.ToolSettings: lock_object_mode](tool-settings-lock-object-mode.md).
+- Open when you need bpy.types.ToolSettings: mesh_select_mode: [bpy.types.ToolSettings: mesh_select_mode](tool-settings-mesh-select-mode.md).
+- Open when you need bpy.types.ToolSettings: methods: [bpy.types.ToolSettings: methods](tool-settings-methods.md).
+- Open when you need bpy.types.ToolSettings: normal_vector: [bpy.types.ToolSettings: normal_vector](tool-settings-normal-vector.md).
+- Open when you need bpy.types.ToolSettings: paint_mode: [bpy.types.ToolSettings: paint_mode](tool-settings-paint-mode.md).
+- Open when you need bpy.types.ToolSettings: particle_edit: [bpy.types.ToolSettings: particle_edit](tool-settings-particle-edit.md).
+- Open when you need bpy.types.ToolSettings: plane_axis, plane_axis_auto, plane_depth, plane_orientation: [bpy.types.ToolSettings: plane_axis, plane_axis_auto, plane_depth, plane_orientation](tool-settings-plane.md).
+- Open when you need bpy.types.ToolSettings: playhead_snap_distance: [bpy.types.ToolSettings: playhead_snap_distance](tool-settings-playhead-snap-distance.md).
+- Open when you need bpy.types.ToolSettings: proportional_distance, proportional_edit_falloff, proportional_size: [bpy.types.ToolSettings: proportional_distance, proportional_edit_falloff, proportional_size](tool-settings-proportional.md).
+- Open when you need bpy.types.ToolSettings: sculpt: [bpy.types.ToolSettings: sculpt](tool-settings-sculpt.md).
+- Open when you need bpy.types.ToolSettings: sequencer_tool_settings: [bpy.types.ToolSettings: sequencer_tool_settings](tool-settings-sequencer-tool-settings.md).
+- Open when you need bpy.types.ToolSettings: show_uv_local_view: [bpy.types.ToolSettings: show_uv_local_view](tool-settings-show-uv-local-view.md).
+- Open when you need bpy.types.ToolSettings: snap_angle_increment_2d_precision: [bpy.types.ToolSettings: snap_angle_increment_2d_precision](tool-settings-snap-angle-increment-2d-precision.md).
+- Open when you need bpy.types.ToolSettings: snap_angle_increment_2d: [bpy.types.ToolSettings: snap_angle_increment_2d](tool-settings-snap-angle-increment-2d.md).
+- Open when you need bpy.types.ToolSettings: snap_angle_increment_3d_precision: [bpy.types.ToolSettings: snap_angle_increment_3d_precision](tool-settings-snap-angle-increment-3d-precision.md).
+- Open when you need bpy.types.ToolSettings: snap_angle_increment_3d: [bpy.types.ToolSettings: snap_angle_increment_3d](tool-settings-snap-angle-increment-3d.md).
+- Open when you need bpy.types.ToolSettings: snap_anim_element: [bpy.types.ToolSettings: snap_anim_element](tool-settings-snap-anim-element.md).
+- Open when you need bpy.types.ToolSettings: snap_elements_base: [bpy.types.ToolSettings: snap_elements_base](tool-settings-snap-elements-base.md).
+- Open when you need bpy.types.ToolSettings: snap_elements_individual: [bpy.types.ToolSettings: snap_elements_individual](tool-settings-snap-elements-individual.md).
+- Open when you need bpy.types.ToolSettings: snap_elements_tool: [bpy.types.ToolSettings: snap_elements_tool](tool-settings-snap-elements-tool.md).
+- Open when you need bpy.types.ToolSettings: snap_elements: [bpy.types.ToolSettings: snap_elements](tool-settings-snap-elements.md).
+- Open when you need bpy.types.ToolSettings: snap_face_nearest_steps: [bpy.types.ToolSettings: snap_face_nearest_steps](tool-settings-snap-face-nearest-steps.md).
+- Open when you need bpy.types.ToolSettings: snap_playhead_element: [bpy.types.ToolSettings: snap_playhead_element](tool-settings-snap-playhead-element.md).
+- Open when you need bpy.types.ToolSettings: snap_playhead_frame_step: [bpy.types.ToolSettings: snap_playhead_frame_step](tool-settings-snap-playhead-frame-step.md).
+- Open when you need bpy.types.ToolSettings: snap_playhead_second_step: [bpy.types.ToolSettings: snap_playhead_second_step](tool-settings-snap-playhead-second-step.md).
+- Open when you need bpy.types.ToolSettings: snap_target: [bpy.types.ToolSettings: snap_target](tool-settings-snap-target.md).
+- Open when you need bpy.types.ToolSettings: snap_uv_element: [bpy.types.ToolSettings: snap_uv_element](tool-settings-snap-uv-element.md).
+- Open when you need bpy.types.ToolSettings: statvis: [bpy.types.ToolSettings: statvis](tool-settings-statvis.md).
+- Open when you need bpy.types.ToolSettings: transform_pivot_point: [bpy.types.ToolSettings: transform_pivot_point](tool-settings-transform-pivot-point.md).
+- Open when you need bpy.types.ToolSettings: use_annotation_project_only_selected, use_annotation_stroke_endpoints: [bpy.types.ToolSettings: use_annotation_project_only_selected, use_annotation_stroke_endpoints](tool-settings-use-annotation.md).
+- Open when you need bpy.types.ToolSettings: use_auto_normalize: [bpy.types.ToolSettings: use_auto_normalize](tool-settings-use-auto-normalize.md).
+- Open when you need bpy.types.ToolSettings: use_edge_path_live_unwrap: [bpy.types.ToolSettings: use_edge_path_live_unwrap](tool-settings-use-edge-path-live-unwrap.md).
+- Open when you need bpy.types.ToolSettings: use_gpencil_automerge_strokes, use_gpencil_draw_additive, use_gpencil_draw_onback, use_gpencil_project_only_selected, use_gpencil_select_mask_point, use_gpencil_select_mask_segment, use_gpencil_select_mask_stroke, use_gpencil_thumbnail_list, use_gpencil_vertex_select_mask_point, use_gpencil_vertex_select_mask_segment, use_gpencil_vertex_select_mask_stroke, use_gpencil_weight_data_add: [bpy.types.ToolSettings: use_gpencil_automerge_strokes, use_gpencil_draw_additive, use_gpencil_draw_onback, use_gpencil_project_only_selected, use_gpencil_select_mask_point, use_gpencil_select_mask_segment, use_gpencil_select_mask_stroke, use_gpencil_thumbnail_list, use_gpencil_vertex_select_mask_point, use_gpencil_vertex_select_mask_segment, use_gpencil_vertex_select_mask_stroke, use_gpencil_weight_data_add](tool-settings-use-gpencil.md).
+- Open when you need bpy.types.ToolSettings: use_grease_pencil_multi_frame_editing: [bpy.types.ToolSettings: use_grease_pencil_multi_frame_editing](tool-settings-use-grease-pencil-multi-frame-editing.md).
+- Open when you need bpy.types.ToolSettings: use_keyframe_cycle_aware, use_keyframe_insert_auto, use_keyframe_insert_keyingset: [bpy.types.ToolSettings: use_keyframe_cycle_aware, use_keyframe_insert_auto, use_keyframe_insert_keyingset](tool-settings-use-keyframe.md).
+- Open when you need bpy.types.ToolSettings: use_lock_relative: [bpy.types.ToolSettings: use_lock_relative](tool-settings-use-lock-relative.md).
+- Open when you need bpy.types.ToolSettings: use_mesh_automerge, use_mesh_automerge_and_split: [bpy.types.ToolSettings: use_mesh_automerge, use_mesh_automerge_and_split](tool-settings-use-mesh.md).
+- Open when you need bpy.types.ToolSettings: use_multipaint: [bpy.types.ToolSettings: use_multipaint](tool-settings-use-multipaint.md).
+- Open when you need bpy.types.ToolSettings: use_proportional_action, use_proportional_connected, use_proportional_edit, use_proportional_edit_mask, use_proportional_edit_objects, use_proportional_fcurve, use_proportional_projected: [bpy.types.ToolSettings: use_proportional_action, use_proportional_connected, use_proportional_edit, use_proportional_edit_mask, use_proportional_edit_objects, use_proportional_fcurve, use_proportional_projected](tool-settings-use-proportional.md).
+- Open when you need bpy.types.ToolSettings: use_record_with_nla: [bpy.types.ToolSettings: use_record_with_nla](tool-settings-use-record-with-nla.md).
+- Open when you need bpy.types.ToolSettings: use_snap_align_rotation: [bpy.types.ToolSettings: use_snap_align_rotation](tool-settings-use-snap-align-rotation.md).
+- Open when you need bpy.types.ToolSettings: use_snap_anim: [bpy.types.ToolSettings: use_snap_anim](tool-settings-use-snap-anim.md).
+- Open when you need bpy.types.ToolSettings: use_snap_backface_culling: [bpy.types.ToolSettings: use_snap_backface_culling](tool-settings-use-snap-backface-culling.md).
+- Open when you need bpy.types.ToolSettings: use_snap_driver_absolute: [bpy.types.ToolSettings: use_snap_driver_absolute](tool-settings-use-snap-driver-absolute.md).
+- Open when you need bpy.types.ToolSettings: use_snap_driver: [bpy.types.ToolSettings: use_snap_driver](tool-settings-use-snap-driver.md).
+- Open when you need bpy.types.ToolSettings: use_snap_edit: [bpy.types.ToolSettings: use_snap_edit](tool-settings-use-snap-edit.md).
+- Open when you need bpy.types.ToolSettings: use_snap_grid_absolute: [bpy.types.ToolSettings: use_snap_grid_absolute](tool-settings-use-snap-grid-absolute.md).
+- Open when you need bpy.types.ToolSettings: use_snap_node: [bpy.types.ToolSettings: use_snap_node](tool-settings-use-snap-node.md).
+- Open when you need bpy.types.ToolSettings: use_snap_nonedit: [bpy.types.ToolSettings: use_snap_nonedit](tool-settings-use-snap-nonedit.md).
+- Open when you need bpy.types.ToolSettings: use_snap_peel_object: [bpy.types.ToolSettings: use_snap_peel_object](tool-settings-use-snap-peel-object.md).
+- Open when you need bpy.types.ToolSettings: use_snap_playhead: [bpy.types.ToolSettings: use_snap_playhead](tool-settings-use-snap-playhead.md).
+- Open when you need bpy.types.ToolSettings: use_snap_rotate: [bpy.types.ToolSettings: use_snap_rotate](tool-settings-use-snap-rotate.md).
+- Open when you need bpy.types.ToolSettings: use_snap_scale: [bpy.types.ToolSettings: use_snap_scale](tool-settings-use-snap-scale.md).
+- Open when you need bpy.types.ToolSettings: use_snap_selectable: [bpy.types.ToolSettings: use_snap_selectable](tool-settings-use-snap-selectable.md).
+- Open when you need bpy.types.ToolSettings: use_snap_self: [bpy.types.ToolSettings: use_snap_self](tool-settings-use-snap-self.md).
+- Open when you need bpy.types.ToolSettings: use_snap_sequencer: [bpy.types.ToolSettings: use_snap_sequencer](tool-settings-use-snap-sequencer.md).
+- Open when you need bpy.types.ToolSettings: use_snap_time_absolute: [bpy.types.ToolSettings: use_snap_time_absolute](tool-settings-use-snap-time-absolute.md).
+- Open when you need bpy.types.ToolSettings: use_snap_to_same_target: [bpy.types.ToolSettings: use_snap_to_same_target](tool-settings-use-snap-to-same-target.md).
+- Open when you need bpy.types.ToolSettings: use_snap_translate: [bpy.types.ToolSettings: use_snap_translate](tool-settings-use-snap-translate.md).
+- Open when you need bpy.types.ToolSettings: use_snap_uv: [bpy.types.ToolSettings: use_snap_uv](tool-settings-use-snap-uv.md).
+- Open when you need bpy.types.ToolSettings: use_snap: [bpy.types.ToolSettings: use_snap](tool-settings-use-snap.md).
+- Open when you need bpy.types.ToolSettings: use_transform_correct_face_attributes, use_transform_correct_keep_connected, use_transform_data_origin, use_transform_pivot_point_align, use_transform_skip_children: [bpy.types.ToolSettings: use_transform_correct_face_attributes, use_transform_correct_keep_connected, use_transform_data_origin, use_transform_pivot_point_align, use_transform_skip_children](tool-settings-use-transform.md).
+- Open when you need bpy.types.ToolSettings: use_uv_custom_region, use_uv_select_island, use_uv_select_sync: [bpy.types.ToolSettings: use_uv_custom_region, use_uv_select_island, use_uv_select_sync](tool-settings-use-uv.md).
+- Open when you need bpy.types.ToolSettings: uv_sculpt, uv_sculpt_all_islands, uv_sculpt_lock_borders, uv_select_mode, uv_sticky_select_mode: [bpy.types.ToolSettings: uv_sculpt, uv_sculpt_all_islands, uv_sculpt_lock_borders, uv_select_mode, uv_sticky_select_mode](tool-settings-uv.md).
+- Open when you need bpy.types.ToolSettings: vertex_group_subset, vertex_group_user, vertex_group_weight, vertex_paint: [bpy.types.ToolSettings: vertex_group_subset, vertex_group_user, vertex_group_weight, vertex_paint](tool-settings-vertex.md).
+- Open when you need bpy.types.ToolSettings: weight_paint: [bpy.types.ToolSettings: weight_paint](tool-settings-weight-paint.md).
+- Open when you need bpy.types.ToolSettings: workspace_tool_type: [bpy.types.ToolSettings: workspace_tool_type](tool-settings-workspace-tool-type.md).
+
+[Parent topics](../interface/INDEX.md).

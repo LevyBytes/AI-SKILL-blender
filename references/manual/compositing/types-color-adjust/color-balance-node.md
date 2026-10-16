@@ -1,0 +1,7 @@
+# Color Balance Node
+
+## Color Balance Node
+
+The Color Balance node adjusts an image's color and values. Inputs: Image (standard color input); Factor (how much the node influences the output); and Type, the adjustment method — Lift/Gamma/Gain (adjust the color and tonal range by handling shadows, midtones, and highlights separately), Offset/Power/Slope (ASC-CDL) (a standardized model so the same values give the same result across applications; see Advanced for the implementation), or White Point (adjust which color counts as white, set by the input's color temperature and the desired output temperature). Lift/Gamma/Gain: Lift (the image's darkest areas, the shadows), Gamma (mainly the midtones), and Gain (the brightest parts, the highlights). Offset/Power/Slope (ASC-CDL): Offset (the shadows), Basis (an additional offset allowing a negative value), Power (mainly the midtones), and Slope (the highlights). Input: Temperature (the input primary illuminant's blackbody temperature, default a D65 white point) and Tint (the input white point's green/magenta shift, default 10 matching daylight). Output: Temperature and Tint, the same for the output's white point. Output: Image (standard output image). Advanced — the Offset/Power/Slope formula is out = (i × s + o)^p, where out is the graded pixel value, i the input pixel value (0 to 1, black to white), s the Slope (≥ 0, nominal 1.0), o the Offset (any number, nominal 0), and p the Power (> 0, nominal 1.0).
+
+[Related references](INDEX.md).

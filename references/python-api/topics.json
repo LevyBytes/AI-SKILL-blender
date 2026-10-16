@@ -1,0 +1,9 @@
+{"schema_version": 1, "topics": [
+  {"topic": "API enumeration values", "file": "references/python-api/enums/INDEX.md", "summary": "Open when you need API enumeration values.", "keywords": []},
+  {"topic": "Complete Python examples", "file": "references/python-api/examples/INDEX.md", "summary": "Open when you need Complete Python examples.", "keywords": []},
+  {"topic": "Guides", "file": "references/python-api/guides/INDEX.md", "summary": "Open when you need Guides.", "keywords": []},
+  {"topic": "Python modules", "file": "references/python-api/modules/INDEX.md", "summary": "Open when you need Python modules.", "keywords": []},
+  {"topic": "Blender operators", "file": "references/python-api/operators/INDEX.md", "summary": "Open when you need Blender operators.", "keywords": []},
+  {"topic": "RNA types", "file": "references/python-api/types/INDEX.md", "summary": "Open when you need RNA types.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": []}
+]}

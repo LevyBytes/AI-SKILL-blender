@@ -1,0 +1,55 @@
+# Curve
+
+- Open when you need bpy.ops.curve.cyclic_toggle: [bpy.ops.curve.cyclic_toggle](curve-cyclic-toggle.md).
+- Open when you need bpy.ops.curve.de_select_first: [bpy.ops.curve.de_select_first](curve-de-select-first.md).
+- Open when you need bpy.ops.curve.de_select_last: [bpy.ops.curve.de_select_last](curve-de-select-last.md).
+- Open when you need bpy.ops.curve.decimate: [bpy.ops.curve.decimate](curve-decimate.md).
+- Open when you need bpy.ops.curve.delete: [bpy.ops.curve.delete](curve-delete.md).
+- Open when you need bpy.ops.curve.dissolve_verts: [bpy.ops.curve.dissolve_verts](curve-dissolve-verts.md).
+- Open when you need bpy.ops.curve.draw: [bpy.ops.curve.draw](curve-draw.md).
+- Open when you need bpy.ops.curve.duplicate_move: [bpy.ops.curve.duplicate_move](curve-duplicate-move.md).
+- Open when you need bpy.ops.curve.duplicate: [bpy.ops.curve.duplicate](curve-duplicate.md).
+- Open when you need bpy.ops.curve.extrude_move: [bpy.ops.curve.extrude_move](curve-extrude-move.md).
+- Open when you need bpy.ops.curve.extrude: [bpy.ops.curve.extrude](curve-extrude.md).
+- Open when you need bpy.ops.curve.handle_type_set: [bpy.ops.curve.handle_type_set](curve-handle-type-set.md).
+- Open when you need bpy.ops.curve.hide: [bpy.ops.curve.hide](curve-hide.md).
+- Open when you need bpy.ops.curve.make_segment: [bpy.ops.curve.make_segment](curve-make-segment.md).
+- Open when you need bpy.ops.curve.match_texture_space: [bpy.ops.curve.match_texture_space](curve-match-texture-space.md).
+- Open when you need bpy.ops.curve.normals_make_consistent: [bpy.ops.curve.normals_make_consistent](curve-normals-make-consistent.md).
+- Open when you need bpy.ops.curve.pen: [bpy.ops.curve.pen](curve-pen.md).
+- Open when you need bpy.ops.curve.primitive_bezier_circle_add: [bpy.ops.curve.primitive_bezier_circle_add](curve-primitive-bezier-circle-add.md).
+- Open when you need bpy.ops.curve.primitive_bezier_curve_add: [bpy.ops.curve.primitive_bezier_curve_add](curve-primitive-bezier-curve-add.md).
+- Open when you need bpy.ops.curve.primitive_nurbs_circle_add: [bpy.ops.curve.primitive_nurbs_circle_add](curve-primitive-nurbs-circle-add.md).
+- Open when you need bpy.ops.curve.primitive_nurbs_curve_add: [bpy.ops.curve.primitive_nurbs_curve_add](curve-primitive-nurbs-curve-add.md).
+- Open when you need bpy.ops.curve.primitive_nurbs_path_add: [bpy.ops.curve.primitive_nurbs_path_add](curve-primitive-nurbs-path-add.md).
+- Open when you need bpy.ops.curve.radius_set: [bpy.ops.curve.radius_set](curve-radius-set.md).
+- Open when you need bpy.ops.curve.reveal: [bpy.ops.curve.reveal](curve-reveal.md).
+- Open when you need bpy.ops.curve.select_all: [bpy.ops.curve.select_all](curve-select-all.md).
+- Open when you need bpy.ops.curve.select_less: [bpy.ops.curve.select_less](curve-select-less.md).
+- Open when you need bpy.ops.curve.select_linked_pick: [bpy.ops.curve.select_linked_pick](curve-select-linked-pick.md).
+- Open when you need bpy.ops.curve.select_linked: [bpy.ops.curve.select_linked](curve-select-linked.md).
+- Open when you need bpy.ops.curve.select_more: [bpy.ops.curve.select_more](curve-select-more.md).
+- Open when you need bpy.ops.curve.select_next: [bpy.ops.curve.select_next](curve-select-next.md).
+- Open when you need bpy.ops.curve.select_nth: [bpy.ops.curve.select_nth](curve-select-nth.md).
+- Open when you need bpy.ops.curve.select_previous: [bpy.ops.curve.select_previous](curve-select-previous.md).
+- Open when you need bpy.ops.curve.select_random: [bpy.ops.curve.select_random](curve-select-random.md).
+- Open when you need bpy.ops.curve.select_row: [bpy.ops.curve.select_row](curve-select-row.md).
+- Open when you need bpy.ops.curve.select_similar: [bpy.ops.curve.select_similar](curve-select-similar.md).
+- Open when you need bpy.ops.curve.separate: [bpy.ops.curve.separate](curve-separate.md).
+- Open when you need bpy.ops.curve.shade_flat: [bpy.ops.curve.shade_flat](curve-shade-flat.md).
+- Open when you need bpy.ops.curve.shade_smooth: [bpy.ops.curve.shade_smooth](curve-shade-smooth.md).
+- Open when you need bpy.ops.curve.shortest_path_pick: [bpy.ops.curve.shortest_path_pick](curve-shortest-path-pick.md).
+- Open when you need bpy.ops.curve.smooth_radius: [bpy.ops.curve.smooth_radius](curve-smooth-radius.md).
+- Open when you need bpy.ops.curve.smooth_tilt: [bpy.ops.curve.smooth_tilt](curve-smooth-tilt.md).
+- Open when you need bpy.ops.curve.smooth_weight: [bpy.ops.curve.smooth_weight](curve-smooth-weight.md).
+- Open when you need bpy.ops.curve.smooth: [bpy.ops.curve.smooth](curve-smooth.md).
+- Open when you need bpy.ops.curve.spin: [bpy.ops.curve.spin](curve-spin.md).
+- Open when you need bpy.ops.curve.spline_type_set: [bpy.ops.curve.spline_type_set](curve-spline-type-set.md).
+- Open when you need bpy.ops.curve.spline_weight_set: [bpy.ops.curve.spline_weight_set](curve-spline-weight-set.md).
+- Open when you need bpy.ops.curve.split: [bpy.ops.curve.split](curve-split.md).
+- Open when you need bpy.ops.curve.subdivide: [bpy.ops.curve.subdivide](curve-subdivide.md).
+- Open when you need bpy.ops.curve.switch_direction: [bpy.ops.curve.switch_direction](curve-switch-direction.md).
+- Open when you need bpy.ops.curve.tilt_clear: [bpy.ops.curve.tilt_clear](curve-tilt-clear.md).
+- Open when you need bpy.ops.curve.vertex_add: [bpy.ops.curve.vertex_add](curve-vertex-add.md).
+
+[Parent topics](../INDEX.md).

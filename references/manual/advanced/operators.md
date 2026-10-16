@@ -1,0 +1,7 @@
+# Operators
+
+## Operators
+
+Operators. Operator Cheat Sheet (Help ‣ Operator Cheat Sheet, requires Enable Developer Extras) writes a text file in the Text Editor listing every operator with its default values in Python syntax plus the generated docs — a handy overview of every operator Blender provides (see also the API documentation). System operators — Reload Scripts (All Modes; Topbar ‣ Blender ‣ System ‣ Reload Scripts) reloads every script in the scripts data folder, discarding any unsaved Text Editor changes. Memory Statistics (run with --debug-memory; Topbar ‣ Blender ‣ System ‣ Memory Statistics), also reachable by searching "Memory Statistics" in Operator Search, prints useful information about memory objects, their size, and user count — for full use, launch Blender from the console with --debug-memory. Debug Menu (All Modes; Topbar ‣ Blender ‣ System ‣ Debug Menu) opens a menu to put Blender into a debug mode (see the source code for what each value does; developers can search the code for G.debug_value for other uses; more debug options appear when launching in debug mode or setting bpy.app.debug = True). Redraw Timer (All Modes; Topbar ‣ Blender ‣ System ‣ Redraw Timer) opens a menu of tests that benchmark UI render times along with undo/redo. Clean Up Space-Data (All Modes; Topbar ‣ Blender ‣ System ‣ Clean Up Space-data) removes unused settings for invisible editors.
+
+[Related references](INDEX.md).

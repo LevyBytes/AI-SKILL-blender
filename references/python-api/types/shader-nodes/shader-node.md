@@ -1,0 +1,60 @@
+# bpy.types.ShaderNode
+
+classmethod bl_rna_get_subclass ( id , default = None , / )
+
+Parameters :
+
+- id ( str ) – The RNA type identifier.
+
+- default (bpy.types.Struct | None) – The value to return when not found.
+
+Returns :
+
+The RNA type or default when not found.
+
+Return type :
+
+bpy.types.Struct
+classmethod bl_rna_get_subclass_py ( id , default = None , / )
+
+Parameters :
+
+- id ( str ) – The RNA type identifier.
+
+- default ( type | None ) – The value to return when not found.
+
+Returns :
+
+The class or default when not found.
+
+Return type :
+
+type
+### Inherited Properties
+
+| Members | Members |
+| --- | --- |
+| bpy_struct.id_data Node.type Node.location Node.location_absolute Node.width Node.height Node.dimensions Node.name Node.label Node.inputs Node.outputs Node.internal_links Node.parent Node.warning_propagation Node.use_custom_color Node.color Node.color_tag | Node.select Node.show_options Node.show_preview Node.hide Node.mute Node.show_texture Node.bl_idname Node.bl_label Node.bl_description Node.bl_icon Node.bl_static_type Node.bl_width_default Node.bl_width_min Node.bl_width_max Node.bl_height_default Node.bl_height_min Node.bl_height_max |
+### Inherited Functions
+
+| Members | Members |
+| --- | --- |
+| bpy_struct.as_pointer bpy_struct.driver_add bpy_struct.driver_remove bpy_struct.get bpy_struct.id_properties_clear bpy_struct.id_properties_ensure bpy_struct.id_properties_ui bpy_struct.is_property_hidden bpy_struct.is_property_overridable_library bpy_struct.is_property_readonly bpy_struct.is_property_set bpy_struct.items bpy_struct.keyframe_delete bpy_struct.keyframe_insert bpy_struct.keys bpy_struct.path_from_id bpy_struct.path_from_module bpy_struct.path_resolve bpy_struct.pop bpy_struct.property_overridable_library_set bpy_struct.property_unset bpy_struct.rna_ancestors bpy_struct.type_recast bpy_struct.values Node.bl_system_properties_get | Node.socket_value_update Node.is_registered_node_type Node.poll Node.poll_instance Node.update Node.insert_link Node.init Node.copy Node.free Node.draw_buttons Node.draw_buttons_ext Node.draw_label Node.debug_zone_body_lazy_function_graph Node.debug_zone_lazy_function_graph Node.poll Node.bl_rna_get_subclass Node.bl_rna_get_subclass_py NodeInternal.poll NodeInternal.poll_instance NodeInternal.update NodeInternal.draw_buttons NodeInternal.draw_buttons_ext NodeInternal.bl_rna_get_subclass NodeInternal.bl_rna_get_subclass_py |
+### References
+
+| Description | Description |
+| --- | --- |
+| ShaderNodeTree.get_output_node | |
+## ShaderNode(NodeInternal)
+
+### ShaderNode(NodeInternal)
+
+base classes — bpy_struct, Node, NodeInternal
+
+subclasses —
+ShaderNodeAddShader, ShaderNodeAmbientOcclusion, ShaderNodeAttribute, ShaderNodeBackground, ShaderNodeBevel, ShaderNodeBlackbody, ShaderNodeBrightContrast, ShaderNodeBsdfAnisotropic, ShaderNodeBsdfDiffuse, ShaderNodeBsdfGlass, ShaderNodeBsdfHair, ShaderNodeBsdfHairPrincipled, ShaderNodeBsdfMetallic, ShaderNodeBsdfPrincipled, ShaderNodeBsdfRayPortal, ShaderNodeBsdfRefraction, ShaderNodeBsdfSheen, ShaderNodeBsdfToon, ShaderNodeBsdfTranslucent, ShaderNodeBsdfTransparent, ShaderNodeBump, ShaderNodeCameraData, ShaderNodeClamp, ShaderNodeCombineColor, ShaderNodeCombineXYZ, ShaderNodeCustomGroup, ShaderNodeDisplacement, ShaderNodeEeveeSpecular, ShaderNodeEmission, ShaderNodeFloatCurve, ShaderNodeFresnel, ShaderNodeGamma, ShaderNodeGroup, ShaderNodeHairInfo, ShaderNodeHoldout, ShaderNodeHueSaturation, ShaderNodeInvert, ShaderNodeLayerWeight, ShaderNodeLightFalloff, ShaderNodeLightPath, ShaderNodeMapRange, ShaderNodeMapping, ShaderNodeMath, ShaderNodeMix, ShaderNodeMixRGB, ShaderNodeMixShader, ShaderNodeNewGeometry, ShaderNodeNormal, ShaderNodeNormalMap, ShaderNodeObjectInfo, ShaderNodeOutputAOV, ShaderNodeOutputLight, ShaderNodeOutputLineStyle, ShaderNodeOutputMaterial, ShaderNodeOutputWorld, ShaderNodeParticleInfo, ShaderNodePointInfo, ShaderNodeRGB, ShaderNodeRGBCurve, ShaderNodeRGBToBW, ShaderNodeRadialTiling, ShaderNodeRaycast, ShaderNodeScript, ShaderNodeSeparateColor, ShaderNodeSeparateXYZ, ShaderNodeShaderToRGB, ShaderNodeSqueeze, ShaderNodeSubsurfaceScattering, ShaderNodeTangent, ShaderNodeTexBrick, ShaderNodeTexChecker, ShaderNodeTexCoord, ShaderNodeTexEnvironment, ShaderNodeTexGabor, ShaderNodeTexGradient, ShaderNodeTexIES, ShaderNodeTexImage, ShaderNodeTexMagic, ShaderNodeTexNoise, ShaderNodeTexSky, ShaderNodeTexVoronoi, ShaderNodeTexWave, ShaderNodeTexWhiteNoise, ShaderNodeUVAlongStroke, ShaderNodeUVMap, ShaderNodeValToRGB, ShaderNodeValue, ShaderNodeVectorCurve, ShaderNodeVectorDisplacement, ShaderNodeVectorMath, ShaderNodeVectorRotate, ShaderNodeVectorTransform, ShaderNodeVertexColor, ShaderNodeVolumeAbsorption, ShaderNodeVolumeCoefficients, ShaderNodeVolumeInfo, ShaderNodeVolumePrincipled, ShaderNodeVolumeScatter, ShaderNodeWavelength, ShaderNodeWireframe
+class bpy.types. ShaderNode ( NodeInternal )
+
+Material shader node
+
+[Related references](INDEX.md).

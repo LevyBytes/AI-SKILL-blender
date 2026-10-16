@@ -1,0 +1,53 @@
+# Data types
+
+- Open when you need bpy.types.AnyType: [bpy.types.AnyType](any-type.md).
+- Open when you need bpy.types.BlendFileColorspace: [bpy.types.BlendFileColorspace](blend-file-colorspace.md).
+- Open when you need bpy.types.BlenderRNA: [bpy.types.BlenderRNA](blender-rna.md).
+- Open when you need bpy.types.BoolProperty: [bpy.types.BoolProperty](bool-property.md).
+- Open when you need bpy.types.bpy_prop_array: [bpy.types.bpy_prop_array](bpy-prop-array.md).
+- Open when you need Bpy prop collection: [Bpy prop collection](../data-types-bpy-prop-collection/INDEX.md).
+- Open when you need bpy.types.bpy_prop_collection_idprop: [bpy.types.bpy_prop_collection_idprop](bpy-prop-collection-idprop.md).
+- Open when you need bpy.types.bpy_prop: [bpy.types.bpy_prop](bpy-prop.md).
+- Open when you need Bpy struct: [Bpy struct](../data-types-bpy-struct/INDEX.md).
+- Open when you need Depsgraph: [Depsgraph](../data-types-depsgraph/INDEX.md).
+- Open when you need Depsgraph object instance: [Depsgraph object instance](../data-types-depsgraph-object-instance/INDEX.md).
+- Open when you need bpy.types.DepsgraphUpdate: [bpy.types.DepsgraphUpdate](depsgraph-update.md).
+- Open when you need bpy.types.EnumPropertyItem: [bpy.types.EnumPropertyItem](enum-property-item.md).
+- Open when you need bpy.types.EnumProperty: [bpy.types.EnumProperty](enum-property.md).
+- Open when you need bpy.types.EQCurveMappingData: [bpy.types.EQCurveMappingData](eq-curve-mapping-data.md).
+- Open when you need bpy.types.EvaluateClosureNodeViewerPathElem: [bpy.types.EvaluateClosureNodeViewerPathElem](evaluate-closure-node-viewer-path-elem.md).
+- Open when you need Float property: [Float property](../data-types-float-property/INDEX.md).
+- Open when you need bpy.types.FloatVectorValueReadOnly: [bpy.types.FloatVectorValueReadOnly](float-vector-value-read-only.md).
+- Open when you need Function: [Function](../data-types-function/INDEX.md).
+- Open when you need Id: [Id](../data-types-id/INDEX.md).
+- Open when you need bpy.types.IDMaterials: [bpy.types.IDMaterials](id-materials.md).
+- Open when you need bpy.types.IDPropertyWrapPtr: [bpy.types.IDPropertyWrapPtr](id-property-wrap-ptr.md).
+- Open when you need bpy.types.IDViewerPathElem: [bpy.types.IDViewerPathElem](id-viewer-path-elem.md).
+- Open when you need Int property: [Int property](../data-types-int-property/INDEX.md).
+- Open when you need bpy.types.MovieReconstructedCamera: [bpy.types.MovieReconstructedCamera](movie-reconstructed-camera.md).
+- Open when you need bpy.types.PathCompareCollection: [bpy.types.PathCompareCollection](path-compare-collection.md).
+- Open when you need bpy.types.PathCompare: [bpy.types.PathCompare](path-compare.md).
+- Open when you need bpy.types.Point: [bpy.types.Point](point.md).
+- Open when you need bpy.types.PointerProperty: [bpy.types.PointerProperty](pointer-property.md).
+- Open when you need bpy.types.PrimitiveBoolean: [bpy.types.PrimitiveBoolean](primitive-boolean.md).
+- Open when you need bpy.types.PrimitiveFloat: [bpy.types.PrimitiveFloat](primitive-float.md).
+- Open when you need bpy.types.PrimitiveInt: [bpy.types.PrimitiveInt](primitive-int.md).
+- Open when you need bpy.types.PrimitiveString: [bpy.types.PrimitiveString](primitive-string.md).
+- Open when you need Property: [Property](../data-types-property/INDEX.md).
+- Open when you need Property group: [Property group](../data-types-property-group/INDEX.md).
+- Open when you need Property group item: [Property group item](../data-types-property-group-item/INDEX.md).
+- Open when you need bpy.types.ReadOnlyInteger: [bpy.types.ReadOnlyInteger](read-only-integer.md).
+- Open when you need bpy.types.StringProperty: [bpy.types.StringProperty](string-property.md).
+- Open when you need Struct: [Struct](../data-types-struct/INDEX.md).
+- Open when you need Text: [Text](../data-types-text/INDEX.md).
+- Open when you need bpy.types.TextBox: [bpy.types.TextBox](text-box.md).
+- Open when you need bpy.types.TextCharacterFormat: [bpy.types.TextCharacterFormat](text-character-format.md).
+- Open when you need bpy.types.TextLine: [bpy.types.TextLine](text-line.md).
+- Open when you need Unit settings: [Unit settings](../data-types-unit-settings/INDEX.md).
+- Open when you need bpy.types.UnknownType: [bpy.types.UnknownType](unknown-type.md).
+- Open when you need bpy.types.VectorFont: [bpy.types.VectorFont](vector-font.md).
+- Open when you need bpy.types.wmOwnerIDs: [bpy.types.wmOwnerIDs](wm-owner-i-ds.md).
+- Open when you need bpy.types.wmOwnerID: [bpy.types.wmOwnerID](wm-owner-id.md).
+- Open when you need bpy.types.wmTools: [bpy.types.wmTools](wm-tools.md).
+
+[Parent topics](../INDEX.md).

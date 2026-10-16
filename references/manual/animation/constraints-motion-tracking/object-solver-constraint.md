@@ -1,0 +1,7 @@
+# Object Solver Constraint
+
+## Object Solver Constraint
+
+The Object Solver constraint makes a Blender object mimic a real-world object's motion. Usage: load a video into the Movie Clip Editor, register the physical object in the Objects panel, motion-track at least eight markers on it, run Solve Camera/Object Motion to reconstruct its motion, then add this constraint to a Blender object. Options: Active Clip (whether the object is in the scene's Active Clip; unchecked, choose another); Object (the physical object to imitate — set up in the Movie Clip Editor's Sidebar Objects panel); Camera (the Blender camera matching the recording camera; empty uses the active one — and if the physical camera moved, the Blender camera should have a Camera Solver Constraint, which is useful even for a stationary camera since it puts the tracking markers at their reconstructed world positions in the viewport when the Motion Tracking overlay is on); Set Inverse (tell the constraint that the Blender object's current Location with the constraint disabled is correct for the current frame, after which it'll be correct on other frames too — when first adding it: position the object for the current frame, add the constraint, click Set Inverse; when later tweaking: run Apply Visual Transform, disable the constraint, tweak the position, click Set Inverse, re-enable); Clear Inverse (reset the relative transform Set Inverse stored); Constraint to F-Curve (replace with keyframes); and Influence.
+
+[Related references](INDEX.md).

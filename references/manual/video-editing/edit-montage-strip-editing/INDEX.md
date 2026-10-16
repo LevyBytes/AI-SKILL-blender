@@ -1,0 +1,49 @@
+# Strip editing
+
+- Open when you need Video strips: Add Freeze Frame and Slide: [Video strips: Add Freeze Frame and Slide](add-freeze-frame-and-slide.md).
+- Open when you need Video strips: Add Retiming Keys: [Video strips: Add Retiming Keys](add-retiming-keys.md).
+- Open when you need Video strips: Add Speed Transition and Slide: [Video strips: Add Speed Transition and Slide](add-speed-transition-and-slide.md).
+- Open when you need Video strips: Apply — Scale to Fill: [Video strips: Apply — Scale to Fill](apply-scale-to-fill.md).
+- Open when you need Video strips: Apply — Scale to Fit: [Video strips: Apply — Scale to Fit](apply-scale-to-fit.md).
+- Open when you need Video strips: Apply — Stretch to Fill: [Video strips: Apply — Stretch to Fill](apply-stretch-to-fill.md).
+- Open when you need Video strips: Change Effect Type: [Video strips: Change Effect Type](change-effect-type.md).
+- Open when you need Video strips: Clear Strip Offset: [Video strips: Clear Strip Offset](clear-strip-offset.md).
+- Open when you need Video strips: Clear transforms — All Transforms: [Video strips: Clear transforms — All Transforms](clear-transforms-all-transforms.md).
+- Open when you need Video strips: Clear transforms — Position: [Video strips: Clear transforms — Position](clear-transforms-position.md).
+- Open when you need Video strips: Clear transforms — Rotation: [Video strips: Clear transforms — Rotation](clear-transforms-rotation.md).
+- Open when you need Video strips: Clear transforms — Scale: [Video strips: Clear transforms — Scale](clear-transforms-scale.md).
+- Open when you need Video strips: Context Menu: [Video strips: Context Menu](context-menu.md).
+- Open when you need Video strips: Deinterlace Movies: [Video strips: Deinterlace Movies](deinterlace-movies.md).
+- Open when you need Video strips: Delete Retiming Keys: [Video strips: Delete Retiming Keys](delete-retiming-keys.md).
+- Open when you need Video strips: Delete: [Video strips: Delete](delete.md).
+- Open when you need Video strips: Duplicate Linked: [Video strips: Duplicate Linked](duplicate-linked.md).
+- Open when you need Video strips: Duplicate: [Video strips: Duplicate](duplicate.md).
+- Open when you need Video strips: Editing Strips: [Video strips: Editing Strips](editing-strips.md).
+- Open when you need Video strips: Fades: [Video strips: Fades](fades.md).
+- Open when you need Video strips: Hold Split: [Video strips: Hold Split](hold-split.md).
+- Open when you need Video strips: Inputs: [Video strips: Inputs](inputs.md).
+- Open when you need Video strips: Insert Gaps: [Video strips: Insert Gaps](insert-gaps.md).
+- Open when you need Video strips: Lock/Mute: [Video strips: Lock/Mute](lock-mute.md).
+- Open when you need Video strips: Move/Extend from Current Frame: [Video strips: Move/Extend from Current Frame](move-extend-from-current-frame.md).
+- Open when you need Video strips: Move: [Video strips: Move](move.md).
+- Open when you need Video strips: Overlap Mode: [Video strips: Overlap Mode](overlap-mode.md).
+- Open when you need Video strips: Reassign Inputs: [Video strips: Reassign Inputs](reassign-inputs.md).
+- Open when you need Video strips: Remove Gaps (All): [Video strips: Remove Gaps (All)](remove-gaps-all.md).
+- Open when you need Video strips: Remove Gaps: [Video strips: Remove Gaps](remove-gaps.md).
+- Open when you need Video strips: Reset Retiming: [Video strips: Reset Retiming](reset-retiming.md).
+- Open when you need Video strips: Retiming Keys: [Video strips: Retiming Keys](retiming-keys.md).
+- Open when you need Video strips: Separate Images: [Video strips: Separate Images](separate-images.md).
+- Open when you need Video strips: Set Render Size: [Video strips: Set Render Size](set-render-size.md).
+- Open when you need Video strips: Set Speed: [Video strips: Set Speed](set-speed.md).
+- Open when you need Video strips: Slip Strip Contents: [Video strips: Slip Strip Contents](slip-strip-contents.md).
+- Open when you need Video strips: Snap Strips to the Current Frame: [Video strips: Snap Strips to the Current Frame](snap-strips-to-the-current-frame.md).
+- Open when you need Video strips: Snapping: [Video strips: Snapping](snapping.md).
+- Open when you need Video strips: Split: [Video strips: Split](split.md).
+- Open when you need Video strips: Strip handles — End Frame: [Video strips: Strip handles — End Frame](strip-handles-end-frame.md).
+- Open when you need Video strips: Strip handles — Start Frame Offset: [Video strips: Strip handles — Start Frame Offset](strip-handles-start-frame-offset.md).
+- Open when you need Video strips: Swap Inputs: [Video strips: Swap Inputs](swap-inputs.md).
+- Open when you need Video strips: Swap Strip: [Video strips: Swap Strip](swap-strip.md).
+- Open when you need Video strips: Toggle Retiming Keys: [Video strips: Toggle Retiming Keys](toggle-retiming-keys.md).
+- Open when you need Video strips: Update Scene Frame Range: [Video strips: Update Scene Frame Range](update-scene-frame-range.md).
+
+[Parent topics](../edit-montage/INDEX.md).

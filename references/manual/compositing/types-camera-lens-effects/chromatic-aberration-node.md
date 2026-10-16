@@ -1,0 +1,7 @@
+# Chromatic Aberration Node
+
+## Chromatic Aberration Node
+
+The Chromatic Aberration node simulates a lens dispersing light, refracting different wavelengths (colors) by slightly different amounts to produce subtle color fringing near edges or high-contrast transitions, for realistic lens simulation or stylistic distortion — and it can combine with effects like Vignette or Lens Distortion for convincing camera imperfections. Inputs: Image (standard color input); Type, the method used — Offset (shift individual color channels along X or Y, a simple fast way to get horizontal or vertical fringing), Scale (scale each channel differently from the center for radial dispersion), Directional Blur (blur channels along a direction for motion-like chromatic smearing), or Lens Dispersion (simulate wavelength-dependent refraction for realistic radial rainbow edges near the borders); Axis Offset (which axis the channel offsets occur along — Vertical or Horizontal); Factor (the aberration's intensity, higher values separating channels more); Center (Directional Blur — the pivot for directional transforms, in normalized 0.0-1.0 coordinates); Samples (Directional Blur — the directional-blur sample count, more samples being smoother but slower, the count being 2ⁿ and growing exponentially); and Fit (Lens Dispersion — scale the result to fit the frame, avoiding empty borders from radial dispersion). Output: Image (the result with chromatic aberration applied).
+
+[Related references](INDEX.md).

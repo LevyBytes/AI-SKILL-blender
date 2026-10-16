@@ -1,0 +1,81 @@
+# Grease pencil
+
+- Open when you need bpy.ops.grease_pencil.active_frame_delete: [bpy.ops.grease_pencil.active_frame_delete](grease-pencil-active-frame-delete.md).
+- Open when you need bpy.ops.grease_pencil.bake_grease_pencil_animation: [bpy.ops.grease_pencil.bake_grease_pencil_animation](grease-pencil-bake-grease-pencil-animation.md).
+- Open when you need bpy.ops.grease_pencil.brush_stroke: [bpy.ops.grease_pencil.brush_stroke](grease-pencil-brush-stroke.md).
+- Open when you need bpy.ops.grease_pencil.caps_set: [bpy.ops.grease_pencil.caps_set](grease-pencil-caps-set.md).
+- Open when you need bpy.ops.grease_pencil.clean_loose: [bpy.ops.grease_pencil.clean_loose](grease-pencil-clean-loose.md).
+- Open when you need bpy.ops.grease_pencil.convert_curve_type: [bpy.ops.grease_pencil.convert_curve_type](grease-pencil-convert-curve-type.md).
+- Open when you need bpy.ops.grease_pencil.copy: [bpy.ops.grease_pencil.copy](grease-pencil-copy.md).
+- Open when you need bpy.ops.grease_pencil.cyclical_set: [bpy.ops.grease_pencil.cyclical_set](grease-pencil-cyclical-set.md).
+- Open when you need bpy.ops.grease_pencil.delete_breakdown: [bpy.ops.grease_pencil.delete_breakdown](grease-pencil-delete-breakdown.md).
+- Open when you need bpy.ops.grease_pencil.delete_frame: [bpy.ops.grease_pencil.delete_frame](grease-pencil-delete-frame.md).
+- Open when you need bpy.ops.grease_pencil.delete: [bpy.ops.grease_pencil.delete](grease-pencil-delete.md).
+- Open when you need bpy.ops.grease_pencil.dissolve: [bpy.ops.grease_pencil.dissolve](grease-pencil-dissolve.md).
+- Open when you need bpy.ops.grease_pencil.duplicate_move: [bpy.ops.grease_pencil.duplicate_move](grease-pencil-duplicate-move.md).
+- Open when you need bpy.ops.grease_pencil.duplicate: [bpy.ops.grease_pencil.duplicate](grease-pencil-duplicate.md).
+- Open when you need bpy.ops.grease_pencil.erase_box: [bpy.ops.grease_pencil.erase_box](grease-pencil-erase-box.md).
+- Open when you need bpy.ops.grease_pencil.erase_lasso: [bpy.ops.grease_pencil.erase_lasso](grease-pencil-erase-lasso.md).
+- Open when you need bpy.ops.grease_pencil.extrude_move: [bpy.ops.grease_pencil.extrude_move](grease-pencil-extrude-move.md).
+- Open when you need bpy.ops.grease_pencil.extrude: [bpy.ops.grease_pencil.extrude](grease-pencil-extrude.md).
+- Open when you need bpy.ops.grease_pencil.fill: [bpy.ops.grease_pencil.fill](grease-pencil-fill.md).
+- Open when you need bpy.ops.grease_pencil.frame_clean_duplicate: [bpy.ops.grease_pencil.frame_clean_duplicate](grease-pencil-frame-clean-duplicate.md).
+- Open when you need bpy.ops.grease_pencil.frame_duplicate: [bpy.ops.grease_pencil.frame_duplicate](grease-pencil-frame-duplicate.md).
+- Open when you need bpy.ops.grease_pencil.insert_blank_frame: [bpy.ops.grease_pencil.insert_blank_frame](grease-pencil-insert-blank-frame.md).
+- Open when you need bpy.ops.grease_pencil.interpolate_sequence: [bpy.ops.grease_pencil.interpolate_sequence](grease-pencil-interpolate-sequence.md).
+- Open when you need bpy.ops.grease_pencil.interpolate: [bpy.ops.grease_pencil.interpolate](grease-pencil-interpolate.md).
+- Open when you need bpy.ops.grease_pencil.join_fills: [bpy.ops.grease_pencil.join_fills](grease-pencil-join-fills.md).
+- Open when you need bpy.ops.grease_pencil.join_selection: [bpy.ops.grease_pencil.join_selection](grease-pencil-join-selection.md).
+- Open when you need bpy.ops.grease_pencil.move_to_layer: [bpy.ops.grease_pencil.move_to_layer](grease-pencil-move-to-layer.md).
+- Open when you need bpy.ops.grease_pencil.outline: [bpy.ops.grease_pencil.outline](grease-pencil-outline.md).
+- Open when you need bpy.ops.grease_pencil.paintmode_toggle: [bpy.ops.grease_pencil.paintmode_toggle](grease-pencil-paintmode-toggle.md).
+- Open when you need bpy.ops.grease_pencil.paste: [bpy.ops.grease_pencil.paste](grease-pencil-paste.md).
+- Open when you need bpy.ops.grease_pencil.pen: [bpy.ops.grease_pencil.pen](grease-pencil-pen.md).
+- Open when you need bpy.ops.grease_pencil.relative_layer_mask_add: [bpy.ops.grease_pencil.relative_layer_mask_add](grease-pencil-relative-layer-mask-add.md).
+- Open when you need bpy.ops.grease_pencil.remove_fill_guides: [bpy.ops.grease_pencil.remove_fill_guides](grease-pencil-remove-fill-guides.md).
+- Open when you need bpy.ops.grease_pencil.reorder: [bpy.ops.grease_pencil.reorder](grease-pencil-reorder.md).
+- Open when you need bpy.ops.grease_pencil.reproject: [bpy.ops.grease_pencil.reproject](grease-pencil-reproject.md).
+- Open when you need bpy.ops.grease_pencil.reset_uvs: [bpy.ops.grease_pencil.reset_uvs](grease-pencil-reset-uvs.md).
+- Open when you need bpy.ops.grease_pencil.sculpt_paint: [bpy.ops.grease_pencil.sculpt_paint](grease-pencil-sculpt-paint.md).
+- Open when you need bpy.ops.grease_pencil.sculptmode_toggle: [bpy.ops.grease_pencil.sculptmode_toggle](grease-pencil-sculptmode-toggle.md).
+- Open when you need bpy.ops.grease_pencil.select_all: [bpy.ops.grease_pencil.select_all](grease-pencil-select-all.md).
+- Open when you need bpy.ops.grease_pencil.select_alternate: [bpy.ops.grease_pencil.select_alternate](grease-pencil-select-alternate.md).
+- Open when you need bpy.ops.grease_pencil.select_by_stroke_type: [bpy.ops.grease_pencil.select_by_stroke_type](grease-pencil-select-by-stroke-type.md).
+- Open when you need bpy.ops.grease_pencil.select_ends: [bpy.ops.grease_pencil.select_ends](grease-pencil-select-ends.md).
+- Open when you need bpy.ops.grease_pencil.select_fill: [bpy.ops.grease_pencil.select_fill](grease-pencil-select-fill.md).
+- Open when you need bpy.ops.grease_pencil.select_less: [bpy.ops.grease_pencil.select_less](grease-pencil-select-less.md).
+- Open when you need bpy.ops.grease_pencil.select_linked: [bpy.ops.grease_pencil.select_linked](grease-pencil-select-linked.md).
+- Open when you need bpy.ops.grease_pencil.select_more: [bpy.ops.grease_pencil.select_more](grease-pencil-select-more.md).
+- Open when you need bpy.ops.grease_pencil.select_random: [bpy.ops.grease_pencil.select_random](grease-pencil-select-random.md).
+- Open when you need bpy.ops.grease_pencil.select_similar: [bpy.ops.grease_pencil.select_similar](grease-pencil-select-similar.md).
+- Open when you need bpy.ops.grease_pencil.separate_fills: [bpy.ops.grease_pencil.separate_fills](grease-pencil-separate-fills.md).
+- Open when you need bpy.ops.grease_pencil.separate: [bpy.ops.grease_pencil.separate](grease-pencil-separate.md).
+- Open when you need bpy.ops.grease_pencil.set_active_material: [bpy.ops.grease_pencil.set_active_material](grease-pencil-set-active-material.md).
+- Open when you need bpy.ops.grease_pencil.set_corner_type: [bpy.ops.grease_pencil.set_corner_type](grease-pencil-set-corner-type.md).
+- Open when you need bpy.ops.grease_pencil.set_curve_resolution: [bpy.ops.grease_pencil.set_curve_resolution](grease-pencil-set-curve-resolution.md).
+- Open when you need bpy.ops.grease_pencil.set_curve_type: [bpy.ops.grease_pencil.set_curve_type](grease-pencil-set-curve-type.md).
+- Open when you need bpy.ops.grease_pencil.set_handle_type: [bpy.ops.grease_pencil.set_handle_type](grease-pencil-set-handle-type.md).
+- Open when you need bpy.ops.grease_pencil.set_material: [bpy.ops.grease_pencil.set_material](grease-pencil-set-material.md).
+- Open when you need bpy.ops.grease_pencil.set_selection_mode: [bpy.ops.grease_pencil.set_selection_mode](grease-pencil-set-selection-mode.md).
+- Open when you need bpy.ops.grease_pencil.set_start_point: [bpy.ops.grease_pencil.set_start_point](grease-pencil-set-start-point.md).
+- Open when you need bpy.ops.grease_pencil.set_stroke_type: [bpy.ops.grease_pencil.set_stroke_type](grease-pencil-set-stroke-type.md).
+- Open when you need bpy.ops.grease_pencil.set_uniform_opacity: [bpy.ops.grease_pencil.set_uniform_opacity](grease-pencil-set-uniform-opacity.md).
+- Open when you need bpy.ops.grease_pencil.set_uniform_thickness: [bpy.ops.grease_pencil.set_uniform_thickness](grease-pencil-set-uniform-thickness.md).
+- Open when you need bpy.ops.grease_pencil.snap_cursor_to_selected: [bpy.ops.grease_pencil.snap_cursor_to_selected](grease-pencil-snap-cursor-to-selected.md).
+- Open when you need bpy.ops.grease_pencil.snap_to_cursor: [bpy.ops.grease_pencil.snap_to_cursor](grease-pencil-snap-to-cursor.md).
+- Open when you need bpy.ops.grease_pencil.snap_to_grid: [bpy.ops.grease_pencil.snap_to_grid](grease-pencil-snap-to-grid.md).
+- Open when you need bpy.ops.grease_pencil.texture_gradient: [bpy.ops.grease_pencil.texture_gradient](grease-pencil-texture-gradient.md).
+- Open when you need bpy.ops.grease_pencil.trace_image: [bpy.ops.grease_pencil.trace_image](grease-pencil-trace-image.md).
+- Open when you need bpy.ops.grease_pencil.vertexmode_toggle: [bpy.ops.grease_pencil.vertexmode_toggle](grease-pencil-vertexmode-toggle.md).
+- Open when you need bpy.ops.grease_pencil.weight_brush_stroke: [bpy.ops.grease_pencil.weight_brush_stroke](grease-pencil-weight-brush-stroke.md).
+- Open when you need bpy.ops.grease_pencil.weight_invert: [bpy.ops.grease_pencil.weight_invert](grease-pencil-weight-invert.md).
+- Open when you need bpy.ops.grease_pencil.weight_sample: [bpy.ops.grease_pencil.weight_sample](grease-pencil-weight-sample.md).
+- Open when you need bpy.ops.grease_pencil.weight_toggle_direction: [bpy.ops.grease_pencil.weight_toggle_direction](grease-pencil-weight-toggle-direction.md).
+- Open when you need bpy.ops.grease_pencil.weightmode_toggle: [bpy.ops.grease_pencil.weightmode_toggle](grease-pencil-weightmode-toggle.md).
+- Open when you need Layer operations: [Layer operations](../grease-pencil-layer-operations/INDEX.md).
+- Open when you need Material operations: [Material operations](../grease-pencil-material-operations/INDEX.md).
+- Open when you need Primitive operations: [Primitive operations](../grease-pencil-primitive-operations/INDEX.md).
+- Open when you need Stroke operations: [Stroke operations](../grease-pencil-stroke-operations/INDEX.md).
+- Open when you need Vertex operations: [Vertex operations](../grease-pencil-vertex-operations/INDEX.md).
+
+[Parent topics](../INDEX.md).

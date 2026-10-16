@@ -1,0 +1,7 @@
+# Armature Constraint
+
+## Armature Constraint
+
+The Armature constraint transforms an owner object or bone by the weighted pose transforms of one or more target bones — like the Armature Modifier, which does this for every mesh vertex, except the constraint also uses bones whose Deform option is off. (The Child Of Constraint is an alternative when there's a single parent, which can also be an object.) Options: Preserve Volume (stop the owner shrinking when target bones rotate relative to each other); Use Envelopes (use envelopes to weaken farther target bones' influence — for best results set every bone's Weight to 1.0); Use Current Location, bone constraint only (by default it uses the owner bone's rest location to find nearby envelopes and B-Bone segments; this uses the current location instead, including pose and prior constraints — objects have no rest location, so they always use the current one); Add Target Bone (add a Bones-list entry); Normalize Weights (make the Bones-list weights sum to 1.0); and Influence. Note that, unlike the modifier, the constraint doesn't auto-detect nearby bones — each must be added by hand. Bones sub-options: the list of target bones, each with Target (the armature holding the bone — and the constraint, unlike the modifier, can use bones from different armatures), Sub-Target (the bone's name), a remove button, and Weight (which, with the modifier, would come from a vertex group instead).
+
+[Related references](INDEX.md).

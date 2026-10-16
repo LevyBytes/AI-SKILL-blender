@@ -1,0 +1,5 @@
+# Introduction
+
+Once an armature is skinned, you configure it into positions called poses by transforming the bones, which deforms or transforms the skinned objects. You can't do this in Edit Mode (which edits the default "rest" position) or Object Mode (which transforms whole objects), so armatures have a third mode for posing: Pose Mode. In rest position (from Edit Mode) each bone's position/rotation are neutral (0.0) and scale is 1.0, so editing a bone in Pose Mode creates an offset from its rest position — similar to relative shape keys or Delta Transformations. Even for purely static uses, posing is closely tied to animation, so if you're new to Blender animation it's worth reading the animation chapter first. Visualization — Bone state colors: a bone's color reflects its state, with six codes in precedence order (the bone takes the color of the lowest valid state): Gray (default), Blue wireframe (in Pose Mode), Green (with a constraint), Yellow (with an IK Solver constraint), and Orange (with a Targetless Solver constraint); when bone colors are enabled, they override the state colors.
+
+[Related references](INDEX.md).

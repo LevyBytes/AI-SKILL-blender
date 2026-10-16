@@ -1,0 +1,15 @@
+# bpy.ops.fluid.free_mesh
+
+bpy.ops.fluid.free_mesh()
+
+Wipe Fluid Outline
+
+Returns:
+
+Result of the operator call.
+
+Return type:
+
+set[Literal[Operator Return Items]]
+
+[Related references](INDEX.md).

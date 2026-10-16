@@ -1,0 +1,43 @@
+# Brush gpencil settings
+
+- Open when you need bpy.types.BrushGpencilSettings: active_smooth_factor: [bpy.types.BrushGpencilSettings: active_smooth_factor](brush-gpencil-settings-active-smooth-factor.md).
+- Open when you need bpy.types.BrushGpencilSettings: angle, angle_factor: [bpy.types.BrushGpencilSettings: angle, angle_factor](brush-gpencil-settings-angle.md).
+- Open when you need bpy.types.BrushGpencilSettings: aspect: [bpy.types.BrushGpencilSettings: aspect](brush-gpencil-settings-aspect.md).
+- Open when you need bpy.types.BrushGpencilSettings: brush_draw_mode: [bpy.types.BrushGpencilSettings: brush_draw_mode](brush-gpencil-settings-brush-draw-mode.md).
+- Open when you need bpy.types.BrushGpencilSettings: caps_type: [bpy.types.BrushGpencilSettings: caps_type](brush-gpencil-settings-caps-type.md).
+- Open when you need bpy.types.BrushGpencilSettings: curve_jitter, curve_random_hue, curve_random_pressure, curve_random_saturation, curve_random_strength, curve_random_uv, curve_random_value, curve_sensitivity, curve_strength: [bpy.types.BrushGpencilSettings: curve_jitter, curve_random_hue, curve_random_pressure, curve_random_saturation, curve_random_strength, curve_random_uv, curve_random_value, curve_sensitivity, curve_strength](brush-gpencil-settings-curve.md).
+- Open when you need bpy.types.BrushGpencilSettings: dilate: [bpy.types.BrushGpencilSettings: dilate](brush-gpencil-settings-dilate.md).
+- Open when you need bpy.types.BrushGpencilSettings: eraser_mode, eraser_strength_factor, eraser_thickness_factor: [bpy.types.BrushGpencilSettings: eraser_mode, eraser_strength_factor, eraser_thickness_factor](brush-gpencil-settings-eraser.md).
+- Open when you need bpy.types.BrushGpencilSettings: extend_stroke_factor: [bpy.types.BrushGpencilSettings: extend_stroke_factor](brush-gpencil-settings-extend-stroke-factor.md).
+- Open when you need bpy.types.BrushGpencilSettings: fill_direction, fill_draw_mode, fill_extend_mode, fill_factor, fill_layer_mode, fill_simplify_level, fill_threshold: [bpy.types.BrushGpencilSettings: fill_direction, fill_draw_mode, fill_extend_mode, fill_factor, fill_layer_mode, fill_simplify_level, fill_threshold](brush-gpencil-settings-fill.md).
+- Open when you need bpy.types.BrushGpencilSettings: hardness: [bpy.types.BrushGpencilSettings: hardness](brush-gpencil-settings-hardness.md).
+- Open when you need bpy.types.BrushGpencilSettings: input_samples: [bpy.types.BrushGpencilSettings: input_samples](brush-gpencil-settings-input-samples.md).
+- Open when you need bpy.types.BrushGpencilSettings: material, material_alt: [bpy.types.BrushGpencilSettings: material, material_alt](brush-gpencil-settings-material.md).
+- Open when you need bpy.types.BrushGpencilSettings: methods: [bpy.types.BrushGpencilSettings: methods](brush-gpencil-settings-methods.md).
+- Open when you need bpy.types.BrushGpencilSettings: outline_thickness_factor: [bpy.types.BrushGpencilSettings: outline_thickness_factor](brush-gpencil-settings-outline-thickness-factor.md).
+- Open when you need bpy.types.BrushGpencilSettings: pen_jitter, pen_smooth_factor, pen_smooth_steps, pen_strength, pen_subdivision_steps: [bpy.types.BrushGpencilSettings: pen_jitter, pen_smooth_factor, pen_smooth_steps, pen_strength, pen_subdivision_steps](brush-gpencil-settings-pen.md).
+- Open when you need bpy.types.BrushGpencilSettings: pin_draw_mode: [bpy.types.BrushGpencilSettings: pin_draw_mode](brush-gpencil-settings-pin-draw-mode.md).
+- Open when you need bpy.types.BrushGpencilSettings: random_hue_factor, random_pressure, random_saturation_factor, random_strength, random_value_factor: [bpy.types.BrushGpencilSettings: random_hue_factor, random_pressure, random_saturation_factor, random_strength, random_value_factor](brush-gpencil-settings-random.md).
+- Open when you need bpy.types.BrushGpencilSettings: show_fill, show_fill_boundary, show_fill_extend: [bpy.types.BrushGpencilSettings: show_fill, show_fill_boundary, show_fill_extend](brush-gpencil-settings-show-fill.md).
+- Open when you need bpy.types.BrushGpencilSettings: show_lasso: [bpy.types.BrushGpencilSettings: show_lasso](brush-gpencil-settings-show-lasso.md).
+- Open when you need bpy.types.BrushGpencilSettings: simplify_factor, simplify_pixel_threshold: [bpy.types.BrushGpencilSettings: simplify_factor, simplify_pixel_threshold](brush-gpencil-settings-simplify.md).
+- Open when you need bpy.types.BrushGpencilSettings: stroke_type: [bpy.types.BrushGpencilSettings: stroke_type](brush-gpencil-settings-stroke-type.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_active_layer_only: [bpy.types.BrushGpencilSettings: use_active_layer_only](brush-gpencil-settings-use-active.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_auto_remove_fill_guides: [bpy.types.BrushGpencilSettings: use_auto_remove_fill_guides](brush-gpencil-settings-use-auto.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_collide_strokes: [bpy.types.BrushGpencilSettings: use_collide_strokes](brush-gpencil-settings-use-collide.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_edit_position, use_edit_strength, use_edit_thickness, use_edit_uv: [bpy.types.BrushGpencilSettings: use_edit_position, use_edit_strength, use_edit_thickness, use_edit_uv](brush-gpencil-settings-use-edit.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_fill_limit: [bpy.types.BrushGpencilSettings: use_fill_limit](brush-gpencil-settings-use-fill.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_jitter_pressure: [bpy.types.BrushGpencilSettings: use_jitter_pressure](brush-gpencil-settings-use-jitter.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_keep_caps_eraser: [bpy.types.BrushGpencilSettings: use_keep_caps_eraser](brush-gpencil-settings-use-keep.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_material_pin: [bpy.types.BrushGpencilSettings: use_material_pin](brush-gpencil-settings-use-material.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_occlude_eraser: [bpy.types.BrushGpencilSettings: use_occlude_eraser](brush-gpencil-settings-use-occlude.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_pressure: [bpy.types.BrushGpencilSettings: use_pressure](brush-gpencil-settings-use-pressure.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_random_press_hue, use_random_press_radius, use_random_press_sat, use_random_press_strength, use_random_press_uv, use_random_press_val: [bpy.types.BrushGpencilSettings: use_random_press_hue, use_random_press_radius, use_random_press_sat, use_random_press_strength, use_random_press_uv, use_random_press_val](brush-gpencil-settings-use-random.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_settings_outline, use_settings_postprocess, use_settings_random, use_settings_stabilizer: [bpy.types.BrushGpencilSettings: use_settings_outline, use_settings_postprocess, use_settings_random, use_settings_stabilizer](brush-gpencil-settings-use-settings.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_strength_pressure: [bpy.types.BrushGpencilSettings: use_strength_pressure](brush-gpencil-settings-use-strength.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_stroke_random_hue, use_stroke_random_radius, use_stroke_random_sat, use_stroke_random_strength, use_stroke_random_uv, use_stroke_random_val: [bpy.types.BrushGpencilSettings: use_stroke_random_hue, use_stroke_random_radius, use_stroke_random_sat, use_stroke_random_strength, use_stroke_random_uv, use_stroke_random_val](brush-gpencil-settings-use-stroke.md).
+- Open when you need bpy.types.BrushGpencilSettings: use_trim: [bpy.types.BrushGpencilSettings: use_trim](brush-gpencil-settings-use-trim.md).
+- Open when you need bpy.types.BrushGpencilSettings: uv_random: [bpy.types.BrushGpencilSettings: uv_random](brush-gpencil-settings-uv.md).
+- Open when you need bpy.types.BrushGpencilSettings: vertex_color_factor, vertex_mode: [bpy.types.BrushGpencilSettings: vertex_color_factor, vertex_mode](brush-gpencil-settings-vertex.md).
+
+[Parent topics](../sculpt-paint/INDEX.md).

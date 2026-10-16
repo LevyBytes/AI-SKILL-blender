@@ -1,0 +1,66 @@
+# Geometry
+
+- Open when you need Bezier spline point: [Bezier spline point](../geometry-bezier-spline-point/INDEX.md).
+- Open when you need Curve: [Curve](../geometry-curve/INDEX.md).
+- Open when you need bpy.types.CurveMapPoint: [bpy.types.CurveMapPoint](curve-map-point.md).
+- Open when you need bpy.types.CurveMapPoints: [bpy.types.CurveMapPoints](curve-map-points.md).
+- Open when you need bpy.types.CurveMap: [bpy.types.CurveMap](curve-map.md).
+- Open when you need Curve mapping: [Curve mapping](../geometry-curve-mapping/INDEX.md).
+- Open when you need Curve paint settings: [Curve paint settings](../geometry-curve-paint-settings/INDEX.md).
+- Open when you need bpy.types.CurvePoint: [bpy.types.CurvePoint](curve-point.md).
+- Open when you need Curve profile: [Curve profile](../geometry-curve-profile/INDEX.md).
+- Open when you need bpy.types.CurveProfilePoint: [bpy.types.CurveProfilePoint](curve-profile-point.md).
+- Open when you need bpy.types.CurveProfilePoints: [bpy.types.CurveProfilePoints](curve-profile-points.md).
+- Open when you need bpy.types.CurveSlice: [bpy.types.CurveSlice](curve-slice.md).
+- Open when you need bpy.types.CurveSplines: [bpy.types.CurveSplines](curve-splines.md).
+- Open when you need Curves: [Curves](../geometry-curves/INDEX.md).
+- Open when you need bpy.types.CurvesSculpt: [bpy.types.CurvesSculpt](curves-sculpt.md).
+- Open when you need Geometry set: [Geometry set](../geometry-geometry-set/INDEX.md).
+- Open when you need Lattice: [Lattice](../geometry-lattice/INDEX.md).
+- Open when you need bpy.types.LatticePoint: [bpy.types.LatticePoint](lattice-point.md).
+- Open when you need bpy.types.LoopColors: [bpy.types.LoopColors](loop-colors.md).
+- Open when you need Mesh: [Mesh](../geometry-mesh/INDEX.md).
+- Open when you need Mesh edge: [Mesh edge](../geometry-mesh-edge/INDEX.md).
+- Open when you need bpy.types.MeshEdges: [bpy.types.MeshEdges](mesh-edges.md).
+- Open when you need Mesh loop: [Mesh loop](../geometry-mesh-loop/INDEX.md).
+- Open when you need bpy.types.MeshLoopColorLayer: [bpy.types.MeshLoopColorLayer](mesh-loop-color-layer.md).
+- Open when you need bpy.types.MeshLoopColor: [bpy.types.MeshLoopColor](mesh-loop-color.md).
+- Open when you need Mesh loop triangle: [Mesh loop triangle](../geometry-mesh-loop-triangle/INDEX.md).
+- Open when you need bpy.types.MeshLoopTriangles: [bpy.types.MeshLoopTriangles](mesh-loop-triangles.md).
+- Open when you need bpy.types.MeshLoops: [bpy.types.MeshLoops](mesh-loops.md).
+- Open when you need bpy.types.MeshNormalValue: [bpy.types.MeshNormalValue](mesh-normal-value.md).
+- Open when you need Mesh polygon: [Mesh polygon](../geometry-mesh-polygon/INDEX.md).
+- Open when you need bpy.types.MeshPolygons: [bpy.types.MeshPolygons](mesh-polygons.md).
+- Open when you need bpy.types.MeshSkinVertexLayer: [bpy.types.MeshSkinVertexLayer](mesh-skin-vertex-layer.md).
+- Open when you need bpy.types.MeshSkinVertex: [bpy.types.MeshSkinVertex](mesh-skin-vertex.md).
+- Open when you need Mesh stat vis: [Mesh stat vis](../geometry-mesh-stat-vis/INDEX.md).
+- Open when you need Mesh uv loop layer: [Mesh uv loop layer](../geometry-mesh-uv-loop-layer/INDEX.md).
+- Open when you need bpy.types.MeshUVLoop: [bpy.types.MeshUVLoop](mesh-uv-loop.md).
+- Open when you need Mesh vertex: [Mesh vertex](../geometry-mesh-vertex/INDEX.md).
+- Open when you need bpy.types.MeshVertices: [bpy.types.MeshVertices](mesh-vertices.md).
+- Open when you need Meta ball: [Meta ball](../geometry-meta-ball/INDEX.md).
+- Open when you need bpy.types.MetaBallElements: [bpy.types.MetaBallElements](meta-ball-elements.md).
+- Open when you need Meta element: [Meta element](../geometry-meta-element/INDEX.md).
+- Open when you need bpy.types.PointCloud: [bpy.types.PointCloud](point-cloud.md).
+- Open when you need bpy.types.SelectedUvElement: [bpy.types.SelectedUvElement](selected-uv-element.md).
+- Open when you need Spline: [Spline](../geometry-spline/INDEX.md).
+- Open when you need bpy.types.SplineBezierPoints: [bpy.types.SplineBezierPoints](spline-bezier-points.md).
+- Open when you need Spline ik constraint: [Spline ik constraint](../geometry-spline-ik-constraint/INDEX.md).
+- Open when you need Spline point: [Spline point](../geometry-spline-point/INDEX.md).
+- Open when you need bpy.types.SplinePoints: [bpy.types.SplinePoints](spline-points.md).
+- Open when you need bpy.types.SurfaceCurve: [bpy.types.SurfaceCurve](surface-curve.md).
+- Open when you need Text curve: [Text curve](../geometry-text-curve/INDEX.md).
+- Open when you need bpy.types.UVLoopLayers: [bpy.types.UVLoopLayers](uv-loop-layers.md).
+- Open when you need bpy.types.UVProjector: [bpy.types.UVProjector](uv-projector.md).
+- Open when you need Vertex group: [Vertex group](../geometry-vertex-group/INDEX.md).
+- Open when you need bpy.types.VertexGroupElement: [bpy.types.VertexGroupElement](vertex-group-element.md).
+- Open when you need bpy.types.VertexGroups: [bpy.types.VertexGroups](vertex-groups.md).
+- Open when you need Volume: [Volume](../geometry-volume/INDEX.md).
+- Open when you need bpy.types.VolumeDisplaceModifier: [bpy.types.VolumeDisplaceModifier](volume-displace-modifier.md).
+- Open when you need Volume display: [Volume display](../geometry-volume-display/INDEX.md).
+- Open when you need Volume grid: [Volume grid](../geometry-volume-grid/INDEX.md).
+- Open when you need Volume grids: [Volume grids](../geometry-volume-grids/INDEX.md).
+- Open when you need bpy.types.VolumeRender: [bpy.types.VolumeRender](volume-render.md).
+- Open when you need Volume to mesh modifier: [Volume to mesh modifier](../geometry-volume-to-mesh-modifier/INDEX.md).
+
+[Parent topics](../INDEX.md).

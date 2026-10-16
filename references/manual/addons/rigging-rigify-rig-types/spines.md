@@ -1,0 +1,7 @@
+# Spines
+
+## Spines
+
+Rigify spine rigs generate spine structures including the head and tail. spines.super_spine builds a complete bendy, stretchy B-Bone spine from your chain's bone count and the chosen options; it's a composite wrapper around spines.basic_spine, spines.super_head, and spines.basic_tail (note that for the tail, the bone direction is reversed compared with the standalone rig), and the base system needs a chain of at least three connected bones. Its options: Pivot Position (the torso/hips pivot); Head (adds the neck and head systems); Neck Position (the bone where the neck system starts, with the chain's last bone always the head — set neck position to the last bone to build only the head and skip the neck); Tail (adds the tail system); Tail Position (the bone where the tail starts, with the next bone always the hips); X/Y/Z (when generating a tail, which local-axis rotations replicate along the chain); and Assign Tweak Layers. spines.basic_spine defines a bendy, stretchy B-Bone spine, with Pivot Position, Assign Tweak Layers, FK Controls (whether to generate an FK chain), and Assign FK Layers. spines.basic_tail defines a bendy, stretchy B-Bone tail, with X/Y/Z (which local-axis rotations replicate from each control bone to the next) and Assign Tweak Layers. spines.super_head defines a head rig with follow-torso controls, with Assign Tweak Layers.
+
+[Related references](INDEX.md).

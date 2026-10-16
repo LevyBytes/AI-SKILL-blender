@@ -1,0 +1,85 @@
+# Animation
+
+- Open when you need Action: [Action](../animation-action/INDEX.md).
+- Open when you need Action channelbag f curves: [Action channelbag f curves](../animation-action-channelbag-f-curves/INDEX.md).
+- Open when you need bpy.types.ActionChannelbagGroups: [bpy.types.ActionChannelbagGroups](action-channelbag-groups.md).
+- Open when you need bpy.types.ActionChannelbag: [bpy.types.ActionChannelbag](action-channelbag.md).
+- Open when you need bpy.types.ActionChannelbags: [bpy.types.ActionChannelbags](action-channelbags.md).
+- Open when you need bpy.types.ActionGroup — ActionGroup(bpy_struct): [bpy.types.ActionGroup — ActionGroup(bpy_struct)](action-group-action-group-bpy-struct.md).
+- Open when you need bpy.types.ActionGroup — class-contract, Inherited Properties, Inherited Functions, References, ActionGroup(bpy_struct): [bpy.types.ActionGroup — class-contract, Inherited Properties, Inherited Functions, References, ActionGroup(bpy_struct)](action-group-class-contract.md).
+- Open when you need bpy.types.ActionLayer: [bpy.types.ActionLayer](action-layer.md).
+- Open when you need bpy.types.ActionLayers: [bpy.types.ActionLayers](action-layers.md).
+- Open when you need bpy.types.ActionPoseMarkers: [bpy.types.ActionPoseMarkers](action-pose-markers.md).
+- Open when you need Action slot: [Action slot](../animation-action-slot/INDEX.md).
+- Open when you need Action slots: [Action slots](../animation-action-slots/INDEX.md).
+- Open when you need bpy.types.ActionStrips: [bpy.types.ActionStrips](action-strips.md).
+- Open when you need Anim data: [Anim data](../animation-anim-data/INDEX.md).
+- Open when you need Anim data drivers: [Anim data drivers](../animation-anim-data-drivers/INDEX.md).
+- Open when you need Anim viz motion paths: [Anim viz motion paths](../animation-anim-viz-motion-paths/INDEX.md).
+- Open when you need bpy.types.AnimViz: [bpy.types.AnimViz](anim-viz.md).
+- Open when you need Armature: [Armature](../animation-armature/INDEX.md).
+- Open when you need bpy.types.ArmatureBones: [bpy.types.ArmatureBones](armature-bones.md).
+- Open when you need bpy.types.ArmatureConstraintTargets: [bpy.types.ArmatureConstraintTargets](armature-constraint-targets.md).
+- Open when you need bpy.types.ArmatureEditBones: [bpy.types.ArmatureEditBones](armature-edit-bones.md).
+- Open when you need Bone: [Bone](../animation-bone/INDEX.md).
+- Open when you need Bone collection: [Bone collection](../animation-bone-collection/INDEX.md).
+- Open when you need bpy.types.BoneCollectionMemberships: [bpy.types.BoneCollectionMemberships](bone-collection-memberships.md).
+- Open when you need Bone collections: [Bone collections](../animation-bone-collections/INDEX.md).
+- Open when you need bpy.types.BoneColor: [bpy.types.BoneColor](bone-color.md).
+- Open when you need bpy.types.ChannelDriverVariables: [bpy.types.ChannelDriverVariables](channel-driver-variables.md).
+- Open when you need Dope sheet: [Dope sheet](../animation-dope-sheet/INDEX.md).
+- Open when you need Driver target: [Driver target](../animation-driver-target/INDEX.md).
+- Open when you need bpy.types.DriverVariable: [bpy.types.DriverVariable](driver-variable.md).
+- Open when you need bpy.types.Driver: [bpy.types.Driver](driver.md).
+- Open when you need Edit bone: [Edit bone](../animation-edit-bone/INDEX.md).
+- Open when you need F curve: [F curve](../animation-f-curve/INDEX.md).
+- Open when you need F curve keyframe points: [F curve keyframe points](../animation-f-curve-keyframe-points/INDEX.md).
+- Open when you need bpy.types.FCurveModifiers: [bpy.types.FCurveModifiers](f-curve-modifiers.md).
+- Open when you need bpy.types.FCurveSample: [bpy.types.FCurveSample](f-curve-sample.md).
+- Open when you need F modifier: [F modifier](../animation-f-modifier/INDEX.md).
+- Open when you need F modifier cycles: [F modifier cycles](../animation-f-modifier-cycles/INDEX.md).
+- Open when you need bpy.types.FModifierEnvelopeControlPoint: [bpy.types.FModifierEnvelopeControlPoint](f-modifier-envelope-control-point.md).
+- Open when you need bpy.types.FModifierEnvelopeControlPoints: [bpy.types.FModifierEnvelopeControlPoints](f-modifier-envelope-control-points.md).
+- Open when you need bpy.types.FModifierEnvelope: [bpy.types.FModifierEnvelope](f-modifier-envelope.md).
+- Open when you need F modifier function generator: [F modifier function generator](../animation-f-modifier-function-generator/INDEX.md).
+- Open when you need bpy.types.FModifierGenerator: [bpy.types.FModifierGenerator](f-modifier-generator.md).
+- Open when you need F modifier limits: [F modifier limits](../animation-f-modifier-limits/INDEX.md).
+- Open when you need F modifier noise: [F modifier noise](../animation-f-modifier-noise/INDEX.md).
+- Open when you need bpy.types.FModifierSmooth: [bpy.types.FModifierSmooth](f-modifier-smooth.md).
+- Open when you need bpy.types.FModifierStepped: [bpy.types.FModifierStepped](f-modifier-stepped.md).
+- Open when you need bpy.types.IKParam: [bpy.types.IKParam](ik-param.md).
+- Open when you need Itasc: [Itasc](../animation-itasc/INDEX.md).
+- Open when you need bpy.types.KeyConfigPreferences: [bpy.types.KeyConfigPreferences](key-config-preferences.md).
+- Open when you need bpy.types.KeyConfig: [bpy.types.KeyConfig](key-config.md).
+- Open when you need Key configurations: [Key configurations](../animation-key-configurations/INDEX.md).
+- Open when you need Key map: [Key map](../animation-key-map/INDEX.md).
+- Open when you need Key map item: [Key map item](../animation-key-map-item/INDEX.md).
+- Open when you need Key map items: [Key map items](../animation-key-map-items/INDEX.md).
+- Open when you need Key maps: [Key maps](../animation-key-maps/INDEX.md).
+- Open when you need bpy.types.Key: [bpy.types.Key](key.md).
+- Open when you need Keyframe: [Keyframe](../animation-keyframe/INDEX.md).
+- Open when you need Keying set: [Keying set](../animation-keying-set/INDEX.md).
+- Open when you need bpy.types.KeyingSetInfo — class-contract, Inherited Properties, Inherited Functions, References, KeyingSetInfo(bpy_struct): [bpy.types.KeyingSetInfo — class-contract, Inherited Properties, Inherited Functions, References, KeyingSetInfo(bpy_struct)](keying-set-info-class-contract.md).
+- Open when you need bpy.types.KeyingSetInfo — KeyingSetInfo(bpy_struct): [bpy.types.KeyingSetInfo — KeyingSetInfo(bpy_struct)](keying-set-info-keying-set-info-bpy-struct.md).
+- Open when you need Keying set path: [Keying set path](../animation-keying-set-path/INDEX.md).
+- Open when you need bpy.types.KeyingSetPaths — class-contract, Inherited Properties, Inherited Functions, References, KeyingSetPaths(bpy_prop_collection): [bpy.types.KeyingSetPaths — class-contract, Inherited Properties, Inherited Functions, References, KeyingSetPaths(bpy_prop_collection)](keying-set-paths-class-contract.md).
+- Open when you need bpy.types.KeyingSetPaths — KeyingSetPaths(bpy_prop_collection): [bpy.types.KeyingSetPaths — KeyingSetPaths(bpy_prop_collection)](keying-set-paths-keying-set-paths-bpy-prop-collection.md).
+- Open when you need bpy.types.KeyingSetsAll: [bpy.types.KeyingSetsAll](keying-sets-all.md).
+- Open when you need bpy.types.KeyingSets: [bpy.types.KeyingSets](keying-sets.md).
+- Open when you need Motion path: [Motion path](../animation-motion-path/INDEX.md).
+- Open when you need bpy.types.MotionPathVert: [bpy.types.MotionPathVert](motion-path-vert.md).
+- Open when you need bpy.types.NlaStripFCurves: [bpy.types.NlaStripFCurves](nla-strip-f-curves.md).
+- Open when you need bpy.types.NlaStrips: [bpy.types.NlaStrips](nla-strips.md).
+- Open when you need Nla track: [Nla track](../animation-nla-track/INDEX.md).
+- Open when you need bpy.types.NlaTracks: [bpy.types.NlaTracks](nla-tracks.md).
+- Open when you need Pose: [Pose](../animation-pose/INDEX.md).
+- Open when you need Pose bone: [Pose bone](../animation-pose-bone/INDEX.md).
+- Open when you need Pose bone constraints: [Pose bone constraints](../animation-pose-bone-constraints/INDEX.md).
+- Open when you need Shape key: [Shape key](../animation-shape-key/INDEX.md).
+- Open when you need bpy.types.ShapeKeyBezierPoint: [bpy.types.ShapeKeyBezierPoint](shape-key-bezier-point.md).
+- Open when you need bpy.types.ShapeKeyCurvePoint: [bpy.types.ShapeKeyCurvePoint](shape-key-curve-point.md).
+- Open when you need bpy.types.ShapeKeyPoint: [bpy.types.ShapeKeyPoint](shape-key-point.md).
+- Open when you need bpy.types.TimelineMarker: [bpy.types.TimelineMarker](timeline-marker.md).
+- Open when you need bpy.types.TimelineMarkers: [bpy.types.TimelineMarkers](timeline-markers.md).
+
+[Parent topics](../INDEX.md).

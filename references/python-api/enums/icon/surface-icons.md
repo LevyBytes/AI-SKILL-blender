@@ -1,0 +1,13 @@
+# Icon Items — surface icons
+
+| Value | Meaning |
+| --- | --- |
+| `SURFACE_DATA` | `SURFACE_DATA`. |
+| `SURFACE_NCIRCLE` | `SURFACE_NCIRCLE`. |
+| `SURFACE_NCURVE` | `SURFACE_NCURVE`. |
+| `SURFACE_NCYLINDER` | `SURFACE_NCYLINDER`. |
+| `SURFACE_NSPHERE` | `SURFACE_NSPHERE`. |
+| `SURFACE_NSURFACE` | `SURFACE_NSURFACE`. |
+| `SURFACE_NTORUS` | `SURFACE_NTORUS`. |
+
+[Related references](INDEX.md).

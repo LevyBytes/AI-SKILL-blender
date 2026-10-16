@@ -1,0 +1,7 @@
+# In-Betweens
+
+## In-Betweens
+
+In-Betweens: Pose Mode has several pose-editing tools, plus armature-specific options already covered in the editing pages (auto bone naming, property switching/enabling/disabling, and so on). Push Pose from Rest Pose (Pose Mode; Pose ‣ In-Betweens ‣ Push Pose from Rest Pose) is like Push Pose from Breakdown but interpolates toward the rest position, needing only one keyframe instead of two. Relax Pose to Rest Pose (Pose ‣ In-Betweens ‣ Relax Pose to Rest Pose) is like Relax Pose to Breakdown but brings the pose back toward rest, again needing one keyframe. Push Pose from Breakdown (Pose Mode; Toolbar ‣ In-Betweens Tools ‣ Push; Pose ‣ In-Betweens ‣ Push Pose from Breakdown; Ctrl-E) interpolates the current pose toward the next keyframed position. Relax Pose to Breakdown (Toolbar ‣ In-Betweens Tools ‣ Relax; Pose ‣ In-Betweens ‣ Relax Pose to Breakdown; Alt-E) is for keyed bones: when you edit one away from its keyed position, this gradually brings it back, with smaller steps as it nears. Pose Breakdowner (Toolbar region ‣ In-Betweens Tools ‣ Breakdowner; Pose ‣ In-Betweens ‣ Pose Breakdowner; LMB-drag) makes a suitable breakdown pose on the current frame, and can be constrained while active by pressing G/R/S (move/rotate/scale), B (bendy bones), C (custom properties), or X/Y/Z (axes). Blend to Neighbor (Pose ‣ In-Betweens ‣ Blend to Neighbor; Shift-Alt-E) transitions the current pose toward the neighboring keyframes, and needs a keyframe both before and after the current frame.
+
+[Related references](INDEX.md).

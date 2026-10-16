@@ -1,0 +1,46 @@
+# Sound
+
+- Open when you need aud.Sound: accumulate(additive=False): [aud.Sound: accumulate(additive=False)](sound-accumulate.md).
+- Open when you need aud.Sound: addSound(sound): [aud.Sound: addSound(sound)](sound-add-sound.md).
+- Open when you need aud.Sound: ADSR(attack, decay, sustain, release): [aud.Sound: ADSR(attack, decay, sustain, release)](sound-adsr.md).
+- Open when you need aud.Sound: animateableTimeStretchPitchScale(fps , time_stretch, pitch_scale, quality, preserve_formant): [aud.Sound: animateableTimeStretchPitchScale(fps , time_stretch, pitch_scale, quality, preserve_formant)](sound-animateable-time-stretch-pitch-scale.md).
+- Open when you need aud.Sound: binaural(): [aud.Sound: binaural()](sound-binaural.md).
+- Open when you need aud.Sound: classmethod buffer(data, rate): [aud.Sound: classmethod buffer(data, rate)](sound-buffer.md).
+- Open when you need aud.Sound: cache(): [aud.Sound: cache()](sound-cache.md).
+- Open when you need aud.Sound: convolver(): [aud.Sound: convolver()](sound-convolver.md).
+- Open when you need aud.Sound: data(): [aud.Sound: data()](sound-data.md).
+- Open when you need aud.Sound: delay(time): [aud.Sound: delay(time)](sound-delay.md).
+- Open when you need aud.Sound: Echo(delay, feedback, mix): [aud.Sound: Echo(delay, feedback, mix)](sound-echo.md).
+- Open when you need aud.Sound: envelope(attack, release, threshold, arthreshold): [aud.Sound: envelope(attack, release, threshold, arthreshold)](sound-envelope.md).
+- Open when you need aud.Sound: fadein ( start , length ): [aud.Sound: fadein ( start , length )](sound-fadein.md).
+- Open when you need aud.Sound: fadeout ( start , length ): [aud.Sound: fadeout ( start , length )](sound-fadeout.md).
+- Open when you need aud.Sound: classmethod file(filename): [aud.Sound: classmethod file(filename)](sound-file.md).
+- Open when you need aud.Sound: filter ( b , a = (1,) ): [aud.Sound: filter ( b , a = (1,) )](sound-filter.md).
+- Open when you need aud.Sound: highpass ( frequency , Q = 0.5 ): [aud.Sound: highpass ( frequency , Q = 0.5 )](sound-highpass.md).
+- Open when you need aud.Sound: join ( sound ): [aud.Sound: join ( sound )](sound-join.md).
+- Open when you need aud.Sound: limit ( start , end ): [aud.Sound: limit ( start , end )](sound-limit.md).
+- Open when you need aud.Sound: classmethod list(): [aud.Sound: classmethod list()](sound-list.md).
+- Open when you need aud.Sound: loop ( count ): [aud.Sound: loop ( count )](sound-loop.md).
+- Open when you need aud.Sound: lowpass ( frequency , Q = 0.5 ): [aud.Sound: lowpass ( frequency , Q = 0.5 )](sound-lowpass.md).
+- Open when you need aud.Sound: mix ( sound ): [aud.Sound: mix ( sound )](sound-mix.md).
+- Open when you need aud.Sound: modulate ( sound ): [aud.Sound: modulate ( sound )](sound-modulate.md).
+- Open when you need aud.Sound: mutable ( ): [aud.Sound: mutable ( )](sound-mutable.md).
+- Open when you need aud.Sound: overview: [aud.Sound: overview](sound-overview.md).
+- Open when you need aud.Sound: pingpong ( ): [aud.Sound: pingpong ( )](sound-pingpong.md).
+- Open when you need aud.Sound: pitch ( factor ): [aud.Sound: pitch ( factor )](sound-pitch.md).
+- Open when you need aud.Sound: properties: [aud.Sound: properties](sound-properties.md).
+- Open when you need aud.Sound: rechannel ( channels ): [aud.Sound: rechannel ( channels )](sound-rechannel.md).
+- Open when you need aud.Sound: resample ( rate , quality ): [aud.Sound: resample ( rate , quality )](sound-resample.md).
+- Open when you need aud.Sound: reverse ( ): [aud.Sound: reverse ( )](sound-reverse.md).
+- Open when you need aud.Sound: classmethod sawtooth(frequency, rate=48000): [aud.Sound: classmethod sawtooth(frequency, rate=48000)](sound-sawtooth.md).
+- Open when you need aud.Sound: classmethod silence(rate=48000): [aud.Sound: classmethod silence(rate=48000)](sound-silence.md).
+- Open when you need aud.Sound: classmethod sine(frequency, rate=48000): [aud.Sound: classmethod sine(frequency, rate=48000)](sound-sine.md).
+- Open when you need aud.Sound: classmethod square(frequency, rate=48000): [aud.Sound: classmethod square(frequency, rate=48000)](sound-square.md).
+- Open when you need aud.Sound: sum ( ): [aud.Sound: sum ( )](sound-sum.md).
+- Open when you need aud.Sound: threshold ( threshold = 0 ): [aud.Sound: threshold ( threshold = 0 )](sound-threshold.md).
+- Open when you need aud.Sound: timeStretchPitchScale ( time_stretch , pitch_scale , quality , preserve_formant ): [aud.Sound: timeStretchPitchScale ( time_stretch , pitch_scale , quality , preserve_formant )](sound-time-stretch-pitch-scale.md).
+- Open when you need aud.Sound: classmethod triangle(frequency, rate=48000): [aud.Sound: classmethod triangle(frequency, rate=48000)](sound-triangle.md).
+- Open when you need aud.Sound: volume ( volume ): [aud.Sound: volume ( volume )](sound-volume.md).
+- Open when you need aud.Sound: write ( filename , rate , channels , format , container , codec , bitrate , buffersize ): [aud.Sound: write ( filename , rate , channels , format , container , codec , bitrate , buffersize )](sound-write.md).
+
+[Parent topics](../aud/INDEX.md).

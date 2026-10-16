@@ -1,0 +1,49 @@
+# Preferences edit
+
+- Open when you need bpy.types.PreferencesEdit: auto_keying_mode: [bpy.types.PreferencesEdit: auto_keying_mode](preferences-edit-auto-keying-mode.md).
+- Open when you need bpy.types.PreferencesEdit: collection_instance_empty_size: [bpy.types.PreferencesEdit: collection_instance_empty_size](preferences-edit-collection-instance-empty-size.md).
+- Open when you need bpy.types.PreferencesEdit: connect_strips_by_default: [bpy.types.PreferencesEdit: connect_strips_by_default](preferences-edit-connect-strips-by-default.md).
+- Open when you need bpy.types.PreferencesEdit: fcurve_new_auto_smoothing, fcurve_unselected_alpha: [bpy.types.PreferencesEdit: fcurve_new_auto_smoothing, fcurve_unselected_alpha](preferences-edit-fcurve.md).
+- Open when you need bpy.types.PreferencesEdit: grease_pencil_default_color, grease_pencil_eraser_radius, grease_pencil_euclidean_distance, grease_pencil_manhattan_distance: [bpy.types.PreferencesEdit: grease_pencil_default_color, grease_pencil_eraser_radius, grease_pencil_euclidean_distance, grease_pencil_manhattan_distance](preferences-edit-grease.md).
+- Open when you need bpy.types.PreferencesEdit: key_insert_channels: [bpy.types.PreferencesEdit: key_insert_channels](preferences-edit-key-insert-channels.md).
+- Open when you need bpy.types.PreferencesEdit: keyframe_new_handle_type, keyframe_new_interpolation_type: [bpy.types.PreferencesEdit: keyframe_new_handle_type, keyframe_new_interpolation_type](preferences-edit-keyframe.md).
+- Open when you need bpy.types.PreferencesEdit: material_link: [bpy.types.PreferencesEdit: material_link](preferences-edit-material-link.md).
+- Open when you need bpy.types.PreferencesEdit: methods: [bpy.types.PreferencesEdit: methods](preferences-edit-methods.md).
+- Open when you need bpy.types.PreferencesEdit: node_margin, node_preview_resolution, node_use_insert_offset: [bpy.types.PreferencesEdit: node_margin, node_preview_resolution, node_use_insert_offset](preferences-edit-node.md).
+- Open when you need bpy.types.PreferencesEdit: object_align: [bpy.types.PreferencesEdit: object_align](preferences-edit-object-align.md).
+- Open when you need bpy.types.PreferencesEdit: sculpt_paint_overlay_color: [bpy.types.PreferencesEdit: sculpt_paint_overlay_color](preferences-edit-sculpt-paint-overlay-color.md).
+- Open when you need bpy.types.PreferencesEdit: show_only_selected_curve_keyframes: [bpy.types.PreferencesEdit: show_only_selected_curve_keyframes](preferences-edit-show-only-selected-curve-keyframes.md).
+- Open when you need bpy.types.PreferencesEdit: undo_memory_limit, undo_steps: [bpy.types.PreferencesEdit: undo_memory_limit, undo_steps](preferences-edit-undo.md).
+- Open when you need bpy.types.PreferencesEdit: use_anim_channel_group_colors: [bpy.types.PreferencesEdit: use_anim_channel_group_colors](preferences-edit-use-anim-channel-group-colors.md).
+- Open when you need bpy.types.PreferencesEdit: use_auto_keyframe_insert_needed, use_auto_keying, use_auto_keying_warning: [bpy.types.PreferencesEdit: use_auto_keyframe_insert_needed, use_auto_keying, use_auto_keying_warning](preferences-edit-use-auto.md).
+- Open when you need bpy.types.PreferencesEdit: use_cursor_lock_adjust: [bpy.types.PreferencesEdit: use_cursor_lock_adjust](preferences-edit-use-cursor-lock-adjust.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_action: [bpy.types.PreferencesEdit: use_duplicate_action](preferences-edit-use-duplicate-action.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_armature: [bpy.types.PreferencesEdit: use_duplicate_armature](preferences-edit-use-duplicate-armature.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_camera: [bpy.types.PreferencesEdit: use_duplicate_camera](preferences-edit-use-duplicate-camera.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_curve: [bpy.types.PreferencesEdit: use_duplicate_curve](preferences-edit-use-duplicate-curve.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_curves: [bpy.types.PreferencesEdit: use_duplicate_curves](preferences-edit-use-duplicate-curves.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_grease_pencil: [bpy.types.PreferencesEdit: use_duplicate_grease_pencil](preferences-edit-use-duplicate-grease-pencil.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_lattice: [bpy.types.PreferencesEdit: use_duplicate_lattice](preferences-edit-use-duplicate-lattice.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_light: [bpy.types.PreferencesEdit: use_duplicate_light](preferences-edit-use-duplicate-light.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_lightprobe: [bpy.types.PreferencesEdit: use_duplicate_lightprobe](preferences-edit-use-duplicate-lightprobe.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_material: [bpy.types.PreferencesEdit: use_duplicate_material](preferences-edit-use-duplicate-material.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_mesh: [bpy.types.PreferencesEdit: use_duplicate_mesh](preferences-edit-use-duplicate-mesh.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_metaball: [bpy.types.PreferencesEdit: use_duplicate_metaball](preferences-edit-use-duplicate-metaball.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_node_tree: [bpy.types.PreferencesEdit: use_duplicate_node_tree](preferences-edit-use-duplicate-node-tree.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_particle: [bpy.types.PreferencesEdit: use_duplicate_particle](preferences-edit-use-duplicate-particle.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_pointcloud: [bpy.types.PreferencesEdit: use_duplicate_pointcloud](preferences-edit-use-duplicate-pointcloud.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_speaker: [bpy.types.PreferencesEdit: use_duplicate_speaker](preferences-edit-use-duplicate-speaker.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_surface: [bpy.types.PreferencesEdit: use_duplicate_surface](preferences-edit-use-duplicate-surface.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_text: [bpy.types.PreferencesEdit: use_duplicate_text](preferences-edit-use-duplicate-text.md).
+- Open when you need bpy.types.PreferencesEdit: use_duplicate_volume: [bpy.types.PreferencesEdit: use_duplicate_volume](preferences-edit-use-duplicate-volume.md).
+- Open when you need bpy.types.PreferencesEdit: use_enter_edit_mode: [bpy.types.PreferencesEdit: use_enter_edit_mode](preferences-edit-use-enter-edit-mode.md).
+- Open when you need bpy.types.PreferencesEdit: use_fcurve_high_quality_drawing: [bpy.types.PreferencesEdit: use_fcurve_high_quality_drawing](preferences-edit-use-fcurve-high-quality-drawing.md).
+- Open when you need bpy.types.PreferencesEdit: use_global_undo: [bpy.types.PreferencesEdit: use_global_undo](preferences-edit-use-global-undo.md).
+- Open when you need bpy.types.PreferencesEdit: use_insertkey_xyz_to_rgb: [bpy.types.PreferencesEdit: use_insertkey_xyz_to_rgb](preferences-edit-use-insertkey-xyz-to-rgb.md).
+- Open when you need bpy.types.PreferencesEdit: use_keyframe_insert_available, use_keyframe_insert_needed: [bpy.types.PreferencesEdit: use_keyframe_insert_available, use_keyframe_insert_needed](preferences-edit-use-keyframe.md).
+- Open when you need bpy.types.PreferencesEdit: use_mouse_depth_cursor: [bpy.types.PreferencesEdit: use_mouse_depth_cursor](preferences-edit-use-mouse-depth-cursor.md).
+- Open when you need bpy.types.PreferencesEdit: use_negative_frames: [bpy.types.PreferencesEdit: use_negative_frames](preferences-edit-use-negative-frames.md).
+- Open when you need bpy.types.PreferencesEdit: use_text_edit_auto_close: [bpy.types.PreferencesEdit: use_text_edit_auto_close](preferences-edit-use-text-edit-auto-close.md).
+- Open when you need bpy.types.PreferencesEdit: use_visual_keying: [bpy.types.PreferencesEdit: use_visual_keying](preferences-edit-use-visual-keying.md).
+
+[Parent topics](../preferences/INDEX.md).

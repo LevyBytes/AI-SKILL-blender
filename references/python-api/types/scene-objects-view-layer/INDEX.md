@@ -1,0 +1,59 @@
+# View layer
+
+- Open when you need bpy.types.ViewLayer: active_aov, active_aov_index, active_layer_collection, active_lightgroup, active_lightgroup_index: [bpy.types.ViewLayer: active_aov, active_aov_index, active_layer_collection, active_lightgroup, active_lightgroup_index](view-layer-active.md).
+- Open when you need bpy.types.ViewLayer: aovs: [bpy.types.ViewLayer: aovs](view-layer-aovs.md).
+- Open when you need bpy.types.ViewLayer: cycles: [bpy.types.ViewLayer: cycles](view-layer-cycles.md).
+- Open when you need bpy.types.ViewLayer: depsgraph: [bpy.types.ViewLayer: depsgraph](view-layer-depsgraph.md).
+- Open when you need bpy.types.ViewLayer: eevee: [bpy.types.ViewLayer: eevee](view-layer-eevee.md).
+- Open when you need bpy.types.ViewLayer: freestyle_settings: [bpy.types.ViewLayer: freestyle_settings](view-layer-freestyle-settings.md).
+- Open when you need bpy.types.ViewLayer: has_export_collections: [bpy.types.ViewLayer: has_export_collections](view-layer-has-export-collections.md).
+- Open when you need bpy.types.ViewLayer: layer_collection: [bpy.types.ViewLayer: layer_collection](view-layer-layer-collection.md).
+- Open when you need bpy.types.ViewLayer: lightgroups: [bpy.types.ViewLayer: lightgroups](view-layer-lightgroups.md).
+- Open when you need bpy.types.ViewLayer: material_override: [bpy.types.ViewLayer: material_override](view-layer-material-override.md).
+- Open when you need bpy.types.ViewLayer: methods: [bpy.types.ViewLayer: methods](view-layer-methods.md).
+- Open when you need bpy.types.ViewLayer: name: [bpy.types.ViewLayer: name](view-layer-name.md).
+- Open when you need bpy.types.ViewLayer: objects: [bpy.types.ViewLayer: objects](view-layer-objects.md).
+- Open when you need bpy.types.ViewLayer: pass_alpha_threshold, pass_cryptomatte_depth: [bpy.types.ViewLayer: pass_alpha_threshold, pass_cryptomatte_depth](view-layer-pass.md).
+- Open when you need bpy.types.ViewLayer: samples: [bpy.types.ViewLayer: samples](view-layer-samples.md).
+- Open when you need bpy.types.ViewLayer: use_ao: [bpy.types.ViewLayer: use_ao](view-layer-use-ao.md).
+- Open when you need bpy.types.ViewLayer: use_freestyle: [bpy.types.ViewLayer: use_freestyle](view-layer-use-freestyle.md).
+- Open when you need bpy.types.ViewLayer: use_grease_pencil: [bpy.types.ViewLayer: use_grease_pencil](view-layer-use-grease-pencil.md).
+- Open when you need bpy.types.ViewLayer: use_motion_blur: [bpy.types.ViewLayer: use_motion_blur](view-layer-use-motion-blur.md).
+- Open when you need bpy.types.ViewLayer: use_pass_ambient_occlusion: [bpy.types.ViewLayer: use_pass_ambient_occlusion](view-layer-use-pass-ambient-occlusion.md).
+- Open when you need bpy.types.ViewLayer: use_pass_combined: [bpy.types.ViewLayer: use_pass_combined](view-layer-use-pass-combined.md).
+- Open when you need bpy.types.ViewLayer: use_pass_cryptomatte_accurate: [bpy.types.ViewLayer: use_pass_cryptomatte_accurate](view-layer-use-pass-cryptomatte-accurate.md).
+- Open when you need bpy.types.ViewLayer: use_pass_cryptomatte_asset: [bpy.types.ViewLayer: use_pass_cryptomatte_asset](view-layer-use-pass-cryptomatte-asset.md).
+- Open when you need bpy.types.ViewLayer: use_pass_cryptomatte_material: [bpy.types.ViewLayer: use_pass_cryptomatte_material](view-layer-use-pass-cryptomatte-material.md).
+- Open when you need bpy.types.ViewLayer: use_pass_cryptomatte_object: [bpy.types.ViewLayer: use_pass_cryptomatte_object](view-layer-use-pass-cryptomatte-object.md).
+- Open when you need bpy.types.ViewLayer: use_pass_diffuse_color: [bpy.types.ViewLayer: use_pass_diffuse_color](view-layer-use-pass-diffuse-color.md).
+- Open when you need bpy.types.ViewLayer: use_pass_diffuse_direct: [bpy.types.ViewLayer: use_pass_diffuse_direct](view-layer-use-pass-diffuse-direct.md).
+- Open when you need bpy.types.ViewLayer: use_pass_diffuse_indirect: [bpy.types.ViewLayer: use_pass_diffuse_indirect](view-layer-use-pass-diffuse-indirect.md).
+- Open when you need bpy.types.ViewLayer: use_pass_emit: [bpy.types.ViewLayer: use_pass_emit](view-layer-use-pass-emit.md).
+- Open when you need bpy.types.ViewLayer: use_pass_environment: [bpy.types.ViewLayer: use_pass_environment](view-layer-use-pass-environment.md).
+- Open when you need bpy.types.ViewLayer: use_pass_glossy_color: [bpy.types.ViewLayer: use_pass_glossy_color](view-layer-use-pass-glossy-color.md).
+- Open when you need bpy.types.ViewLayer: use_pass_glossy_direct: [bpy.types.ViewLayer: use_pass_glossy_direct](view-layer-use-pass-glossy-direct.md).
+- Open when you need bpy.types.ViewLayer: use_pass_glossy_indirect: [bpy.types.ViewLayer: use_pass_glossy_indirect](view-layer-use-pass-glossy-indirect.md).
+- Open when you need bpy.types.ViewLayer: use_pass_grease_pencil: [bpy.types.ViewLayer: use_pass_grease_pencil](view-layer-use-pass-grease-pencil.md).
+- Open when you need bpy.types.ViewLayer: use_pass_material_index: [bpy.types.ViewLayer: use_pass_material_index](view-layer-use-pass-material-index.md).
+- Open when you need bpy.types.ViewLayer: use_pass_mist: [bpy.types.ViewLayer: use_pass_mist](view-layer-use-pass-mist.md).
+- Open when you need bpy.types.ViewLayer: use_pass_normal: [bpy.types.ViewLayer: use_pass_normal](view-layer-use-pass-normal.md).
+- Open when you need bpy.types.ViewLayer: use_pass_object_index: [bpy.types.ViewLayer: use_pass_object_index](view-layer-use-pass-object-index.md).
+- Open when you need bpy.types.ViewLayer: use_pass_position: [bpy.types.ViewLayer: use_pass_position](view-layer-use-pass-position.md).
+- Open when you need bpy.types.ViewLayer: use_pass_shadow: [bpy.types.ViewLayer: use_pass_shadow](view-layer-use-pass-shadow.md).
+- Open when you need bpy.types.ViewLayer: use_pass_subsurface_color: [bpy.types.ViewLayer: use_pass_subsurface_color](view-layer-use-pass-subsurface-color.md).
+- Open when you need bpy.types.ViewLayer: use_pass_subsurface_direct: [bpy.types.ViewLayer: use_pass_subsurface_direct](view-layer-use-pass-subsurface-direct.md).
+- Open when you need bpy.types.ViewLayer: use_pass_subsurface_indirect: [bpy.types.ViewLayer: use_pass_subsurface_indirect](view-layer-use-pass-subsurface-indirect.md).
+- Open when you need bpy.types.ViewLayer: use_pass_transmission_color: [bpy.types.ViewLayer: use_pass_transmission_color](view-layer-use-pass-transmission-color.md).
+- Open when you need bpy.types.ViewLayer: use_pass_transmission_direct: [bpy.types.ViewLayer: use_pass_transmission_direct](view-layer-use-pass-transmission-direct.md).
+- Open when you need bpy.types.ViewLayer: use_pass_transmission_indirect: [bpy.types.ViewLayer: use_pass_transmission_indirect](view-layer-use-pass-transmission-indirect.md).
+- Open when you need bpy.types.ViewLayer: use_pass_uv: [bpy.types.ViewLayer: use_pass_uv](view-layer-use-pass-uv.md).
+- Open when you need bpy.types.ViewLayer: use_pass_vector: [bpy.types.ViewLayer: use_pass_vector](view-layer-use-pass-vector.md).
+- Open when you need bpy.types.ViewLayer: use_pass_z: [bpy.types.ViewLayer: use_pass_z](view-layer-use-pass-z.md).
+- Open when you need bpy.types.ViewLayer: use_sky: [bpy.types.ViewLayer: use_sky](view-layer-use-sky.md).
+- Open when you need bpy.types.ViewLayer: use_solid: [bpy.types.ViewLayer: use_solid](view-layer-use-solid.md).
+- Open when you need bpy.types.ViewLayer: use_strand: [bpy.types.ViewLayer: use_strand](view-layer-use-strand.md).
+- Open when you need bpy.types.ViewLayer: use_volumes: [bpy.types.ViewLayer: use_volumes](view-layer-use-volumes.md).
+- Open when you need bpy.types.ViewLayer: use: [bpy.types.ViewLayer: use](view-layer-use.md).
+- Open when you need bpy.types.ViewLayer: world_override: [bpy.types.ViewLayer: world_override](view-layer-world-override.md).
+
+[Parent topics](../scene-objects/INDEX.md).

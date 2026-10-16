@@ -1,0 +1,21 @@
+# bpy.ops.node.combine_bundle_item_move
+
+bpy.ops.node. combine_bundle_item_move ( * , direction = 'UP' , node_identifier = 0 ) 
+
+Shift working entry
+
+Parameters :
+
+- direction ( Literal [ 'UP' , 'DOWN' ] ) – Direction, Shift route (optional)
+
+- node_identifier ( int ) – Node Identifier, Discretionary label of the node to run on (in [0, inf], optional)
+
+Returns :
+
+Result of the operator call.
+
+Return type :
+
+set[Literal[Operator Return Items]]
+
+[Related references](INDEX.md).

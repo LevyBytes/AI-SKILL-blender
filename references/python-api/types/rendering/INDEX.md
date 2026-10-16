@@ -1,0 +1,45 @@
+# Rendering
+
+- Open when you need bpy.types.AOVs: [bpy.types.AOVs](ao-vs.md).
+- Open when you need bpy.types.AOV: [bpy.types.AOV](aov.md).
+- Open when you need Bake settings: [Bake settings](../rendering-bake-settings/INDEX.md).
+- Open when you need Camera: [Camera](../rendering-camera/INDEX.md).
+- Open when you need Camera background image: [Camera background image](../rendering-camera-background-image/INDEX.md).
+- Open when you need bpy.types.CameraBackgroundImages: [bpy.types.CameraBackgroundImages](camera-background-images.md).
+- Open when you need Camera dof settings: [Camera dof settings](../rendering-camera-dof-settings/INDEX.md).
+- Open when you need Camera stereo data: [Camera stereo data](../rendering-camera-stereo-data/INDEX.md).
+- Open when you need bpy.types.CryptomatteEntry: [bpy.types.CryptomatteEntry](cryptomatte-entry.md).
+- Open when you need bpy.types.DisplaySafeAreas: [bpy.types.DisplaySafeAreas](display-safe-areas.md).
+- Open when you need Freestyle line set: [Freestyle line set](../rendering-freestyle-line-set/INDEX.md).
+- Open when you need Freestyle line style: [Freestyle line style](../rendering-freestyle-line-style/INDEX.md).
+- Open when you need bpy.types.FreestyleModuleSettings: [bpy.types.FreestyleModuleSettings](freestyle-module-settings.md).
+- Open when you need bpy.types.FreestyleModules: [bpy.types.FreestyleModules](freestyle-modules.md).
+- Open when you need Freestyle settings: [Freestyle settings](../rendering-freestyle-settings/INDEX.md).
+- Open when you need Hydra render engine: [Hydra render engine](../rendering-hydra-render-engine/INDEX.md).
+- Open when you need Light: [Light](../rendering-light/INDEX.md).
+- Open when you need Light probe: [Light probe](../rendering-light-probe/INDEX.md).
+- Open when you need bpy.types.LightProbePlane: [bpy.types.LightProbePlane](light-probe-plane.md).
+- Open when you need bpy.types.LightProbeSphere — class-contract, Inherited Properties, Inherited Functions, LightProbeSphere(LightProbe): [bpy.types.LightProbeSphere — class-contract, Inherited Properties, Inherited Functions, LightProbeSphere(LightProbe)](light-probe-sphere-class-contract.md).
+- Open when you need bpy.types.LightProbeSphere — LightProbeSphere(LightProbe): [bpy.types.LightProbeSphere — LightProbeSphere(LightProbe)](light-probe-sphere-light-probe-sphere-light-probe.md).
+- Open when you need Light probe volume: [Light probe volume](../rendering-light-probe-volume/INDEX.md).
+- Open when you need bpy.types.Lightgroup: [bpy.types.Lightgroup](lightgroup.md).
+- Open when you need bpy.types.Lightgroups: [bpy.types.Lightgroups](lightgroups.md).
+- Open when you need Point light: [Point light](../rendering-point-light/INDEX.md).
+- Open when you need Raytrace eevee: [Raytrace eevee](../rendering-raytrace-eevee/INDEX.md).
+- Open when you need Render engine: [Render engine](../rendering-render-engine/INDEX.md).
+- Open when you need Render layer: [Render layer](../rendering-render-layer/INDEX.md).
+- Open when you need bpy.types.RenderPass: [bpy.types.RenderPass](render-pass.md).
+- Open when you need bpy.types.RenderPasses: [bpy.types.RenderPasses](render-passes.md).
+- Open when you need bpy.types.RenderResult — class-contract, Inherited Properties, Inherited Functions, References, RenderResult(bpy_struct): [bpy.types.RenderResult — class-contract, Inherited Properties, Inherited Functions, References, RenderResult(bpy_struct)](render-result-class-contract.md).
+- Open when you need bpy.types.RenderResult — RenderResult(bpy_struct): [bpy.types.RenderResult — RenderResult(bpy_struct)](render-result-render-result-bpy-struct.md).
+- Open when you need Render settings: [Render settings](../rendering-render-settings/INDEX.md).
+- Open when you need bpy.types.RenderSlot: [bpy.types.RenderSlot](render-slot.md).
+- Open when you need bpy.types.RenderSlots: [bpy.types.RenderSlots](render-slots.md).
+- Open when you need bpy.types.RenderView: [bpy.types.RenderView](render-view.md).
+- Open when you need bpy.types.RenderViews: [bpy.types.RenderViews](render-views.md).
+- Open when you need Spot light: [Spot light](../rendering-spot-light/INDEX.md).
+- Open when you need bpy.types.Stereo3dDisplay: [bpy.types.Stereo3dDisplay](stereo3d-display.md).
+- Open when you need Stereo3d format: [Stereo3d format](../rendering-stereo3d-format/INDEX.md).
+- Open when you need Sun light: [Sun light](../rendering-sun-light/INDEX.md).
+
+[Parent topics](../INDEX.md).

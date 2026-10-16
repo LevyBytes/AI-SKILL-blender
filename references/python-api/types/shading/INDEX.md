@@ -1,0 +1,60 @@
+# Shading
+
+- Open when you need Blend texture: [Blend texture](../shading-blend-texture/INDEX.md).
+- Open when you need Clouds texture: [Clouds texture](../shading-clouds-texture/INDEX.md).
+- Open when you need bpy.types.ColorManagedDisplaySettings: [bpy.types.ColorManagedDisplaySettings](color-managed-display-settings.md).
+- Open when you need bpy.types.ColorManagedInputColorspaceSettings: [bpy.types.ColorManagedInputColorspaceSettings](color-managed-input-colorspace-settings.md).
+- Open when you need bpy.types.ColorManagedSequencerColorspaceSettings: [bpy.types.ColorManagedSequencerColorspaceSettings](color-managed-sequencer-colorspace-settings.md).
+- Open when you need Color managed view settings: [Color managed view settings](../shading-color-managed-view-settings/INDEX.md).
+- Open when you need Color mapping: [Color mapping](../shading-color-mapping/INDEX.md).
+- Open when you need bpy.types.ColorRamp — class-contract, Inherited Properties, Inherited Functions, References, ColorRamp(bpy_struct): [bpy.types.ColorRamp — class-contract, Inherited Properties, Inherited Functions, References, ColorRamp(bpy_struct)](color-ramp-class-contract.md).
+- Open when you need bpy.types.ColorRamp — ColorRamp(bpy_struct), See also: [bpy.types.ColorRamp — ColorRamp(bpy_struct), See also](color-ramp-color-ramp-bpy-struct.md).
+- Open when you need bpy.types.ColorRampElement: [bpy.types.ColorRampElement](color-ramp-element.md).
+- Open when you need bpy.types.ColorRampElements: [bpy.types.ColorRampElements](color-ramp-elements.md).
+- Open when you need Distorted noise texture: [Distorted noise texture](../shading-distorted-noise-texture/INDEX.md).
+- Open when you need Geometry node image texture: [Geometry node image texture](../shading-geometry-node-image-texture/INDEX.md).
+- Open when you need bpy.types.Histogram: [bpy.types.Histogram](histogram.md).
+- Open when you need Image: [Image](../shading-image/INDEX.md).
+- Open when you need Image format settings: [Image format settings](../shading-image-format-settings/INDEX.md).
+- Open when you need bpy.types.ImagePackedFile: [bpy.types.ImagePackedFile](image-packed-file.md).
+- Open when you need Image paint: [Image paint](../shading-image-paint/INDEX.md).
+- Open when you need Image preview: [Image preview](../shading-image-preview/INDEX.md).
+- Open when you need Image texture: [Image texture](../shading-image-texture/INDEX.md).
+- Open when you need Image user: [Image user](../shading-image-user/INDEX.md).
+- Open when you need bpy.types.MagicTexture: [bpy.types.MagicTexture](magic-texture.md).
+- Open when you need Marble texture: [Marble texture](../shading-marble-texture/INDEX.md).
+- Open when you need Material: [Material](../shading-material/INDEX.md).
+- Open when you need Material g pencil style: [Material g pencil style](../shading-material-g-pencil-style/INDEX.md).
+- Open when you need bpy.types.MaterialLineArt: [bpy.types.MaterialLineArt](material-line-art.md).
+- Open when you need bpy.types.MaterialSlot: [bpy.types.MaterialSlot](material-slot.md).
+- Open when you need Musgrave texture: [Musgrave texture](../shading-musgrave-texture/INDEX.md).
+- Open when you need bpy.types.NodeSocketTexture: [bpy.types.NodeSocketTexture](node-socket-texture.md).
+- Open when you need bpy.types.NodeTreeInterfaceSocketTexture: [bpy.types.NodeTreeInterfaceSocketTexture](node-tree-interface-socket-texture.md).
+- Open when you need bpy.types.NoiseTexture: [bpy.types.NoiseTexture](noise-texture.md).
+- Open when you need Scopes: [Scopes](../shading-scopes/INDEX.md).
+- Open when you need bpy.types.ShaderFxBlur: [bpy.types.ShaderFxBlur](shader-fx-blur.md).
+- Open when you need bpy.types.ShaderFx — class-contract, Inherited Properties, Inherited Functions, References, ShaderFx(bpy_struct): [bpy.types.ShaderFx — class-contract, Inherited Properties, Inherited Functions, References, ShaderFx(bpy_struct)](shader-fx-class-contract.md).
+- Open when you need bpy.types.ShaderFxColorize: [bpy.types.ShaderFxColorize](shader-fx-colorize.md).
+- Open when you need bpy.types.ShaderFxFlip: [bpy.types.ShaderFxFlip](shader-fx-flip.md).
+- Open when you need Shader fx glow: [Shader fx glow](../shading-shader-fx-glow/INDEX.md).
+- Open when you need bpy.types.ShaderFxPixel: [bpy.types.ShaderFxPixel](shader-fx-pixel.md).
+- Open when you need bpy.types.ShaderFxRim: [bpy.types.ShaderFxRim](shader-fx-rim.md).
+- Open when you need bpy.types.ShaderFx — ShaderFx(bpy_struct): [bpy.types.ShaderFx — ShaderFx(bpy_struct)](shader-fx-shader-fx-bpy-struct.md).
+- Open when you need Shader fx shadow: [Shader fx shadow](../shading-shader-fx-shadow/INDEX.md).
+- Open when you need bpy.types.ShaderFxSwirl: [bpy.types.ShaderFxSwirl](shader-fx-swirl.md).
+- Open when you need bpy.types.ShaderFxWave: [bpy.types.ShaderFxWave](shader-fx-wave.md).
+- Open when you need Stucci texture: [Stucci texture](../shading-stucci-texture/INDEX.md).
+- Open when you need Tex mapping: [Tex mapping](../shading-tex-mapping/INDEX.md).
+- Open when you need bpy.types.TexPaintSlot: [bpy.types.TexPaintSlot](tex-paint-slot.md).
+- Open when you need Texture: [Texture](../shading-texture/INDEX.md).
+- Open when you need Texture node texture: [Texture node texture](../shading-texture-node-texture/INDEX.md).
+- Open when you need Texture slot: [Texture slot](../shading-texture-slot/INDEX.md).
+- Open when you need Udim tile: [Udim tile](../shading-udim-tile/INDEX.md).
+- Open when you need Udim tiles: [Udim tiles](../shading-udim-tiles/INDEX.md).
+- Open when you need Voronoi texture: [Voronoi texture](../shading-voronoi-texture/INDEX.md).
+- Open when you need Wood texture: [Wood texture](../shading-wood-texture/INDEX.md).
+- Open when you need World: [World](../shading-world/INDEX.md).
+- Open when you need bpy.types.WorldLighting: [bpy.types.WorldLighting](world-lighting.md).
+- Open when you need World mist settings: [World mist settings](../shading-world-mist-settings/INDEX.md).
+
+[Parent topics](../INDEX.md).

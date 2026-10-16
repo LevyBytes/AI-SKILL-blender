@@ -1,0 +1,13 @@
+# Icon Items — gp icons
+
+| Value | Meaning |
+| --- | --- |
+| `GP_MULTIFRAME_EDITING` | `GP_MULTIFRAME_EDITING`. |
+| `GP_ONLY_SELECTED` | `GP_ONLY_SELECTED`. |
+| `GP_SELECT_BETWEEN_STROKES` | `GP_SELECT_BETWEEN_STROKES`. |
+| `GP_SELECT_POINTS` | `GP_SELECT_POINTS`. |
+| `GP_SELECT_STROKES` | `GP_SELECT_STROKES`. |
+| `GP_CAPS_FLAT` | `GP_CAPS_FLAT`. |
+| `GP_CAPS_ROUND` | `GP_CAPS_ROUND`. |
+
+[Related references](INDEX.md).

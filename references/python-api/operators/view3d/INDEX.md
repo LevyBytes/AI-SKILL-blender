@@ -1,0 +1,52 @@
+# View3d
+
+- Open when you need Snap operations: [Snap operations](../view3d-snap-operations/INDEX.md).
+- Open when you need View operations: [View operations](../view3d-view-operations/INDEX.md).
+- Open when you need bpy.ops.view3d.bone_select_menu: [bpy.ops.view3d.bone_select_menu](view3d-bone-select-menu.md).
+- Open when you need bpy.ops.view3d.camera_background_image_add: [bpy.ops.view3d.camera_background_image_add](view3d-camera-background-image-add.md).
+- Open when you need bpy.ops.view3d.camera_background_image_remove: [bpy.ops.view3d.camera_background_image_remove](view3d-camera-background-image-remove.md).
+- Open when you need bpy.ops.view3d.camera_to_view_selected: [bpy.ops.view3d.camera_to_view_selected](view3d-camera-to-view-selected.md).
+- Open when you need bpy.ops.view3d.camera_to_view: [bpy.ops.view3d.camera_to_view](view3d-camera-to-view.md).
+- Open when you need bpy.ops.view3d.clear_render_border: [bpy.ops.view3d.clear_render_border](view3d-clear-render-border.md).
+- Open when you need bpy.ops.view3d.clip_border: [bpy.ops.view3d.clip_border](view3d-clip-border.md).
+- Open when you need bpy.ops.view3d.copybuffer: [bpy.ops.view3d.copybuffer](view3d-copybuffer.md).
+- Open when you need bpy.ops.view3d.cursor3d: [bpy.ops.view3d.cursor3d](view3d-cursor3d.md).
+- Open when you need bpy.ops.view3d.dolly: [bpy.ops.view3d.dolly](view3d-dolly.md).
+- Open when you need bpy.ops.view3d.drop_world: [bpy.ops.view3d.drop_world](view3d-drop-world.md).
+- Open when you need bpy.ops.view3d.edit_mesh_extrude_individual_move: [bpy.ops.view3d.edit_mesh_extrude_individual_move](view3d-edit-mesh-extrude-individual-move.md).
+- Open when you need bpy.ops.view3d.edit_mesh_extrude_manifold_normal: [bpy.ops.view3d.edit_mesh_extrude_manifold_normal](view3d-edit-mesh-extrude-manifold-normal.md).
+- Open when you need bpy.ops.view3d.edit_mesh_extrude_move_normal: [bpy.ops.view3d.edit_mesh_extrude_move_normal](view3d-edit-mesh-extrude-move-normal.md).
+- Open when you need bpy.ops.view3d.edit_mesh_extrude_move_shrink_fatten: [bpy.ops.view3d.edit_mesh_extrude_move_shrink_fatten](view3d-edit-mesh-extrude-move-shrink-fatten.md).
+- Open when you need bpy.ops.view3d.fly: [bpy.ops.view3d.fly](view3d-fly.md).
+- Open when you need bpy.ops.view3d.interactive_add: [bpy.ops.view3d.interactive_add](view3d-interactive-add.md).
+- Open when you need bpy.ops.view3d.localview_remove_from: [bpy.ops.view3d.localview_remove_from](view3d-localview-remove-from.md).
+- Open when you need bpy.ops.view3d.localview: [bpy.ops.view3d.localview](view3d-localview.md).
+- Open when you need bpy.ops.view3d.move: [bpy.ops.view3d.move](view3d-move.md).
+- Open when you need bpy.ops.view3d.navigate: [bpy.ops.view3d.navigate](view3d-navigate.md).
+- Open when you need bpy.ops.view3d.ndof_all: [bpy.ops.view3d.ndof_all](view3d-ndof-all.md).
+- Open when you need bpy.ops.view3d.ndof_orbit_zoom: [bpy.ops.view3d.ndof_orbit_zoom](view3d-ndof-orbit-zoom.md).
+- Open when you need bpy.ops.view3d.ndof_orbit: [bpy.ops.view3d.ndof_orbit](view3d-ndof-orbit.md).
+- Open when you need bpy.ops.view3d.ndof_pan: [bpy.ops.view3d.ndof_pan](view3d-ndof-pan.md).
+- Open when you need bpy.ops.view3d.object_as_camera: [bpy.ops.view3d.object_as_camera](view3d-object-as-camera.md).
+- Open when you need bpy.ops.view3d.object_mode_pie_or_toggle: [bpy.ops.view3d.object_mode_pie_or_toggle](view3d-object-mode-pie-or-toggle.md).
+- Open when you need bpy.ops.view3d.pastebuffer: [bpy.ops.view3d.pastebuffer](view3d-pastebuffer.md).
+- Open when you need bpy.ops.view3d.render_border: [bpy.ops.view3d.render_border](view3d-render-border.md).
+- Open when you need bpy.ops.view3d.rotate: [bpy.ops.view3d.rotate](view3d-rotate.md).
+- Open when you need bpy.ops.view3d.ruler_add: [bpy.ops.view3d.ruler_add](view3d-ruler-add.md).
+- Open when you need bpy.ops.view3d.ruler_remove: [bpy.ops.view3d.ruler_remove](view3d-ruler-remove.md).
+- Open when you need bpy.ops.view3d.select_box: [bpy.ops.view3d.select_box](view3d-select-box.md).
+- Open when you need bpy.ops.view3d.select_circle: [bpy.ops.view3d.select_circle](view3d-select-circle.md).
+- Open when you need bpy.ops.view3d.select_lasso: [bpy.ops.view3d.select_lasso](view3d-select-lasso.md).
+- Open when you need bpy.ops.view3d.select_menu: [bpy.ops.view3d.select_menu](view3d-select-menu.md).
+- Open when you need bpy.ops.view3d.select: [bpy.ops.view3d.select](view3d-select.md).
+- Open when you need bpy.ops.view3d.smoothview: [bpy.ops.view3d.smoothview](view3d-smoothview.md).
+- Open when you need bpy.ops.view3d.toggle_matcap_flip: [bpy.ops.view3d.toggle_matcap_flip](view3d-toggle-matcap-flip.md).
+- Open when you need bpy.ops.view3d.toggle_shading: [bpy.ops.view3d.toggle_shading](view3d-toggle-shading.md).
+- Open when you need bpy.ops.view3d.toggle_xray: [bpy.ops.view3d.toggle_xray](view3d-toggle-xray.md).
+- Open when you need bpy.ops.view3d.transform_gizmo_set: [bpy.ops.view3d.transform_gizmo_set](view3d-transform-gizmo-set.md).
+- Open when you need bpy.ops.view3d.walk: [bpy.ops.view3d.walk](view3d-walk.md).
+- Open when you need bpy.ops.view3d.zoom_border: [bpy.ops.view3d.zoom_border](view3d-zoom-border.md).
+- Open when you need bpy.ops.view3d.zoom_camera_1_to_1: [bpy.ops.view3d.zoom_camera_1_to_1](view3d-zoom-camera-1-to-1.md).
+- Open when you need bpy.ops.view3d.zoom: [bpy.ops.view3d.zoom](view3d-zoom.md).
+
+[Parent topics](../INDEX.md).

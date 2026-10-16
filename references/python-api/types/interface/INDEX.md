@@ -1,0 +1,66 @@
+# Interface
+
+- Open when you need Area: [Area](../interface-area/INDEX.md).
+- Open when you need Area light: [Area light](../interface-area-light/INDEX.md).
+- Open when you need bpy.types.AreaSpaces: [bpy.types.AreaSpaces](area-spaces.md).
+- Open when you need bpy.types.ConsoleLine: [bpy.types.ConsoleLine](console-line.md).
+- Open when you need Context: [Context](../interface-context/INDEX.md).
+- Open when you need Editors: [Editors](../interface-editors/INDEX.md).
+- Open when you need Event: [Event](../interface-event/INDEX.md).
+- Open when you need File asset select id filter: [File asset select id filter](../interface-file-asset-select-id-filter/INDEX.md).
+- Open when you need File asset select params: [File asset select params](../interface-file-asset-select-params/INDEX.md).
+- Open when you need bpy.types.FileBrowserFSMenuEntry: [bpy.types.FileBrowserFSMenuEntry](file-browser-fs-menu-entry.md).
+- Open when you need bpy.types.FileSelectEntry: [bpy.types.FileSelectEntry](file-select-entry.md).
+- Open when you need File select id filter: [File select id filter](../interface-file-select-id-filter/INDEX.md).
+- Open when you need File select params: [File select params](../interface-file-select-params/INDEX.md).
+- Open when you need Gizmo: [Gizmo](../interface-gizmo/INDEX.md).
+- Open when you need Gizmo group: [Gizmo group](../interface-gizmo-group/INDEX.md).
+- Open when you need bpy.types.GizmoGroupProperties: [bpy.types.GizmoGroupProperties](gizmo-group-properties.md).
+- Open when you need bpy.types.GizmoProperties: [bpy.types.GizmoProperties](gizmo-properties.md).
+- Open when you need bpy.types.Gizmos: [bpy.types.Gizmos](gizmos.md).
+- Open when you need bpy.types.Header: [bpy.types.Header](header.md).
+- Open when you need bpy.types.LayoutPanelState: [bpy.types.LayoutPanelState](layout-panel-state.md).
+- Open when you need Macro: [Macro](../interface-macro/INDEX.md).
+- Open when you need Menu: [Menu](../interface-menu/INDEX.md).
+- Open when you need bpy.types.NDOFMotionEventData: [bpy.types.NDOFMotionEventData](ndof-motion-event-data.md).
+- Open when you need Operator: [Operator](../interface-operator/INDEX.md).
+- Open when you need bpy.types.OperatorFileListElement: [bpy.types.OperatorFileListElement](operator-file-list-element.md).
+- Open when you need bpy.types.OperatorMacro: [bpy.types.OperatorMacro](operator-macro.md).
+- Open when you need bpy.types.OperatorMousePath: [bpy.types.OperatorMousePath](operator-mouse-path.md).
+- Open when you need bpy.types.OperatorOptions: [bpy.types.OperatorOptions](operator-options.md).
+- Open when you need bpy.types.OperatorProperties: [bpy.types.OperatorProperties](operator-properties.md).
+- Open when you need Operator stroke element: [Operator stroke element](../interface-operator-stroke-element/INDEX.md).
+- Open when you need Panel: [Panel](../interface-panel/INDEX.md).
+- Open when you need Region: [Region](../interface-region/INDEX.md).
+- Open when you need Region view3 d: [Region view3 d](../interface-region-view3-d/INDEX.md).
+- Open when you need Registered interface types: [Registered interface types](../interface-registered-interface-types/INDEX.md).
+- Open when you need Screen: [Screen](../interface-screen/INDEX.md).
+- Open when you need bpy.types.SpreadsheetColumnID: [bpy.types.SpreadsheetColumnID](spreadsheet-column-id.md).
+- Open when you need bpy.types.SpreadsheetColumn: [bpy.types.SpreadsheetColumn](spreadsheet-column.md).
+- Open when you need Spreadsheet row filter: [Spreadsheet row filter](../interface-spreadsheet-row-filter/INDEX.md).
+- Open when you need Spreadsheet table id geometry: [Spreadsheet table id geometry](../interface-spreadsheet-table-id-geometry/INDEX.md).
+- Open when you need bpy.types.SpreadsheetTableID: [bpy.types.SpreadsheetTableID](spreadsheet-table-id.md).
+- Open when you need bpy.types.SpreadsheetTable: [bpy.types.SpreadsheetTable](spreadsheet-table.md).
+- Open when you need bpy.types.SpreadsheetTables: [bpy.types.SpreadsheetTables](spreadsheet-tables.md).
+- Open when you need bpy.types.Timer: [bpy.types.Timer](timer.md).
+- Open when you need Tool settings: [Tool settings](../interface-tool-settings/INDEX.md).
+- Open when you need bpy.types.TransformOrientationSlot: [bpy.types.TransformOrientationSlot](transform-orientation-slot.md).
+- Open when you need bpy.types.TransformOrientation: [bpy.types.TransformOrientation](transform-orientation.md).
+- Open when you need Ui layout: [Ui layout](../interface-ui-layout/INDEX.md).
+- Open when you need Ui list: [Ui list](../interface-ui-list/INDEX.md).
+- Open when you need bpy.types.UIPieMenu: [bpy.types.UIPieMenu](ui-pie-menu.md).
+- Open when you need bpy.types.UIPopover: [bpy.types.UIPopover](ui-popover.md).
+- Open when you need bpy.types.UIPopupMenu: [bpy.types.UIPopupMenu](ui-popup-menu.md).
+- Open when you need bpy.types.View2D: [bpy.types.View2D](view2-d.md).
+- Open when you need bpy.types.View3DCursor: [bpy.types.View3DCursor](view3-d-cursor.md).
+- Open when you need View3 d overlay: [View3 d overlay](../interface-view3-d-overlay/INDEX.md).
+- Open when you need View3 d shading: [View3 d shading](../interface-view3-d-shading/INDEX.md).
+- Open when you need Virtual reality: [Virtual reality](../interface-virtual-reality/INDEX.md).
+- Open when you need Walk navigation: [Walk navigation](../interface-walk-navigation/INDEX.md).
+- Open when you need Window: [Window](../interface-window/INDEX.md).
+- Open when you need Window manager: [Window manager](../interface-window-manager/INDEX.md).
+- Open when you need bpy.types.Windows: [bpy.types.Windows](windows.md).
+- Open when you need Work space: [Work space](../interface-work-space/INDEX.md).
+- Open when you need Work space tool: [Work space tool](../interface-work-space-tool/INDEX.md).
+
+[Parent topics](../INDEX.md).

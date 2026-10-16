@@ -1,0 +1,45 @@
+# Handlers
+
+- Open when you need bpy.app.handlers: bpy.app.handlers. animation_playback_post: [bpy.app.handlers: bpy.app.handlers. animation_playback_post](handlers-animation-playback-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. animation_playback_pre: [bpy.app.handlers: bpy.app.handlers. animation_playback_pre](handlers-animation-playback-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. annotation_post: [bpy.app.handlers: bpy.app.handlers. annotation_post](handlers-annotation-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. annotation_pre: [bpy.app.handlers: bpy.app.handlers. annotation_pre](handlers-annotation-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. blend_import_post: [bpy.app.handlers: bpy.app.handlers. blend_import_post](handlers-blend-import-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. blend_import_pre: [bpy.app.handlers: bpy.app.handlers. blend_import_pre](handlers-blend-import-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. composite_cancel: [bpy.app.handlers: bpy.app.handlers. composite_cancel](handlers-composite-cancel.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. composite_post: [bpy.app.handlers: bpy.app.handlers. composite_post](handlers-composite-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. composite_pre: [bpy.app.handlers: bpy.app.handlers. composite_pre](handlers-composite-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. depsgraph_update_post: [bpy.app.handlers: bpy.app.handlers. depsgraph_update_post](handlers-depsgraph-update-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. depsgraph_update_pre: [bpy.app.handlers: bpy.app.handlers. depsgraph_update_pre](handlers-depsgraph-update-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. exit_pre: [bpy.app.handlers: bpy.app.handlers. exit_pre](handlers-exit-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. frame_change_post: [bpy.app.handlers: bpy.app.handlers. frame_change_post](handlers-frame-change-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. frame_change_pre: [bpy.app.handlers: bpy.app.handlers. frame_change_pre](handlers-frame-change-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. load_factory_preferences_post: [bpy.app.handlers: bpy.app.handlers. load_factory_preferences_post](handlers-load-factory-preferences-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. load_factory_startup_post: [bpy.app.handlers: bpy.app.handlers. load_factory_startup_post](handlers-load-factory-startup-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. load_post_fail: [bpy.app.handlers: bpy.app.handlers. load_post_fail](handlers-load-post-fail.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. load_post: [bpy.app.handlers: bpy.app.handlers. load_post](handlers-load-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. load_pre: [bpy.app.handlers: bpy.app.handlers. load_pre](handlers-load-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. object_bake_cancel: [bpy.app.handlers: bpy.app.handlers. object_bake_cancel](handlers-object-bake-cancel.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. object_bake_complete: [bpy.app.handlers: bpy.app.handlers. object_bake_complete](handlers-object-bake-complete.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. object_bake_pre: [bpy.app.handlers: bpy.app.handlers. object_bake_pre](handlers-object-bake-pre.md).
+- Open when you need bpy.app.handlers: overview: [bpy.app.handlers: overview](handlers-overview.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. persistent: [bpy.app.handlers: bpy.app.handlers. persistent](handlers-persistent.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. redo_post: [bpy.app.handlers: bpy.app.handlers. redo_post](handlers-redo-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. redo_pre: [bpy.app.handlers: bpy.app.handlers. redo_pre](handlers-redo-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. render_cancel: [bpy.app.handlers: bpy.app.handlers. render_cancel](handlers-render-cancel.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. render_complete: [bpy.app.handlers: bpy.app.handlers. render_complete](handlers-render-complete.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. render_init: [bpy.app.handlers: bpy.app.handlers. render_init](handlers-render-init.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. render_post: [bpy.app.handlers: bpy.app.handlers. render_post](handlers-render-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. render_pre: [bpy.app.handlers: bpy.app.handlers. render_pre](handlers-render-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. render_stats: [bpy.app.handlers: bpy.app.handlers. render_stats](handlers-render-stats.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. render_write: [bpy.app.handlers: bpy.app.handlers. render_write](handlers-render-write.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. save_post_fail: [bpy.app.handlers: bpy.app.handlers. save_post_fail](handlers-save-post-fail.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. save_post: [bpy.app.handlers: bpy.app.handlers. save_post](handlers-save-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. save_pre: [bpy.app.handlers: bpy.app.handlers. save_pre](handlers-save-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. translation_update_post: [bpy.app.handlers: bpy.app.handlers. translation_update_post](handlers-translation-update-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. undo_post: [bpy.app.handlers: bpy.app.handlers. undo_post](handlers-undo-post.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. undo_pre: [bpy.app.handlers: bpy.app.handlers. undo_pre](handlers-undo-pre.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. version_update: [bpy.app.handlers: bpy.app.handlers. version_update](handlers-version-update.md).
+- Open when you need bpy.app.handlers: bpy.app.handlers. xr_session_start_pre: [bpy.app.handlers: bpy.app.handlers. xr_session_start_pre](handlers-xr-session-start-pre.md).
+
+[Parent topics](../bpy-app/INDEX.md).

@@ -1,0 +1,41 @@
+# File select id filter
+
+- Open when you need bpy.types.FileSelectIDFilter: category_animation, category_environment, category_geometry, category_image, category_misc, category_object, category_scene, category_shading: [bpy.types.FileSelectIDFilter: category_animation, category_environment, category_geometry, category_image, category_misc, category_object, category_scene, category_shading](file-select-id-filter-category.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_action: [bpy.types.FileSelectIDFilter: filter_action](file-select-id-filter-filter-action.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_annotations: [bpy.types.FileSelectIDFilter: filter_annotations](file-select-id-filter-filter-annotations.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_armature: [bpy.types.FileSelectIDFilter: filter_armature](file-select-id-filter-filter-armature.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_brush: [bpy.types.FileSelectIDFilter: filter_brush](file-select-id-filter-filter-brush.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_cachefile: [bpy.types.FileSelectIDFilter: filter_cachefile](file-select-id-filter-filter-cachefile.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_camera: [bpy.types.FileSelectIDFilter: filter_camera](file-select-id-filter-filter-camera.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_curve: [bpy.types.FileSelectIDFilter: filter_curve](file-select-id-filter-filter-curve.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_curves: [bpy.types.FileSelectIDFilter: filter_curves](file-select-id-filter-filter-curves.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_font: [bpy.types.FileSelectIDFilter: filter_font](file-select-id-filter-filter-font.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_grease_pencil: [bpy.types.FileSelectIDFilter: filter_grease_pencil](file-select-id-filter-filter-grease-pencil.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_group: [bpy.types.FileSelectIDFilter: filter_group](file-select-id-filter-filter-group.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_image: [bpy.types.FileSelectIDFilter: filter_image](file-select-id-filter-filter-image.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_lattice: [bpy.types.FileSelectIDFilter: filter_lattice](file-select-id-filter-filter-lattice.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_light_probe: [bpy.types.FileSelectIDFilter: filter_light_probe](file-select-id-filter-filter-light-probe.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_light: [bpy.types.FileSelectIDFilter: filter_light](file-select-id-filter-filter-light.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_linestyle: [bpy.types.FileSelectIDFilter: filter_linestyle](file-select-id-filter-filter-linestyle.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_mask: [bpy.types.FileSelectIDFilter: filter_mask](file-select-id-filter-filter-mask.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_material: [bpy.types.FileSelectIDFilter: filter_material](file-select-id-filter-filter-material.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_mesh: [bpy.types.FileSelectIDFilter: filter_mesh](file-select-id-filter-filter-mesh.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_metaball: [bpy.types.FileSelectIDFilter: filter_metaball](file-select-id-filter-filter-metaball.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_movie_clip: [bpy.types.FileSelectIDFilter: filter_movie_clip](file-select-id-filter-filter-movie-clip.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_node_tree: [bpy.types.FileSelectIDFilter: filter_node_tree](file-select-id-filter-filter-node-tree.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_object: [bpy.types.FileSelectIDFilter: filter_object](file-select-id-filter-filter-object.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_paint_curve: [bpy.types.FileSelectIDFilter: filter_paint_curve](file-select-id-filter-filter-paint-curve.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_palette: [bpy.types.FileSelectIDFilter: filter_palette](file-select-id-filter-filter-palette.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_particle_settings: [bpy.types.FileSelectIDFilter: filter_particle_settings](file-select-id-filter-filter-particle-settings.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_pointcloud: [bpy.types.FileSelectIDFilter: filter_pointcloud](file-select-id-filter-filter-pointcloud.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_scene: [bpy.types.FileSelectIDFilter: filter_scene](file-select-id-filter-filter-scene.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_sound: [bpy.types.FileSelectIDFilter: filter_sound](file-select-id-filter-filter-sound.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_speaker: [bpy.types.FileSelectIDFilter: filter_speaker](file-select-id-filter-filter-speaker.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_text: [bpy.types.FileSelectIDFilter: filter_text](file-select-id-filter-filter-text.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_texture: [bpy.types.FileSelectIDFilter: filter_texture](file-select-id-filter-filter-texture.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_volume: [bpy.types.FileSelectIDFilter: filter_volume](file-select-id-filter-filter-volume.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_work_space: [bpy.types.FileSelectIDFilter: filter_work_space](file-select-id-filter-filter-work-space.md).
+- Open when you need bpy.types.FileSelectIDFilter: filter_world: [bpy.types.FileSelectIDFilter: filter_world](file-select-id-filter-filter-world.md).
+- Open when you need bpy.types.FileSelectIDFilter: methods: [bpy.types.FileSelectIDFilter: methods](file-select-id-filter-methods.md).
+
+[Parent topics](../interface/INDEX.md).

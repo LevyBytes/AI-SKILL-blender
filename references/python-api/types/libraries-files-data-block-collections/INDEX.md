@@ -1,0 +1,44 @@
+# Data block collections
+
+- Open when you need Blend data: [Blend data](../libraries-files-data-block-collections-blend-data/INDEX.md).
+- Open when you need bpy.types.BlendDataActions: [bpy.types.BlendDataActions](blend-data-actions.md).
+- Open when you need bpy.types.BlendDataAnnotations: [bpy.types.BlendDataAnnotations](blend-data-annotations.md).
+- Open when you need bpy.types.BlendDataArmatures: [bpy.types.BlendDataArmatures](blend-data-armatures.md).
+- Open when you need bpy.types.BlendDataBrushes — BlendDataBrushes(bpy_prop_collection): [bpy.types.BlendDataBrushes — BlendDataBrushes(bpy_prop_collection)](blend-data-brushes-blend-data-brushes-bpy-prop-collection.md).
+- Open when you need bpy.types.BlendDataBrushes — class-contract, Inherited Properties, Inherited Functions, References: [bpy.types.BlendDataBrushes — class-contract, Inherited Properties, Inherited Functions, References](blend-data-brushes-class-contract.md).
+- Open when you need bpy.types.BlendDataCacheFiles: [bpy.types.BlendDataCacheFiles](blend-data-cache-files.md).
+- Open when you need bpy.types.BlendDataCameras: [bpy.types.BlendDataCameras](blend-data-cameras.md).
+- Open when you need bpy.types.BlendDataCollections: [bpy.types.BlendDataCollections](blend-data-collections.md).
+- Open when you need bpy.types.BlendDataCurves: [bpy.types.BlendDataCurves](blend-data-curves.md).
+- Open when you need bpy.types.BlendDataFonts: [bpy.types.BlendDataFonts](blend-data-fonts.md).
+- Open when you need bpy.types.BlendDataGreasePencilsV3: [bpy.types.BlendDataGreasePencilsV3](blend-data-grease-pencils-v3.md).
+- Open when you need bpy.types.BlendDataHairCurves: [bpy.types.BlendDataHairCurves](blend-data-hair-curves.md).
+- Open when you need Blend data images: [Blend data images](../libraries-files-data-block-collections-blend-data-images/INDEX.md).
+- Open when you need bpy.types.BlendDataLattices: [bpy.types.BlendDataLattices](blend-data-lattices.md).
+- Open when you need Blend data libraries: [Blend data libraries](../libraries-files-data-block-collections-blend-data-libraries/INDEX.md).
+- Open when you need bpy.types.BlendDataLights: [bpy.types.BlendDataLights](blend-data-lights.md).
+- Open when you need bpy.types.BlendDataLineStyles: [bpy.types.BlendDataLineStyles](blend-data-line-styles.md).
+- Open when you need bpy.types.BlendDataMasks: [bpy.types.BlendDataMasks](blend-data-masks.md).
+- Open when you need Blend data materials: [Blend data materials](../libraries-files-data-block-collections-blend-data-materials/INDEX.md).
+- Open when you need Blend data meshes: [Blend data meshes](../libraries-files-data-block-collections-blend-data-meshes/INDEX.md).
+- Open when you need bpy.types.BlendDataMetaBalls: [bpy.types.BlendDataMetaBalls](blend-data-meta-balls.md).
+- Open when you need bpy.types.BlendDataMovieClips: [bpy.types.BlendDataMovieClips](blend-data-movie-clips.md).
+- Open when you need Blend data node trees: [Blend data node trees](../libraries-files-data-block-collections-blend-data-node-trees/INDEX.md).
+- Open when you need Blend data objects: [Blend data objects](../libraries-files-data-block-collections-blend-data-objects/INDEX.md).
+- Open when you need bpy.types.BlendDataPaintCurves: [bpy.types.BlendDataPaintCurves](blend-data-paint-curves.md).
+- Open when you need bpy.types.BlendDataPalettes: [bpy.types.BlendDataPalettes](blend-data-palettes.md).
+- Open when you need bpy.types.BlendDataParticles: [bpy.types.BlendDataParticles](blend-data-particles.md).
+- Open when you need bpy.types.BlendDataPointClouds: [bpy.types.BlendDataPointClouds](blend-data-point-clouds.md).
+- Open when you need bpy.types.BlendDataProbes: [bpy.types.BlendDataProbes](blend-data-probes.md).
+- Open when you need bpy.types.BlendDataScenes: [bpy.types.BlendDataScenes](blend-data-scenes.md).
+- Open when you need bpy.types.BlendDataScreens: [bpy.types.BlendDataScreens](blend-data-screens.md).
+- Open when you need bpy.types.BlendDataSounds: [bpy.types.BlendDataSounds](blend-data-sounds.md).
+- Open when you need bpy.types.BlendDataSpeakers: [bpy.types.BlendDataSpeakers](blend-data-speakers.md).
+- Open when you need bpy.types.BlendDataTexts: [bpy.types.BlendDataTexts](blend-data-texts.md).
+- Open when you need bpy.types.BlendDataTextures: [bpy.types.BlendDataTextures](blend-data-textures.md).
+- Open when you need bpy.types.BlendDataVolumes: [bpy.types.BlendDataVolumes](blend-data-volumes.md).
+- Open when you need bpy.types.BlendDataWindowManagers: [bpy.types.BlendDataWindowManagers](blend-data-window-managers.md).
+- Open when you need bpy.types.BlendDataWorkSpaces: [bpy.types.BlendDataWorkSpaces](blend-data-work-spaces.md).
+- Open when you need bpy.types.BlendDataWorlds: [bpy.types.BlendDataWorlds](blend-data-worlds.md).
+
+[Parent topics](../libraries-files/INDEX.md).

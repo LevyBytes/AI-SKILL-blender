@@ -1,0 +1,54 @@
+# Edit bone
+
+- Open when you need bpy.types.EditBone: bbone_curveinx: [bpy.types.EditBone: bbone_curveinx](edit-bone-bbone-curveinx.md).
+- Open when you need bpy.types.EditBone: bbone_curveinz: [bpy.types.EditBone: bbone_curveinz](edit-bone-bbone-curveinz.md).
+- Open when you need bpy.types.EditBone: bbone_curveoutx: [bpy.types.EditBone: bbone_curveoutx](edit-bone-bbone-curveoutx.md).
+- Open when you need bpy.types.EditBone: bbone_curveoutz: [bpy.types.EditBone: bbone_curveoutz](edit-bone-bbone-curveoutz.md).
+- Open when you need bpy.types.EditBone: bbone_custom_handle_end: [bpy.types.EditBone: bbone_custom_handle_end](edit-bone-bbone-custom-handle-end.md).
+- Open when you need bpy.types.EditBone: bbone_custom_handle_start: [bpy.types.EditBone: bbone_custom_handle_start](edit-bone-bbone-custom-handle-start.md).
+- Open when you need bpy.types.EditBone: bbone_easein: [bpy.types.EditBone: bbone_easein](edit-bone-bbone-easein.md).
+- Open when you need bpy.types.EditBone: bbone_easeout: [bpy.types.EditBone: bbone_easeout](edit-bone-bbone-easeout.md).
+- Open when you need bpy.types.EditBone: bbone_handle_type_end: [bpy.types.EditBone: bbone_handle_type_end](edit-bone-bbone-handle-type-end.md).
+- Open when you need bpy.types.EditBone: bbone_handle_type_start: [bpy.types.EditBone: bbone_handle_type_start](edit-bone-bbone-handle-type-start.md).
+- Open when you need bpy.types.EditBone: bbone_handle_use_ease_end: [bpy.types.EditBone: bbone_handle_use_ease_end](edit-bone-bbone-handle-use-ease-end.md).
+- Open when you need bpy.types.EditBone: bbone_handle_use_ease_start: [bpy.types.EditBone: bbone_handle_use_ease_start](edit-bone-bbone-handle-use-ease-start.md).
+- Open when you need bpy.types.EditBone: bbone_handle_use_scale_end: [bpy.types.EditBone: bbone_handle_use_scale_end](edit-bone-bbone-handle-use-scale-end.md).
+- Open when you need bpy.types.EditBone: bbone_handle_use_scale_start: [bpy.types.EditBone: bbone_handle_use_scale_start](edit-bone-bbone-handle-use-scale-start.md).
+- Open when you need bpy.types.EditBone: bbone_mapping_mode: [bpy.types.EditBone: bbone_mapping_mode](edit-bone-bbone-mapping-mode.md).
+- Open when you need bpy.types.EditBone: bbone_rollin: [bpy.types.EditBone: bbone_rollin](edit-bone-bbone-rollin.md).
+- Open when you need bpy.types.EditBone: bbone_rollout: [bpy.types.EditBone: bbone_rollout](edit-bone-bbone-rollout.md).
+- Open when you need bpy.types.EditBone: bbone_scalein: [bpy.types.EditBone: bbone_scalein](edit-bone-bbone-scalein.md).
+- Open when you need bpy.types.EditBone: bbone_scaleout: [bpy.types.EditBone: bbone_scaleout](edit-bone-bbone-scaleout.md).
+- Open when you need bpy.types.EditBone: bbone_segments: [bpy.types.EditBone: bbone_segments](edit-bone-bbone-segments.md).
+- Open when you need bpy.types.EditBone: bbone_x: [bpy.types.EditBone: bbone_x](edit-bone-bbone-x.md).
+- Open when you need bpy.types.EditBone: bbone_z: [bpy.types.EditBone: bbone_z](edit-bone-bbone-z.md).
+- Open when you need bpy.types.EditBone: collections: [bpy.types.EditBone: collections](edit-bone-collections.md).
+- Open when you need bpy.types.EditBone: color: [bpy.types.EditBone: color](edit-bone-color.md).
+- Open when you need bpy.types.EditBone: display_type: [bpy.types.EditBone: display_type](edit-bone-display-type.md).
+- Open when you need bpy.types.EditBone: envelope_distance, envelope_weight: [bpy.types.EditBone: envelope_distance, envelope_weight](edit-bone-envelope.md).
+- Open when you need bpy.types.EditBone: head, head_radius: [bpy.types.EditBone: head, head_radius](edit-bone-head.md).
+- Open when you need bpy.types.EditBone: hide_select: [bpy.types.EditBone: hide_select](edit-bone-hide-select.md).
+- Open when you need bpy.types.EditBone: hide: [bpy.types.EditBone: hide](edit-bone-hide.md).
+- Open when you need bpy.types.EditBone: inherit_scale: [bpy.types.EditBone: inherit_scale](edit-bone-inherit-scale.md).
+- Open when you need bpy.types.EditBone: length: [bpy.types.EditBone: length](edit-bone-length.md).
+- Open when you need bpy.types.EditBone: lock: [bpy.types.EditBone: lock](edit-bone-lock.md).
+- Open when you need bpy.types.EditBone: matrix: [bpy.types.EditBone: matrix](edit-bone-matrix.md).
+- Open when you need bpy.types.EditBone: methods — EditBone(bpy_struct), EditBone(bpy_struct), Inherited Properties, Inherited Functions: [bpy.types.EditBone: methods — EditBone(bpy_struct), EditBone(bpy_struct), Inherited Properties, Inherited Functions](edit-bone-methods-edit-bone-bpy-struct.md).
+- Open when you need bpy.types.EditBone: methods — References: [bpy.types.EditBone: methods — References](edit-bone-methods-references.md).
+- Open when you need bpy.types.EditBone: name: [bpy.types.EditBone: name](edit-bone-name.md).
+- Open when you need bpy.types.EditBone: parent: [bpy.types.EditBone: parent](edit-bone-parent.md).
+- Open when you need bpy.types.EditBone: roll: [bpy.types.EditBone: roll](edit-bone-roll.md).
+- Open when you need bpy.types.EditBone: select, select_head, select_tail: [bpy.types.EditBone: select, select_head, select_tail](edit-bone-select.md).
+- Open when you need bpy.types.EditBone: show_wire: [bpy.types.EditBone: show_wire](edit-bone-show-wire.md).
+- Open when you need bpy.types.EditBone: tail, tail_radius: [bpy.types.EditBone: tail, tail_radius](edit-bone-tail.md).
+- Open when you need bpy.types.EditBone: use_connect: [bpy.types.EditBone: use_connect](edit-bone-use-connect.md).
+- Open when you need bpy.types.EditBone: use_cyclic_offset: [bpy.types.EditBone: use_cyclic_offset](edit-bone-use-cyclic-offset.md).
+- Open when you need bpy.types.EditBone: use_deform: [bpy.types.EditBone: use_deform](edit-bone-use-deform.md).
+- Open when you need bpy.types.EditBone: use_endroll_as_inroll: [bpy.types.EditBone: use_endroll_as_inroll](edit-bone-use-endroll-as-inroll.md).
+- Open when you need bpy.types.EditBone: use_envelope_multiply: [bpy.types.EditBone: use_envelope_multiply](edit-bone-use-envelope-multiply.md).
+- Open when you need bpy.types.EditBone: use_inherit_rotation: [bpy.types.EditBone: use_inherit_rotation](edit-bone-use-inherit-rotation.md).
+- Open when you need bpy.types.EditBone: use_local_location: [bpy.types.EditBone: use_local_location](edit-bone-use-local-location.md).
+- Open when you need bpy.types.EditBone: use_relative_parent: [bpy.types.EditBone: use_relative_parent](edit-bone-use-relative-parent.md).
+- Open when you need bpy.types.EditBone: use_scale_easing: [bpy.types.EditBone: use_scale_easing](edit-bone-use-scale-easing.md).
+
+[Parent topics](../animation/INDEX.md).

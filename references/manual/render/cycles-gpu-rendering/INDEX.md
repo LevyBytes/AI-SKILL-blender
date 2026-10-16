@@ -1,0 +1,7 @@
+# Gpu rendering
+
+- Open when you need GPU Rendering: CUDA Error: Kernel compilation failed: [GPU Rendering: CUDA Error: Kernel compilation failed](gpu-rendering-cuda-error-kernel-compilation-failed.md).
+- Open when you need GPU Rendering: Metal – Apple (macOS), Limitations, Frequently Asked Questions, Why is Blender unresponsive during rendering?, Why does a scene that renders on the CPU not render on the GPU?, Can multiple GPUs be used for rendering?, Would multiple GPUs increase available memory?, What renders faster?, Error Messages, Error: Out of memory, The NVIDIA OpenGL driver lost connection with the display driver, Unsupported GNU version: [GPU Rendering: Metal – Apple (macOS), Limitations, Frequently Asked Questions, Why is Blender unresponsive during rendering?, Why does a scene that renders on the CPU not render on the GPU?, Can multiple GPUs be used for rendering?, Would multiple GPUs increase available memory?, What renders faster?, Error Messages, Error: Out of memory, The NVIDIA OpenGL driver lost connection with the display driver, Unsupported GNU version](gpu-rendering-metal-apple-mac-os-and-limitations.md).
+- Open when you need GPU Rendering: Rendering Technologies, CUDA – NVIDIA, OptiX – NVIDIA, HIP – AMD, oneAPI – Intel: [GPU Rendering: Rendering Technologies, CUDA – NVIDIA, OptiX – NVIDIA, HIP – AMD, oneAPI – Intel](gpu-rendering-rendering-technologies-and-cuda-nvidia.md).
+
+[Parent topics](../cycles/INDEX.md).

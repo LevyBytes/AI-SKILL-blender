@@ -1,0 +1,7 @@
+# Alpha Over Node
+
+## Alpha Over Node
+
+The Alpha Over node composites two images by layering the Foreground over the Background with standard alpha blending — commonly used to combine rendered elements, overlays, or effects in one image, such as text, logos, or transparent effects over footage. Inputs: Background (the background image); Foreground (the image placed over it); Factor (the foreground's opacity, 0 fully transparent to 1 fully opaque); Type, the compositing method — Over (the standard alpha-over, placing the foreground by its alpha), Disjoint Over (like Over but assuming the background was held out by the foreground, for cleaner edges when layering many), or Conjoint Over (like Over but assuming the foreground overlaps or extends into the background, for a more—but not fully—opaque foreground); and Straight Alpha (whether the foreground uses straight, non-premultiplied alpha — usually left off since most compositor images are premultiplied, enabled only if the foreground was explicitly converted to straight). Output: Image (the combined result). Examples — Disjoint/Conjoint/Over: the example shows how the methods differ, assembling four layers with Disjoint, Conjoint, and Over to create depth between overlapping elements. Fade In: a Time Curve Node animates the Factor from 0 to 1 over 30 frames for a smooth text fade-in over a background.
+
+[Related references](INDEX.md).

@@ -1,0 +1,30 @@
+# Icon Items — file icons
+
+| Value | Meaning |
+| --- | --- |
+| `FILE_NEW` | `FILE_NEW`. |
+| `FILE_TICK` | `FILE_TICK`. |
+| `FILE` | FILE. |
+| `FILE_ALIAS` | `FILE_ALIAS`. |
+| `FILE_FOLDER` | `FILE_FOLDER`. |
+| `FILE_3D` | `FILE_3D`. |
+| `FILE_ARCHIVE` | `FILE_ARCHIVE`. |
+| `FILE_BACKUP` | `FILE_BACKUP`. |
+| `FILE_BLANK` | `FILE_BLANK`. |
+| `FILE_BLEND` | `FILE_BLEND`. |
+| `FILE_CACHE` | `FILE_CACHE`. |
+| `FILE_FONT` | `FILE_FONT`. |
+| `FILE_HIDDEN` | `FILE_HIDDEN`. |
+| `FILE_IMAGE` | `FILE_IMAGE`. |
+| `FILE_MOVIE` | `FILE_MOVIE`. |
+| `FILE_PARENT` | `FILE_PARENT`. |
+| `FILE_REFRESH` | `FILE_REFRESH`. |
+| `FILE_SCRIPT` | `FILE_SCRIPT`. |
+| `FILE_SOUND` | `FILE_SOUND`. |
+| `FILE_TEXT` | `FILE_TEXT`. |
+| `FILE_VOLUME` | `FILE_VOLUME`. |
+| `FILE_FOLDER_LARGE` | `FILE_FOLDER_LARGE`. |
+| `FILE_LARGE` | `FILE_LARGE`. |
+| `FILE_PARENT_LARGE` | `FILE_PARENT_LARGE`. |
+
+[Related references](INDEX.md).

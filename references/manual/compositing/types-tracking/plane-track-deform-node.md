@@ -1,0 +1,7 @@
+# Plane Track Deform Node
+
+## Plane Track Deform Node
+
+The Plane Track Deform node replaces flat planes in footage with another image, using plane tracks from motion tracking. Before using it, make a plane track for the footage in the Movie Clip Editor. Inputs: Image (the image to place over the plane track, overriding that area in the clip). Motion Blur — whether to use blur from the plane track's motion: Samples (the samples per frame, higher being smoother but longer to render, since each virtual intermediate frame is rendered — and samples come only from the next frame, not the previous, so the blurred object appears slightly ahead) and Shutter (the time in frames the shutter is open — at 24 fps with Shutter 0.5, the 41.67 ms between frames means the shutter is open half that, 20.83 ms). Properties: Movie Clip (the clip whose plane track to use; see the Data-Block Menu), Object (the object the plane track links to), and Track (the plane track to use). Outputs: Image (the image perspective-wrapped to the plane track) and Plane (a black-and-white mask of the plane track). Examples: using the Image output is done simply with an Alpha Over node; using the Plane output mixes the clip and the image with the plane output as the factor. Image output vs original image: the Image output scales, moves, and skews the input image to the track, whereas using the original image mixed with the clip via the Plane output as factor shows the part of the image inside that mask.
+
+[Related references](INDEX.md).

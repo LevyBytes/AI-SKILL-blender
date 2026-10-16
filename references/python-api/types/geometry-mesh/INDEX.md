@@ -1,0 +1,54 @@
+# Mesh
+
+- Open when you need bpy.types.Mesh: animation_data: [bpy.types.Mesh: animation_data](mesh-animation-data.md).
+- Open when you need bpy.types.Mesh: attributes: [bpy.types.Mesh: attributes](mesh-attributes.md).
+- Open when you need bpy.types.Mesh: auto_texspace: [bpy.types.Mesh: auto_texspace](mesh-auto-texspace.md).
+- Open when you need bpy.types.Mesh: calc_tangents, calc_loop_triangles, calc_smooth_groups: [bpy.types.Mesh: calc_tangents, calc_loop_triangles, calc_smooth_groups](mesh-calc.md).
+- Open when you need bpy.types.Mesh: clear_geometry: [bpy.types.Mesh: clear_geometry](mesh-clear-geometry.md).
+- Open when you need bpy.types.Mesh: color_attributes: [bpy.types.Mesh: color_attributes](mesh-color-attributes.md).
+- Open when you need bpy.types.Mesh: corner_normals: [bpy.types.Mesh: corner_normals](mesh-corner-normals.md).
+- Open when you need bpy.types.Mesh: count_selected_items: [bpy.types.Mesh: count_selected_items](mesh-count-selected-items.md).
+- Open when you need bpy.types.Mesh: cycles: [bpy.types.Mesh: cycles](mesh-cycles.md).
+- Open when you need bpy.types.Mesh: edge_creases_ensure, edge_creases_remove: [bpy.types.Mesh: edge_creases_ensure, edge_creases_remove](mesh-edge-methods.md).
+- Open when you need bpy.types.Mesh: edge_creases, edge_keys: [bpy.types.Mesh: edge_creases, edge_keys](mesh-edge-properties.md).
+- Open when you need bpy.types.Mesh: edges: [bpy.types.Mesh: edges](mesh-edges.md).
+- Open when you need bpy.types.Mesh: overview: [bpy.types.Mesh: overview](mesh-examples-and-usage.md).
+- Open when you need bpy.types.Mesh: flip_normals: [bpy.types.Mesh: flip_normals](mesh-flip-normals.md).
+- Open when you need bpy.types.Mesh: free_tangents: [bpy.types.Mesh: free_tangents](mesh-free-tangents.md).
+- Open when you need bpy.types.Mesh: from_pydata: [bpy.types.Mesh: from_pydata](mesh-from-pydata.md).
+- Open when you need bpy.types.Mesh: has_custom_normals: [bpy.types.Mesh: has_custom_normals](mesh-has-custom-normals.md).
+- Open when you need bpy.types.Mesh: inheritance: [bpy.types.Mesh: inheritance](mesh-inheritance.md).
+- Open when you need bpy.types.Mesh: is_editmode: [bpy.types.Mesh: is_editmode](mesh-is-editmode.md).
+- Open when you need bpy.types.Mesh: loop_triangle_polygons, loop_triangles: [bpy.types.Mesh: loop_triangle_polygons, loop_triangles](mesh-loop.md).
+- Open when you need bpy.types.Mesh: loops: [bpy.types.Mesh: loops](mesh-loops.md).
+- Open when you need bpy.types.Mesh: materials: [bpy.types.Mesh: materials](mesh-materials.md).
+- Open when you need bpy.types.Mesh: normals_domain: [bpy.types.Mesh: normals_domain](mesh-normals-domain.md).
+- Open when you need bpy.types.Mesh: normals_split_custom_set, normals_split_custom_set_from_vertices: [bpy.types.Mesh: normals_split_custom_set, normals_split_custom_set_from_vertices](mesh-normals.md).
+- Open when you need bpy.types.Mesh: polygon_normals: [bpy.types.Mesh: polygon_normals](mesh-polygon-normals.md).
+- Open when you need bpy.types.Mesh: polygons: [bpy.types.Mesh: polygons](mesh-polygons.md).
+- Open when you need bpy.types.Mesh: radial_symmetry: [bpy.types.Mesh: radial_symmetry](mesh-radial-symmetry.md).
+- Open when you need bpy.types.Mesh: remesh_mode, remesh_voxel_adaptivity, remesh_voxel_size: [bpy.types.Mesh: remesh_mode, remesh_voxel_adaptivity, remesh_voxel_size](mesh-remesh.md).
+- Open when you need bpy.types.Mesh: bl_rna_get_subclass, bl_rna_get_subclass_py: [bpy.types.Mesh: bl_rna_get_subclass, bl_rna_get_subclass_py](mesh-rna-subclasses.md).
+- Open when you need bpy.types.Mesh: set_sharp_from_angle: [bpy.types.Mesh: set_sharp_from_angle](mesh-set-sharp-from-angle.md).
+- Open when you need bpy.types.Mesh: shade_flat, shade_smooth: [bpy.types.Mesh: shade_flat, shade_smooth](mesh-shade.md).
+- Open when you need bpy.types.Mesh: shape_keys: [bpy.types.Mesh: shape_keys](mesh-shape-keys.md).
+- Open when you need bpy.types.Mesh: skin_vertices: [bpy.types.Mesh: skin_vertices](mesh-skin-vertices.md).
+- Open when you need bpy.types.Mesh: split_faces: [bpy.types.Mesh: split_faces](mesh-split-faces.md).
+- Open when you need bpy.types.Mesh: texco_mesh: [bpy.types.Mesh: texco_mesh](mesh-texco-mesh.md).
+- Open when you need bpy.types.Mesh: texspace_location, texspace_size: [bpy.types.Mesh: texspace_location, texspace_size](mesh-texspace.md).
+- Open when you need bpy.types.Mesh: texture_mesh: [bpy.types.Mesh: texture_mesh](mesh-texture-mesh.md).
+- Open when you need bpy.types.Mesh: total_edge_sel, total_face_sel, total_vert_sel: [bpy.types.Mesh: total_edge_sel, total_face_sel, total_vert_sel](mesh-total.md).
+- Open when you need bpy.types.Mesh: transform: [bpy.types.Mesh: transform](mesh-transform.md).
+- Open when you need bpy.types.Mesh: unit_test_compare: [bpy.types.Mesh: unit_test_compare](mesh-unit-test-compare.md).
+- Open when you need bpy.types.Mesh: update, update_gpu_tag: [bpy.types.Mesh: update, update_gpu_tag](mesh-update.md).
+- Open when you need bpy.types.Mesh: use_auto_texspace: [bpy.types.Mesh: use_auto_texspace](mesh-use-auto-texspace.md).
+- Open when you need bpy.types.Mesh: use_mirror_topology, use_mirror_vertex_groups, use_mirror_x, use_mirror_y, use_mirror_z: [bpy.types.Mesh: use_mirror_topology, use_mirror_vertex_groups, use_mirror_x, use_mirror_y, use_mirror_z](mesh-use-mirror.md).
+- Open when you need bpy.types.Mesh: use_paint_bone_selection, use_paint_mask, use_paint_mask_vertex: [bpy.types.Mesh: use_paint_bone_selection, use_paint_mask, use_paint_mask_vertex](mesh-use-paint.md).
+- Open when you need bpy.types.Mesh: use_remesh_fix_poles, use_remesh_preserve_attributes, use_remesh_preserve_volume: [bpy.types.Mesh: use_remesh_fix_poles, use_remesh_preserve_attributes, use_remesh_preserve_volume](mesh-use-remesh.md).
+- Open when you need bpy.types.Mesh: uv_layer_clone, uv_layer_clone_index, uv_layer_stencil, uv_layer_stencil_index, uv_layers: [bpy.types.Mesh: uv_layer_clone, uv_layer_clone_index, uv_layer_stencil, uv_layer_stencil_index, uv_layers](mesh-uv.md).
+- Open when you need bpy.types.Mesh: validate, validate_material_indices: [bpy.types.Mesh: validate, validate_material_indices](mesh-validate.md).
+- Open when you need bpy.types.Mesh: vertex_creases_ensure, vertex_creases_remove, vertex_paint_mask_ensure, vertex_paint_mask_remove: [bpy.types.Mesh: vertex_creases_ensure, vertex_creases_remove, vertex_paint_mask_ensure, vertex_paint_mask_remove](mesh-vertex-methods.md).
+- Open when you need bpy.types.Mesh: vertex_colors, vertex_normals, vertex_creases, vertex_paint_mask: [bpy.types.Mesh: vertex_colors, vertex_normals, vertex_creases, vertex_paint_mask](mesh-vertex-properties.md).
+- Open when you need bpy.types.Mesh: vertices: [bpy.types.Mesh: vertices](mesh-vertices.md).
+
+[Parent topics](../geometry/INDEX.md).
