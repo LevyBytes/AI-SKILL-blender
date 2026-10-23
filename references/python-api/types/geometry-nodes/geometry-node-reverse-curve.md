@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeReverseCurve(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeReverseCurve ( GeometryNode )
 
 Flip the orientation of curves by exchanging their start and end data

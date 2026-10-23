@@ -2,7 +2,7 @@
 
 handle_type
 
-How the curve interpolates here — Bézier or vector (default 'AUTO' )
+How the curve interpolates here: Bézier or vector (default 'AUTO' )
 
 Type :
 
@@ -70,7 +70,7 @@ type
 
 ### CurveMapPoint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CurveMapPoint ( bpy_struct )
 
 A single point belonging to a curve in a curve mapping.

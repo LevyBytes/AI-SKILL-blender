@@ -4,7 +4,7 @@
 
 ### GreasePencilHookModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilHookModifier ( Modifier )
 
 Hook modifier that shifts where stroke points sit.

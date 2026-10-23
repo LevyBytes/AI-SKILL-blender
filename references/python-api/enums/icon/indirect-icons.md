@@ -1,4 +1,4 @@
-# Icon Items — indirect icons
+# Icon Items - indirect icons
 
 | Value | Meaning |
 | --- | --- |

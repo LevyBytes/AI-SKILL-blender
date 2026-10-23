@@ -2,7 +2,7 @@
 
 ## Python Scripting
 
-Python Scripting — Programmable Style Modules
+Python Scripting: Programmable Style Modules
 
 The Python Scripting mode provides full scriptable line stylization. Styling operations are Python scripts called style modules. A style module receives a view map (detected feature edges) and outputs stylized strokes.
 
@@ -61,7 +61,7 @@ This uses ChainSilhouetteIterator for chaining and stops at invisible ViewEdges.
 
 Chaining processes active ViewEdges sequentially. Previously sorted ViewEdges via Operators.sort() can control this order. It starts a chain with the first ViewEdge. Processed ViewEdges are marked (timestamp modification) to avoid reprocessing. When chaining hits a stopping predicate, the chain ends. A new chain begins from the first unmarked ViewEdge. This repeats until all unmarked ViewEdges finish processing. Post-chaining, the active set contains the new Chains.
 
-Python Scripting — Splitting, Sorting, and Stroke Creation (continued)
+Python Scripting: Splitting, Sorting, and Stroke Creation (continued)
 
 ### Splitting
 

@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeGamma(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeGamma ( ShaderNode ) 
 
 Run a gamma correction on the input

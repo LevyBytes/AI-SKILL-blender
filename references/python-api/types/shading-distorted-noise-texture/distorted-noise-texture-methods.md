@@ -4,7 +4,7 @@
 
 ### DistortedNoiseTexture(Texture)
 
-base classes — bpy_struct, ID, Texture
+base classes: bpy_struct, ID, Texture
 class bpy.types. DistortedNoiseTexture ( Texture )
 
 A procedural texture built from distorted noise

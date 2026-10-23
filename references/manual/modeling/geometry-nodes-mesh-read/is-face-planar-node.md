@@ -10,11 +10,11 @@ Non-planar faces occur when single vertex moves independently. Triangles always 
 
 ### Inputs
 
-Threshold — Distance tolerance before face deemed non-planar.
+Threshold: Distance tolerance before face deemed non-planar.
 
 ### Outputs
 
-Planar — Boolean per face.
+Planar: Boolean per face.
 
 ### Examples
 

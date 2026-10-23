@@ -56,7 +56,7 @@ type
 
 ### ShapeKeyPoint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ShapeKeyPoint ( bpy_struct )
 
 A single point within a shape key.

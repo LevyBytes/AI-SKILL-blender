@@ -15,8 +15,8 @@
 - Open when you need bpy.types.MovieClipUser: [bpy.types.MovieClipUser](movie-clip-user.md).
 - Open when you need Movie tracking: [Movie tracking](../tracking-masks-movie-tracking/INDEX.md).
 - Open when you need Movie tracking camera: [Movie tracking camera](../tracking-masks-movie-tracking-camera/INDEX.md).
-- Open when you need bpy.types.MovieTrackingDopesheet — class-contract, Inherited Properties, Inherited Functions, References, MovieTrackingDopesheet(bpy_struct): [bpy.types.MovieTrackingDopesheet — class-contract, Inherited Properties, Inherited Functions, References, MovieTrackingDopesheet(bpy_struct)](movie-tracking-dopesheet-class-contract.md).
-- Open when you need bpy.types.MovieTrackingDopesheet — MovieTrackingDopesheet(bpy_struct): [bpy.types.MovieTrackingDopesheet — MovieTrackingDopesheet(bpy_struct)](movie-tracking-dopesheet-movie-tracking-dopesheet-bpy-struct.md).
+- Open when you need bpy.types.MovieTrackingDopesheet - class-contract, Inherited Properties, Inherited Functions, References, MovieTrackingDopesheet(bpy_struct): [bpy.types.MovieTrackingDopesheet - class-contract, Inherited Properties, Inherited Functions, References, MovieTrackingDopesheet(bpy_struct)](movie-tracking-dopesheet-class-contract.md).
+- Open when you need bpy.types.MovieTrackingDopesheet - MovieTrackingDopesheet(bpy_struct): [bpy.types.MovieTrackingDopesheet - MovieTrackingDopesheet(bpy_struct)](movie-tracking-dopesheet-movie-tracking-dopesheet-bpy-struct.md).
 - Open when you need Movie tracking marker: [Movie tracking marker](../tracking-masks-movie-tracking-marker/INDEX.md).
 - Open when you need bpy.types.MovieTrackingMarkers: [bpy.types.MovieTrackingMarkers](movie-tracking-markers.md).
 - Open when you need Movie tracking object: [Movie tracking object](../tracking-masks-movie-tracking-object/INDEX.md).

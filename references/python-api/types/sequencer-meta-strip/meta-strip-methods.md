@@ -4,7 +4,7 @@
 
 ### MetaStrip(Strip)
 
-base classes — bpy_struct, Strip
+base classes: bpy_struct, Strip
 class bpy.types. MetaStrip ( Strip )
 
 A sequence strip that bundles other strips together so they act as one

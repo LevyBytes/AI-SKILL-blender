@@ -8,10 +8,10 @@ Partitions faces into regions divided by boundary edges.
 
 ### Inputs
 
-Boundary Edges — Edges splitting face regions.
+Boundary Edges: Edges splitting face regions.
 
 ### Outputs
 
-Face Group ID — Integer identifying each region.
+Face Group ID: Integer identifying each region.
 
 [Related references](INDEX.md).

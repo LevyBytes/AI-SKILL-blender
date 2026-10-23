@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeCameraInfo(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCameraInfo ( GeometryNode )
 
 Reads back data belonging to a camera object.

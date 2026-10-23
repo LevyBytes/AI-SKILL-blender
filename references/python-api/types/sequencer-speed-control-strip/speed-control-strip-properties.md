@@ -4,7 +4,7 @@
 
 ### SpeedControlStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 class bpy.types. SpeedControlStrip ( EffectStrip )
 
 Strip used to govern how fast other strips play

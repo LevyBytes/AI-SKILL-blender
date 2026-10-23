@@ -2,7 +2,7 @@
 
 ## Line Style
 
-Line Style — Five-Tab Framework
+Line Style: Five-Tab Framework
 
 Freestyle line styles define appearance via five primary facets: Stroke, Color, Alpha, Thickness, Geometry, Texture—each on separate tabs. These enable diverse render styles (technical, sketch, cartoon, calligraphy, etc.).
 

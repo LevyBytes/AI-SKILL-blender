@@ -64,7 +64,7 @@ type
 
 ### NodeSocketString(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketString ( NodeSocketStandard )
 
 A node socket carrying a string value.

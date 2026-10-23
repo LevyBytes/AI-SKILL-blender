@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSDFGridMean(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSDFGridMean ( GeometryNode )
 
 Smooth a signed distance field with a mean (box) filter. A quick separable averaging pass for general-purpose smoothing of the distance field

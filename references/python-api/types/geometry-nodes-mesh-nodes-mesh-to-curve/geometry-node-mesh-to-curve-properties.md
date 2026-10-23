@@ -4,7 +4,7 @@
 
 ### GeometryNodeMeshToCurve(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshToCurve ( GeometryNode ) 
 
 Turn a mesh into a curve.

@@ -91,7 +91,7 @@ type
 
 ### PointCloud(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. PointCloud ( ID )
 
 Data-block that stores a point cloud.

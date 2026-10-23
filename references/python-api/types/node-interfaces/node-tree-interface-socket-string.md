@@ -87,7 +87,7 @@ type
 
 ### NodeTreeInterfaceSocketString(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketString ( NodeTreeInterfaceSocket )
 
 A node socket that carries a string

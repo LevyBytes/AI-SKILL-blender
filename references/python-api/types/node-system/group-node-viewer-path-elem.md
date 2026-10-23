@@ -51,7 +51,7 @@ type
 
 ### GroupNodeViewerPathElem(ViewerPathElem)
 
-base classes — bpy_struct, ViewerPathElem
+base classes: bpy_struct, ViewerPathElem
 class bpy.types. GroupNodeViewerPathElem ( ViewerPathElem )
 
 [Related references](INDEX.md).

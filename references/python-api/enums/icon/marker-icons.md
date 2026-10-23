@@ -1,4 +1,4 @@
-# Icon Items — marker icons
+# Icon Items - marker icons
 
 | Value | Meaning |
 | --- | --- |

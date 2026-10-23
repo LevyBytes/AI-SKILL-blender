@@ -1,4 +1,4 @@
-# Icon Items — gizmo icons
+# Icon Items - gizmo icons
 
 | Value | Meaning |
 | --- | --- |

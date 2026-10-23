@@ -1,4 +1,4 @@
-# Icon Items — tpaint icons
+# Icon Items - tpaint icons
 
 | Value | Meaning |
 | --- | --- |

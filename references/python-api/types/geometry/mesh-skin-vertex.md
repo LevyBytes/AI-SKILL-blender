@@ -70,7 +70,7 @@ type
 
 ### MeshSkinVertex(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MeshSkinVertex ( bpy_struct )
 
 Per-vertex skin data for use with the Skin modifier

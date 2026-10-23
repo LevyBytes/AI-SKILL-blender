@@ -11,6 +11,6 @@ Related: Set Spline Cyclic Node applies changes.
 Inputs: None
 
 Outputs:
-Cyclic — Boolean indicating loop closure per spline.
+Cyclic: Boolean indicating loop closure per spline.
 
 [Related references](INDEX.md).

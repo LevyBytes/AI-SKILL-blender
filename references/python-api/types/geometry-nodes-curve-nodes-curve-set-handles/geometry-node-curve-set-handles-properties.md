@@ -4,7 +4,7 @@
 
 ### GeometryNodeCurveSetHandles(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveSetHandles ( GeometryNode )
 
 Assign the handle type to the control points belonging to a Bézier curve.

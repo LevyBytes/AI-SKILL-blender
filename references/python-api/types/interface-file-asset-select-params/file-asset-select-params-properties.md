@@ -4,7 +4,7 @@
 
 ### FileAssetSelectParams(FileSelectParams)
 
-base classes — bpy_struct, FileSelectParams
+base classes: bpy_struct, FileSelectParams
 class bpy.types. FileAssetSelectParams ( FileSelectParams )
 
 The file-selection settings used while the browser is in Asset Browser mode.

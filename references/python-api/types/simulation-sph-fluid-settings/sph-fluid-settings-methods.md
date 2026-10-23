@@ -4,7 +4,7 @@
 
 ### SPHFluidSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SPHFluidSettings ( bpy_struct )
 
 Configuration for particle fluid physics

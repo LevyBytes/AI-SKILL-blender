@@ -4,7 +4,7 @@
 
 Compositor limitations — Hardware limitations: the usual hardware limits apply to the GPU compositor (see Troubleshooting Graphics Hardware). Blender uses the same GPU resources for both the UI and the GPU compositor, with a few consequences. UI freezes: unlike Cycles rendering, the UI can become unresponsive with the GPU compositor on some slower GPUs. TDR on Windows: Timeout Detection Recovery (TDR) resets the GPU driver if a GPU compositing task exceeds the default 2-second limit — common on older GPUs with expensive nodes like the Bokeh Blur node — so to avoid unexpected resets, raise the TDR timeout.
 
-Limitations — Known Constraints
+Limitations: Known Constraints
 
 EEVEE is designed as an interactive renderer. Some capabilities remain incomplete or fundamentally incompatible with its architecture without sacrificing speed.
 

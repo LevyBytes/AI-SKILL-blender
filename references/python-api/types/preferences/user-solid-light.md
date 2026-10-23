@@ -84,7 +84,7 @@ type
 
 ### UserSolidLight(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. UserSolidLight ( bpy_struct ) 
 
 A light driving Studio lighting while solid shading is active

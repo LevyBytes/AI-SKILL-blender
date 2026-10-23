@@ -4,7 +4,7 @@
 
 ### ShaderNodeMix(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeMix ( ShaderNode ) 
 
 Blend values according to a factor

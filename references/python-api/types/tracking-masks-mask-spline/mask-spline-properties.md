@@ -4,7 +4,7 @@
 
 ### MaskSpline(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MaskSpline ( bpy_struct )
 
 A single spline that helps define the mask's shape.

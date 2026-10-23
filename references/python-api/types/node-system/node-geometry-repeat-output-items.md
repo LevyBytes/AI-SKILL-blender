@@ -85,7 +85,7 @@ type
 
 ### NodeGeometryRepeatOutputItems(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodeGeometryRepeatOutputItems ( bpy_prop_collection )
 
 A set holding the repeat items for this node.

@@ -1,4 +1,4 @@
-# Icon Items — current icons
+# Icon Items - current icons
 
 | Value | Meaning |
 | --- | --- |

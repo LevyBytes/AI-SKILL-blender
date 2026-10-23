@@ -65,7 +65,7 @@ type
 
 ### BrightContrastModifier(StripModifier)
 
-base classes — bpy_struct, StripModifier
+base classes: bpy_struct, StripModifier
 class bpy.types. BrightContrastModifier ( StripModifier )
 
 Holds bright/contrast modifier settings for a sequence strip.

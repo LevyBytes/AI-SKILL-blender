@@ -77,7 +77,7 @@ type
 
 ### NodeTreeInterfaceItem(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 NodeTreeInterfacePanel, NodeTreeInterfaceSocket

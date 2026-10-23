@@ -80,7 +80,7 @@ type
 
 ### NodeTreeInterfaceSocketTexture(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketTexture ( NodeTreeInterfaceSocket )
 
 A node socket that carries a texture

@@ -23,10 +23,10 @@ Parameters:
 - filter_blenlib ( bool ) – Filter Blender IDs, (optional)
 - filemode ( int ) – File Browser Mode, The setting for the file browser mode to load a .blend file, a library or a special file (in [1, 9], optional)
 - display_type ( Literal [ 'DEFAULT' , '`LIST_VERTICAL`' , '`LIST_HORIZONTAL`' , 'THUMBNAIL' ] ) – Display Type, (optional)
-- DEFAULT — Default: automatically determine the display type for files.
-- `LIST_VERTICAL` — Short List: display files as a short list.
-- `LIST_HORIZONTAL` — Long List: display files as a detailed list.
-- THUMBNAIL — Thumbnails: display files as thumbnails.
+- DEFAULT - Default: automatically determine the display type for files.
+- `LIST_VERTICAL` - Short List: display files as a short list.
+- `LIST_HORIZONTAL` - Long List: display files as a detailed list.
+- THUMBNAIL - Thumbnails: display files as thumbnails.
 - sort_method ( str ) – File sorting mode, (optional)
 - ascii_format ( bool ) – ASCII Format, Export file in ASCII format, export as binary otherwise (optional)
 - use_batch ( bool ) – Batch Export, Export each object to a separate file (optional)
@@ -35,19 +35,19 @@ Parameters:
 - global_scale ( float ) – Scale, (in [1e-06, 1e+06], optional)
 - use_scene_unit ( bool ) – Scene Unit, Apply current scene's unit (as defined by unit scale) to exported data (optional)
 - forward_axis ( Literal [ 'X' , 'Y' , 'Z' , '`NEGATIVE_X`' , '`NEGATIVE_Y`' , '`NEGATIVE_Z`' ] ) – Forward Axis, (optional)
-- X — X: positive X axis.
-- Y — Y: positive Y axis.
-- Z — Z: positive Z axis.
-- `NEGATIVE_X` — -X: negative X axis.
-- `NEGATIVE_Y` — -Y: negative Y axis.
-- `NEGATIVE_Z` — -Z: negative Z axis.
+- X - X: positive X axis.
+- Y - Y: positive Y axis.
+- Z - Z: positive Z axis.
+- `NEGATIVE_X` - -X: negative X axis.
+- `NEGATIVE_Y` - -Y: negative Y axis.
+- `NEGATIVE_Z` - -Z: negative Z axis.
 - up_axis ( Literal [ 'X' , 'Y' , 'Z' , '`NEGATIVE_X`' , '`NEGATIVE_Y`' , '`NEGATIVE_Z`' ] ) – Up Axis, (optional)
-- X — X: positive X axis.
-- Y — Y: positive Y axis.
-- Z — Z: positive Z axis.
-- `NEGATIVE_X` — -X: negative X axis.
-- `NEGATIVE_Y` — -Y: negative Y axis.
-- `NEGATIVE_Z` — -Z: negative Z axis.
+- X - X: positive X axis.
+- Y - Y: positive Y axis.
+- Z - Z: positive Z axis.
+- `NEGATIVE_X` - -X: negative X axis.
+- `NEGATIVE_Y` - -Y: negative Y axis.
+- `NEGATIVE_Z` - -Z: negative Z axis.
 - apply_modifiers ( bool ) – Apply Modifiers, Apply modifiers to exported meshes (optional)
 - filter_glob ( str ) – Extension Filter, (optional, never None)
 Returns: The operator's result.

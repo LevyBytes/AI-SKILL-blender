@@ -71,7 +71,7 @@ Fast :
 
 Quick processing with noticeable quality loss.
 
-Performance — Optimization Settings
+Performance: Optimization Settings
 
 Reference
 Panel: Properties ‣ Render ‣ Performance

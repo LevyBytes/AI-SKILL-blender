@@ -1,4 +1,4 @@
-# Icon Items — camera icons
+# Icon Items - camera icons
 
 | Value | Meaning |
 | --- | --- |

@@ -6,7 +6,7 @@
 
 Sculpt Mode provides many brush varieties for reshaping, refining,
 and enriching mesh surfaces.
-Each targets specific operations—volume addition,
+Each targets specific operations: volume addition,
 surface refinement, edge sharpening, or pattern application.
 
 Every brush type ships with a default configuration,

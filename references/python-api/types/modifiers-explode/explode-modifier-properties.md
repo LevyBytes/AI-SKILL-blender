@@ -4,7 +4,7 @@
 
 ### ExplodeModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. ExplodeModifier ( Modifier )
 
 A modifier that drives an explosion effect off a particle system.

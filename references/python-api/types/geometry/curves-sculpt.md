@@ -49,7 +49,7 @@ type
 
 ### CurvesSculpt(Paint)
 
-base classes — bpy_struct, Paint
+base classes: bpy_struct, Paint
 class bpy.types. CurvesSculpt ( Paint )
 
 [Related references](INDEX.md).

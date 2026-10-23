@@ -56,7 +56,7 @@ type
 
 ### SpreadsheetTables(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. SpreadsheetTables ( bpy_prop_collection )
 
 The active table plus the saved state of tables shown before

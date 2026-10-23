@@ -4,7 +4,7 @@
 
 ### GeometryNodeMeshLine(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshLine ( GeometryNode ) 
 
 Lay out a row of vertices and link them together with edges.

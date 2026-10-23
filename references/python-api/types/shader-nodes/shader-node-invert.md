@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeInvert(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeInvert ( ShaderNode ) 
 
 Flip a color into its negative

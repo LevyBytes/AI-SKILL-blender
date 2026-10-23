@@ -45,7 +45,7 @@ type
 
 ### `SCENE_UL`_gltf2_filter_action(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `SCENE_UL`_gltf2_filter_action ( UIList )
 

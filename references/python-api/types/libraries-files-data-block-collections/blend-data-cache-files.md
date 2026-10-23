@@ -59,6 +59,6 @@ Library of cached animation playback streams
 
 Registry of viewpoint definitions.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 
 [Related references](INDEX.md).

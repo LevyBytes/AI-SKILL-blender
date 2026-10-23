@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeCurveEndpointSelection(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveEndpointSelection ( GeometryNode )
 
 Yield a selection covering any chosen count of endpoints within each spline.

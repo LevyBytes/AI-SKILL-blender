@@ -63,7 +63,7 @@ type
 
 ### FloatColorAttributeValue(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FloatColorAttributeValue ( bpy_struct )
 
 A single color entry held within a geometry attribute.

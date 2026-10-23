@@ -4,7 +4,7 @@
 
 ### ShaderNodeBsdfGlass(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfGlass ( ShaderNode )
 
 A glassy shader that blends refraction with reflection toward grazing angles

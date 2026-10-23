@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeExposure(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeExposure ( CompositorNode )
 
 Changes image brightness through a camera-style exposure control.

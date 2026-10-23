@@ -1,4 +1,4 @@
-# Icon Items — lockview icons
+# Icon Items - lockview icons
 
 | Value | Meaning |
 | --- | --- |

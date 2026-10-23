@@ -70,7 +70,7 @@ type
 
 ### BoneColor(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BoneColor ( bpy_struct )
 
 A bone's color, either taken from a theme or set as a custom value.

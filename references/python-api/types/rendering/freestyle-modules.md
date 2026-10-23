@@ -67,7 +67,7 @@ type
 
 ### FreestyleModules(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. FreestyleModules ( bpy_prop_collection ) 
 
 An ordered set of style modules, evaluated from the top down

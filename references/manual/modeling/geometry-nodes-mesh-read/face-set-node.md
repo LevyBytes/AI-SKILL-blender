@@ -14,8 +14,8 @@ None.
 
 ### Output
 
-Face Set — Integer per face or 0 if no face sets exist. Edge/point domain: interpolated from faces.
+Face Set: Integer per face or 0 if no face sets exist. Edge/point domain: interpolated from faces.
 
-Exists — Boolean; indicates face set presence.
+Exists: Boolean; indicates face set presence.
 
 [Related references](INDEX.md).

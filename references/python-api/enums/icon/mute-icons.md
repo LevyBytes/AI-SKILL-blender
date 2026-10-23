@@ -1,4 +1,4 @@
-# Icon Items — mute icons
+# Icon Items - mute icons
 
 | Value | Meaning |
 | --- | --- |

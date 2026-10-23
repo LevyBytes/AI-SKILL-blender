@@ -4,7 +4,7 @@
 
 Root container object that provides access to all data-blocks within a .blend file.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BlendData ( bpy_struct )
 
 Hierarchical registry holding all data blocks and assets in a blend file
@@ -29,6 +29,6 @@ Hierarchical registry holding all data blocks and assets in a blend file
 
 Holds methods for generating new action recordings.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 
 [Related references](INDEX.md).

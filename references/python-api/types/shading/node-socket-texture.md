@@ -62,7 +62,7 @@ type
 
 ### NodeSocketTexture(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketTexture ( NodeSocketStandard )
 
 A node socket whose value is a texture.

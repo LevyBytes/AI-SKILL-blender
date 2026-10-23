@@ -49,7 +49,7 @@ blender --python /home/me/my_script.py
 
 And to load them as modules:
 
-- The obvious one — issuing import some_module from the interactive console or the text editor.
+- The obvious one: issuing import some_module from the interactive console or the text editor.
 
 - Open it as a text data-block and tick the Register option, so it loads alongside the blend-file.
 

@@ -92,7 +92,7 @@ type
 
 ### CompositorNodeTime(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeTime ( CompositorNode )
 
 Produces a factor running from 0.0 to 1.0 across the scene's start and end frames, shaped by a curve mapping.

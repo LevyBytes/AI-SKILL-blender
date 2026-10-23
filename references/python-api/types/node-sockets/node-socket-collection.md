@@ -62,7 +62,7 @@ type
 
 ### NodeSocketCollection(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketCollection ( NodeSocketStandard )
 
 A node socket whose value is a collection.

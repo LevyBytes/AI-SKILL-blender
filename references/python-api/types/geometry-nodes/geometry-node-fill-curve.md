@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeFillCurve(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeFillCurve ( GeometryNode ) 
 
 Produce a mesh in the XY plane whose faces fill the interior of the input curves

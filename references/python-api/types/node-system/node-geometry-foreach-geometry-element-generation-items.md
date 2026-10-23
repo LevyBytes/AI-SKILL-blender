@@ -85,7 +85,7 @@ type
 
 ### NodeGeometryForeachGeometryElementGenerationItems(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodeGeometryForeachGeometryElementGenerationItems ( bpy_prop_collection )
 
 A set holding the generation items for this node.

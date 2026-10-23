@@ -85,7 +85,7 @@ type
 
 ### NodeGeometryForeachGeometryElementMainItems(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodeGeometryForeachGeometryElementMainItems ( bpy_prop_collection )
 
 A set holding the main items for this node.

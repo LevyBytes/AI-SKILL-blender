@@ -9,7 +9,7 @@ Displace Hair Curves shifts where strands sit or how they are shaped via a displ
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for displacing.
+Geometry: the hair-curve geometry fed in for displacing.
 
 Factor
 How strongly the displacement reads overall. At 0.0 nothing moves; at 1.0 the displacement vector applies in full.

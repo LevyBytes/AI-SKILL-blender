@@ -56,7 +56,7 @@ type
 
 A single vertex of an annotation stroke.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AnnotationStrokePoint ( bpy_struct )
 
 A vertex location in a freehand sketch line.

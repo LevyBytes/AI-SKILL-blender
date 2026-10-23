@@ -77,7 +77,7 @@ type
 
 ### ThemeRegions(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeRegions ( bpy_struct )
 
 Styling shared by editor regions in common

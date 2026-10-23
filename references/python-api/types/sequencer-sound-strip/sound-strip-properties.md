@@ -4,7 +4,7 @@
 
 ### SoundStrip(Strip)
 
-base classes — bpy_struct, Strip
+base classes: bpy_struct, Strip
 class bpy.types. SoundStrip ( Strip )
 
 A sequencer strip that schedules a sound to play across a span of time

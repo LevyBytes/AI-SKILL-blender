@@ -72,7 +72,7 @@ type
 
 ### LineStyleGeometryModifier_BezierCurve(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_BezierCurve ( LineStyleGeometryModifier ) 
 
 Swap the stroke backbone for a Bézier-curve fit of the original backbone geometry

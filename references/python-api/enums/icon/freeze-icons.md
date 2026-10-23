@@ -1,4 +1,4 @@
-# Icon Items — freeze icons
+# Icon Items - freeze icons
 
 | Value | Meaning |
 | --- | --- |

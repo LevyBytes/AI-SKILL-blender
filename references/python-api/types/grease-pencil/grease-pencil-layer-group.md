@@ -70,7 +70,7 @@ type
 
 ### GreasePencilLayerGroup(GreasePencilTreeNode)
 
-base classes — bpy_struct, GreasePencilTreeNode
+base classes: bpy_struct, GreasePencilTreeNode
 class bpy.types. GreasePencilLayerGroup ( GreasePencilTreeNode )
 
 Group of Grease Pencil layers

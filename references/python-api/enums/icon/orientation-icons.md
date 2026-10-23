@@ -1,4 +1,4 @@
-# Icon Items — orientation icons
+# Icon Items - orientation icons
 
 | Value | Meaning |
 | --- | --- |

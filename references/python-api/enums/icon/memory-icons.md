@@ -1,4 +1,4 @@
-# Icon Items — memory icons
+# Icon Items - memory icons
 
 | Value | Meaning |
 | --- | --- |

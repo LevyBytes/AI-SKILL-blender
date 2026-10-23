@@ -46,7 +46,7 @@ type
 
 ### `WORKSPACE_UL`_addons_items(UIList) 
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `WORKSPACE_UL`_addons_items ( UIList )
 

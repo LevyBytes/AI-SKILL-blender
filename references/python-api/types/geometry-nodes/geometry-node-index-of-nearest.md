@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeIndexOfNearest(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeIndexOfNearest ( GeometryNode )
 
 Locate the closest element within a group; comparable to the “Sample Nearest” node.

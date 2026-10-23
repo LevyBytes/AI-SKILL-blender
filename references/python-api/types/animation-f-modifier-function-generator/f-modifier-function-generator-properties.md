@@ -4,7 +4,7 @@
 
 ### FModifierFunctionGenerator(FModifier)
 
-base classes — bpy_struct, FModifier
+base classes: bpy_struct, FModifier
 class bpy.types. FModifierFunctionGenerator ( FModifier )
 
 Produces values from one of the built-in functions.

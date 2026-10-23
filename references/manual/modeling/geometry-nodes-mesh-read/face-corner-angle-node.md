@@ -12,8 +12,8 @@ None.
 
 ### Outputs
 
-Corner Angle — Internal angle (radians). Right angle ≈ 1.571.
+Corner Angle: Internal angle (radians). Right angle ≈ 1.571.
 
-Bisector — Unit vector along bisector between connected edges.
+Bisector: Unit vector along bisector between connected edges.
 
 [Related references](INDEX.md).

@@ -4,7 +4,7 @@
 
 ### GreasePencilColorModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilColorModifier ( Modifier )
 classmethod bl_rna_get_subclass ( id , default = None , / )
 

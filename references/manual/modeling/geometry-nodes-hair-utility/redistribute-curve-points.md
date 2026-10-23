@@ -9,7 +9,7 @@ Redistribute Curve Points moves existing control points to sit evenly spaced dow
 ### Inputs
 
 Curves
-Curves — the input geometry whose control points get redistributed.
+Curves: the input geometry whose control points get redistributed.
 
 Factor
 Strength of the redistribution. At 0.0 the curves are unchanged; at 1.0 even spacing applies fully.

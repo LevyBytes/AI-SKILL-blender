@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeFresnel(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeFresnel ( ShaderNode ) 
 
 Output a mix factor derived from the angle between the surface normal and the viewing direction via the Fresnel equations.

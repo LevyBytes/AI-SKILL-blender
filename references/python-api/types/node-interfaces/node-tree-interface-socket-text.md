@@ -51,7 +51,7 @@ type
 
 ### NodeTreeInterfaceSocketText(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketText ( NodeTreeInterfaceSocket )
 
 A node socket that carries text

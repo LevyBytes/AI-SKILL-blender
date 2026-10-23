@@ -56,7 +56,7 @@ type
 
 A user-defined classification marker.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AssetTag ( bpy_struct )
 
 A user-assigned classification.

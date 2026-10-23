@@ -56,7 +56,7 @@ type
 
 ### LineStyleAlphaModifier(LineStyleModifier) 
 
-base classes — bpy_struct, LineStyleModifier
+base classes: bpy_struct, LineStyleModifier
 
 subclasses —
 LineStyleAlphaModifier_AlongStroke, LineStyleAlphaModifier_CreaseAngle, LineStyleAlphaModifier_Curvature_3D, LineStyleAlphaModifier_DistanceFromCamera, LineStyleAlphaModifier_DistanceFromObject, LineStyleAlphaModifier_Material, LineStyleAlphaModifier_Noise, LineStyleAlphaModifier_Tangent

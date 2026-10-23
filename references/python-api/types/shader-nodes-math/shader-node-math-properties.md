@@ -4,7 +4,7 @@
 
 ### ShaderNodeMath(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeMath ( ShaderNode ) 
 
 Carry out math operations

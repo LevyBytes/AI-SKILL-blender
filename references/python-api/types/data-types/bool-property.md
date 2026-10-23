@@ -79,7 +79,7 @@ type
 
 ### BoolProperty(Property)
 
-base classes — bpy_struct, Property
+base classes: bpy_struct, Property
 class bpy.types. BoolProperty ( Property )
 
 The RNA definition describing a boolean property.

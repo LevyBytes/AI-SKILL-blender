@@ -1,4 +1,4 @@
-# Icon Items — blank1 icons
+# Icon Items - blank1 icons
 
 | Value | Meaning |
 | --- | --- |

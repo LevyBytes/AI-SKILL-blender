@@ -2,7 +2,7 @@
 
 use_datablock_sort
 
-Sort data-blocks alphabetically — mostly the scene’s objects (turn off to speed the viewport up) (default True)
+Sort data-blocks alphabetically: mostly the scene’s objects (turn off to speed the viewport up) (default True)
 
 Type :
 

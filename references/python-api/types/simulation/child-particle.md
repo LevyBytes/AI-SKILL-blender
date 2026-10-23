@@ -49,7 +49,7 @@ type
 
 ### ChildParticle(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ChildParticle ( bpy_struct )
 
 Interpolated particle derived from parent particles

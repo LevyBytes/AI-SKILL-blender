@@ -49,7 +49,7 @@ Keep in mind that what you store here is limited to the elementary Python types:
 
 - an array whose entries are all ints, or all floats;
 
-- a dictionary — its keys have to be strings, and its values likewise must stay within these basic types.
+- a dictionary: its keys have to be strings, and its values likewise must stay within these basic types.
 
 Their reach extends beyond Python itself: such properties can feed animation curves or turn up inside driver paths.
 

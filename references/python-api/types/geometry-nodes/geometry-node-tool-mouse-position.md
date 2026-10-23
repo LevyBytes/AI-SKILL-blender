@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeToolMousePosition(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeToolMousePosition ( GeometryNode ) 
 
 Reads back where the mouse cursor currently sits.

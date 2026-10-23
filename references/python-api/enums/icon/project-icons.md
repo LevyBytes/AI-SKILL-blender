@@ -1,4 +1,4 @@
-# Icon Items — project icons
+# Icon Items - project icons
 
 | Value | Meaning |
 | --- | --- |

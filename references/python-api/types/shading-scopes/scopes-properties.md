@@ -4,7 +4,7 @@
 
 ### Scopes(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Scopes ( bpy_struct )
 
 Scopes giving a statistical view of an image

@@ -9,7 +9,7 @@ Frizz Hair Curves scatters tiny random offsets down each strand for a frizzy, ro
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for frizzing.
+Geometry: the hair-curve geometry fed in for frizzing.
 
 Cumulative Offset
 On, each point's offset builds on the displacement of earlier points along the strand, so bending comes out continuous and more lifelike.

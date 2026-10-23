@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGridClip(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridClip ( GeometryNode ) 
 
 Switch off any grid voxels lying past the minimum and maximum coordinates, resetting them to the background value.

@@ -4,7 +4,7 @@
 
 ### PointCacheItem(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PointCacheItem ( bpy_struct )
 
 A point cache entry for physics simulations

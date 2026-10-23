@@ -1,4 +1,4 @@
-# Icon Items — grip icons
+# Icon Items - grip icons
 
 | Value | Meaning |
 | --- | --- |

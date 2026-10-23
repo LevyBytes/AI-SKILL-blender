@@ -80,7 +80,7 @@ type
 
 ### NodeTreeInterfaceSocketObject(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketObject ( NodeTreeInterfaceSocket )
 
 A node socket that carries an object

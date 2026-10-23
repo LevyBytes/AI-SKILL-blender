@@ -56,7 +56,7 @@ type
 
 ### CollectionObject(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CollectionObject ( bpy_struct )
 
 An object within a collection bundled with its collection-specific settings

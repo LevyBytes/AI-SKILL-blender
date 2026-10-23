@@ -4,7 +4,7 @@
 
 ### LineStyleAlphaModifier_AlongStroke(LineStyleAlphaModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleAlphaModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleAlphaModifier
 class bpy.types. LineStyleAlphaModifier_AlongStroke ( LineStyleAlphaModifier ) 
 
 Varies alpha transparency as the stroke progresses

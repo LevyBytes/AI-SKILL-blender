@@ -4,7 +4,7 @@
 
 ### GeometryNodeCurveHandleTypeSelection(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveHandleTypeSelection ( GeometryNode )
 
 Yield a selection driven by the handle types assigned to Bézier control points.

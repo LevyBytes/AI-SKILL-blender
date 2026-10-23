@@ -4,7 +4,7 @@
 
 ### IntProperty(Property)
 
-base classes — bpy_struct, Property
+base classes: bpy_struct, Property
 class bpy.types. IntProperty ( Property )
 
 The RNA definition of an integer-number property.

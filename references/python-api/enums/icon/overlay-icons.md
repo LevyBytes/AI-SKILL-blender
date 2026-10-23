@@ -1,4 +1,4 @@
-# Icon Items — overlay icons
+# Icon Items - overlay icons
 
 | Value | Meaning |
 | --- | --- |

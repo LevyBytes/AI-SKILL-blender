@@ -8,33 +8,33 @@ Scales selected faces or edges individually with per-element scale and pivot. Co
 
 ### Inputs
 
-Geometry — Standard input.
+Geometry: Standard input.
 
-Selection — Boolean; targets elements to scale.
+Selection: Boolean; targets elements to scale.
 
-Scale — Factor per element.
+Scale: Factor per element.
 
-Center — Pivot per element.
+Center: Pivot per element.
 
-Axis Single Axis Mode Only — Direction vector (auto-normalized).
+Axis Single Axis Mode Only: Direction vector (auto-normalized).
 
 Scale Mode
 
-Uniform — Same factor all axes.
+Uniform: Same factor all axes.
 
-Single Axis — Single-direction scaling per Axis input.
+Single Axis: Single-direction scaling per Axis input.
 
 ### Properties
 
-Domain — Element type.
+Domain: Element type.
 
-Face — Faces.
+Face: Faces.
 
-Edge — Edges.
+Edge: Edges.
 
 ### Output
 
-Geometry — Standard output.
+Geometry: Standard output.
 
 ### Examples
 

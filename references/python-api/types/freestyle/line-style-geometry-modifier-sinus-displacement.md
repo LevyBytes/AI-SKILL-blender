@@ -86,7 +86,7 @@ type
 
 ### LineStyleGeometryModifier_SinusDisplacement(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_SinusDisplacement ( LineStyleGeometryModifier ) 
 
 Apply a sinusoidal displacement to the stroke backbone geometry

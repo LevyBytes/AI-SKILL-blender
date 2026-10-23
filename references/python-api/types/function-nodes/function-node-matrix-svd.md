@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeMatrixSVD(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeMatrixSVD ( FunctionNode )
 
 Performs a singular value decomposition on a matrix's inner 3x3 block.

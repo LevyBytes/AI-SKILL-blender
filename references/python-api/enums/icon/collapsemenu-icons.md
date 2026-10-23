@@ -1,4 +1,4 @@
-# Icon Items — collapsemenu icons
+# Icon Items - collapsemenu icons
 
 | Value | Meaning |
 | --- | --- |

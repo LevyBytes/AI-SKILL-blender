@@ -45,7 +45,7 @@ type
 
 ### `GPENCIL_UL`_annotation_layer(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `GPENCIL_UL`_annotation_layer ( UIList )
 

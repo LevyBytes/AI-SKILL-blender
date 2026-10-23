@@ -1,4 +1,4 @@
-# Icon Items — editmode icons
+# Icon Items - editmode icons
 
 | Value | Meaning |
 | --- | --- |

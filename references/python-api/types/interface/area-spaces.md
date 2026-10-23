@@ -56,7 +56,7 @@ type
 
 Container of spaces within an area.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. AreaSpaces ( bpy_prop_collection )
 
 Collection of editor spaces.

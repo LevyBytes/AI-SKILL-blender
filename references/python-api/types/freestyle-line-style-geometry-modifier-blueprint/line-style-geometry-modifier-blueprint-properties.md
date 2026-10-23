@@ -4,7 +4,7 @@
 
 ### LineStyleGeometryModifier_Blueprint(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_Blueprint ( LineStyleGeometryModifier ) 
 
 Generate a blueprint look from circular, elliptic, and square contour strokes

@@ -53,6 +53,6 @@ if __name__ == "__main__":
     bpy.ops.object.simple_macro()
 ```
 
-base class — bpy_struct
+base class: bpy_struct
 
 [Related references](INDEX.md).

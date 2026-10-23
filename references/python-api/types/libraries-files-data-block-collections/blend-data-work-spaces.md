@@ -47,7 +47,7 @@ type
 
 ### BlendDataWorkSpaces(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataWorkSpaces(bpy_prop_collection)
 
 Provides access to workspace data structures.

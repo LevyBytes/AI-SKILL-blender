@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeMeshToDensityGrid(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshToDensityGrid ( GeometryNode ) 
 
 Turn a mesh into a solid, filled volume grid.

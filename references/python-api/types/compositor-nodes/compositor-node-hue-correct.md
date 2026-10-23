@@ -92,7 +92,7 @@ type
 
 ### CompositorNodeHueCorrect(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeHueCorrect ( CompositorNode )
 
 Tweaks hue, saturation, and value driven by a curve.

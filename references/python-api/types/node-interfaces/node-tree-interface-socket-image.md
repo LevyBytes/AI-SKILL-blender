@@ -80,7 +80,7 @@ type
 
 ### NodeTreeInterfaceSocketImage(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketImage ( NodeTreeInterfaceSocket )
 
 A node socket that carries an image

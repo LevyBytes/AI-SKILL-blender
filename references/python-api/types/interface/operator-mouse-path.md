@@ -58,7 +58,7 @@ type
 
 ### OperatorMousePath(PropertyGroup) 
 
-base classes — bpy_struct, PropertyGroup
+base classes: bpy_struct, PropertyGroup
 class bpy.types. OperatorMousePath ( PropertyGroup ) 
 
 Stored mouse-path values for operators that capture such paths

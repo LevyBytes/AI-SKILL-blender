@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeKeying(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeKeying ( CompositorNode )
 
 Handles chroma keying to drop the backdrop and despill to clean up its color contamination, both in one pass.

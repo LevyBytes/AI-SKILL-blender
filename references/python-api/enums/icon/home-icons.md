@@ -1,4 +1,4 @@
-# Icon Items — home icons
+# Icon Items - home icons
 
 | Value | Meaning |
 | --- | --- |

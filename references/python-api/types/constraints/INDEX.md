@@ -28,8 +28,8 @@
 - Open when you need Rigid body: [Rigid body](../constraints-rigid-body/INDEX.md).
 - Open when you need Shrinkwrap: [Shrinkwrap](../constraints-shrinkwrap/INDEX.md).
 - Open when you need Stretch to: [Stretch to](../constraints-stretch-to/INDEX.md).
-- Open when you need bpy.types.TrackToConstraint — class-contract, Inherited Properties, Inherited Functions, TrackToConstraint(Constraint): [bpy.types.TrackToConstraint — class-contract, Inherited Properties, Inherited Functions, TrackToConstraint(Constraint)](track-to-constraint-class-contract.md).
-- Open when you need bpy.types.TrackToConstraint — TrackToConstraint(Constraint): [bpy.types.TrackToConstraint — TrackToConstraint(Constraint)](track-to-constraint-track-to-constraint-constraint.md).
+- Open when you need bpy.types.TrackToConstraint - class-contract, Inherited Properties, Inherited Functions, TrackToConstraint(Constraint): [bpy.types.TrackToConstraint - class-contract, Inherited Properties, Inherited Functions, TrackToConstraint(Constraint)](track-to-constraint-class-contract.md).
+- Open when you need bpy.types.TrackToConstraint - TrackToConstraint(Constraint): [bpy.types.TrackToConstraint - TrackToConstraint(Constraint)](track-to-constraint-track-to-constraint-constraint.md).
 - Open when you need Transform: [Transform](../constraints-transform/INDEX.md).
 - Open when you need bpy.types.TransformCacheConstraint: [bpy.types.TransformCacheConstraint](transform-cache-constraint.md).
 

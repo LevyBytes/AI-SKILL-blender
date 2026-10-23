@@ -1,4 +1,4 @@
-# Icon Items — system icons
+# Icon Items - system icons
 
 | Value | Meaning |
 | --- | --- |

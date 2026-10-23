@@ -72,7 +72,7 @@ type
 
 ### LatticeModifier(Modifier) 
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. LatticeModifier ( Modifier ) 
 
 Lattice deformation modifier

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputSceneTime(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputSceneTime ( GeometryNode ) 
 
 Read out where the scene's animation currently sits, expressed either as frames or as seconds.

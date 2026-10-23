@@ -52,7 +52,7 @@ A concrete scenario makes the point of mask layers clearer.
 Imagine the footage has two people you'd rather hide, one walking left to right and
 the other heading the opposite way. Put each on its own mask layer, both within
 one mask data-block, and you can mask them separately. Where the two shapes cross, they add together rather than
-punching a hole — which is what would happen if they shared a layer. When the motion is straightforward enough,
+punching a hole: which is what would happen if they shared a layer. When the motion is straightforward enough,
 one motion-tracked point can drive the whole mask layer's position.
 
 ### Active Spline

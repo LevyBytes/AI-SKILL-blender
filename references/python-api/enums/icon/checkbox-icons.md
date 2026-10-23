@@ -1,4 +1,4 @@
-# Icon Items — checkbox icons
+# Icon Items - checkbox icons
 
 | Value | Meaning |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Icon Items — axis icons
+# Icon Items - axis icons
 
 | Value | Meaning |
 | --- | --- |

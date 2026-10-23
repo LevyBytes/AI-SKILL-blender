@@ -1,4 +1,4 @@
-# Icon Items — hook icons
+# Icon Items - hook icons
 
 | Value | Meaning |
 | --- | --- |

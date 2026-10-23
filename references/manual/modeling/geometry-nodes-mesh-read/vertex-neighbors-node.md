@@ -12,8 +12,8 @@ None.
 
 ### Outputs
 
-Vertex Count — Vertices linked by edges (equal to connected edge count).
+Vertex Count: Vertices linked by edges (equal to connected edge count).
 
-Face Count — Faces containing this vertex.
+Face Count: Faces containing this vertex.
 
 [Related references](INDEX.md).

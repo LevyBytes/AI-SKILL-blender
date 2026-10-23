@@ -1,4 +1,4 @@
-# Icon Items — sticky icons
+# Icon Items - sticky icons
 
 | Value | Meaning |
 | --- | --- |

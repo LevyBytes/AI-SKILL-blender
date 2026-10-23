@@ -4,7 +4,7 @@
 
 ### FluidEffectorSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FluidEffectorSettings ( bpy_struct )
 
 Settings controlling how an object collides with smoke.

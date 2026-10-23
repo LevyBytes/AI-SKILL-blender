@@ -63,7 +63,7 @@ type
 
 ### SpaceClipOverlay(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SpaceClipOverlay ( bpy_struct )
 
 Configuration for the overlays drawn in the Movie Clip editor

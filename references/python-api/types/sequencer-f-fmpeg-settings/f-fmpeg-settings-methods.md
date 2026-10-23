@@ -4,7 +4,7 @@
 
 ### FFmpegSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FFmpegSettings ( bpy_struct )
 
 The scene's settings that pertain to FFmpeg.

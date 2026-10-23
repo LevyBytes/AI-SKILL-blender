@@ -7,11 +7,11 @@ The Viewer node previews image data or value maps anywhere in a compositor graph
 The Viewer node previews a node's results.
 
 Inputs:
-Color — the usual color input.
+Color: the usual color input.
 
-Properties — this node exposes no properties.
+Properties: this node exposes no properties.
 
-Outputs — this node produces no outputs.
+Outputs: this node produces no outputs.
 
 Viewer Node
 

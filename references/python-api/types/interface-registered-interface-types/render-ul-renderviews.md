@@ -45,7 +45,7 @@ type
 
 ### `RENDER_UL`_renderviews(UIList) 
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `RENDER_UL`_renderviews ( UIList )
 

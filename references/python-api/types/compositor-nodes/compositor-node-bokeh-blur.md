@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeBokehBlur(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeBokehBlur ( CompositorNode )
 
 Produce a bokeh-style blur akin to Defocus; unlike Defocus, the in-focus region here is set within the compositor

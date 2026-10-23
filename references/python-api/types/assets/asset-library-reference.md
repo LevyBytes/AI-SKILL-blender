@@ -44,7 +44,7 @@ type
 
 Handle to a library for asset references.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AssetLibraryReference ( bpy_struct )
 
 Weak reference to an asset catalog collection.

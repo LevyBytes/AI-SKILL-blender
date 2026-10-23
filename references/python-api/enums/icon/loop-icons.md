@@ -1,4 +1,4 @@
-# Icon Items — loop icons
+# Icon Items - loop icons
 
 | Value | Meaning |
 | --- | --- |

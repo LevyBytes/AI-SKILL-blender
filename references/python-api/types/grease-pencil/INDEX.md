@@ -22,8 +22,8 @@
 - Open when you need Grease pencil dash modifier data: [Grease pencil dash modifier data](../grease-pencil-grease-pencil-dash-modifier-data/INDEX.md).
 - Open when you need Grease pencil dash modifier segment: [Grease pencil dash modifier segment](../grease-pencil-grease-pencil-dash-modifier-segment/INDEX.md).
 - Open when you need Grease pencil drawing: [Grease pencil drawing](../grease-pencil-grease-pencil-drawing/INDEX.md).
-- Open when you need bpy.types.GreasePencilFrame — class-contract, Inherited Properties, Inherited Functions, References, GreasePencilFrame(bpy_struct): [bpy.types.GreasePencilFrame — class-contract, Inherited Properties, Inherited Functions, References, GreasePencilFrame(bpy_struct)](grease-pencil-frame-class-contract.md).
-- Open when you need bpy.types.GreasePencilFrame — GreasePencilFrame(bpy_struct): [bpy.types.GreasePencilFrame — GreasePencilFrame(bpy_struct)](grease-pencil-frame-grease-pencil-frame-bpy-struct.md).
+- Open when you need bpy.types.GreasePencilFrame - class-contract, Inherited Properties, Inherited Functions, References, GreasePencilFrame(bpy_struct): [bpy.types.GreasePencilFrame - class-contract, Inherited Properties, Inherited Functions, References, GreasePencilFrame(bpy_struct)](grease-pencil-frame-class-contract.md).
+- Open when you need bpy.types.GreasePencilFrame - GreasePencilFrame(bpy_struct): [bpy.types.GreasePencilFrame - GreasePencilFrame(bpy_struct)](grease-pencil-frame-grease-pencil-frame-bpy-struct.md).
 - Open when you need Grease pencil frames: [Grease pencil frames](../grease-pencil-grease-pencil-frames/INDEX.md).
 - Open when you need bpy.types.GreasePencil: ghost_after_range, ghost_before_range: [bpy.types.GreasePencil: ghost_after_range, ghost_before_range](grease-pencil-ghost.md).
 - Open when you need Grease pencil layer: [Grease pencil layer](../grease-pencil-grease-pencil-layer/INDEX.md).
@@ -38,8 +38,8 @@
 - Open when you need bpy.types.GreasePencil: root_nodes: [bpy.types.GreasePencil: root_nodes](grease-pencil-root-nodes.md).
 - Open when you need bpy.types.GreasePencil: stroke_depth_order: [bpy.types.GreasePencil: stroke_depth_order](grease-pencil-stroke-depth-order.md).
 - Open when you need Grease pencil thick modifier data: [Grease pencil thick modifier data](../grease-pencil-grease-pencil-thick-modifier-data/INDEX.md).
-- Open when you need bpy.types.GreasePencilTimeModifierSegment — class-contract, Inherited Properties, Inherited Functions, References, GreasePencilTimeModifierSegment(bpy_struct): [bpy.types.GreasePencilTimeModifierSegment — class-contract, Inherited Properties, Inherited Functions, References, GreasePencilTimeModifierSegment(bpy_struct)](grease-pencil-time-modifier-segment-class-contract.md).
-- Open when you need bpy.types.GreasePencilTimeModifierSegment — GreasePencilTimeModifierSegment(bpy_struct): [bpy.types.GreasePencilTimeModifierSegment — GreasePencilTimeModifierSegment(bpy_struct)](grease-pencil-time-modifier-segment.md).
+- Open when you need bpy.types.GreasePencilTimeModifierSegment - class-contract, Inherited Properties, Inherited Functions, References, GreasePencilTimeModifierSegment(bpy_struct): [bpy.types.GreasePencilTimeModifierSegment - class-contract, Inherited Properties, Inherited Functions, References, GreasePencilTimeModifierSegment(bpy_struct)](grease-pencil-time-modifier-segment-class-contract.md).
+- Open when you need bpy.types.GreasePencilTimeModifierSegment - GreasePencilTimeModifierSegment(bpy_struct): [bpy.types.GreasePencilTimeModifierSegment - GreasePencilTimeModifierSegment(bpy_struct)](grease-pencil-time-modifier-segment.md).
 - Open when you need Grease pencil tree node: [Grease pencil tree node](../grease-pencil-grease-pencil-tree-node/INDEX.md).
 - Open when you need bpy.types.GreasePencil: use_autolock_layers: [bpy.types.GreasePencil: use_autolock_layers](grease-pencil-use-autolock-layers.md).
 - Open when you need bpy.types.GreasePencil: use_ghost_custom_colors: [bpy.types.GreasePencil: use_ghost_custom_colors](grease-pencil-use-ghost-custom-colors.md).

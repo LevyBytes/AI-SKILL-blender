@@ -56,7 +56,7 @@ type
 
 ### SplinePoints(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. SplinePoints ( bpy_prop_collection )
 
 Set of points belonging to a spline

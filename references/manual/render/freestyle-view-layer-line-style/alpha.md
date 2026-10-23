@@ -2,7 +2,7 @@
 
 ## Alpha
 
-Alpha — Transparency Control
+Alpha: Transparency Control
 
 This tab manages stroke transparency.
 

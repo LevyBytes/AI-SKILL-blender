@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketIntUnsigned(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketIntUnsigned ( NodeTreeInterfaceSocket )
 
 A node socket that carries an integer value

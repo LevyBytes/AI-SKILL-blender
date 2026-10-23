@@ -72,7 +72,7 @@ type
 
 ### LaplacianDeformModifier(Modifier) 
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. LaplacianDeformModifier ( Modifier ) 
 
 Mesh deform modifier

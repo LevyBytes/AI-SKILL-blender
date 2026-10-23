@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeJoinGeometry(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeJoinGeometry ( GeometryNode ) 
 
 Combine several pieces of geometry that were built independently into one.

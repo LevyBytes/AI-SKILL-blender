@@ -1,4 +1,4 @@
-# Event Type Items — number keys
+# Event Type Items - number keys
 
 | Value | Meaning |
 | --- | --- |

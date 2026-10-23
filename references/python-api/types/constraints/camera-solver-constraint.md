@@ -58,7 +58,7 @@ type
 
 ### CameraSolverConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. CameraSolverConstraint ( Constraint )
 
 Constrain motion to reconstructed camera movements

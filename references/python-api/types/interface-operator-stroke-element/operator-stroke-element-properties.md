@@ -4,7 +4,7 @@
 
 ### OperatorStrokeElement(PropertyGroup) 
 
-base classes — bpy_struct, PropertyGroup
+base classes: bpy_struct, PropertyGroup
 class bpy.types. OperatorStrokeElement ( PropertyGroup )
 is_start 
 

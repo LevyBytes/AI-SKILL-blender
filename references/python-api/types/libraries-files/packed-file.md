@@ -63,7 +63,7 @@ type
 
 ### PackedFile(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PackedFile ( bpy_struct ) 
 
 A file from outside that has been packed into the .blend file

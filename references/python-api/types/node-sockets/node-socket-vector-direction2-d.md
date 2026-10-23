@@ -64,7 +64,7 @@ type
 
 ### NodeSocketVectorDirection2D(NodeSocketStandard) 
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketVectorDirection2D ( NodeSocketStandard ) 
 
 A node socket carrying a three-component vector.

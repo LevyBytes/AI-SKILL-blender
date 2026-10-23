@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSeparateComponents(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSeparateComponents ( GeometryNode )
 
 Break a geometry apart, giving each data type within it its own output

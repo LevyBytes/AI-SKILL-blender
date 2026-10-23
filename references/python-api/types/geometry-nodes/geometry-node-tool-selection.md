@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeToolSelection(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeToolSelection ( GeometryNode )
 
 Exposes whatever the user has selected on the geometry being edited so a tool run can act on it.

@@ -4,7 +4,7 @@
 
 Collection of geometry attributes on grease pencil drawing.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. AttributeGroupGreasePencilDrawing ( bpy_prop_collection )
 
 Container of per-element data channels.

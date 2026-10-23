@@ -1,4 +1,4 @@
-# Icon Items — mat icons
+# Icon Items - mat icons
 
 | Value | Meaning |
 | --- | --- |

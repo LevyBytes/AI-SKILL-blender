@@ -1,4 +1,4 @@
-# Icon Items — preset icons
+# Icon Items - preset icons
 
 | Value | Meaning |
 | --- | --- |

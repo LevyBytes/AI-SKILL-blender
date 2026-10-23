@@ -4,7 +4,7 @@
 
 ### GeometryNodeBake(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeBake ( GeometryNode )
 
 Stores the incoming data so it stays available without being recalculated.

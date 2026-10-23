@@ -43,7 +43,7 @@ Mixing factor between the selected color and the base material color.
 
 Active Color Palette. See Color Palette.
 
-Color — Stroke Appearance
+Color: Stroke Appearance
 
 This tab controls stroke color.
 

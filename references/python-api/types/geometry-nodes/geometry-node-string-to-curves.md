@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeStringToCurves(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeStringToCurves ( GeometryNode ) 
 
 Lays out a block of text in a given font, holding each glyph in its own curve instance.

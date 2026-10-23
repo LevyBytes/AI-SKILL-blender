@@ -25,7 +25,7 @@ An external player can substitute for Blender's built-in player. Configure this 
 ### Player Options 
 
 Ping Pong
-When enabled, playback alternates direction—forward then backward.
+When enabled, playback alternates direction: forward then backward.
 
 X/Y Flip
 Mirror the image along the horizontal or vertical axis.

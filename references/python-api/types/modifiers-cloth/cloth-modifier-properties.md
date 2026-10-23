@@ -4,7 +4,7 @@
 
 ### ClothModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. ClothModifier ( Modifier )
 
 Cloth simulation modifier

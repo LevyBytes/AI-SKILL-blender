@@ -16,16 +16,16 @@ Bevel is computationally expensive and may reduce render speed by 20% even with 
 
 ### Inputs
 
-- **Radius** — Width of the bevel effect on edges.
-- **Normal** — Normal to apply bevel atop; combines with Bump Nodes. Defaults to surface normal when disconnected.
+- **Radius**: Width of the bevel effect on edges.
+- **Normal**: Normal to apply bevel atop; combines with Bump Nodes. Defaults to surface normal when disconnected.
 
 ### Properties
 
-**Samples** — Number of samples per shader evaluation. More samples improve accuracy but slow rendering. 4 is typical; extra AA samples resolve remaining noise.
+**Samples**: Number of samples per shader evaluation. More samples improve accuracy but slow rendering. 4 is typical; extra AA samples resolve remaining noise.
 
 ### Outputs
 
-- **Normal** — Standard normal output.
+- **Normal**: Standard normal output.
 
 ### Examples
 

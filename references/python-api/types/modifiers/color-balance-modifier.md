@@ -65,7 +65,7 @@ type
 
 ### ColorBalanceModifier(StripModifier)
 
-base classes — bpy_struct, StripModifier
+base classes: bpy_struct, StripModifier
 class bpy.types. ColorBalanceModifier ( StripModifier )
 
 A strip modifier that performs color balancing on a sequence strip

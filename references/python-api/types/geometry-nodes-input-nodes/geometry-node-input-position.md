@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputPosition(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputPosition ( GeometryNode )
 
 Read out a vector giving where each element is positioned.

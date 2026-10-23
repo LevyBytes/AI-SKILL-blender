@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexVoronoi(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexVoronoi ( ShaderNode )
 
 Produces Worley noise from the distance to scattered random points — a common way to make stone, water, or organic cell patterns.

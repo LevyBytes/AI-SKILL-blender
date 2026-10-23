@@ -1,4 +1,4 @@
-# Icon Items — viewzoom icons
+# Icon Items - viewzoom icons
 
 | Value | Meaning |
 | --- | --- |

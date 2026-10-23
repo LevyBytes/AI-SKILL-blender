@@ -13,7 +13,7 @@ This node or modifier only works given valid Surface geometry or object inputs t
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for attaching to the surface.
+Geometry: the hair-curve geometry fed in for attaching to the surface.
 
 Surface Input Type
 How the surface geometry arrives for attachment. With both wired, the geometry input wins.

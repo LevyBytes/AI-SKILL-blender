@@ -4,7 +4,7 @@
 
 ### CompositorNodeRelativeToPixel(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeRelativeToPixel ( CompositorNode )
 
 Translates quantities expressed as a fraction of the image dimensions into actual pixel counts.

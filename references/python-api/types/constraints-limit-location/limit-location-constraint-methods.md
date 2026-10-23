@@ -4,7 +4,7 @@
 
 ### LimitLocationConstraint(Constraint) 
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. LimitLocationConstraint ( Constraint ) 
 
 Limit the location of the constrained object

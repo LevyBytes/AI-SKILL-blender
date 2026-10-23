@@ -4,7 +4,7 @@
 
 ### GreasePencilSubdivModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilSubdivModifier ( Modifier )
 
 Adds extra points along each stroke through subdivision.

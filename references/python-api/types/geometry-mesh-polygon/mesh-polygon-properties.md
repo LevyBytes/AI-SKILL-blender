@@ -4,7 +4,7 @@
 
 ### MeshPolygon(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MeshPolygon ( bpy_struct )
 
 Polygon in a Mesh data-block

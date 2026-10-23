@@ -4,7 +4,7 @@
 
 ### ShaderFxShadow(ShaderFx)
 
-base classes — bpy_struct, ShaderFx
+base classes: bpy_struct, ShaderFx
 class bpy.types. ShaderFxShadow ( ShaderFx )
 
 Shadow effect

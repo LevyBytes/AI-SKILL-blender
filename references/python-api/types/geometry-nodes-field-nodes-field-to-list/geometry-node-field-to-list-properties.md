@@ -4,7 +4,7 @@
 
 ### GeometryNodeFieldToList(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeFieldToList ( GeometryNode ) 
 
 Assemble a list out of supplied values

@@ -1,4 +1,4 @@
-# Icon Items — split icons
+# Icon Items - split icons
 
 | Value | Meaning |
 | --- | --- |

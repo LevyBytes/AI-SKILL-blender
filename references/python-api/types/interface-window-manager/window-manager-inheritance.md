@@ -4,7 +4,7 @@
 
 ### WindowManager(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. WindowManager ( ID )
 
 Data-block holding the open windows and other interface state.

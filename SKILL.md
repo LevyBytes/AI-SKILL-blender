@@ -1,9 +1,9 @@
 ---
 name: blender
-description: >-
-  Use when working with Blender workflows or Python APIs: .blend files, bpy scripting, operators, add-ons, extensions, animation, rigging, modeling, geometry and shader nodes, materials, UVs, sculpting, painting, cameras, lighting, rendering, compositing, video editing, linked libraries, or user-interface controls. Use for exact Blender identifiers, parameters, shortcuts, context requirements and version-specific behavior. Not for other DCC applications or general Python unrelated to Blender.
+description: "Use when working with Blender workflows or Python APIs: .blend files, bpy scripting, operators, add-ons, extensions, animation, rigging, modeling, geometry and shader nodes, materials, UVs, sculpting, painting, cameras, lighting, rendering, compositing, video editing, linked libraries or user-interface controls. Not for other DCC applications or general Python unrelated to Blender."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

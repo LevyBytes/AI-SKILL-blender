@@ -62,7 +62,7 @@ type
 
 ### GpPaint(Paint)
 
-base classes — bpy_struct, Paint
+base classes: bpy_struct, Paint
 class bpy.types. GpPaint ( Paint )
 
 [Related references](INDEX.md).

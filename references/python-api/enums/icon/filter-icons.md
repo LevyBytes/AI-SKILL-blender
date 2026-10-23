@@ -1,4 +1,4 @@
-# Icon Items — filter icons
+# Icon Items - filter icons
 
 | Value | Meaning |
 | --- | --- |

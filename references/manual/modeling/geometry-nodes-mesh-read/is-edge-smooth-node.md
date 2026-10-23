@@ -14,6 +14,6 @@ None.
 
 ### Outputs
 
-Smooth — Boolean per edge.
+Smooth: Boolean per edge.
 
 [Related references](INDEX.md).

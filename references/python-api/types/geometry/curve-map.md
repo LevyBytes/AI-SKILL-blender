@@ -56,7 +56,7 @@ type
 
 ### CurveMap(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CurveMap ( bpy_struct )
 
 One of the curves within a curve mapping.

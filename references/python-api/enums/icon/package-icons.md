@@ -1,4 +1,4 @@
-# Icon Items — package icons
+# Icon Items - package icons
 
 | Value | Meaning |
 | --- | --- |

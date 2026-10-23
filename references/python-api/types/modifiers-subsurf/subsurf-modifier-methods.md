@@ -4,7 +4,7 @@
 
 ### SubsurfModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. SubsurfModifier ( Modifier )
 
 A subdivision surface modifier.

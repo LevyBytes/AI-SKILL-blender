@@ -4,7 +4,7 @@
 
 ### ParticleSettings(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. ParticleSettings ( ID )
 
 A shareable particle settings block that several particle systems can draw on

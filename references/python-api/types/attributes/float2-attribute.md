@@ -51,7 +51,7 @@ type
 
 ### Float2Attribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. Float2Attribute ( Attribute )
 
 A geometry attribute holding floating-point 2D vectors.

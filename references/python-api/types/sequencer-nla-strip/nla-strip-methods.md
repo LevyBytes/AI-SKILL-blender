@@ -4,7 +4,7 @@
 
 ### NlaStrip(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. NlaStrip ( bpy_struct )
 
 Wraps and points at an already-existing Action.

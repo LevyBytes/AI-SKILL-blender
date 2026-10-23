@@ -4,7 +4,7 @@
 
 ### VertexWeightProximityModifier(Modifier) 
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. VertexWeightProximityModifier ( Modifier ) 
 
 Drive a group's vertex weights from how far they sit from a target object

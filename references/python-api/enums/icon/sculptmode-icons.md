@@ -1,4 +1,4 @@
-# Icon Items — sculptmode icons
+# Icon Items - sculptmode icons
 
 | Value | Meaning |
 | --- | --- |

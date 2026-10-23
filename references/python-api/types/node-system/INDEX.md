@@ -18,8 +18,8 @@
 - Open when you need Node combine bundle: [Node combine bundle](../node-system-node-combine-bundle/INDEX.md).
 - Open when you need bpy.types.NodeCombineBundleItem: [bpy.types.NodeCombineBundleItem](node-combine-bundle-item.md).
 - Open when you need bpy.types.NodeCombineBundleItems: [bpy.types.NodeCombineBundleItems](node-combine-bundle-items.md).
-- Open when you need bpy.types.NodeCompositorFileOutputItem — class-contract, Inherited Properties, Inherited Functions, References: [bpy.types.NodeCompositorFileOutputItem — class-contract, Inherited Properties, Inherited Functions, References](node-compositor-file-output-item-class-contract.md).
-- Open when you need bpy.types.NodeCompositorFileOutputItem — NodeCompositorFileOutputItem(bpy_struct), NodeCompositorFileOutputItem(bpy_struct): [bpy.types.NodeCompositorFileOutputItem — NodeCompositorFileOutputItem(bpy_struct), NodeCompositorFileOutputItem(bpy_struct)](node-compositor-file-output-item.md).
+- Open when you need bpy.types.NodeCompositorFileOutputItem - class-contract, Inherited Properties, Inherited Functions, References: [bpy.types.NodeCompositorFileOutputItem - class-contract, Inherited Properties, Inherited Functions, References](node-compositor-file-output-item-class-contract.md).
+- Open when you need bpy.types.NodeCompositorFileOutputItem - NodeCompositorFileOutputItem(bpy_struct), NodeCompositorFileOutputItem(bpy_struct): [bpy.types.NodeCompositorFileOutputItem - NodeCompositorFileOutputItem(bpy_struct), NodeCompositorFileOutputItem(bpy_struct)](node-compositor-file-output-item.md).
 - Open when you need bpy.types.NodeCompositorFileOutputItems: [bpy.types.NodeCompositorFileOutputItems](node-compositor-file-output-items.md).
 - Open when you need bpy.types.NodeCustomGroup: [bpy.types.NodeCustomGroup](node-custom-group.md).
 - Open when you need bpy.types.NodeEnableOutput: [bpy.types.NodeEnableOutput](node-enable-output.md).

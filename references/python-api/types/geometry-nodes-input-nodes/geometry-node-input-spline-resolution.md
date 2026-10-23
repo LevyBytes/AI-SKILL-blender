@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputSplineResolution(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputSplineResolution ( GeometryNode ) 
 
 Read out how many evaluated points each control point on a curve produces.

@@ -44,11 +44,11 @@ Which interpolation method gets used when visualizing the fluid grid.
 
 Linear :
 
-Interpolates linearly from voxel to voxel — a good balance of smoothness and speed.
+Interpolates linearly from voxel to voxel: a good balance of smoothness and speed.
 
 Cubic :
 
-Interpolates cubically from voxel to voxel — smoother, higher quality, but heavier to compute.
+Interpolates cubically from voxel to voxel: smoother, higher quality, but heavier to compute.
 
 Closest :
 

@@ -1,4 +1,4 @@
-# bpy.types.MovieTrackingDopesheet — class-contract, Inherited Properties, Inherited Functions, References, MovieTrackingDopesheet(bpy_struct)
+# bpy.types.MovieTrackingDopesheet - class-contract, Inherited Properties, Inherited Functions, References, MovieTrackingDopesheet(bpy_struct)
 
 show_hidden
 

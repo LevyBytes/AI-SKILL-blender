@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputShortestEdgePaths(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputShortestEdgePaths ( GeometryNode ) 
 
 Trace the cheapest routes through a mesh's edges toward chosen target vertices, letting you set the cost weighting for each edge.

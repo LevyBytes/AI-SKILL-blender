@@ -88,7 +88,7 @@ type
 
 ### MovieTrackingPlaneMarkers(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. MovieTrackingPlaneMarkers ( bpy_prop_collection )
 
 Set of markers attached to a movie-tracking plane track

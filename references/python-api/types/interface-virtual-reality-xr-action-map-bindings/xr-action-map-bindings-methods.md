@@ -4,7 +4,7 @@
 
 ### XrActionMapBindings(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. XrActionMapBindings ( bpy_prop_collection ) 
 
 A grouping of XR action map bindings

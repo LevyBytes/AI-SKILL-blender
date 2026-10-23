@@ -1,4 +1,4 @@
-# Icon Items — edgesel icons
+# Icon Items - edgesel icons
 
 | Value | Meaning |
 | --- | --- |

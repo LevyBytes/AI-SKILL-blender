@@ -1,4 +1,4 @@
-# bpy.types.LineStyleGeometryModifier_2DOffset — class-contract, Inherited Properties, Inherited Functions, LineStyleGeometryModifier_2DOffset(LineStyleGeometryModifier)
+# bpy.types.LineStyleGeometryModifier_2DOffset - class-contract, Inherited Properties, Inherited Functions, LineStyleGeometryModifier_2DOffset(LineStyleGeometryModifier)
 
 end 
 

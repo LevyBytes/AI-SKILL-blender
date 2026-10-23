@@ -4,7 +4,7 @@
 
 ### ShaderNodeBsdfPrincipled(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfPrincipled ( ShaderNode ) 
 
 An approachable, physically grounded surface shader built on the OpenPBR model

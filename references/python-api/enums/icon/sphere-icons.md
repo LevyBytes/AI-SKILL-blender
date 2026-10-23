@@ -1,4 +1,4 @@
-# Icon Items — sphere icons
+# Icon Items - sphere icons
 
 | Value | Meaning |
 | --- | --- |

@@ -4,7 +4,7 @@
 
 ### KeyingSetPath(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. KeyingSetPath ( bpy_struct ) 
 
 Points at a single setting that a Keying Set targets

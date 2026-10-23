@@ -4,7 +4,7 @@
 
 ### View3DShading(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. View3DShading ( bpy_struct )
 
 Controls how geometry is shaded inside the 3D viewport.

@@ -1,4 +1,4 @@
-# Icon Items — longdisplay icons
+# Icon Items - longdisplay icons
 
 | Value | Meaning |
 | --- | --- |

@@ -56,7 +56,7 @@ type
 
 ### ByteIntAttributeValue(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ByteIntAttributeValue ( bpy_struct )
 
 8-bit integer value in a geometry attribute

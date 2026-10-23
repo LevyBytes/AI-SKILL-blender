@@ -79,7 +79,7 @@ type
 
 ### ColorMixStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 class bpy.types. ColorMixStrip ( EffectStrip )
 
 Color Mix Strip

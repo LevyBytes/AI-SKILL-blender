@@ -73,7 +73,7 @@ type
 
 ### NodeTreeInterfaceSocketBundle(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketBundle ( NodeTreeInterfaceSocket ) 
 
 A node socket that carries a bundle.

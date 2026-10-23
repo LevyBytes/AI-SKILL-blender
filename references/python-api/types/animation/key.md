@@ -91,7 +91,7 @@ type
 
 ### Key(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Key ( ID )
 
 A shape-keys data-block holding the various shapes of geometric data-blocks.

@@ -2,7 +2,7 @@
 
 ## Object Properties
 
-Object Properties — Display Control
+Object Properties: Display Control
 
 ### Shading
 

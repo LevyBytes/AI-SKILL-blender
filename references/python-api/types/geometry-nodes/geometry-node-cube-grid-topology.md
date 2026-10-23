@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeCubeGridTopology(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCubeGridTopology ( GeometryNode )
 
 Build a boolean grid topology at the requested dimensions, intended to feed the Field to Grid node.

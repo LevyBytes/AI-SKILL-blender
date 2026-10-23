@@ -51,7 +51,7 @@ type
 
 ### OperatorMacro(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. OperatorMacro ( bpy_struct ) 
 
 Holds a sub operator within a macro once it has been added

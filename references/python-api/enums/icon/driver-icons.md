@@ -1,4 +1,4 @@
-# Icon Items — driver icons
+# Icon Items - driver icons
 
 | Value | Meaning |
 | --- | --- |

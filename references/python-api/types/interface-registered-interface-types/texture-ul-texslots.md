@@ -45,7 +45,7 @@ type
 
 ### `TEXTURE_UL`_texslots(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `TEXTURE_UL`_texslots ( UIList )
 

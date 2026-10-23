@@ -63,7 +63,7 @@ type
 
 ### NodesModifierWarning(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. NodesModifierWarning ( bpy_struct )
 
 A warning raised while a geometry nodes modifier is being evaluated

@@ -1,4 +1,4 @@
-# Icon Items — fund icons
+# Icon Items - fund icons
 
 | Value | Meaning |
 | --- | --- |

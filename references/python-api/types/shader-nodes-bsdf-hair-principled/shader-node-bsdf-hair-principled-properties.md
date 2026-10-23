@@ -4,7 +4,7 @@
 
 ### ShaderNodeBsdfHairPrincipled(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfHairPrincipled ( ShaderNode )
 
 A physically grounded yet easy-to-handle shader for rendering hair and fur

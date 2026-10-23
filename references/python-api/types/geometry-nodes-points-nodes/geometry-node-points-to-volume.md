@@ -85,7 +85,7 @@ type
 
 ### GeometryNodePointsToVolume(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodePointsToVolume ( GeometryNode )
 
 Surround each individual point with a fog volume sphere

@@ -4,7 +4,7 @@
 
 ### MotionPath(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MotionPath ( bpy_struct )
 
 Stored world-space locations of an element sampled across a span of frames

@@ -4,7 +4,7 @@
 
 ### SpaceDopeSheetEditor(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpaceDopeSheetEditor ( Space )
 
 The space data for the Dope Sheet

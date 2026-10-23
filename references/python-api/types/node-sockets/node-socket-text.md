@@ -62,7 +62,7 @@ type
 
 ### NodeSocketText(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketText ( NodeSocketStandard )
 
 A node socket whose value is a text block.

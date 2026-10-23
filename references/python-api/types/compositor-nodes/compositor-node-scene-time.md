@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeSceneTime(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeSceneTime ( CompositorNode )
 
 Outputs the present scene time, measured either in seconds or in frames.

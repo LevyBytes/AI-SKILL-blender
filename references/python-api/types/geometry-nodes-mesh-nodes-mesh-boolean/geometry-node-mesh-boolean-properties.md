@@ -4,7 +4,7 @@
 
 ### GeometryNodeMeshBoolean(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshBoolean ( GeometryNode ) 
 
 Carve, subtract, or combine two or more mesh inputs against each other.

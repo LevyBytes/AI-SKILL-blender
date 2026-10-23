@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeBsdfTransparent(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfTransparent ( ShaderNode ) 
 
 Lets light pass straight through the surface unrefracted, as though no geometry were present

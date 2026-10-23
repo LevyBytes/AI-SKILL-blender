@@ -1,4 +1,4 @@
-# Icon Items — ff icons
+# Icon Items - ff icons
 
 | Value | Meaning |
 | --- | --- |

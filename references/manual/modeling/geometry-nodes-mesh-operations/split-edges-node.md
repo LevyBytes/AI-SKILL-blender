@@ -8,12 +8,12 @@ Duplicates edges (like Edge Split Modifier), severing face links at split bounda
 
 ### Inputs
 
-Mesh — Standard input.
+Mesh: Standard input.
 
-Selection — Boolean; which edges split. Note: topology constraints may result in more or fewer splits than selected.
+Selection: Boolean; which edges split. Note: topology constraints may result in more or fewer splits than selected.
 
 ### Outputs
 
-Mesh — Standard output.
+Mesh: Standard output.
 
 [Related references](INDEX.md).

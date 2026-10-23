@@ -70,7 +70,7 @@ type
 
 ### ColorRampElement(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ColorRampElement ( bpy_struct )
 
 A stop that places a color at a specific position along the color ramp

@@ -4,7 +4,7 @@
 
 ### MovieClipProxy(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieClipProxy ( bpy_struct )
 
 Proxy configuration for a movie clip

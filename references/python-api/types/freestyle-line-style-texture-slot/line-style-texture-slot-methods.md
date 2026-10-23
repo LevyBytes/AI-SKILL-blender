@@ -4,7 +4,7 @@
 
 ### LineStyleTextureSlot(TextureSlot) 
 
-base classes — bpy_struct, TextureSlot
+base classes: bpy_struct, TextureSlot
 class bpy.types. LineStyleTextureSlot ( TextureSlot ) 
 
 A texture slot holding a texture for a LineStyle data-block

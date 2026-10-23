@@ -4,7 +4,7 @@
 
 ### ShaderNodeVolumeCoefficients(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeVolumeCoefficients ( ShaderNode )
 
 Represents all three volumetric physical processes through their coefficients.

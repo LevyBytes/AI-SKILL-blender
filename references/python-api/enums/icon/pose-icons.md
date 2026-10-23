@@ -1,4 +1,4 @@
-# Icon Items — pose icons
+# Icon Items - pose icons
 
 | Value | Meaning |
 | --- | --- |

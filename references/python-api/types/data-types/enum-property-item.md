@@ -84,7 +84,7 @@ type
 
 ### EnumPropertyItem(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. EnumPropertyItem ( bpy_struct )
 
 A single selectable choice belonging to an RNA enum property.

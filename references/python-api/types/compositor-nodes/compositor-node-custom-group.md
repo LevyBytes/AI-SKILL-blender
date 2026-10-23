@@ -49,7 +49,7 @@ type
 
 ### CompositorNodeCustomGroup(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeCustomGroup ( CompositorNode )
 
 A user-defined compositor group node intended for Python-authored nodes.

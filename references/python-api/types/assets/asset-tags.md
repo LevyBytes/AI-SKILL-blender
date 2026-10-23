@@ -73,7 +73,7 @@ type
 
 Collection of classification markers.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. AssetTags ( bpy_prop_collection )
 
 Set of user-defined classifications on an asset.

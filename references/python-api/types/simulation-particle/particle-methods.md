@@ -4,7 +4,7 @@
 
 ### Particle(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Particle ( bpy_struct )
 
 A single particle belonging to a particle system

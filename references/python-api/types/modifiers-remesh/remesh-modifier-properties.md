@@ -4,7 +4,7 @@
 
 ### RemeshModifier(Modifier) 
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. RemeshModifier ( Modifier ) 
 
 Build a fresh surface with even topology that conforms to the input mesh's shape

@@ -4,7 +4,7 @@
 
 ### KeyMap(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. KeyMap ( bpy_struct ) 
 
 Holds an input setup together with its keymaps

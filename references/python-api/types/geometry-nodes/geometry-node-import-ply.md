@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeImportPLY(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeImportPLY ( GeometryNode )
 
 Bring in a point cloud stored in a PLY file.

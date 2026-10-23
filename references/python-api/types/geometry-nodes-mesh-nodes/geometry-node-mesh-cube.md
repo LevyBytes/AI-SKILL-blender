@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeMeshCube(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshCube ( GeometryNode ) 
 
 Build a box mesh whose side lengths and subdivisions you can adjust.

@@ -4,7 +4,7 @@
 
 ### Struct(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Struct ( bpy_struct )
 
 The RNA definition of a structure.

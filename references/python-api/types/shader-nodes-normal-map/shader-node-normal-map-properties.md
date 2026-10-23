@@ -4,7 +4,7 @@
 
 ### ShaderNodeNormalMap(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeNormalMap ( ShaderNode ) 
 
 Build a perturbed normal from an RGB normal map image, a common trick for simulating fine surface detail

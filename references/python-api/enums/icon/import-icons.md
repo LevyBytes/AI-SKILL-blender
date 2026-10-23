@@ -1,4 +1,4 @@
-# Icon Items — import icons
+# Icon Items - import icons
 
 | Value | Meaning |
 | --- | --- |

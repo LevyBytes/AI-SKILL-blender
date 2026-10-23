@@ -4,7 +4,7 @@
 
 ### GeometryNodeSampleIndex(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSampleIndex ( GeometryNode )
 
 Read values out of particular elements of a geometry

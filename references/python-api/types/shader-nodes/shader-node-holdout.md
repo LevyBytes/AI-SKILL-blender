@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeHoldout(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeHoldout ( ShaderNode ) 
 
 Punch a zero-alpha “hole” into the image, handy when compositing.

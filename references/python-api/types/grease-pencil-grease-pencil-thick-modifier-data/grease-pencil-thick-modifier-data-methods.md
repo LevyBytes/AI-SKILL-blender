@@ -4,7 +4,7 @@
 
 ### GreasePencilThickModifierData(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilThickModifierData ( Modifier )
 
 Changes how thick the strokes are drawn.

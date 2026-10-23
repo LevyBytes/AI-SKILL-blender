@@ -12,8 +12,8 @@ Two-layer materials work similarly: place a glossy coating over a diffuse base a
 
 ### Inputs
 
-- **IOR** — Index of refraction of the material being entered.
-- **Normal** — Bump or normal map input to affect the output.
+- **IOR**: Index of refraction of the material being entered.
+- **Normal**: Bump or normal map input to affect the output.
 
 ### Properties
 
@@ -21,6 +21,6 @@ None.
 
 ### Outputs
 
-- **Factor** — Fresnel weight indicating the probability light reflects versus transmitting through.
+- **Factor**: Fresnel weight indicating the probability light reflects versus transmitting through.
 
 [Related references](INDEX.md).

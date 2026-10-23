@@ -13,7 +13,7 @@ Other nodes in the Hair Guides Nodes category can build a map internally for con
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for grouping, optionally carrying existing guide curves too.
+Geometry: the hair-curve geometry fed in for grouping, optionally carrying existing guide curves too.
 
 Guides
 The curves or points eligible to act as guides — the candidates other curves get assigned to.

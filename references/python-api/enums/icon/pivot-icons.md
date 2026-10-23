@@ -1,4 +1,4 @@
-# Icon Items — pivot icons
+# Icon Items - pivot icons
 
 | Value | Meaning |
 | --- | --- |

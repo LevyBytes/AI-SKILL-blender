@@ -56,7 +56,7 @@ type
 
 ### VertexPaint(Paint) 
 
-base classes — bpy_struct, Paint
+base classes: bpy_struct, Paint
 class bpy.types. VertexPaint ( Paint ) 
 
 The settings governing vertex and weight paint mode

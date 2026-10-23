@@ -4,7 +4,7 @@
 
 ### SceneStrip(Strip)
 
-base classes — bpy_struct, Strip
+base classes: bpy_struct, Strip
 class bpy.types. SceneStrip ( Strip )
 
 A sequence strip that draws on a scene's rendered image

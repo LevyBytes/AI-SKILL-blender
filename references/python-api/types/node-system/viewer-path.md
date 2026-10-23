@@ -56,7 +56,7 @@ type
 
 ### ViewerPath(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ViewerPath ( bpy_struct )
 
 Route pointing at the data being viewed.

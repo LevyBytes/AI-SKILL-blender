@@ -1,4 +1,4 @@
-# Icon Items — fixed icons
+# Icon Items - fixed icons
 
 | Value | Meaning |
 | --- | --- |

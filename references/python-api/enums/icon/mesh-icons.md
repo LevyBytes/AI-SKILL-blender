@@ -1,4 +1,4 @@
-# Icon Items — mesh icons
+# Icon Items - mesh icons
 
 | Value | Meaning |
 | --- | --- |

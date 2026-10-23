@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSetGridTransform(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetGridTransform ( GeometryNode ) 
 
 Defines how the grid maps from index space across into object space.

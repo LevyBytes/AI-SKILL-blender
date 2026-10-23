@@ -1,4 +1,4 @@
-# Icon Items — network icons
+# Icon Items - network icons
 
 | Value | Meaning |
 | --- | --- |

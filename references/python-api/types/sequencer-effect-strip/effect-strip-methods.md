@@ -4,7 +4,7 @@
 
 ### EffectStrip(Strip)
 
-base classes — bpy_struct, Strip
+base classes: bpy_struct, Strip
 
 subclasses —
 AddStrip, AdjustmentStrip, AlphaOverStrip, AlphaUnderStrip, ColorMixStrip, ColorStrip, CrossStrip, GammaCrossStrip, GaussianBlurStrip, GlowStrip, MulticamStrip, MultiplyStrip, SpeedControlStrip, SubtractStrip, TextStrip, WipeStrip

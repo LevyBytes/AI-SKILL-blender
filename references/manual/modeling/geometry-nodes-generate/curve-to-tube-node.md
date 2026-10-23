@@ -7,51 +7,51 @@ Curve to Tube Node
 Generates a mesh tube following an input curve with cylind­rical or custom-profiled cross-section. Useful for cables, pipes, wires, and tubing models.
 
 Inputs:
-Curve — Input spline.
-Scale — Radius multiplier on the curve's radius attribute.
+Curve: Input spline.
+Scale: Radius multiplier on the curve's radius attribute.
 
 Profile:
-Profile Mode — Shape definition:
-Round — Circular cross-section.
-Custom — Custom object or geometry profile.
-Resolution Round — Circle resolution (also cap resolution).
-Profile Input Custom — Profile source:
-Object — Single object.
-Geometry — Input geometry.
-Object / Geometry Custom — Profile specification.
-Shade Smooth — Enable smooth shading.
+Profile Mode - Shape definition:
+Round: Circular cross-section.
+Custom: Custom object or geometry profile.
+Resolution Round: Circle resolution (also cap resolution).
+Profile Input Custom - Profile source:
+Object: Single object.
+Geometry: Input geometry.
+Object / Geometry Custom: Profile specification.
+Shade Smooth: Enable smooth shading.
 
-Resample — Curve preprocessing for uniform geometry distribution:
-Resample Mode — Method:
-Evaluated — Existing evaluated points.
-Auto — Automatic sample length.
-Count — Fixed sample count.
-Length — Fixed distance between samples.
-Scale Auto — Auto-mode length multiplier.
-Count Count — Sample point count.
-Length Length — Sample spacing.
+Resample: Curve preprocessing for uniform geometry distribution:
+Resample Mode - Method:
+Evaluated: Existing evaluated points.
+Auto: Automatic sample length.
+Count: Fixed sample count.
+Length: Fixed distance between samples.
+Scale Auto: Auto-mode length multiplier.
+Count Count: Sample point count.
+Length Length: Sample spacing.
 
-Caps — End-fill strategy:
-Caps Type — Approach:
-Flat — Single n-gon per end.
-Round — Semicircle per end.
-Custom — User-provided geometry.
-Smooth Flat Round — Smooth tube-to-cap transition.
-Caps Input Custom — Cap source:
-Object — Single object.
-Geometry — Input geometry.
-Start / End Custom — Per-end cap objects or geometry.
+Caps - End-fill strategy:
+Caps Type - Approach:
+Flat: Single n-gon per end.
+Round: Semicircle per end.
+Custom: User-provided geometry.
+Smooth Flat Round: Smooth tube-to-cap transition.
+Caps Input Custom - Cap source:
+Object: Single object.
+Geometry: Input geometry.
+Start / End Custom: Per-end cap objects or geometry.
 
 UV Map:
-Name — Map name.
-Parameter U/V — UV generation:
-Factor — 0–1 normalization along curve and profile.
-Length — Real length and circumference.
-Index — Point indices.
-Consider Curve Radius — Account for radius variation.
+Name: Map name.
+Parameter U/V - UV generation:
+Factor: 0–1 normalization along curve and profile.
+Length: Real length and circumference.
+Index: Point indices.
+Consider Curve Radius: Account for radius variation.
 
 Outputs:
-Mesh — Tube output including optional caps and UVs.
+Mesh: Tube output including optional caps and UVs.
 
 ## Curve to Tube Modifier
 

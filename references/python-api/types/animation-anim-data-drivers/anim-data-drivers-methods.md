@@ -4,7 +4,7 @@
 
 Stores F-Curves that drive animation values.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. AnimDataDrivers ( bpy_prop_collection )
 
 Mechanism for storing driven animation curves.

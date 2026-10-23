@@ -2,7 +2,7 @@
 
 ## Local View
 
-Toggle Local View — Reference: Mode: All modes; Menu: View ‣ Local View ‣ Toggle Local View; Shortcut: NumpadSlash, Slash.
+Toggle Local View - Reference: Mode: All modes; Menu: View ‣ Local View ‣ Toggle Local View; Shortcut: NumpadSlash, Slash.
 
 Global view shows every 3D object in the scene, whereas Local view isolates the selected object(s) so they alone remain visible. That helps when you're working on objects buried behind others, or when you want to lighten viewport load in heavy scenes. Local view is contextual, set independently per 3D Viewport.
 

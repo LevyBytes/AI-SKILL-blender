@@ -54,7 +54,7 @@ type
 
 ### BoidRuleAvoid(BoidRule)
 
-base classes — bpy_struct, BoidRule
+base classes: bpy_struct, BoidRule
 class bpy.types.BoidRuleAvoid(BoidRule)
 
 [Related references](INDEX.md).

@@ -5,8 +5,8 @@
 - Open when you need bpy.types.ActionChannelbagGroups: [bpy.types.ActionChannelbagGroups](action-channelbag-groups.md).
 - Open when you need bpy.types.ActionChannelbag: [bpy.types.ActionChannelbag](action-channelbag.md).
 - Open when you need bpy.types.ActionChannelbags: [bpy.types.ActionChannelbags](action-channelbags.md).
-- Open when you need bpy.types.ActionGroup — ActionGroup(bpy_struct): [bpy.types.ActionGroup — ActionGroup(bpy_struct)](action-group-action-group-bpy-struct.md).
-- Open when you need bpy.types.ActionGroup — class-contract, Inherited Properties, Inherited Functions, References, ActionGroup(bpy_struct): [bpy.types.ActionGroup — class-contract, Inherited Properties, Inherited Functions, References, ActionGroup(bpy_struct)](action-group-class-contract.md).
+- Open when you need bpy.types.ActionGroup - ActionGroup(bpy_struct): [bpy.types.ActionGroup - ActionGroup(bpy_struct)](action-group-action-group-bpy-struct.md).
+- Open when you need bpy.types.ActionGroup - class-contract, Inherited Properties, Inherited Functions, References, ActionGroup(bpy_struct): [bpy.types.ActionGroup - class-contract, Inherited Properties, Inherited Functions, References, ActionGroup(bpy_struct)](action-group-class-contract.md).
 - Open when you need bpy.types.ActionLayer: [bpy.types.ActionLayer](action-layer.md).
 - Open when you need bpy.types.ActionLayers: [bpy.types.ActionLayers](action-layers.md).
 - Open when you need bpy.types.ActionPoseMarkers: [bpy.types.ActionPoseMarkers](action-pose-markers.md).
@@ -59,11 +59,11 @@
 - Open when you need bpy.types.Key: [bpy.types.Key](key.md).
 - Open when you need Keyframe: [Keyframe](../animation-keyframe/INDEX.md).
 - Open when you need Keying set: [Keying set](../animation-keying-set/INDEX.md).
-- Open when you need bpy.types.KeyingSetInfo — class-contract, Inherited Properties, Inherited Functions, References, KeyingSetInfo(bpy_struct): [bpy.types.KeyingSetInfo — class-contract, Inherited Properties, Inherited Functions, References, KeyingSetInfo(bpy_struct)](keying-set-info-class-contract.md).
-- Open when you need bpy.types.KeyingSetInfo — KeyingSetInfo(bpy_struct): [bpy.types.KeyingSetInfo — KeyingSetInfo(bpy_struct)](keying-set-info-keying-set-info-bpy-struct.md).
+- Open when you need bpy.types.KeyingSetInfo - class-contract, Inherited Properties, Inherited Functions, References, KeyingSetInfo(bpy_struct): [bpy.types.KeyingSetInfo - class-contract, Inherited Properties, Inherited Functions, References, KeyingSetInfo(bpy_struct)](keying-set-info-class-contract.md).
+- Open when you need bpy.types.KeyingSetInfo - KeyingSetInfo(bpy_struct): [bpy.types.KeyingSetInfo - KeyingSetInfo(bpy_struct)](keying-set-info-keying-set-info-bpy-struct.md).
 - Open when you need Keying set path: [Keying set path](../animation-keying-set-path/INDEX.md).
-- Open when you need bpy.types.KeyingSetPaths — class-contract, Inherited Properties, Inherited Functions, References, KeyingSetPaths(bpy_prop_collection): [bpy.types.KeyingSetPaths — class-contract, Inherited Properties, Inherited Functions, References, KeyingSetPaths(bpy_prop_collection)](keying-set-paths-class-contract.md).
-- Open when you need bpy.types.KeyingSetPaths — KeyingSetPaths(bpy_prop_collection): [bpy.types.KeyingSetPaths — KeyingSetPaths(bpy_prop_collection)](keying-set-paths-keying-set-paths-bpy-prop-collection.md).
+- Open when you need bpy.types.KeyingSetPaths - class-contract, Inherited Properties, Inherited Functions, References, KeyingSetPaths(bpy_prop_collection): [bpy.types.KeyingSetPaths - class-contract, Inherited Properties, Inherited Functions, References, KeyingSetPaths(bpy_prop_collection)](keying-set-paths-class-contract.md).
+- Open when you need bpy.types.KeyingSetPaths - KeyingSetPaths(bpy_prop_collection): [bpy.types.KeyingSetPaths - KeyingSetPaths(bpy_prop_collection)](keying-set-paths-keying-set-paths-bpy-prop-collection.md).
 - Open when you need bpy.types.KeyingSetsAll: [bpy.types.KeyingSetsAll](keying-sets-all.md).
 - Open when you need bpy.types.KeyingSets: [bpy.types.KeyingSets](keying-sets.md).
 - Open when you need Motion path: [Motion path](../animation-motion-path/INDEX.md).

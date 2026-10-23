@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeMeshToSDFGrid(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshToSDFGrid ( GeometryNode ) 
 
 Build a signed-distance volume grid out of a mesh.

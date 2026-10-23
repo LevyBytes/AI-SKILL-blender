@@ -1,4 +1,4 @@
-# Icon Items — warning icons
+# Icon Items - warning icons
 
 | Value | Meaning |
 | --- | --- |

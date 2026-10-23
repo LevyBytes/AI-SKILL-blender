@@ -1,4 +1,4 @@
-# Icon Items — matcloth icons
+# Icon Items - matcloth icons
 
 | Value | Meaning |
 | --- | --- |

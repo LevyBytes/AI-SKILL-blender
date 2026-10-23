@@ -1,4 +1,4 @@
-# bpy.types.UserAssetLibrary — class-contract, Inherited Properties, Inherited Functions, References, UserAssetLibrary(bpy_struct)
+# bpy.types.UserAssetLibrary - class-contract, Inherited Properties, Inherited Functions, References, UserAssetLibrary(bpy_struct)
 
 enabled 
 

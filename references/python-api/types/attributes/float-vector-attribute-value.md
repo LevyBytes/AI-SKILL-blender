@@ -56,7 +56,7 @@ type
 
 ### FloatVectorAttributeValue(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FloatVectorAttributeValue ( bpy_struct )
 
 A single vector entry held within a geometry attribute.

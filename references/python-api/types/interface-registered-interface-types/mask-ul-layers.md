@@ -45,7 +45,7 @@ type
 
 ### `MASK_UL`_layers(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `MASK_UL`_layers ( UIList )
 

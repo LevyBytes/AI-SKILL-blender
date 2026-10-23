@@ -4,7 +4,7 @@
 
 ### LineStyleColorModifier_CreaseAngle(LineStyleColorModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleColorModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleColorModifier
 class bpy.types. LineStyleColorModifier_CreaseAngle ( LineStyleColorModifier ) 
 
 Varies line color according to the crease angle beneath it

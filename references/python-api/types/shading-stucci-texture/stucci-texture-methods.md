@@ -4,7 +4,7 @@
 
 ### StucciTexture(Texture)
 
-base classes — bpy_struct, ID, Texture
+base classes: bpy_struct, ID, Texture
 class bpy.types. StucciTexture ( Texture )
 
 A procedural texture built from noise.

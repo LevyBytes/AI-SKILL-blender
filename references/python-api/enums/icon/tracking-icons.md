@@ -1,4 +1,4 @@
-# Icon Items — tracking icons
+# Icon Items - tracking icons
 
 | Value | Meaning |
 | --- | --- |

@@ -4,7 +4,7 @@
 
 A region of subdivided screen space.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Area ( bpy_struct )
 
 One subdivision of a screen displaying an editor.

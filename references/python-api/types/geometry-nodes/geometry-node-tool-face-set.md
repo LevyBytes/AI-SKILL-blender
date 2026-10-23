@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeToolFaceSet(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeToolFaceSet ( GeometryNode ) 
 
 The sculpt face set value assigned to each face.

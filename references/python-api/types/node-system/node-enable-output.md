@@ -92,7 +92,7 @@ type
 
 ### NodeEnableOutput(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeEnableOutput ( NodeInternal )
 
 Forward the incoming value, or instead emit the fallback value.

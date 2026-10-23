@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputMeshIsland(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputMeshIsland ( GeometryNode )
 
 Read out details about the distinct connected regions that make up a mesh.

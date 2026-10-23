@@ -84,7 +84,7 @@ type
 
 ### XrNavigation(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. XrNavigation ( bpy_struct ) 
 
 Settings that control VR navigation

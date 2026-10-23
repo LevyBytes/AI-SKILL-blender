@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSDFGridMedian(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSDFGridMedian ( GeometryNode )
 
 Run a median filter over a signed distance field. Cuts down noise yet keeps the field's sharp features and edges intact

@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeCombineTransform(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeCombineTransform ( FunctionNode ) 
 
 Merge a translation vector, a rotation, and a scale vector into one transformation matrix

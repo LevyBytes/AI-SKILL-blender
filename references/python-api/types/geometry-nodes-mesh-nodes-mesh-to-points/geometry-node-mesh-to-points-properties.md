@@ -4,7 +4,7 @@
 
 ### GeometryNodeMeshToPoints(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshToPoints ( GeometryNode ) 
 
 Build a point cloud out of the vertices of a mesh.

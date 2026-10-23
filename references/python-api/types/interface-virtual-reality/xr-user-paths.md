@@ -86,7 +86,7 @@ type
 
 ### XrUserPaths(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. XrUserPaths ( bpy_prop_collection ) 
 
 A grouping of OpenXR user paths

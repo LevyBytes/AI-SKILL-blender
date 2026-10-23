@@ -56,7 +56,7 @@ type
 
 ### ThemeStatusBar(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeStatusBar ( bpy_struct )
 
 Styling for the Status Bar

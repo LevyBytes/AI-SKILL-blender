@@ -1,4 +1,4 @@
-# Icon Items — hide icons
+# Icon Items - hide icons
 
 | Value | Meaning |
 | --- | --- |

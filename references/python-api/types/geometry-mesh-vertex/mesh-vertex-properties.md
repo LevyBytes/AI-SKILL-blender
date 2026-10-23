@@ -4,7 +4,7 @@
 
 ### MeshVertex(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MeshVertex ( bpy_struct )
 
 Vertex in a Mesh data-block

@@ -4,7 +4,7 @@
 
 ### FollowPathConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. FollowPathConstraint ( Constraint )
 
 Pins an object's motion to follow the target path.

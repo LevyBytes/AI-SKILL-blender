@@ -1,4 +1,4 @@
-# Icon Items — node icons
+# Icon Items - node icons
 
 | Value | Meaning |
 | --- | --- |

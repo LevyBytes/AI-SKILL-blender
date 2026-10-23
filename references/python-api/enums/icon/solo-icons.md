@@ -1,4 +1,4 @@
-# Icon Items — solo icons
+# Icon Items - solo icons
 
 | Value | Meaning |
 | --- | --- |

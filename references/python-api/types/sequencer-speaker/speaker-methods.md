@@ -4,7 +4,7 @@
 
 ### Speaker(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Speaker ( ID )
 
 Data-block holding a 3D audio speaker object

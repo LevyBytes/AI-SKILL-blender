@@ -63,7 +63,7 @@ type
 
 ### CacheFileLayer(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CacheFileLayer ( bpy_struct )
 
 Individual cache layer, loaded or overriding data from the base layer

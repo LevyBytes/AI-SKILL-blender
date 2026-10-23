@@ -1,4 +1,4 @@
-# Icon Items — temp icons
+# Icon Items - temp icons
 
 | Value | Meaning |
 | --- | --- |

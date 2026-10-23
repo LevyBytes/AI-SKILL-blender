@@ -52,7 +52,7 @@ class bpy.types.AlphaOverStrip(EffectStrip)
 Alpha Over Strip
 ### AlphaUnderStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 ## AlphaOverStrip(EffectStrip)
 
 [Related references](INDEX.md).

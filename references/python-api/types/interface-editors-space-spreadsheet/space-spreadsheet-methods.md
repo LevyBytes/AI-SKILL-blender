@@ -4,7 +4,7 @@
 
 ### SpaceSpreadsheet(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpaceSpreadsheet ( Space )
 
 Data for the spreadsheet space

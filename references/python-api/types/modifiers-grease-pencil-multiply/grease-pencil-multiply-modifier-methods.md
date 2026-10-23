@@ -4,7 +4,7 @@
 
 ### GreasePencilMultiplyModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilMultiplyModifier ( Modifier )
 
 Turns a single stroke into several strokes.

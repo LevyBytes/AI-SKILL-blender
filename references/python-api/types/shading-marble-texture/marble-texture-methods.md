@@ -4,7 +4,7 @@
 
 ### MarbleTexture(Texture)
 
-base classes — bpy_struct, ID, Texture
+base classes: bpy_struct, ID, Texture
 class bpy.types. MarbleTexture ( Texture )
 
 A procedurally generated noise texture.

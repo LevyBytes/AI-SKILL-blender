@@ -59,7 +59,7 @@ type
 
 ### SpreadsheetTableID(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 SpreadsheetTableIDGeometry

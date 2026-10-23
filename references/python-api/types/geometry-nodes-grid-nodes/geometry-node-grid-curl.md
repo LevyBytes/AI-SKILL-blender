@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeGridCurl(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridCurl ( GeometryNode ) 
 
 Measure how strongly and in which direction a directional vector grid circulates

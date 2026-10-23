@@ -4,7 +4,7 @@
 
 ### RigidBodyObject(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. RigidBodyObject ( bpy_struct )
 
 Configuration for an object taking part in a Rigid Body Simulation

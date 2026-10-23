@@ -92,7 +92,7 @@ type
 
 ### TimelineMarker(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. TimelineMarker ( bpy_struct ) 
 
 A marker that flags a point of interest on the timeline.

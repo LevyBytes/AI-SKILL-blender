@@ -45,7 +45,7 @@ type
 
 ### `POSE_UL`_selection_set(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `POSE_UL`_selection_set ( UIList )
 

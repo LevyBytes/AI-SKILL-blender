@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeViewportTransform(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeViewportTransform ( GeometryNode )
 
 Reports the viewing direction and position of the 3D viewport.

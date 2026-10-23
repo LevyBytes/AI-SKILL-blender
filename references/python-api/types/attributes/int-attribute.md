@@ -51,7 +51,7 @@ type
 
 ### IntAttribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. IntAttribute ( Attribute )
 
 A geometry attribute holding integer values.

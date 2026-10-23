@@ -1,4 +1,4 @@
-# Icon Items — vertexsel icons
+# Icon Items - vertexsel icons
 
 | Value | Meaning |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Icon Items — rec icons
+# Icon Items - rec icons
 
 | Value | Meaning |
 | --- | --- |

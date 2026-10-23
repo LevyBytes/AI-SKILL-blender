@@ -3,8 +3,8 @@
 ## Menus
 
 Blender uses many kinds of menus to reach options and Operators. Ways to interact with a menu:
-Mouse selection — LMB the item you want.
-Numerical selection — use the number keys or numpad to pick an item by position; Numpad1 selects the first item, and so on.
+Mouse selection: LMB the item you want.
+Numerical selection: use the number keys or numpad to pick an item by position; Numpad1 selects the first item, and so on.
 If a menu is too tall for the screen, a small scrolling triangle appears at the top or bottom; scroll by moving the mouse past that triangle.
 Shortcuts:
 - Use Wheel while hovering with the mouse.
@@ -23,21 +23,21 @@ Expanded View: some select menus use an expanded layout showing every option at 
 Popover Menus: like Select Menus, but able to show more varied content such as a title, buttons, sliders, and so on.
 
 Context Menu: a pop-up opened with RMB (in most editors the Menu key works too), whose contents depend on where the pointer is. Opened in an editor, it lists operators sensitive to that editor's mode; opened over buttons and properties, common entries include:
-Single — apply the change to a single value of a set (e.g. only the X coordinate of an object's Location).
-All — apply the change to all values of a set (e.g. all coordinates of an object's Location).
-Reset to Default Value(s) (Backspace) — replace the current value with the default.
-Copy Data Path (Shift-Ctrl-C) — copy the Python property data path relative to the data-block; useful for Python scripting.
-Copy Full Data Path (Shift-Ctrl-Alt-C) — copy the full Python property data path, including any needed context information.
-Copy As New Driver — create a new driver using this property as input and copy it to the clipboard; use Paste Driver to add it to another property, or Paste Driver Variables to extend an existing driver with a new input variable.
-Copy To Selected — copy the property value to the selected object's corresponding property (a use case is when the Properties context is pinned).
-Assign Shortcut — define a keyboard or mouse shortcut for an operation; move the cursor over the button that pops up, and when "Press a key" appears, press and/or click the desired shortcut (Esc cancels). See Keymap.
-Change Shortcut — redefine the shortcut.
-Remove Shortcut — unlink the existing shortcut.
-Open File Location, Open Location Externally — open the containing folder using the operating system's file manager.
-Online Manual (F1) — open a Blender Manual page in a web browser.
-Online Python Reference — context-sensitive access to the Python API Reference.
-Edit Source — for UI development: create a text data-block with the source code associated with the control (when it's based on a Python script), pointing in the Text Editor at the line where the element is defined.
-Edit Translation — for UI development: point at the translation code line.
+Single: apply the change to a single value of a set (e.g. only the X coordinate of an object's Location).
+All: apply the change to all values of a set (e.g. all coordinates of an object's Location).
+Reset to Default Value(s) (Backspace): replace the current value with the default.
+Copy Data Path (Shift-Ctrl-C): copy the Python property data path relative to the data-block; useful for Python scripting.
+Copy Full Data Path (Shift-Ctrl-Alt-C): copy the full Python property data path, including any needed context information.
+Copy As New Driver: create a new driver using this property as input and copy it to the clipboard; use Paste Driver to add it to another property, or Paste Driver Variables to extend an existing driver with a new input variable.
+Copy To Selected: copy the property value to the selected object's corresponding property (a use case is when the Properties context is pinned).
+Assign Shortcut: define a keyboard or mouse shortcut for an operation; move the cursor over the button that pops up, and when "Press a key" appears, press and/or click the desired shortcut (Esc cancels). See Keymap.
+Change Shortcut: redefine the shortcut.
+Remove Shortcut: unlink the existing shortcut.
+Open File Location, Open Location Externally: open the containing folder using the operating system's file manager.
+Online Manual (F1): open a Blender Manual page in a web browser.
+Online Python Reference: context-sensitive access to the Python API Reference.
+Edit Source - for UI development: create a text data-block with the source code associated with the control (when it's based on a Python script), pointing in the Text Editor at the line where the element is defined.
+Edit Translation - for UI development: point at the translation code line.
 
 Pie Menus: a pie menu spreads its items radially around the mouse. Tip: the fastest way to use one is to hold the invoking key(s), nudge the mouse slightly toward a selection, and release the key(s) to activate it — releasing without moving keeps the menu open so you can click an item, while moving before releasing instantly activates the item nearest the mouse.
 

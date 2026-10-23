@@ -48,7 +48,7 @@ type
 
 ### BoidRuleFight(BoidRule)
 
-base classes — bpy_struct, BoidRule
+base classes: bpy_struct, BoidRule
 class bpy.types.BoidRuleFight(BoidRule)
 
 [Related references](INDEX.md).

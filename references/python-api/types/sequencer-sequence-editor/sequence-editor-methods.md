@@ -4,7 +4,7 @@
 
 ### SequenceEditor(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SequenceEditor ( bpy_struct )
 
 Holds the strip-editing data belonging to a Scene data-block

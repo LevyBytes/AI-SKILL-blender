@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeGamma(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeGamma ( CompositorNode )
 
 [Related references](INDEX.md).

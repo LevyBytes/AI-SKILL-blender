@@ -4,7 +4,7 @@
 
 ### GreasePencilOutlineModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilOutlineModifier ( Modifier )
 
 Traces the silhouette of strokes as seen from the camera.

@@ -18,7 +18,7 @@ Liquid diffusion parameters define physical qualities and environment interactio
 
 Viscosity
 
-Viscosity denotes fluid "thickness"—resistance to motion relative to surface area and speed.
+Viscosity denotes fluid "thickness": resistance to motion relative to surface area and speed.
 
 Real-world values (dynamic viscosity) are Pascal-seconds (Pa·s) or Poise units (P = 0.1 Pa·s), often centiPoise (cP = 0.001 Pa·s).
 

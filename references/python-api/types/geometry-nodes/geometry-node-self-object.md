@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSelfObject(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSelfObject ( GeometryNode )
 
 Get the object that holds the geometry nodes modifier that is running right now

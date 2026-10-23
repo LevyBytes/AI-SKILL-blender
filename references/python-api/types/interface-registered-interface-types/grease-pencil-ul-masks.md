@@ -45,7 +45,7 @@ type
 
 ### `GREASE_PENCIL_UL`_masks(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `GREASE_PENCIL_UL`_masks ( UIList )
 

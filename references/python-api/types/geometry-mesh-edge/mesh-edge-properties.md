@@ -4,7 +4,7 @@
 
 ### MeshEdge(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MeshEdge ( bpy_struct )
 
 Edge in a Mesh data-block

@@ -4,10 +4,10 @@
 
 ### CompositorNodeCryptomatte(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeCryptomatte ( CompositorNode )
 
-No longer maintained — switch to the Cryptomatte Node in its place.
+No longer maintained: switch to the Cryptomatte Node in its place.
 add
 
 Picks a color from the Pick output to bring an object or material into the matte (array of 3 items, in [-inf, inf], default (1.0, 1.0, 1.0))

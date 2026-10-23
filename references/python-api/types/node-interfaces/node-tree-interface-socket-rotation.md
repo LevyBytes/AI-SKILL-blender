@@ -80,7 +80,7 @@ type
 
 ### NodeTreeInterfaceSocketRotation(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketRotation ( NodeTreeInterfaceSocket )
 
 A node socket that carries a rotation value

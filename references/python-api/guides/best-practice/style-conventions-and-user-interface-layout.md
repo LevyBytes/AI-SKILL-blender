@@ -21,7 +21,7 @@ and what follows is a short rundown of its rules:
 
 - Operators padded with spaces: 1 + 1 , not 1+1
 
-- Imports always explicit — no wildcard importing *
+- Imports always explicit: no wildcard importing *
 
 - One statement per line: instead of if val: body on a single line, break it across two.
 

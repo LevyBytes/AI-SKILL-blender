@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeVertexColor(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeVertexColor ( ShaderNode )
 
 Pulls a color attribute, reverting to the default when nothing is named.

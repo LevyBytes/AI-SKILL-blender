@@ -4,7 +4,7 @@
 
 ### RigidBodyWorld(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. RigidBodyWorld ( bpy_struct )
 
 A self-contained environment plus settings for a rigid body simulation

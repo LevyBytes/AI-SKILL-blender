@@ -51,7 +51,7 @@ type
 
 ### QuaternionAttribute(Attribute) 
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. QuaternionAttribute ( Attribute ) 
 
 Geometry attribute holding rotation data

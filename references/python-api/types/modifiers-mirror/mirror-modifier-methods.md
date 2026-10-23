@@ -4,7 +4,7 @@
 
 ### MirrorModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. MirrorModifier ( Modifier )
 
 Modifier that mirrors geometry across an axis or plane

@@ -1,4 +1,4 @@
-# Icon Items — handle icons
+# Icon Items - handle icons
 
 | Value | Meaning |
 | --- | --- |

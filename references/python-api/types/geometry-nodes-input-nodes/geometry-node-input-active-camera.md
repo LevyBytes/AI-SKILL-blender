@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputActiveCamera(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputActiveCamera ( GeometryNode )
 
 Fetch whichever camera is currently active in the scene.

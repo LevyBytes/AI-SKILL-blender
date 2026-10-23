@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeImportOBJ(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeImportOBJ ( GeometryNode )
 
 Load geometry out of an OBJ file on disk.

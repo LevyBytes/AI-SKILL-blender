@@ -72,7 +72,7 @@ type
 
 ### LineStyleGeometryModifier_Polygonalization(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_Polygonalization ( LineStyleGeometryModifier ) 
 
 Reshape the stroke geometry to give it a more ‘polygonal’ appearance

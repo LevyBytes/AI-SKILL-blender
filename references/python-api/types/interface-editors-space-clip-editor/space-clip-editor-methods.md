@@ -4,7 +4,7 @@
 
 ### SpaceClipEditor(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpaceClipEditor ( Space )
 
 The space data for the clip editor

@@ -1,4 +1,4 @@
-# Icon Items — sortbyext icons
+# Icon Items - sortbyext icons
 
 | Value | Meaning |
 | --- | --- |

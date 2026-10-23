@@ -7,12 +7,12 @@ The Scale node resizes an image. Inputs: Image (standard color input) and Space,
 Scales an image's or texture's texture coordinates.
 
 Inputs:
-Color — the usual color input.
-Scale — how much to scale the coordinates along each of the three axes.
+Color: the usual color input.
+Scale: how much to scale the coordinates along each of the three axes.
 
-Properties — this node exposes no properties.
+Properties: this node exposes no properties.
 
 Outputs:
-Color — the usual color output.
+Color: the usual color output.
 
 [Related references](INDEX.md).

@@ -56,7 +56,7 @@ type
 
 ### MeshLoopColor(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MeshLoopColor ( bpy_struct )
 
 Vertex loop colors in a Mesh

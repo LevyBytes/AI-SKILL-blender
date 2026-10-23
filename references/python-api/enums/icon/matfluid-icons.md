@@ -1,4 +1,4 @@
-# Icon Items — matfluid icons
+# Icon Items - matfluid icons
 
 | Value | Meaning |
 | --- | --- |

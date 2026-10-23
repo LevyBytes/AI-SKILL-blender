@@ -2,7 +2,7 @@
 
 ## World Settings
 
-World Settings — Environment and Global Light
+World Settings: Environment and Global Light
 
 The world environment can emit light, ranging from solid color to complex textures.
 

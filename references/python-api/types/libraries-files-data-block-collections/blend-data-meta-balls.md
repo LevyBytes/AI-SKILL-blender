@@ -84,7 +84,7 @@ type
 
 Registry of imported motion tracking footage.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. BlendDataMetaBalls ( bpy_prop_collection )
 
 Collection of metaballs

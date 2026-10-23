@@ -1,4 +1,4 @@
-# Flow: Settings — Flow, Flow
+# Flow: Settings - Flow, Flow
 
 ## Flow
 

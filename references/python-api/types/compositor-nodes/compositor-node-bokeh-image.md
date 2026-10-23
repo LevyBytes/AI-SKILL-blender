@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeBokehImage(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeBokehImage ( CompositorNode )
 
 Produce an image carrying a bokeh shape, meant to feed the Bokeh Blur filter node

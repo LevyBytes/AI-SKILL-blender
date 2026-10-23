@@ -4,7 +4,7 @@
 
 ### CollisionSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CollisionSettings ( bpy_struct )
 
 Settings that govern an object's collision behavior in a physics simulation

@@ -1,4 +1,4 @@
-# Icon Items — auto icons
+# Icon Items - auto icons
 
 | Value | Meaning |
 | --- | --- |

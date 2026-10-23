@@ -1,4 +1,4 @@
-# Icon Items — anim icons
+# Icon Items - anim icons
 
 | Value | Meaning |
 | --- | --- |

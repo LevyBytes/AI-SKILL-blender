@@ -1,4 +1,4 @@
-# Icon Items — nodetree icons
+# Icon Items - nodetree icons
 
 | Value | Meaning |
 | --- | --- |

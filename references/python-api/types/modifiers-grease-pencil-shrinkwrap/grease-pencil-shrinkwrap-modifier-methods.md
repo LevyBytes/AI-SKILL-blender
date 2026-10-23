@@ -4,7 +4,7 @@
 
 ### GreasePencilShrinkwrapModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilShrinkwrapModifier ( Modifier )
 
 Conforms an object onto a target surface by wrapping it tightly around it.

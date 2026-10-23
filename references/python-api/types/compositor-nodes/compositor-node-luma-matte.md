@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeLumaMatte(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeLumaMatte ( CompositorNode )
 
 Generates a matte by keying on differences in luminance, or brightness.

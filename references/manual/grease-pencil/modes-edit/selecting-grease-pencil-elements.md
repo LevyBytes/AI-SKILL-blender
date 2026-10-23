@@ -6,11 +6,11 @@
 
 Edit Mode offers three selection modes accessible via header buttons or shortcuts 1, 2, 3.
 
-Points — select individual points.
+Points: select individual points.
 
-Strokes — select an entire stroke.
+Strokes: select an entire stroke.
 
-Segments — select all points between other strokes.
+Segments: select all points between other strokes.
 
 **Select All/None/Invert.**
 
@@ -20,11 +20,11 @@ Behaves identically to Object Mode.
 
 Menu ‣ Select ‣ Select Random. Randomly selects unselected points or strokes.
 
-Ratio — probability that an unselected element gets picked (not percentage count).
+Ratio: probability that an unselected element gets picked (not percentage count).
 
-Random Seed — seed for the pseudo-random number generator.
+Random Seed: seed for the pseudo-random number generator.
 
-Action — toggle between picking and unpicking elements.
+Action: toggle between picking and unpicking elements.
 
 **Select Alternated.**
 
@@ -34,9 +34,9 @@ Menu ‣ Select ‣ Select Alternated. Picks alternate points in selected stroke
 
 Menu ‣ Select ‣ More/Less; shortcuts Ctrl+NumpadPlus, Ctrl+NumpadMinus. Expands or shrinks the current selection within a stroke (never crossing stroke boundaries).
 
-More — for each selected point, select all linked points (one or two adjacent ones).
+More: for each selected point, select all linked points (one or two adjacent ones).
 
-Less — for each selected point, retain the selection only if every linked point is also selected; else remove it.
+Less: for each selected point, retain the selection only if every linked point is also selected; else remove it.
 
 Hint: when all stroke points are picked, no change occurs (all linked ones are inherently selected, so More has nothing to add). Identical behavior occurs when no points are selected.
 
@@ -48,20 +48,20 @@ Type:
 - Stroke: all stroke curves (outlines).
 - Fill: all fill curves (enclosed filled shapes).
 
-Deselect — when enabled, matching curves are deselected instead of selected.
+Deselect: when enabled, matching curves are deselected instead of selected.
 
 **Select Similar.**
 
 Menu ‣ Select ‣ Select Similar; shortcut Shift+G. Selects all strokes with similar characteristics.
 
-Mode — the characteristic to compare:
+Mode - the characteristic to compare:
 - Layer: points/strokes with a similar layer index.
 - Material: points/strokes with a similar material index.
 - Vertex Color: points/strokes with a similar vertex color.
 - Radius: points/strokes with a similar stroke radius.
 - Opacity: points/strokes with a similar layer opacity.
 
-Threshold — how closely characteristics must match.
+Threshold: how closely characteristics must match.
 
 **Select Fill.**
 

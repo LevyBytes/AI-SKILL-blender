@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorPercentage4D(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorPercentage4D ( NodeTreeInterfaceSocket ) 
 
 A socket carrying a 3D vector for a node

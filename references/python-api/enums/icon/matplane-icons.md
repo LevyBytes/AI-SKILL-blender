@@ -1,4 +1,4 @@
-# Icon Items — matplane icons
+# Icon Items - matplane icons
 
 | Value | Meaning |
 | --- | --- |

@@ -4,7 +4,7 @@
 
 ### FunctionNodeAlignEulerToVector(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeAlignEulerToVector ( FunctionNode ) 
 
 Turn an Euler rotation so it points along a supplied direction

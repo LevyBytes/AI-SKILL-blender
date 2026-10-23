@@ -7,11 +7,11 @@ The Polyline tool generates multiple connected straight lines using any of the a
 **Tool Settings.**
 Configure brush settings directly in the Tool Settings panel for convenience; see Draw Brush for full options.
 
-Subdivisions — number of stroke points between each stroke edge.
+Subdivisions: number of stroke points between each stroke edge.
 
-Thickness Profile — a curve widget sets stroke thickness from the stroke start (left) to end (right).
+Thickness Profile: a curve widget sets stroke thickness from the stroke start (left) to end (right).
 
-Use Curve — when enabled, applies the curve profile to control thickness along the line.
+Use Curve: when enabled, applies the curve profile to control thickness along the line.
 
 **Brush Asset.** Selects the brush asset for the tool; see Brush Asset and Draw Brushes for details.
 

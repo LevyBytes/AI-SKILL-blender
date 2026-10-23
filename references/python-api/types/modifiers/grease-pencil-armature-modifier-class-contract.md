@@ -1,4 +1,4 @@
-# bpy.types.GreasePencilArmatureModifier — class-contract, Inherited Properties, Inherited Functions, GreasePencilArmatureModifier(Modifier)
+# bpy.types.GreasePencilArmatureModifier - class-contract, Inherited Properties, Inherited Functions, GreasePencilArmatureModifier(Modifier)
 
 invert_vertex_group
 

@@ -1,4 +1,4 @@
-# Icon Items — input pointer events
+# Icon Items - input pointer events
 
 | Value | Meaning |
 | --- | --- |

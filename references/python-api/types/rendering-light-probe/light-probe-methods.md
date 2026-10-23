@@ -4,7 +4,7 @@
 
 ### LightProbe(ID) 
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 
 subclasses —
 LightProbePlane, LightProbeSphere, LightProbeVolume

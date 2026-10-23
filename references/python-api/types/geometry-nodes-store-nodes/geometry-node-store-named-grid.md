@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeStoreNamedGrid(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeStoreNamedGrid ( GeometryNode ) 
 
 Saves grid data into a volume geometry under a chosen name.

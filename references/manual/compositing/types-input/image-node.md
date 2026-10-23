@@ -6,13 +6,13 @@ The Image node injects any image format Blender supports. It has no input socket
 
 The Image node loads an external image.
 
-Inputs — this node takes no inputs.
+Inputs: this node takes no inputs.
 
 Properties:
-Image — see Data-Block Menu.
+Image: see Data-Block Menu.
 
 Outputs:
-Color — the usual color output.
+Color: the usual color output.
 
 Extension
 How the image extends when Vector lands outside the usual (0, 0, 0) to (1, 1, 1) bounds:

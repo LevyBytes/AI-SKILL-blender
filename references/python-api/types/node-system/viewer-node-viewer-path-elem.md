@@ -51,7 +51,7 @@ type
 
 ### ViewerNodeViewerPathElem(ViewerPathElem)
 
-base classes — bpy_struct, ViewerPathElem
+base classes: bpy_struct, ViewerPathElem
 class bpy.types. ViewerNodeViewerPathElem ( ViewerPathElem )
 
 [Related references](INDEX.md).

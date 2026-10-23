@@ -17,7 +17,7 @@ Shortcut :
 V
 
 Convert splines between Bézier, NURBS, Poly, and Catmull Rom types.
-Basic conversion—Blender doesn't maintain exact shape or point count.
+Basic conversion: Blender doesn't maintain exact shape or point count.
 Converting NURBS to Bézier maps each three-point NURBS group
 to one Bézier point with handles.
 
@@ -74,7 +74,7 @@ Auto handles update if they are Auto type.
 Open and Closed curves. 
 
 This action applies only to the original first or last added point.
-Segment deletion doesn't change this—only starting and last points apply. This means
+Segment deletion doesn't change this: only starting and last points apply. This means
 Alt - C may join two curves instead of closing one!
 Remember: closing a 2D curve creates a renderable flat face.
 

@@ -4,7 +4,7 @@
 
 ### MetaBall(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. MetaBall ( ID )
 
 A data-block whose blobby surfaces make up a metaball

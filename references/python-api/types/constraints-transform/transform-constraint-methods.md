@@ -4,7 +4,7 @@
 
 ### TransformConstraint(Constraint) 
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. TransformConstraint ( Constraint ) 
 
 Maps the target’s transformations onto the object.

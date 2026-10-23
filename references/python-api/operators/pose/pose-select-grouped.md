@@ -43,13 +43,13 @@ Selects all visible bones grouped by similar properties.
 Parameters:
 - extend ( bool ) – Extend, Extend selection instead of deselecting everything first (optional)
 - type ( Literal [ 'COLLECTION' , 'COLOR' , 'KEYINGSET' , 'CHILDREN' , '`CHILDREN_IMMEDIATE`' , 'PARENT' , 'SIBLINGS' ] ) – Type, (optional)
-- COLLECTION — Collection: same collections as the active bone.
-- COLOR — Color: same color as the active bone.
-- KEYINGSET — Keying Set: all bones affected by the active Keying Set.
-- CHILDREN — Children: select all children of the currently selected bones.
-- `CHILDREN_IMMEDIATE` — Immediate Children: select direct children of the currently selected bones.
-- PARENT — Parents: select the parents of the currently selected bones.
-- SIBLINGS — Siblings: select all bones that have the same parent as the currently selected bones.
+- COLLECTION - Collection: same collections as the active bone.
+- COLOR - Color: same color as the active bone.
+- KEYINGSET - Keying Set: all bones affected by the active Keying Set.
+- CHILDREN - Children: select all children of the currently selected bones.
+- `CHILDREN_IMMEDIATE` - Immediate Children: select direct children of the currently selected bones.
+- PARENT - Parents: select the parents of the currently selected bones.
+- SIBLINGS - Siblings: select all bones that have the same parent as the currently selected bones.
 Returns: The operator's result.
 Return type: set[Literal[Operator Return Items]]
 

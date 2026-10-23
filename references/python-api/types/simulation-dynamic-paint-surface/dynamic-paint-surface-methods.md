@@ -4,7 +4,7 @@
 
 ### DynamicPaintSurface(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. DynamicPaintSurface ( bpy_struct )
 
 One layer of a canvas surface

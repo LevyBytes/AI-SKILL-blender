@@ -1,4 +1,4 @@
-# Icon Items — bordermove icons
+# Icon Items - bordermove icons
 
 | Value | Meaning |
 | --- | --- |

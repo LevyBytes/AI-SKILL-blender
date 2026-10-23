@@ -1,4 +1,4 @@
-# bpy.types.KeyingSetInfo — class-contract, Inherited Properties, Inherited Functions, References, KeyingSetInfo(bpy_struct)
+# bpy.types.KeyingSetInfo - class-contract, Inherited Properties, Inherited Functions, References, KeyingSetInfo(bpy_struct)
 
 bl_description
 

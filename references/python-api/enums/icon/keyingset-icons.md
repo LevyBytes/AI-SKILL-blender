@@ -1,4 +1,4 @@
-# Icon Items — keyingset icons
+# Icon Items - keyingset icons
 
 | Value | Meaning |
 | --- | --- |

@@ -4,7 +4,7 @@
 
 ### FreestyleLineSet(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FreestyleLineSet ( bpy_struct ) 
 
 Pairs a group of lines with the style parameters that drive how they render

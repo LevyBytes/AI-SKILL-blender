@@ -85,7 +85,7 @@ type
 
 ### NodeGeometrySimulationOutputItems(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodeGeometrySimulationOutputItems ( bpy_prop_collection )
 
 A set holding the simulation items for this node.

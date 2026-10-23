@@ -80,7 +80,7 @@ type
 
 ### NodeTreeInterfaceSocketMaterial(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketMaterial ( NodeTreeInterfaceSocket )
 
 A node socket that carries a material

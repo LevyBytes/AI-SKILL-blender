@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeValToRGB(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeValToRGB ( ShaderNode )
 
 Translates incoming values into colors through a gradient ramp.

@@ -4,7 +4,7 @@
 
 ### CurveProfile(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CurveProfile ( bpy_struct )
 
 The editor used to construct a profile path.

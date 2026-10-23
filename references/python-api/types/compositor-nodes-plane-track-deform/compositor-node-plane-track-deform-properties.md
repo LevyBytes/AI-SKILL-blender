@@ -4,7 +4,7 @@
 
 ### CompositorNodePlaneTrackDeform(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodePlaneTrackDeform ( CompositorNode )
 
 Swaps out flat surfaces in footage for a different image, locating them via plane tracks produced by motion tracking.

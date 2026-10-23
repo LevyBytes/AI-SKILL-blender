@@ -4,7 +4,7 @@
 
 ### ShaderNodeOutputLight(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeOutputLight ( ShaderNode )
 
 Feeds the computed light data back to a light object.

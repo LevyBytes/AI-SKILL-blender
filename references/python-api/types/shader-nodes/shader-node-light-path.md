@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeLightPath(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeLightPath ( ShaderNode ) 
 
 Read which kind of incoming ray is currently triggering the shader.

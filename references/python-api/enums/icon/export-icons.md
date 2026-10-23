@@ -1,4 +1,4 @@
-# Icon Items — export icons
+# Icon Items - export icons
 
 | Value | Meaning |
 | --- | --- |

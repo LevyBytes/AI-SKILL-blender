@@ -30,7 +30,7 @@ Consider all the inputs that may shape where an object finally ends up, among th
 
 - Constraints
 
-- The parents of the object — and in turn their constraints, F-Curves, and the rest.
+- The parents of the object: and in turn their constraints, F-Curves, and the rest.
 
 To avoid pricey recomputation every time a property changes, Blender holds off on evaluating until the result is actually needed. While your script runs, though, you may want the fresh values right away. For that, call bpy.types.ViewLayer.update once you've changed values, for example:
 
@@ -79,7 +79,7 @@ The answer here, then, is to write a modal operator — one that supplies a moda
 
 Authoring a modal operator takes more effort than a bare for loop crammed with draw calls, yet it's the more flexible choice and meshes far more cleanly with how Blender is built.
 
-Fine, fine — drawing from Python anyway
+Fine, fine: drawing from Python anyway
 
 Should you insist, then yes, the trick exists — but any script relying on it is barred from being bundled with Blender, won't have its resulting issues counted as bugs, and carries no guarantee of still working in later releases.
 

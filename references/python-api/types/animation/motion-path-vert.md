@@ -63,7 +63,7 @@ type
 
 ### MotionPathVert(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MotionPathVert ( bpy_struct )
 
 A single cached position along the path

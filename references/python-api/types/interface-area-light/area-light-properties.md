@@ -4,7 +4,7 @@
 
 A light source emitting from a rectangular surface.
 
-base classes — bpy_struct, ID, Light
+base classes: bpy_struct, ID, Light
 class bpy.types. AreaLight ( Light )
 
 A light emitting from a rectangular plane.

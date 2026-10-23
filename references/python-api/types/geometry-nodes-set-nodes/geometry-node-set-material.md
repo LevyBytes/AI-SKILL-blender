@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetMaterial(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetMaterial ( GeometryNode ) 
 
 Applies a chosen material to the elements of a geometry.

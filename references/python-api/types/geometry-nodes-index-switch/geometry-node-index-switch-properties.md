@@ -4,7 +4,7 @@
 
 ### GeometryNodeIndexSwitch(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeIndexSwitch ( GeometryNode )
 
 Pick one value from any number of inputs by supplying an index.

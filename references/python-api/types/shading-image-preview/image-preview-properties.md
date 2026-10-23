@@ -4,7 +4,7 @@
 
 ### ImagePreview(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ImagePreview ( bpy_struct )
 
 A preview image alongside its icon.

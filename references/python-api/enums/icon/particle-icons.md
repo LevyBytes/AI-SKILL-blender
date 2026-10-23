@@ -1,4 +1,4 @@
-# Icon Items — particle icons
+# Icon Items - particle icons
 
 | Value | Meaning |
 | --- | --- |

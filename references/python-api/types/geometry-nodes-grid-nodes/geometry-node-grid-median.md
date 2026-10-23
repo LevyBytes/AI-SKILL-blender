@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGridMedian(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridMedian ( GeometryNode ) 
 
 Smooth a voxel with a median (box) filter. The median of the neighbouring voxels inside a box of the chosen radius overwrites the voxel.

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetSplineCyclic(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetSplineCyclic ( GeometryNode ) 
 
 Toggles whether a spline closes into a loop by editing the “cyclic” attribute.

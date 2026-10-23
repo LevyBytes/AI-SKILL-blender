@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputID(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputID ( GeometryNode )
 
 Read out a persistent random identifier taken from the “id” attribute on the point domain, falling back to the index when that attribute is missing.

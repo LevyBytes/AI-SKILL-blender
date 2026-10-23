@@ -59,7 +59,7 @@ Solver
 Algorithm used to calculate the intersections.
 
 Float
-A lightweight solver — fast, but with no support for overlapping geometry.
+A lightweight solver: fast, but with no support for overlapping geometry.
 
 Merge Threshold
 How close two faces must be to count as touching. Raising it can help when intersections that
@@ -71,7 +71,7 @@ A threshold approaching the size of faces may cause very slow calculation.
 In general, keep this value small.
 
 Exact
-A heavier solver — slowest of the two, but it gives the best results and fully supports
+A heavier solver: slowest of the two, but it gives the best results and fully supports
 overlapping geometry.
 
 [Related references](INDEX.md).

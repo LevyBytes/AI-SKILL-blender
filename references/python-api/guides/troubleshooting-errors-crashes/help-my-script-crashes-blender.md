@@ -24,7 +24,7 @@ above all with large lists, since Blender can crash purely by exhausting memory.
 shouldn't hold onto data the user could remove; rather,
 have the script re-read whatever it needs from the context on each activation.
 
-- Crashes can be intermittent — surfacing more readily on certain setups or operating systems.
+- Crashes can be intermittent: surfacing more readily on certain setups or operating systems.
 
 - Tread carefully with recursion, which is remarkably good at masking the problems described here.
 

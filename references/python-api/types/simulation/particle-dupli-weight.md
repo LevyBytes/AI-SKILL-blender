@@ -63,7 +63,7 @@ type
 
 ### ParticleDupliWeight(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ParticleDupliWeight ( bpy_struct )
 
 How heavily a given instance object is weighted within a collection

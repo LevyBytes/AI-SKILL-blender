@@ -1,6 +1,6 @@
 # Track
 
-Track panel—Track header sections.
+Track panel: Track header sections.
 
 Clip
 
@@ -26,7 +26,7 @@ Pattern Size, Search Size
 Dimensions for newly created tracks.
 
 Motion Model
-Defines expected feature motion—select based on actual feature behavior for maximum accuracy.
+Defines expected feature motion: select based on actual feature behavior for maximum accuracy.
 
 Location, Location & Rotation, Location & Scale, Location, Rotation & Scale, Affine: Standard motion models.
 
@@ -71,7 +71,7 @@ Frames Limit
 Maximum frames tracked per Track Sequence call, aiding early-notice of slide-off.
 
 Speed
-Marker-specific—controls sequence-tracking speed (quality unchanged, aids visibility). Tracking often exceeds real-time; Speed adds delay to catch drift.
+Marker-specific: controls sequence-tracking speed (quality unchanged, aids visibility). Tracking often exceeds real-time; Speed adds delay to catch drift.
 
 Track
 

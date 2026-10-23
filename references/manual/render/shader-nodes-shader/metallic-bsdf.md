@@ -10,38 +10,38 @@ Recreate metal appearance.
 
 ### F82 Tint
 
-- **Base Color** — Material color at normal viewing angle.
-- **Edge Tint** — Material color at 82° viewing angle.
+- **Base Color**: Material color at normal viewing angle.
+- **Edge Tint**: Material color at 82° viewing angle.
 
 ### Physical Conductor
 
-- **IOR** — Refractive index per channel (real part of complex IOR, denoted n).
-- **Extinction** — Extinction coefficients per channel (imaginary part, denoted k).
+- **IOR**: Refractive index per channel (real part of complex IOR, denoted n).
+- **Extinction**: Extinction coefficients per channel (imaginary part, denoted k).
 
 ### Common
 
-- **Roughness** — Reflection sharpness. 0.0 = perfectly sharp; higher = smoother.
+- **Roughness**: Reflection sharpness. 0.0 = perfectly sharp; higher = smoother.
 - **Anisotropy** *(Cycles Only)* — Anisotropy amount. Higher = elongated highlights along tangent; negative = perpendicular highlights.
 - **Rotation** *(Cycles Only)* — Anisotropy direction rotation (1.0 = full circle). Note: 90° offset vs Glossy BSDF; add 0.25 to correct.
-- **Normal** — Shading normal. Defaults to standard when unconnected.
-- **Tangent** — Shading tangent. Defaults to standard when unconnected.
+- **Normal**: Shading normal. Defaults to standard when unconnected.
+- **Tangent**: Shading tangent. Defaults to standard when unconnected.
 
 ### Properties
 
-**Distribution** — Microfacet model.
+**Distribution**: Microfacet model.
 
-- **GGX** — GGX distribution.
-- **Multiscatter GGX** — Multiple microfacet scattering; more energy-conservative.
+- **GGX**: GGX distribution.
+- **Multiscatter GGX**: Multiple microfacet scattering; more energy-conservative.
 - **Beckmann** *(Cycles Only)* — Beckmann distribution.
 
-**Fresnel Type** — Models for material appearance via color or physical IOR.
+**Fresnel Type**: Models for material appearance via color or physical IOR.
 
-- **F82 Tint** — Adobe F82-Tint formula for edge color via complex IOR simulation.
-- **Physical Conductor** — Complex IOR from real-world metals. Sources: Physically Based database and Refractive Index nk database.
+- **F82 Tint**: Adobe F82-Tint formula for edge color via complex IOR simulation.
+- **Physical Conductor**: Complex IOR from real-world metals. Sources: Physically Based database and Refractive Index nk database.
 
 ### Outputs
 
-- **BSDF** — Standard shader output.
+- **BSDF**: Standard shader output.
 
 ### Examples
 

@@ -87,6 +87,6 @@ Collection of Grease Pencils
 
 Registry of procedural hair objects.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 
 [Related references](INDEX.md).

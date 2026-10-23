@@ -71,7 +71,7 @@ type
 
 ### IDOverrideLibraryProperties(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. IDOverrideLibraryProperties ( bpy_prop_collection )
 
 The set of properties that an override carries.

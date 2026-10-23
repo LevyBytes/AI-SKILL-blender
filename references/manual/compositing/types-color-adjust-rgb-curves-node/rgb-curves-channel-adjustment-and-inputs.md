@@ -7,24 +7,24 @@ The RGB Curves node makes level adjustments on each color channel. Inputs: Image
 The RGB Curves Node adjusts levels on each color channel.
 
 Inputs:
-Image/Color — the usual color input.
-Factor — how much sway the node has over the image.
-Black Level (Compositor Only) — sets the input color that should map to black.
-White Level (Compositor Only) — sets the input color that should map to white.
+Image/Color: the usual color input.
+Factor: how much sway the node has over the image.
+Black Level (Compositor Only): sets the input color that should map to black.
+White Level (Compositor Only): sets the input color that should map to white.
 Tip: to set the black and white levels, use the eyedropper to grab a color sample from a displayed image.
 
 Properties:
-Tone (Compositor Only) — Standard (the Combined curve hits each channel on its own, which may shift hue) or Filmlike (holds the hue steady).
-Channel — which curve to show: C (Combined), R (Red), G (Green), B (Blue).
-Curve — a Bézier curve mapping each input level (X axis) to an output level (Y axis); for the controls, see Curve widget.
+Tone (Compositor Only): Standard (the Combined curve hits each channel on its own, which may shift hue) or Filmlike (holds the hue steady).
+Channel - which curve to show: C (Combined), R (Red), G (Green), B (Blue).
+Curve: a Bézier curve mapping each input level (X axis) to an output level (Y axis); for the controls, see Curve widget.
 
 Outputs:
-Image/Color — the usual color output.
+Image/Color: the usual color output.
 
-Examples — below are some common curves for desired effects, from left to right: 1. Lighten shadows, 2. Negative, 3. Decrease contrast, 4. Posterize.
-Color Correction using Curves — in this example the image is too red, so we run it through an RGB Curves node and pull the Red channel down. The Mix Color Node's docs have an extra example on fixing overexposure.
-Color Correction using Black/White Levels — adjusting the RGB curves by hand for color correction can be fiddly; another route is the Black and White Levels, which may well be their real purpose. Here the White Level is set to a bright spot of sand in the background and the Black Level to the center of the fish's eye. To do this efficiently, bring up the Image Editor showing the original input image and use the levels' color picker to grab the right colors, zooming to pixel level if needed; fine-tune with the R, G, and B curves as before. The C curve compensates for the extra contrast that setting Black and White Levels brings.
-Effects — changing colors by inverting the red channel.
+Examples: below are some common curves for desired effects, from left to right: 1. Lighten shadows, 2. Negative, 3. Decrease contrast, 4. Posterize.
+Color Correction using Curves: in this example the image is too red, so we run it through an RGB Curves node and pull the Red channel down. The Mix Color Node's docs have an extra example on fixing overexposure.
+Color Correction using Black/White Levels: adjusting the RGB curves by hand for color correction can be fiddly; another route is the Black and White Levels, which may well be their real purpose. Here the White Level is set to a bright spot of sand in the background and the Black Level to the center of the fish's eye. To do this efficiently, bring up the Image Editor showing the original input image and use the levels' color picker to grab the right colors, zooming to pixel level if needed; fine-tune with the R, G, and B curves as before. The C curve compensates for the extra contrast that setting Black and White Levels brings.
+Effects: changing colors by inverting the red channel.
 
 The RGB Curves node adjusts each color channel independently.
 

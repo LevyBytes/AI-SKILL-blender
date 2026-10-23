@@ -47,6 +47,6 @@ for poly in me.polygons:
         print("    UV: {!r}".format(uv_layer[loop_index].uv))
 ```
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 
 [Related references](INDEX.md).

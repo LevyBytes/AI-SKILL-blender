@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSplineLength(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSplineLength ( GeometryNode ) 
 
 Reports each spline's overall length, expressed either as a distance or as a point count.

@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeAddShader(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeAddShader ( ShaderNode )
 
 Combine two shaders by summing them

@@ -49,7 +49,7 @@ Audio handling is covered in Sound Strip.
 Volume
 Governs loudness level.
 
-Animated volume displays as an overlay—a dark section following the animation curve. Hide via F-Curves disable. The waveform shows the updated level.
+Animated volume displays as an overlay: a dark section following the animation curve. Hide via F-Curves disable. The waveform shows the updated level.
 
 Offset
 Audio playback delay from the strip start, in seconds.

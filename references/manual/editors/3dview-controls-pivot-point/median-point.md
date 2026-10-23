@@ -2,7 +2,7 @@
 
 ## Median Point
 
-Reference — Mode: Object Mode and Edit Mode. Location: Header ‣ Transform Pivot Point ‣ Median Point. Shortcut: Period.
+Reference - Mode: Object Mode and Edit Mode. Location: Header ‣ Transform Pivot Point ‣ Median Point. Shortcut: Period.
 
 Sets the pivot at the mean location of whatever is currently selected.
 

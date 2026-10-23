@@ -25,7 +25,7 @@ flowchart LR
 
 Blender references that connect creative workflows with the Python APIs used to automate and extend them. Manual subjects, RNA types, operators, enumeration values and complete examples have distinct routes, making it easier to find the right level of detail for a task.
 
-Use when working with Blender workflows or Python APIs: .blend files, bpy scripting, operators, add-ons, extensions, animation, rigging, modeling, geometry and shader nodes, materials, UVs, sculpting, painting, cameras, lighting, rendering, compositing, video editing, linked libraries, or user-interface controls. Use for exact Blender identifiers, parameters, shortcuts, context requirements and version-specific behavior. Not for other DCC applications or general Python unrelated to Blender.
+Use when working with Blender workflows or Python APIs: .blend files, bpy scripting, operators, add-ons, extensions, animation, rigging, modeling, geometry and shader nodes, materials, UVs, sculpting, painting, cameras, lighting, rendering, compositing, video editing, linked libraries or user-interface controls. Not for other DCC applications or general Python unrelated to Blender.
 
 ## What this skill helps with
 
@@ -50,4 +50,4 @@ Begin with [version and context guidance](references/blender-version-and-context
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://docs.blender.org/) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

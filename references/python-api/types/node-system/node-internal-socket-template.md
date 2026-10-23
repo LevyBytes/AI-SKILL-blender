@@ -64,7 +64,7 @@ type
 ### References
 ### NodeInternalSocketTemplate(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. NodeInternalSocketTemplate ( bpy_struct )
 
 A node socket's data type paired with its default value.

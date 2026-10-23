@@ -1,4 +1,4 @@
-# bpy.types.ThemeSpaceGeneric — class-contract, Inherited Properties, Inherited Functions, References
+# bpy.types.ThemeSpaceGeneric - class-contract, Inherited Properties, Inherited Functions, References
 
 back
 

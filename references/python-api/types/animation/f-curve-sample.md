@@ -63,7 +63,7 @@ type
 
 ### FCurveSample(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FCurveSample ( bpy_struct )
 
 One sampled point along an F-Curve.

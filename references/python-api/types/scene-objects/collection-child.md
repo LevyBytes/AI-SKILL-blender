@@ -56,7 +56,7 @@ type
 
 ### CollectionChild(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CollectionChild ( bpy_struct )
 
 A child collection bundled with the settings tied to it

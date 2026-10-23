@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeStringJoin(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeStringJoin ( GeometryNode ) 
 
 Concatenates an arbitrary count of input strings.

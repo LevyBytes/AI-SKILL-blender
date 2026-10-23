@@ -2,7 +2,7 @@
 
 ## Line Set
 
-Line Set — Edge and Feature Selection
+Line Set: Edge and Feature Selection
 
 Reference
 Panel: Properties ‣ View Layer ‣ Freestyle Line Set
@@ -59,7 +59,7 @@ Crease Angle proof of concept for 121° by LightBWK
 (blend-file).
 
 Border
-Display open mesh edges—edges belonging to one face only. Open cylinders have border edges at top/bottom; planes border all around. Suzanne's eye socket is border.
+Display open mesh edges: edges belonging to one face only. Open cylinders have border edges at top/bottom; planes border all around. Suzanne's eye socket is border.
 
 Edge Mark
 Render marked edges. See Edge Marks for details.
@@ -79,6 +79,6 @@ Suggestive Contour
 Draw lines that would form the Silhouette if viewing direction shifted. Depends on view map Kr Derivative Epsilon and Sphere Radius settings.
 
 Ridge & Valley
-Mark surface crests and troughs—ridges and valleys where curvature peaks. Depends on Sphere Radius.
+Mark surface crests and troughs: ridges and valleys where curvature peaks. Depends on Sphere Radius.
 
 [Related references](INDEX.md).

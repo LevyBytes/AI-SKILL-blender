@@ -9,7 +9,7 @@ Straighten Hair Curves pulls each strand's points onto a straight line from root
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for straightening.
+Geometry: the hair-curve geometry fed in for straightening.
 
 Amount
 How far each strand is straightened. At 0.0 the hair is unchanged; at 1.0 points line up fully along a straight line. Negative values overstate the strand's wiggles, crumpling or distorting it.

@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeBackground(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBackground ( ShaderNode )
 
 Emit background lighting.

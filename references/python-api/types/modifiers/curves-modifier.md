@@ -58,7 +58,7 @@ type
 
 ### CurvesModifier(StripModifier)
 
-base classes — bpy_struct, StripModifier
+base classes: bpy_struct, StripModifier
 class bpy.types. CurvesModifier ( StripModifier )
 
 An RGB-curves modifier applied to a sequence strip.

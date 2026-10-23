@@ -59,7 +59,7 @@ Return type: type
 
 ### ActionLayers(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.ActionLayers(bpy_prop_collection)
 
 A set of animation layers

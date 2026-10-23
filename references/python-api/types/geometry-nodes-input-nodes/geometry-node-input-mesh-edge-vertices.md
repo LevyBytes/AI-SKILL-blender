@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputMeshEdgeVertices(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputMeshEdgeVertices ( GeometryNode )
 
 Read out per-edge topology data for a mesh.

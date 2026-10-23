@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeBrightContrast(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBrightContrast ( ShaderNode )
 
 Adjust how bright and how contrasty the incoming color is

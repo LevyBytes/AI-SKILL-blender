@@ -9,7 +9,7 @@ Smooth Hair Curves relaxes strand shapes, evening them out by averaging control 
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for smoothing.
+Geometry: the hair-curve geometry fed in for smoothing.
 
 Amount
 Smoothing strength. Positive values smooth by averaging point positions; negative values widen the differences between points for a crumpled, distorted look.

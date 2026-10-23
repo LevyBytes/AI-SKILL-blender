@@ -4,7 +4,7 @@
 
 ### FileSelectIDFilter(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FileSelectIDFilter ( bpy_struct )
 
 Controls which ID types appear or stay hidden while a library is being browsed.

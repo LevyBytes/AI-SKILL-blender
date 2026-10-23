@@ -14,6 +14,6 @@ None.
 
 ### Outputs
 
-Is Edge Loose — Boolean per edge. True = no adjacent faces.
+Is Edge Loose: Boolean per edge. True = no adjacent faces.
 
 [Related references](INDEX.md).

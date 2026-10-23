@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputMeshVertexNeighbors(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputMeshVertexNeighbors ( GeometryNode )
 
 Read out per-vertex topology data for a mesh.

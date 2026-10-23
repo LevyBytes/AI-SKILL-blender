@@ -7,7 +7,7 @@ Collection of node trees
 
 Registry of scene element instances.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 new ( name , type ) 
 
 Register a node tree in the database

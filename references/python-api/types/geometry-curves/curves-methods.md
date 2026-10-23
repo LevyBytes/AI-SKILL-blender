@@ -4,7 +4,7 @@
 
 ### Curves(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Curves ( ID )
 
 A data-block for hair, built from hair curves.

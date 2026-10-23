@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeSwitchView(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeSwitchView ( CompositorNode )
 
 Merges the left and right views together into one stereo 3D result.

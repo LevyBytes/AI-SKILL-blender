@@ -65,7 +65,7 @@ type
 
 ### ShapeKeyCurvePoint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ShapeKeyCurvePoint ( bpy_struct )
 
 A single point belonging to a curve shape key.

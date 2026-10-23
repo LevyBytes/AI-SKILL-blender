@@ -4,7 +4,7 @@
 
 ### ColorMapping(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ColorMapping ( bpy_struct )
 
 Settings controlling color mapping

@@ -17,12 +17,12 @@ Arch Linux:
 sudo pacman -S python python-pip git git-lfs
 git lfs install --skip-repo
 ```
-Downloading the repository — check out the Blender Manual's repository (this may take a few minutes by connection speed):
+Downloading the repository: check out the Blender Manual's repository (this may take a few minutes by connection speed):
 ```console
 cd ~
 git clone https://projects.blender.org/blender/blender-manual.git
 ```
-Setting up the build environment — open a Terminal, enter the folder git clone made, and install dependencies:
+Setting up the build environment: open a Terminal, enter the folder git clone made, and install dependencies:
 ```console
 cd ~/blender-manual
 make setup

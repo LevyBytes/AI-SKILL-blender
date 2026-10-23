@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGridInfo(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridInfo ( GeometryNode ) 
 
 Read back details describing a volume grid

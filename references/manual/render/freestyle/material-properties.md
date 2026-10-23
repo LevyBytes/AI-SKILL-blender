@@ -2,7 +2,7 @@
 
 ## Material Properties
 
-Material Properties — Line Color Control
+Material Properties: Line Color Control
 
 Reference
 Panel: Properties ‣ Material ‣ Freestyle Line

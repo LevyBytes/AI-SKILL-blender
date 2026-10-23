@@ -1,4 +1,4 @@
-# Icon Items — statusbar icons
+# Icon Items - statusbar icons
 
 | Value | Meaning |
 | --- | --- |

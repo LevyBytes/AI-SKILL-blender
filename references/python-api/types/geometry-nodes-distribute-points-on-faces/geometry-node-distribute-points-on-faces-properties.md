@@ -4,7 +4,7 @@
 
 ### GeometryNodeDistributePointsOnFaces(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeDistributePointsOnFaces ( GeometryNode )
 
 Scatter points across the surface of a mesh.

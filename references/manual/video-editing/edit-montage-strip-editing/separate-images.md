@@ -12,7 +12,7 @@ Shortcut :
 
 Y
 
-For image sequences—Divides the strip into separate pieces, one per frame.
+For image sequences: Divides the strip into separate pieces, one per frame.
 Great for slideshows and scenarios with individual, non-sequential images.
 
 Length

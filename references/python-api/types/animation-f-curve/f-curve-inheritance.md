@@ -4,7 +4,7 @@
 
 ### FCurve(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FCurve ( bpy_struct )
 
 A function curve that drives a value over a span of time.

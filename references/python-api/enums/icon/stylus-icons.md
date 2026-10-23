@@ -1,4 +1,4 @@
-# Icon Items — stylus icons
+# Icon Items - stylus icons
 
 | Value | Meaning |
 | --- | --- |

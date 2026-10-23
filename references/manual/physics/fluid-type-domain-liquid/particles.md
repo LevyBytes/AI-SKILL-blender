@@ -9,13 +9,13 @@ Note
 Secondary particle activation also creates a particle system. Deactivation deletes it and settings. These systems don't contribute to mesh generation, needing geometry assignment for rendering.
 
 Spray
-Generate spray during secondary simulation—those airborne particles from big splashes.
+Generate spray during secondary simulation: those airborne particles from big splashes.
 
 Foam
-Generate foam—surface-riding particles.
+Generate foam: surface-riding particles.
 
 Bubbles
-Generate bubbles—subsurface particles.
+Generate bubbles: subsurface particles.
 
 Combined Export
 Particle-type grouping into single particle system. No sim outcome change, only allocation.

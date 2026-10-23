@@ -4,7 +4,7 @@
 
 ### Text(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Text ( ID )
 
 A data-block that points to an external or packed text file.

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeGridToMesh(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridToMesh ( GeometryNode ) 
 
 Build a mesh along the “surface” of a volume grid

@@ -1,4 +1,4 @@
-# Icon Items — library icons
+# Icon Items - library icons
 
 | Value | Meaning |
 | --- | --- |

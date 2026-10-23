@@ -4,7 +4,7 @@
 
 ### CompositorNodeKeyingScreen(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeKeyingScreen ( CompositorNode )
 
 Builds reference plates that supply color samples for keying nodes.

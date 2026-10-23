@@ -56,7 +56,7 @@ type
 
 Collection of bones in an armature.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. ArmatureBones ( bpy_prop_collection )
 
 Container of skeletal bones.

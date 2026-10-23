@@ -64,7 +64,7 @@ type
 
 ### NodeSocketFloatFrequency(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketFloatFrequency ( NodeSocketStandard )
 
 A node socket carrying a floating-point value.

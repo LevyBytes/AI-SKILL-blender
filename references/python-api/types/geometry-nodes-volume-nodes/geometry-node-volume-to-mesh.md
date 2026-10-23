@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeVolumeToMesh(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeVolumeToMesh ( GeometryNode )
 
 Builds a mesh that follows the “surface” of a volume.

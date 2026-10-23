@@ -4,7 +4,7 @@
 
 ### GeometryNodeSampleCurve(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSampleCurve ( GeometryNode )
 
 Read data at a point that lies a given distance along a curve from its start

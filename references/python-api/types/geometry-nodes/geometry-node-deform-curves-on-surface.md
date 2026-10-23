@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeDeformCurvesOnSurface(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeDeformCurvesOnSurface ( GeometryNode )
 
 Shift and turn curves according to the difference between the object's original surface mesh and its evaluated one.

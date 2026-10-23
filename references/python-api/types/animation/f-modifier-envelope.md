@@ -72,7 +72,7 @@ type
 
 ### FModifierEnvelope(FModifier)
 
-base classes — bpy_struct, FModifier
+base classes: bpy_struct, FModifier
 class bpy.types. FModifierEnvelope ( FModifier )
 
 Rescales the values of the F-Curve it modifies.

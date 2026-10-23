@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputMeshFaceArea(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputMeshFaceArea ( GeometryNode )
 
 Work out the surface area of each face in a mesh.

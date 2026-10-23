@@ -1,4 +1,4 @@
-# Icon Items — console icons
+# Icon Items - console icons
 
 | Value | Meaning |
 | --- | --- |

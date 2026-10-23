@@ -1,4 +1,4 @@
-# Icon Items — constraint icons
+# Icon Items - constraint icons
 
 | Value | Meaning |
 | --- | --- |

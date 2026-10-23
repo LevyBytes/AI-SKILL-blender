@@ -4,7 +4,7 @@
 
 ### LineStyleThicknessModifier_Material(LineStyleThicknessModifier)
 
-base classes — bpy_struct, LineStyleModifier, LineStyleThicknessModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleThicknessModifier
 class bpy.types. LineStyleThicknessModifier_Material ( LineStyleThicknessModifier )
 
 Drives line width from a selected material attribute.

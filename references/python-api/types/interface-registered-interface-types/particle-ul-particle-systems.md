@@ -45,7 +45,7 @@ type
 
 ### `PARTICLE_UL`_particle_systems(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `PARTICLE_UL`_particle_systems ( UIList )
 

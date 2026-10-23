@@ -77,7 +77,7 @@ type
 
 ### DisplaySafeAreas(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. DisplaySafeAreas ( bpy_struct )
 
 The safe-area margins applied in the 3D view and the sequencer

@@ -51,7 +51,7 @@ type
 
 ### CollisionModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. CollisionModifier ( Modifier )
 
 A modifier that marks where in the modifier stack collision is evaluated

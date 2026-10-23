@@ -90,7 +90,7 @@ type
 
 ### GeometryNodeInputCollection(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputCollection ( GeometryNode )
 
 Emit one collection as output.

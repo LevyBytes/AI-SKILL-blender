@@ -14,6 +14,6 @@ None.
 
 ### Outputs
 
-Is Edge Boundary — Boolean per edge. True = single adjacent face.
+Is Edge Boundary: Boolean per edge. True = single adjacent face.
 
 [Related references](INDEX.md).

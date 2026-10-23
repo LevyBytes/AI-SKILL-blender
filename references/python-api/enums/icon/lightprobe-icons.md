@@ -1,4 +1,4 @@
-# Icon Items — lightprobe icons
+# Icon Items - lightprobe icons
 
 | Value | Meaning |
 | --- | --- |

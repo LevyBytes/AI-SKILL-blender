@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetCurveTilt(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetCurveTilt ( GeometryNode ) 
 
 Assigns a tilt angle to a curve at each of its control points.

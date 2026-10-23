@@ -65,7 +65,7 @@ type
 
 ### GammaCrossStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 class bpy.types. GammaCrossStrip ( EffectStrip )
 
 Gamma Crossfade Strip

@@ -4,7 +4,7 @@
 
 ### Texture(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 
 subclasses —
 BlendTexture, CloudsTexture, DistortedNoiseTexture, ImageTexture, MagicTexture, MarbleTexture, MusgraveTexture, NoiseTexture, StucciTexture, VoronoiTexture, WoodTexture

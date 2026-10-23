@@ -1,6 +1,6 @@
 # Materials: Thickness
 
-Materials — Configuration
+Materials: Configuration
 
 See also
 EEVEE uses the same material node system as Cycles but with feature gaps.

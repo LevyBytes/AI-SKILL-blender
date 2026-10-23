@@ -77,7 +77,7 @@ type
 
 ### BrushCapabilitiesImagePaint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BrushCapabilitiesImagePaint ( bpy_struct )
 
 Read-only flags reporting which image-paint operations are available.

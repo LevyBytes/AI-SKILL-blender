@@ -4,7 +4,7 @@
 
 ### FunctionNodeValueToString(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeValueToString ( FunctionNode )
 
 Writes the supplied input value out as a string.

@@ -4,7 +4,7 @@
 
 ### ScrewModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. ScrewModifier ( Modifier )
 
 Sweeps edges around an axis to build a revolved surface.

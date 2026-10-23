@@ -1,4 +1,4 @@
-# Icon Items — texture icons
+# Icon Items - texture icons
 
 | Value | Meaning |
 | --- | --- |

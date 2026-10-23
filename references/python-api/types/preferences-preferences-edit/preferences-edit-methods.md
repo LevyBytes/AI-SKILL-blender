@@ -4,7 +4,7 @@
 
 ### PreferencesEdit(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PreferencesEdit ( bpy_struct )
 
 Options governing how you interact with Blender's data

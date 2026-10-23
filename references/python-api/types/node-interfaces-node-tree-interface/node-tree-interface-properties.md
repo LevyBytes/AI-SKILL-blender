@@ -4,7 +4,7 @@
 
 ### NodeTreeInterface(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. NodeTreeInterface ( bpy_struct ) 
 
 The set of sockets and UI panels that a node group declares.

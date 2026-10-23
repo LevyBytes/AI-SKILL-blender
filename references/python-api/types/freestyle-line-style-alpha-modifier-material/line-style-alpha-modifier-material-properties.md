@@ -4,7 +4,7 @@
 
 ### LineStyleAlphaModifier_Material(LineStyleAlphaModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleAlphaModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleAlphaModifier
 class bpy.types. LineStyleAlphaModifier_Material ( LineStyleAlphaModifier ) 
 
 Adjusts alpha transparency from a chosen material attribute

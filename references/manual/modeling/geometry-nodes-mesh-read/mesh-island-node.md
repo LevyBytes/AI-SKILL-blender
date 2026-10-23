@@ -14,8 +14,8 @@ None.
 
 ### Outputs
 
-Island Index — Per-vertex identifier based on lowest vertex index in island.
+Island Index: Per-vertex identifier based on lowest vertex index in island.
 
-Island Count — Total island count (single value, uniform).
+Island Count: Total island count (single value, uniform).
 
 [Related references](INDEX.md).

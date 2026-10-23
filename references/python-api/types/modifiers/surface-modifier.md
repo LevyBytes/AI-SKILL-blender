@@ -44,7 +44,7 @@ type
 
 ### SurfaceModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. SurfaceModifier ( Modifier )
 
 A modifier that marks a stack position used by surface fields.

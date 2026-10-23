@@ -77,7 +77,7 @@ type
 
 ### NodeCombineBundleItem(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. NodeCombineBundleItem ( bpy_struct )
 ## See also
 

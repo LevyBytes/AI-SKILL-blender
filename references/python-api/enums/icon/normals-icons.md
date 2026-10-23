@@ -1,4 +1,4 @@
-# Icon Items — normals icons
+# Icon Items - normals icons
 
 | Value | Meaning |
 | --- | --- |

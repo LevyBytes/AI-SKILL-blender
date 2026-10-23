@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInstanceOnPoints(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInstanceOnPoints ( GeometryNode ) 
 
 Place a lightweight reference to existing geometry at every input point, instead of copying the underlying data.

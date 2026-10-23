@@ -65,7 +65,7 @@ type
 
 ### ObjectBase(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ObjectBase ( bpy_struct ) 
 
 An instance of an object within a View Layer (not currently exposed in the Python API)

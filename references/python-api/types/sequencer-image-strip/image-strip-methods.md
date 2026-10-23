@@ -4,7 +4,7 @@
 
 ### ImageStrip(Strip)
 
-base classes — bpy_struct, Strip
+base classes: bpy_struct, Strip
 class bpy.types. ImageStrip ( Strip )
 
 A sequence strip for bringing in one or more images.

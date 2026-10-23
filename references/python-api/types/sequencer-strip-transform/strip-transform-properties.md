@@ -4,7 +4,7 @@
 
 ### StripTransform(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. StripTransform ( bpy_struct )
 
 The transform controls belonging to a sequence strip.

@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeStringLength(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeStringLength ( FunctionNode )
 
 Reports how many characters a string contains.

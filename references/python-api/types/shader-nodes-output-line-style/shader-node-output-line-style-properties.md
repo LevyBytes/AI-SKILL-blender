@@ -4,7 +4,7 @@
 
 ### ShaderNodeOutputLineStyle(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeOutputLineStyle ( ShaderNode )
 
 Governs how texture data is blended onto the base color of a line style.

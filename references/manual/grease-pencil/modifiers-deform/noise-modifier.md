@@ -8,19 +8,19 @@ Stochastic amplitude can intensify the visual artifact.
 
 **Options.**
 
-Position — noise magnitude impacting point location.
+Position: noise magnitude impacting point location.
 
-Strength — noise magnitude impacting point strength (opacity).
+Strength: noise magnitude impacting point strength (opacity).
 
-Thickness — noise magnitude impacting point width.
+Thickness: noise magnitude impacting point width.
 
-UV — noise magnitude impacting point UV rotation.
+UV: noise magnitude impacting point UV rotation.
 
-Noise Scale — governs noise frequency bandwidth.
+Noise Scale: governs noise frequency bandwidth.
 
-Noise Offset — shifts noise progression along strokes.
+Noise Offset: shifts noise progression along strokes.
 
-Seed — initialization for the pseudo-random sequence.
+Seed: initialization for the pseudo-random sequence.
 
 **Randomize.**
 
@@ -28,7 +28,7 @@ When engaged, noise draws from random values temporally.
 
 Mode:
 - Steps: fresh random value at regular intervals.
-  Step — frame intervals before value changes.
+  Step: frame intervals before value changes.
 - Keyframes: fresh random value exclusively on keyframe events.
 
 **Influence.**

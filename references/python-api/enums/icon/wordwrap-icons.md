@@ -1,4 +1,4 @@
-# Icon Items — wordwrap icons
+# Icon Items - wordwrap icons
 
 | Value | Meaning |
 | --- | --- |

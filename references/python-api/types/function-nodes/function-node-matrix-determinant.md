@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeMatrixDeterminant(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeMatrixDeterminant ( FunctionNode )
 
 Returns the determinant for a supplied matrix.

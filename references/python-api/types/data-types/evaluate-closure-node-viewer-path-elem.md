@@ -65,7 +65,7 @@ type
 
 ### EvaluateClosureNodeViewerPathElem(ViewerPathElem)
 
-base classes — bpy_struct, ViewerPathElem
+base classes: bpy_struct, ViewerPathElem
 class bpy.types. EvaluateClosureNodeViewerPathElem ( ViewerPathElem )
 
 [Related references](INDEX.md).

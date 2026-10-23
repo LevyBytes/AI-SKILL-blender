@@ -1,4 +1,4 @@
-# Icon Items — newfolder icons
+# Icon Items - newfolder icons
 
 | Value | Meaning |
 | --- | --- |

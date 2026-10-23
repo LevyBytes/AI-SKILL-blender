@@ -4,7 +4,7 @@
 
 ### ShaderNodeMixRGB(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeMixRGB ( ShaderNode ) 
 
 Blend a pair of input colors

@@ -25,7 +25,7 @@ The ID comes from the video URL, e.g. for https://video.blender.org/videos/watch
    def example_function():
        print("Hello Blender")
 ```
-Placeholders and editor notes — for content needing later updates: reader-visible todo or internal (hidden) notes:
+Placeholders and editor notes: for content needing later updates: reader-visible todo or internal (hidden) notes:
 ```text
 .. todo:: Complete this section when feature is finalized.
 ```

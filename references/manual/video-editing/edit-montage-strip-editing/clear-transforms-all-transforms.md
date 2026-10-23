@@ -1,4 +1,4 @@
-# Video strips: Clear transforms — All Transforms
+# Video strips: Clear transforms - All Transforms
 
 #### All Transforms
 

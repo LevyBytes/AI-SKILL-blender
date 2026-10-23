@@ -4,7 +4,7 @@
 
 ### SpaceTextEditor(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpaceTextEditor ( Space )
 
 Data for the text editor space

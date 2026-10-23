@@ -1,4 +1,4 @@
-# Icon Items — outliner icons
+# Icon Items - outliner icons
 
 | Value | Meaning |
 | --- | --- |

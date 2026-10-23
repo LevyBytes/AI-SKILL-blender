@@ -51,7 +51,7 @@ type
 
 ### StringAttribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. StringAttribute ( Attribute )
 
 A geometry attribute holding string values

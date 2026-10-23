@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeMapping(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeMapping ( ShaderNode ) 
 
 Reposition the input vector through combined translation, rotation, and scaling

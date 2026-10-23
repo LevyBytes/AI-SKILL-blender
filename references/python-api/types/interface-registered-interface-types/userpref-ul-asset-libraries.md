@@ -45,7 +45,7 @@ type
 
 ### `USERPREF_UL`_asset_libraries(UIList) 
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `USERPREF_UL`_asset_libraries ( UIList )
 

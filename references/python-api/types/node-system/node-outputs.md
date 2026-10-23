@@ -89,7 +89,7 @@ type
 
 ### NodeOutputs(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodeOutputs ( bpy_prop_collection )
 
 A set holding the node's sockets.

@@ -1,4 +1,4 @@
-# Icon Items — internet icons
+# Icon Items - internet icons
 
 | Value | Meaning |
 | --- | --- |

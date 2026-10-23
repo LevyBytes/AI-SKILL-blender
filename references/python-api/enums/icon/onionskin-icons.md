@@ -1,4 +1,4 @@
-# Icon Items — onionskin icons
+# Icon Items - onionskin icons
 
 | Value | Meaning |
 | --- | --- |

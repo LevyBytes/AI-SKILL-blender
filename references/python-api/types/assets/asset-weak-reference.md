@@ -82,7 +82,7 @@ type
 
 Lightweight reference to an asset.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AssetWeakReference ( bpy_struct )
 
 A minimal asset identifier.

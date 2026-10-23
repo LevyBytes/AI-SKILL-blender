@@ -4,7 +4,7 @@
 
 ### GeometryNodeForeachGeometryElementOutput(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeForeachGeometryElementOutput ( GeometryNode )
 active_generation_index 
 

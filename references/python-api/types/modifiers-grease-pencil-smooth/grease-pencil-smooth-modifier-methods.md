@@ -4,7 +4,7 @@
 
 ### GreasePencilSmoothModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilSmoothModifier ( Modifier )
 
 Applies a smoothing pass as an effect.

@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeInpaint(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeInpaint ( CompositorNode )
 
 Spreads an image's edge pixels outward to fill in masked or transparent gaps.

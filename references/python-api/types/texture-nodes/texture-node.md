@@ -44,7 +44,7 @@ type
 
 ### TextureNode(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 
 subclasses —
 TextureNodeAt, TextureNodeBricks, TextureNodeChecker, TextureNodeCombineColor, TextureNodeCompose, TextureNodeCoordinates, TextureNodeCurveRGB, TextureNodeCurveTime, TextureNodeDecompose, TextureNodeDistance, TextureNodeGroup, TextureNodeHueSaturation, TextureNodeImage, TextureNodeInvert, TextureNodeMath, TextureNodeMixRGB, TextureNodeOutput, TextureNodeRGBToBW, TextureNodeRotate, TextureNodeScale, TextureNodeSeparateColor, TextureNodeTexBlend, TextureNodeTexClouds, TextureNodeTexDistNoise, TextureNodeTexMagic, TextureNodeTexMarble, TextureNodeTexMusgrave, TextureNodeTexNoise, TextureNodeTexStucci, TextureNodeTexVoronoi, TextureNodeTexWood, TextureNodeTexture, TextureNodeTranslate, TextureNodeValToNor, TextureNodeValToRGB, TextureNodeViewer

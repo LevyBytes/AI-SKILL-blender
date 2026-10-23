@@ -70,7 +70,7 @@ type
 
 ### MovieReconstructedCamera(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieReconstructedCamera ( bpy_struct )
 
 Camera data reconstructed by the match-mover from the tracker

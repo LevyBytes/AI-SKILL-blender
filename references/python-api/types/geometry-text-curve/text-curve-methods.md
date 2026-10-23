@@ -4,7 +4,7 @@
 
 ### TextCurve(Curve)
 
-base classes — bpy_struct, ID, Curve
+base classes: bpy_struct, ID, Curve
 class bpy.types. TextCurve ( Curve )
 
 Data-block that holds the text for a curve.

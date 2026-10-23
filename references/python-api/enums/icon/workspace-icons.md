@@ -1,4 +1,4 @@
-# Icon Items — workspace icons
+# Icon Items - workspace icons
 
 | Value | Meaning |
 | --- | --- |

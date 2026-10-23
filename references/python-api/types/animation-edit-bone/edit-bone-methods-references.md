@@ -1,4 +1,4 @@
-# bpy.types.EditBone: methods — References
+# bpy.types.EditBone: methods - References
 
 ### References
 

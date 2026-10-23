@@ -4,7 +4,7 @@
 
 ### PropertyGroupItem(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PropertyGroupItem ( bpy_struct ) 
 
 Property holding arbitrary, user-supplied data

@@ -85,7 +85,7 @@ type
 
 ### TextureNodeTexClouds(TextureNode)
 
-base classes — bpy_struct, Node, NodeInternal, TextureNode
+base classes: bpy_struct, Node, NodeInternal, TextureNode
 class bpy.types. TextureNodeTexClouds ( TextureNode )
 
 [Related references](INDEX.md).

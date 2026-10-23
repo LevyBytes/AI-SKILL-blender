@@ -1,4 +1,4 @@
-# Icon Items — documents icons
+# Icon Items - documents icons
 
 | Value | Meaning |
 | --- | --- |

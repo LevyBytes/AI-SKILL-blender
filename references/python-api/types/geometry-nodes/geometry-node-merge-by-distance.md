@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeMergeByDistance(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMergeByDistance ( GeometryNode ) 
 
 Collapse together any vertices or points that fall closer than a set distance.

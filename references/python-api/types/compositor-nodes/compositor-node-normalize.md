@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeNormalize(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeNormalize ( CompositorNode )
 
 Rescales values into the 0-to-1 span, using the smallest and largest pixel values as the endpoints.

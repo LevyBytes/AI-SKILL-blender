@@ -64,7 +64,7 @@ type
 
 ### NodeSocketIntUnsigned(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketIntUnsigned ( NodeSocketStandard )
 
 A node socket carrying an integer value.

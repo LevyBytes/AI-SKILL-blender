@@ -65,7 +65,7 @@ type
 
 ### EchoModifier(StripModifier)
 
-base classes — bpy_struct, StripModifier
+base classes: bpy_struct, StripModifier
 class bpy.types. EchoModifier ( StripModifier )
 
 Tooltip

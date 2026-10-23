@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeMeshToVolume(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshToVolume ( GeometryNode ) 
 
 Build a fog volume that follows the shape of the supplied mesh surface.

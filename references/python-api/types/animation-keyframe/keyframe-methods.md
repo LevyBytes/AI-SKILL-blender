@@ -4,7 +4,7 @@
 
 ### Keyframe(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Keyframe ( bpy_struct )
 
 A Bézier curve point, with two handles, that marks a Keyframe on an F-Curve.

@@ -49,7 +49,7 @@ type
 
 ### UnknownType(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. UnknownType ( bpy_struct )
 
 Placeholder RNA type that backs pointers to data which is unknown or internal.

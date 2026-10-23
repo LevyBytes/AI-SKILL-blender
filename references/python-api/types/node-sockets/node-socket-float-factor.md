@@ -64,7 +64,7 @@ type
 
 ### NodeSocketFloatFactor(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketFloatFactor ( NodeSocketStandard )
 
 A node socket carrying a floating-point value.

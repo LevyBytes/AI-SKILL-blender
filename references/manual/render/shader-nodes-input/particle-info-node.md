@@ -20,13 +20,13 @@ None.
 
 ### Outputs
 
-- **Index** — Particle number (0 to particle count).
-- **Random** — Per-particle random (0 to 1). Use with color ramps for color randomization.
-- **Age** — Particle age in frames.
-- **Lifetime** — Total lifespan in frames.
-- **Location** — Particle position.
-- **Size** — Particle size.
-- **Velocity** — Particle velocity.
-- **Angular Velocity** — Particle rotation rate.
+- **Index**: Particle number (0 to particle count).
+- **Random**: Per-particle random (0 to 1). Use with color ramps for color randomization.
+- **Age**: Particle age in frames.
+- **Lifetime**: Total lifespan in frames.
+- **Location**: Particle position.
+- **Size**: Particle size.
+- **Velocity**: Particle velocity.
+- **Angular Velocity**: Particle rotation rate.
 
 [Related references](INDEX.md).

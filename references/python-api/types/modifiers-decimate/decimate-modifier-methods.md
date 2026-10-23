@@ -4,7 +4,7 @@
 
 ### DecimateModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. DecimateModifier ( Modifier )
 
 Reduces a mesh’s polygon count.

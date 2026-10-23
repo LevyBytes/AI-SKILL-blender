@@ -4,7 +4,7 @@
 
 ### GeometryNodeToolSetSelection(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeToolSetSelection ( GeometryNode )
 
 During a tool run, writes the selection state back onto the geometry being edited.

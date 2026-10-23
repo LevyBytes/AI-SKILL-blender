@@ -4,7 +4,7 @@
 
 ### GeometryNodeCaptureAttribute(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCaptureAttribute ( GeometryNode )
 
 Saves a field's result on a geometry and exposes the data through a node socket. Lets you retain or interpolate data while the geometry changes, for instance positions captured before deformation.

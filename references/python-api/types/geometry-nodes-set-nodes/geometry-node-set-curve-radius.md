@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetCurveRadius(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetCurveRadius ( GeometryNode ) 
 
 Assigns a radius value to a curve at every one of its control points.

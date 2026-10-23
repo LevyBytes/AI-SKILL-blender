@@ -91,7 +91,7 @@ type
 
 ### MovieTrackingPlaneTrack(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieTrackingPlaneTrack ( bpy_struct )
 
 Plane-track data used during match-moving tracking

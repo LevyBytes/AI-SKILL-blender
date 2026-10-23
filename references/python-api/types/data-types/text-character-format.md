@@ -91,7 +91,7 @@ type
 
 ### TextCharacterFormat(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. TextCharacterFormat ( bpy_struct )
 
 Per-character formatting settings for text.

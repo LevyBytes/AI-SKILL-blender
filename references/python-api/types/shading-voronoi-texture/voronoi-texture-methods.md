@@ -4,7 +4,7 @@
 
 ### VoronoiTexture(Texture)
 
-base classes — bpy_struct, ID, Texture
+base classes: bpy_struct, ID, Texture
 class bpy.types. VoronoiTexture ( Texture )
 
 A procedural voronoi texture.

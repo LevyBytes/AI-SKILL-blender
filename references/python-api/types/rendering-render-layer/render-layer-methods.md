@@ -4,7 +4,7 @@
 
 ### RenderLayer(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. RenderLayer ( bpy_struct )
 ## See also
 

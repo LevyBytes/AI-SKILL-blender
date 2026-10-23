@@ -1,4 +1,4 @@
-# Event Type Items — window and timer events
+# Event Type Items - window and timer events
 
 | Value | Meaning |
 | --- | --- |

@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeAxisAngleToRotation(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeAxisAngleToRotation ( FunctionNode ) 
 
 Assemble a rotation from an axis together with an angle turned about it

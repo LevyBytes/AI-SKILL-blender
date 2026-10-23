@@ -72,7 +72,7 @@ type
 
 Constraint applying skeletal deformation.
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. ArmatureConstraint ( Constraint )
 
 Replicates transformations from the Armature modifier.

@@ -45,7 +45,7 @@ type
 
 ### `GPENCIL_UL`_matslots(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `GPENCIL_UL`_matslots ( UIList )
 

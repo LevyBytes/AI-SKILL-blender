@@ -4,7 +4,7 @@
 
 ### LineStyleThicknessModifier_AlongStroke(LineStyleThicknessModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleThicknessModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleThicknessModifier
 class bpy.types. LineStyleThicknessModifier_AlongStroke ( LineStyleThicknessModifier ) 
 
 Varies line thickness as the stroke progresses

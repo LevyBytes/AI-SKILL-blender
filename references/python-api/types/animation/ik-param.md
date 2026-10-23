@@ -62,7 +62,7 @@ type
 
 ### IKParam(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 Itasc

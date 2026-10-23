@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeBoxMask(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeBoxMask ( CompositorNode )
 
 Build a rectangular mask handy for use as a basic matte

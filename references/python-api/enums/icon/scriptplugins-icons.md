@@ -1,4 +1,4 @@
-# Icon Items — scriptplugins icons
+# Icon Items - scriptplugins icons
 
 | Value | Meaning |
 | --- | --- |

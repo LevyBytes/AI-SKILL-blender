@@ -1,4 +1,4 @@
-# Icon Items — matsphere icons
+# Icon Items - matsphere icons
 
 | Value | Meaning |
 | --- | --- |

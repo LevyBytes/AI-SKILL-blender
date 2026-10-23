@@ -4,7 +4,7 @@
 
 ### VertexWeightEditModifier(Modifier) 
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. VertexWeightEditModifier ( Modifier ) 
 
 Adjust the weights carried by vertices in a group

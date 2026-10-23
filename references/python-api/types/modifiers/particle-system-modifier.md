@@ -56,7 +56,7 @@ type
 
 ### ParticleSystemModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. ParticleSystemModifier ( Modifier )
 
 A modifier that runs a particle system simulation

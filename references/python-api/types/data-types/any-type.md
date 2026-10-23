@@ -49,7 +49,7 @@ type
 
 A marker for any data type.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AnyType ( bpy_struct )
 
 RNA type that permits references to any data block.

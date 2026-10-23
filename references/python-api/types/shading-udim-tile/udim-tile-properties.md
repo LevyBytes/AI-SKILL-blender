@@ -4,7 +4,7 @@
 
 ### UDIMTile(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. UDIMTile ( bpy_struct ) 
 
 Properties belonging to a UDIM tile.

@@ -17,7 +17,7 @@ No inputs on this node.
 ### Properties
 
 Image Data-Block
-A data-block selector — pick an image that exists or open a new one through the file browser.
+A data-block selector: pick an image that exists or open a new one through the file browser.
 
 ### Outputs
 

@@ -92,7 +92,7 @@ type
 
 ### FunctionNodeInputVector(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeInputVector ( FunctionNode ) 
 
 Supply a vector value that downstream nodes in the tree can read

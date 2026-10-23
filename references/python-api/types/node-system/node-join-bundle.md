@@ -85,7 +85,7 @@ type
 
 ### NodeJoinBundle(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeJoinBundle ( NodeInternal )
 
 Merge several bundles into one

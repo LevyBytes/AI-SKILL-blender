@@ -70,7 +70,7 @@ type
 
 ### PreferencesApps(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PreferencesApps ( bpy_struct )
 
 Preferences that apply to apps only

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetPointRadius(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetPointRadius ( GeometryNode ) 
 
 Controls the on-screen size at which point cloud points are drawn.

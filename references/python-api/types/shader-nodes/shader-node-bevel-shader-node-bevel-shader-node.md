@@ -1,8 +1,8 @@
-# bpy.types.ShaderNodeBevel — ShaderNodeBevel(ShaderNode)
+# bpy.types.ShaderNodeBevel - ShaderNodeBevel(ShaderNode)
 
 ### ShaderNodeBevel(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBevel ( ShaderNode )
 
 Produce normals that look as if corners are rounded.

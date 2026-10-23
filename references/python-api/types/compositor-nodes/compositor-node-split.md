@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeSplit(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeSplit ( CompositorNode )
 
 Joins two images so they sit next to each other; most often paired with a Viewer node.

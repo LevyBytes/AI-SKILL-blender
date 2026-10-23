@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeCombineColor(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeCombineColor ( ShaderNode ) 
 
 Assemble a color out of its separate channels, with a choice of color models

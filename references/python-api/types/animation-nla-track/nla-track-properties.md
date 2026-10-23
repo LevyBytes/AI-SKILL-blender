@@ -4,7 +4,7 @@
 
 ### NlaTrack(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. NlaTrack ( bpy_struct )
 
 One animation layer that holds Actions pointed at as NLA strips.

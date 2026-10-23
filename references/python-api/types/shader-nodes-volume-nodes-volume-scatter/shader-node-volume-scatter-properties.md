@@ -4,7 +4,7 @@
 
 ### ShaderNodeVolumeScatter(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeVolumeScatter ( ShaderNode )
 
 Deflects light passing through the volume; a common way to add fog to a scene.

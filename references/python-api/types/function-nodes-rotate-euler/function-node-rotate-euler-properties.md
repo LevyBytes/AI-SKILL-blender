@@ -4,7 +4,7 @@
 
 ### FunctionNodeRotateEuler(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeRotateEuler ( FunctionNode )
 
 Adds a further Euler rotation on top of an existing Euler rotation.

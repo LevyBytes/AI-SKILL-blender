@@ -38,11 +38,11 @@ bpy.ops.sculpt. set_pivot_position ( * , mode = 'UNMASKED' , mouse_x = 0.0 , mou
 Sets the sculpt transform pivot position.
 Parameters:
 - mode ( Literal [ 'ORIGIN' , 'UNMASKED' , 'BORDER' , 'ACTIVE' , 'SURFACE' ] ) – Mode, (optional)
-- ORIGIN — Origin: set the pivot to the sculpt's origin.
-- UNMASKED — Unmasked: set the pivot to the average position of the unmasked vertices.
-- BORDER — Mask Border: set the pivot to the center of the mask's border.
-- ACTIVE — Active Vertex: set the pivot to the active vertex position.
-- SURFACE — Surface: set the pivot to the surface under the cursor.
+- ORIGIN - Origin: set the pivot to the sculpt's origin.
+- UNMASKED - Unmasked: set the pivot to the average position of the unmasked vertices.
+- BORDER - Mask Border: set the pivot to the center of the mask's border.
+- ACTIVE - Active Vertex: set the pivot to the active vertex position.
+- SURFACE - Surface: set the pivot to the surface under the cursor.
 - mouse_x ( float ) – Mouse Position X, Position of the mouse used for "Surface" and "Active Vertex" mode (in [0, inf], optional)
 - mouse_y ( float ) – Mouse Position Y, Position of the mouse used for "Surface" and "Active Vertex" mode (in [0, inf], optional)
 Returns: The operator's result.

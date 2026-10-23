@@ -4,7 +4,7 @@
 
 ### GeometryNodeSetMeshNormal(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetMeshNormal ( GeometryNode ) 
 
 Records a normal vector against each element of a mesh.

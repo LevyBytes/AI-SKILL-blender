@@ -4,7 +4,7 @@
 
 ### CompositorNodeRLayers(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeRLayers ( CompositorNode )
 
 Brings render passes in from a scene render.

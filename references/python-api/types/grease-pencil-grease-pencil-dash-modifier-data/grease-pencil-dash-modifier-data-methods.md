@@ -4,7 +4,7 @@
 
 ### GreasePencilDashModifierData(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilDashModifierData ( Modifier )
 
 Produces a dot-dash pattern along strokes.

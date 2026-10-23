@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeDuplicateElements(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeDuplicateElements ( GeometryNode )
 
 Make any number of copies of each selected input element.

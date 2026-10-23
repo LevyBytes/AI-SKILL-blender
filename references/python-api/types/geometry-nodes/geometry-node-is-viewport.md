@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeIsViewport(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeIsViewport ( GeometryNode ) 
 
 Tell whether the nodes are currently running for viewport display as opposed to the final render.

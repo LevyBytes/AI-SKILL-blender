@@ -47,7 +47,7 @@ type
 
 ### BlendImportContextLibrary(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types.BlendImportContextLibrary(bpy_struct)
 
 Points to one library (blendfile) within a BlendImportContext. At present it is surfaced only as read-only data for the handlers running before and after a blend import.

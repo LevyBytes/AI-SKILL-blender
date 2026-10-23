@@ -1,4 +1,4 @@
-# Icon Items — zoom icons
+# Icon Items - zoom icons
 
 | Value | Meaning |
 | --- | --- |

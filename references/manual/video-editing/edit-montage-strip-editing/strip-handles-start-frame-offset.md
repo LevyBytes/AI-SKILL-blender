@@ -1,4 +1,4 @@
-# Video strips: Strip handles — Start Frame Offset
+# Video strips: Strip handles - Start Frame Offset
 
 #### Start Frame Offset
 

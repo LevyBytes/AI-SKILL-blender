@@ -84,7 +84,7 @@ type
 
 ### Mask(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Mask ( ID )
 
 A mask data-block that supplies a compositing mask.

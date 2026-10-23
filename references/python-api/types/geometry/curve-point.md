@@ -70,7 +70,7 @@ type
 
 ### CurvePoint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CurvePoint ( bpy_struct )
 
 A control point belonging to a curve.

@@ -1,4 +1,4 @@
-# bpy.types.MulticamStrip — class-contract, Inherited Properties, Inherited Functions, MulticamStrip(EffectStrip)
+# bpy.types.MulticamStrip - class-contract, Inherited Properties, Inherited Functions, MulticamStrip(EffectStrip)
 
 animation_offset_end
 

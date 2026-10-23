@@ -1,4 +1,4 @@
-# bpy.types.ShaderNodeWireframe — class-contract, Inherited Properties, Inherited Functions, ShaderNodeWireframe(ShaderNode)
+# bpy.types.ShaderNodeWireframe - class-contract, Inherited Properties, Inherited Functions, ShaderNodeWireframe(ShaderNode)
 
 use_pixel_size
 

@@ -1,4 +1,4 @@
-# Icon Items — pmarker icons
+# Icon Items - pmarker icons
 
 | Value | Meaning |
 | --- | --- |

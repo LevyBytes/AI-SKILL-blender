@@ -7,17 +7,17 @@ The Color Ramp node maps values to colors through a gradient. Input: Factor (the
 The Color Ramp Node maps values to colors through a gradient.
 
 Inputs:
-Factor — the value to map; 0.0 gives the leftmost color, 1.0 the rightmost.
+Factor: the value to map; 0.0 gives the leftmost color, 1.0 the rightmost.
 
 Properties:
-Color Ramp — see Color Ramp Widget.
+Color Ramp: see Color Ramp Widget.
 
 Outputs:
-Image/Color — the usual color output.
-Alpha — the usual alpha output.
+Image/Color: the usual color output.
+Alpha: the usual alpha output.
 
 Examples:
-Creating an Alpha Mask — an easily missed use of the Color Ramp is turning a black-and-white image into a colored, partly transparent one. In the example a black-and-white swirl lacking an alpha channel feeds the Color Ramp as a Factor; the ramp is fully transparent at its left end and fully red at its right, so (as the Viewer node shows) it outputs an image transparent where the input is black and opaque where it's white.
+Creating an Alpha Mask: an easily missed use of the Color Ramp is turning a black-and-white image into a colored, partly transparent one. In the example a black-and-white swirl lacking an alpha channel feeds the Color Ramp as a Factor; the ramp is fully transparent at its left end and fully red at its right, so (as the Viewer node shows) it outputs an image transparent where the input is black and opaque where it's white.
 Colorizing an Image — here several colors are added to the gradient, turning a black-and-white image into a flaming swirl. The input's grays map to three fully opaque colors — blue, yellow, red: black areas become blue (the first stop), gray areas become a matching gradient color (bluish through yellow to reddish), and white areas become red.
 
 The Color Ramp node maps scalar values to colors via a gradient.

@@ -9,7 +9,7 @@ Set Hair Curve Profile sets strand radius down the length via a customizable pro
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in, whose radius gets modified.
+Geometry: the hair-curve geometry fed in, whose radius gets modified.
 
 Replace Radius
 On, the node swaps the existing radius attribute for a new one. Off, the new radius multiplies into the existing value.

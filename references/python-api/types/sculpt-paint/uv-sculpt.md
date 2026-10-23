@@ -77,7 +77,7 @@ type
 
 ### UvSculpt(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. UvSculpt ( bpy_struct )
 
 [Related references](INDEX.md).

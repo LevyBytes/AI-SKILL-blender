@@ -77,7 +77,7 @@ type
 
 ### DepsgraphUpdate(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. DepsgraphUpdate ( bpy_struct )
 
 Details about an ID that received an update

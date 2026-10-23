@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeShaderToRGB(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeShaderToRGB ( ShaderNode )
 
 Captures shading results such as lighting and shadow as a flat color. It is most often used in stylized, non-photorealistic workflows to post-process the result of BSDFs.

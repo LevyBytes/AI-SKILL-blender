@@ -1,4 +1,4 @@
-# Video strips: Apply — Scale to Fill
+# Video strips: Apply - Scale to Fill
 
 #### Scale to Fill
 

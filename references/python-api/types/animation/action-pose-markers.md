@@ -69,7 +69,7 @@ Return type: type
 
 ### ActionPoseMarkers(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.ActionPoseMarkers(bpy_prop_collection)
 
 A set of timeline markers

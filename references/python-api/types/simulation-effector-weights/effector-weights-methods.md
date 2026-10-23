@@ -4,7 +4,7 @@
 
 ### EffectorWeights(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. EffectorWeights ( bpy_struct )
 
 Per-effector weighting used by physics simulation.

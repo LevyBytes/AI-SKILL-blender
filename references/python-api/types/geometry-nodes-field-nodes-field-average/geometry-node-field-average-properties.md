@@ -4,7 +4,7 @@
 
 ### GeometryNodeFieldAverage(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeFieldAverage ( GeometryNode ) 
 
 Produce the mean and the median across the values of a supplied field

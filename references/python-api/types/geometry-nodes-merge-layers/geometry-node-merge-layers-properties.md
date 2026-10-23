@@ -4,7 +4,7 @@
 
 ### GeometryNodeMergeLayers(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMergeLayers ( GeometryNode ) 
 
 Fold several Grease Pencil layers together into a single layer.

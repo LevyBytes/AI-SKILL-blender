@@ -79,7 +79,7 @@ type
 
 ### ShapeKeyBezierPoint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ShapeKeyBezierPoint ( bpy_struct )
 
 A single point belonging to a Bézier-curve shape key.

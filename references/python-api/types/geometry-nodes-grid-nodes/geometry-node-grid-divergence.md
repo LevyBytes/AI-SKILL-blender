@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeGridDivergence(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridDivergence ( GeometryNode ) 
 
 Measure how much a directional vector grid flows inward and outward at each point

@@ -63,8 +63,8 @@ When the Extend checkbox is active, the selection expands rather than being repl
 This page covers the selection tools unique to the 3D Viewport; the general-purpose ones live in the Interface section.
 
 The 3D Viewport has two keys that influence selection:
-Select by Origin (Ctrl) — selects objects by their origin instead of their geometry.
-Selection Menu (Alt) — when several objects sit under the pointer, pops a menu so you can pick the one you mean.
+Select by Origin (Ctrl): selects objects by their origin instead of their geometry.
+Selection Menu (Alt): when several objects sit under the pointer, pops a menu so you can pick the one you mean.
 Combine the two for a selection menu based on object origins.
 
 The mode-specific selection pages follow.

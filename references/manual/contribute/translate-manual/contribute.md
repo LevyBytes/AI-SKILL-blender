@@ -35,7 +35,7 @@ which lists files with fuzzy or empty strings; for more options:
 ```console
 python tools/translations/report_translation_progress.py --help
 ```
-Updating PO files — administrators regularly update PO files to match the latest English manual (typically weekly), and the last update is shown on the Blender Manual Translations project page; translators can update locally with:
+Updating PO files: administrators regularly update PO files to match the latest English manual (typically weekly), and the last update is shown on the Blender Manual Translations project page; translators can update locally with:
 ```console
 make update_po
 ```

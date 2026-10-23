@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeMatrixMultiply(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeMatrixMultiply ( FunctionNode )
 
 Multiplies one input matrix by a second one.

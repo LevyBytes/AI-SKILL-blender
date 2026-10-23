@@ -1,4 +1,4 @@
-# Icon Items — heart icons
+# Icon Items - heart icons
 
 | Value | Meaning |
 | --- | --- |

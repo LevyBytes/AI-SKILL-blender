@@ -1,4 +1,4 @@
-# Icon Items — three icons
+# Icon Items - three icons
 
 | Value | Meaning |
 | --- | --- |

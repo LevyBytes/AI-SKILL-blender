@@ -4,7 +4,7 @@
 
 ### CopyRotationConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. CopyRotationConstraint ( Constraint )
 
 Mirror the target's rotation onto the owner.

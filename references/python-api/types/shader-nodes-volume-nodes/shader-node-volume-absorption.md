@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeVolumeAbsorption(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeVolumeAbsorption ( ShaderNode )
 
 Takes in light as a ray travels through the volume.

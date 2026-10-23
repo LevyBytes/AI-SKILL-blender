@@ -1,4 +1,4 @@
-# Icon Items — restrict icons
+# Icon Items - restrict icons
 
 | Value | Meaning |
 | --- | --- |

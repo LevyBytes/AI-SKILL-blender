@@ -56,7 +56,7 @@ type
 
 ### ThemeStripColor(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeStripColor ( bpy_struct ) 
 
 Color theming for sequencer strips.

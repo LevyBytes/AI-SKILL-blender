@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeValue(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeValue ( ShaderNode )
 
 Feeds a constant numeric value out to the rest of the node tree.

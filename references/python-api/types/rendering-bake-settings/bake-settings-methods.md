@@ -4,7 +4,7 @@
 
 Stores baking configuration parameters for a render scene.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BakeSettings ( bpy_struct )
 
 Rendering settings for baked shading data

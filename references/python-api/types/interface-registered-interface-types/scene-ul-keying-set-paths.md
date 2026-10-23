@@ -45,7 +45,7 @@ type
 
 ### `SCENE_UL`_keying_set_paths(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `SCENE_UL`_keying_set_paths ( UIList )
 

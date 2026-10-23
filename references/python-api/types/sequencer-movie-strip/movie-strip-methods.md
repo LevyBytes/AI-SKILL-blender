@@ -4,7 +4,7 @@
 
 ### MovieStrip(Strip)
 
-base classes — bpy_struct, Strip
+base classes: bpy_struct, Strip
 class bpy.types. MovieStrip ( Strip )
 
 Sequencer strip that loads a video

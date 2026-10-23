@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeInvertRotation(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeInvertRotation ( FunctionNode ) 
 
 Find the inverse of the supplied rotation

@@ -1,4 +1,4 @@
-# Icon Items — rndcurve icons
+# Icon Items - rndcurve icons
 
 | Value | Meaning |
 | --- | --- |

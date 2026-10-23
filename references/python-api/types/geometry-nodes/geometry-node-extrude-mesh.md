@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeExtrudeMesh(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeExtrudeMesh ( GeometryNode )
 
 Spawn new vertices, edges, or faces from the selected elements and slide them along an offset while staying tied to their boundary.

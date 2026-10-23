@@ -19,8 +19,8 @@
 - Open when you need Light: [Light](../rendering-light/INDEX.md).
 - Open when you need Light probe: [Light probe](../rendering-light-probe/INDEX.md).
 - Open when you need bpy.types.LightProbePlane: [bpy.types.LightProbePlane](light-probe-plane.md).
-- Open when you need bpy.types.LightProbeSphere — class-contract, Inherited Properties, Inherited Functions, LightProbeSphere(LightProbe): [bpy.types.LightProbeSphere — class-contract, Inherited Properties, Inherited Functions, LightProbeSphere(LightProbe)](light-probe-sphere-class-contract.md).
-- Open when you need bpy.types.LightProbeSphere — LightProbeSphere(LightProbe): [bpy.types.LightProbeSphere — LightProbeSphere(LightProbe)](light-probe-sphere-light-probe-sphere-light-probe.md).
+- Open when you need bpy.types.LightProbeSphere - class-contract, Inherited Properties, Inherited Functions, LightProbeSphere(LightProbe): [bpy.types.LightProbeSphere - class-contract, Inherited Properties, Inherited Functions, LightProbeSphere(LightProbe)](light-probe-sphere-class-contract.md).
+- Open when you need bpy.types.LightProbeSphere - LightProbeSphere(LightProbe): [bpy.types.LightProbeSphere - LightProbeSphere(LightProbe)](light-probe-sphere-light-probe-sphere-light-probe.md).
 - Open when you need Light probe volume: [Light probe volume](../rendering-light-probe-volume/INDEX.md).
 - Open when you need bpy.types.Lightgroup: [bpy.types.Lightgroup](lightgroup.md).
 - Open when you need bpy.types.Lightgroups: [bpy.types.Lightgroups](lightgroups.md).
@@ -30,8 +30,8 @@
 - Open when you need Render layer: [Render layer](../rendering-render-layer/INDEX.md).
 - Open when you need bpy.types.RenderPass: [bpy.types.RenderPass](render-pass.md).
 - Open when you need bpy.types.RenderPasses: [bpy.types.RenderPasses](render-passes.md).
-- Open when you need bpy.types.RenderResult — class-contract, Inherited Properties, Inherited Functions, References, RenderResult(bpy_struct): [bpy.types.RenderResult — class-contract, Inherited Properties, Inherited Functions, References, RenderResult(bpy_struct)](render-result-class-contract.md).
-- Open when you need bpy.types.RenderResult — RenderResult(bpy_struct): [bpy.types.RenderResult — RenderResult(bpy_struct)](render-result-render-result-bpy-struct.md).
+- Open when you need bpy.types.RenderResult - class-contract, Inherited Properties, Inherited Functions, References, RenderResult(bpy_struct): [bpy.types.RenderResult - class-contract, Inherited Properties, Inherited Functions, References, RenderResult(bpy_struct)](render-result-class-contract.md).
+- Open when you need bpy.types.RenderResult - RenderResult(bpy_struct): [bpy.types.RenderResult - RenderResult(bpy_struct)](render-result-render-result-bpy-struct.md).
 - Open when you need Render settings: [Render settings](../rendering-render-settings/INDEX.md).
 - Open when you need bpy.types.RenderSlot: [bpy.types.RenderSlot](render-slot.md).
 - Open when you need bpy.types.RenderSlots: [bpy.types.RenderSlots](render-slots.md).

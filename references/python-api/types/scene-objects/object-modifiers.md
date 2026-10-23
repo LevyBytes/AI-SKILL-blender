@@ -92,7 +92,7 @@ type
 
 ### ObjectModifiers(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. ObjectModifiers ( bpy_prop_collection ) 
 
 The set of modifiers attached to an object

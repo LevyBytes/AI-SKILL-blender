@@ -1,4 +1,4 @@
-# Icon Items — gesture icons
+# Icon Items - gesture icons
 
 | Value | Meaning |
 | --- | --- |

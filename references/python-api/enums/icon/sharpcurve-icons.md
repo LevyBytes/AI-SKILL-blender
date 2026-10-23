@@ -1,4 +1,4 @@
-# Icon Items — sharpcurve icons
+# Icon Items - sharpcurve icons
 
 | Value | Meaning |
 | --- | --- |

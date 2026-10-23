@@ -1,4 +1,4 @@
-# Icon Items — automerge icons
+# Icon Items - automerge icons
 
 | Value | Meaning |
 | --- | --- |

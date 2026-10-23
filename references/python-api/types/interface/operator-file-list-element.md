@@ -51,7 +51,7 @@ type
 
 ### OperatorFileListElement(PropertyGroup) 
 
-base classes — bpy_struct, PropertyGroup
+base classes: bpy_struct, PropertyGroup
 class bpy.types. OperatorFileListElement ( PropertyGroup )
 
 [Related references](INDEX.md).

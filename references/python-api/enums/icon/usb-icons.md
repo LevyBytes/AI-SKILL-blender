@@ -1,4 +1,4 @@
-# Icon Items — usb icons
+# Icon Items - usb icons
 
 | Value | Meaning |
 | --- | --- |

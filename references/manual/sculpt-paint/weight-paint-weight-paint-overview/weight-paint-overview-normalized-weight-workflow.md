@@ -30,7 +30,7 @@ the lock toggle in the group interface, or employ bone selection with
 the locks menu.
 
 This guards against unintended modifications. Since Auto Normalize respects it as well, in normalized workflows
-it carries greater significance—locking freezes chosen bone influences,
+it carries greater significance: locking freezes chosen bone influences,
 so repainting others redistributes across unlocked options only.
 
 This becomes crucial in multi-bone regions, enabling careful tweaking and redistribution

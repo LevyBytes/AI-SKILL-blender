@@ -72,7 +72,7 @@ type
 
 ### LineStyleGeometryModifier_Sampling(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_Sampling ( LineStyleGeometryModifier ) 
 
 Set a fresh sampling value that controls the resolution of stroke polylines

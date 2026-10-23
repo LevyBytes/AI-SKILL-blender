@@ -1,4 +1,4 @@
-# Icon Items — shading icons
+# Icon Items - shading icons
 
 | Value | Meaning |
 | --- | --- |

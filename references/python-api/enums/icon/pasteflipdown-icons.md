@@ -1,4 +1,4 @@
-# Icon Items — pasteflipdown icons
+# Icon Items - pasteflipdown icons
 
 | Value | Meaning |
 | --- | --- |

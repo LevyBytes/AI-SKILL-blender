@@ -49,7 +49,7 @@ type
 
 ### NodeCustomGroup(Node)
 
-base classes — bpy_struct, Node
+base classes: bpy_struct, Node
 class bpy.types. NodeCustomGroup ( Node )
 
 The parent node type used by custom-registered node group types.

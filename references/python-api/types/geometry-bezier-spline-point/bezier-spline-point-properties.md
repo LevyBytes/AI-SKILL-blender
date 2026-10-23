@@ -4,7 +4,7 @@
 
 Spline anchor point with directional tangent handles for curve control.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BezierSplinePoint ( bpy_struct )
 
 Control point on a Bézier curve with attached tangent vector handles

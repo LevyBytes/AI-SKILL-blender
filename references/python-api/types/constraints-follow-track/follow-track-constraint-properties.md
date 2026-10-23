@@ -4,7 +4,7 @@
 
 ### FollowTrackConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. FollowTrackConstraint ( Constraint )
 
 Pins an object's motion to follow the target motion track.

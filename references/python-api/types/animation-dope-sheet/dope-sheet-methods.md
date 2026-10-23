@@ -4,7 +4,7 @@
 
 ### DopeSheet(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. DopeSheet ( bpy_struct )
 
 Controls which channels the animation editors display

@@ -44,7 +44,7 @@ Subtract
 Drops the newly picked items back out of the existing selection.
 
 Invert Ctrl - I
-Flips the selection — what was off turns on, and the reverse.
+Flips the selection: what was off turns on, and the reverse.
 
 Intersect
 Keeps only items that overlap the existing selection.

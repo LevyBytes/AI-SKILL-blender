@@ -4,7 +4,7 @@
 
 ### Material(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Material ( ID )
 
 A material data-block that sets how geometric objects look when rendered.

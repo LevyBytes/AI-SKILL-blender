@@ -4,7 +4,7 @@
 
 ### ChildOfConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. ChildOfConstraint ( Constraint )
 
 Enable constraint-based parent-child linkage

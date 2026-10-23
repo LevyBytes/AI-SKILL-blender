@@ -4,7 +4,7 @@
 
 ### LineStyleThicknessModifier_Calligraphy(LineStyleThicknessModifier)
 
-base classes — bpy_struct, LineStyleModifier, LineStyleThicknessModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleThicknessModifier
 class bpy.types. LineStyleThicknessModifier_Calligraphy ( LineStyleThicknessModifier )
 
 Varies the stroke width so the result resembles strokes drawn with a calligraphy pen.

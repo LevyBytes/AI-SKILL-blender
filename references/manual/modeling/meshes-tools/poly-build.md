@@ -16,16 +16,16 @@ When a new triangle shares an edge with an existing face, this option automatica
 
 Controls
 
-Adding Geometry — Ctrl - LMB
+Adding Geometry: Ctrl - LMB
 Creates a vertex at the cursor and forms a triangle using this new vertex and the nearest existing edge. If the nearest edge already has two neighboring faces, instead creates an edge from the new vertex to the nearest existing vertex. Preview appears in blue while holding Ctrl.
 
-Deleting Geometry — Shift - LMB
+Deleting Geometry: Shift - LMB
 Dissolves the vertex or removes the face under the cursor. Red highlight shows the target while holding Shift.
 
-Moving Vertices — LMB
+Moving Vertices: LMB
 Click and drag to reposition a vertex.
 
-Extruding Edges — LMB
+Extruding Edges: LMB
 Click and drag an edge to extrude it into a quad.
 
 Enabling Snapping and Auto Merge simplifies vertex alignment and combination.

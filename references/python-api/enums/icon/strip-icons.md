@@ -1,4 +1,4 @@
-# Icon Items — strip icons
+# Icon Items - strip icons
 
 | Value | Meaning |
 | --- | --- |

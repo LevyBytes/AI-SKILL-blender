@@ -4,7 +4,7 @@
 
 ### FModifierCycles(FModifier)
 
-base classes — bpy_struct, FModifier
+base classes: bpy_struct, FModifier
 class bpy.types. FModifierCycles ( FModifier )
 
 Loops the values from the F-Curve it modifies.

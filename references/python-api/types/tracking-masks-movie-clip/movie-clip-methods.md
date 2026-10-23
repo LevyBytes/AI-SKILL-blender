@@ -4,7 +4,7 @@
 
 ### MovieClip(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. MovieClip ( ID )
 
 A data-block that points at an external movie file

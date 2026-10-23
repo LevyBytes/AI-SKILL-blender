@@ -56,7 +56,7 @@ type
 
 ### ThemeCollectionColor(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeCollectionColor ( bpy_struct )
 
 Styling for collection colors

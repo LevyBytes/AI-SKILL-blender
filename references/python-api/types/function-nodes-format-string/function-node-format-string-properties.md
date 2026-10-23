@@ -4,7 +4,7 @@
 
 ### FunctionNodeFormatString(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeFormatString ( FunctionNode ) 
 
 Substitute values into a string using formatting syntax compatible with Python and path templates

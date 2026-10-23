@@ -9,7 +9,7 @@ A tree of connected nodes that drives shading, texturing, and compositing.
 ### Poll Function 
 
 Through NodeTree.poll, a node tree decides whether it should appear within a
-given context — the same role Panel.poll and Menu.poll play for their own
+given context: the same role Panel.poll and Menu.poll play for their own
 visibility. When the function yields False, that node tree type stays out of
 the picker in the node editor.
 
@@ -31,7 +31,7 @@ class CyclesNodeTree(bpy.types.NodeTree):
 bpy.utils.register_class(CyclesNodeTree)
 ```
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 
 subclasses —
 CompositorNodeTree, GeometryNodeTree, ShaderNodeTree, TextureNodeTree

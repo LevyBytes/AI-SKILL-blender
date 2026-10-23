@@ -4,7 +4,7 @@
 
 ### SequencerTonemapModifierData(StripModifier)
 
-base classes — bpy_struct, StripModifier
+base classes: bpy_struct, StripModifier
 class bpy.types. SequencerTonemapModifierData ( StripModifier )
 
 Tone mapping modifier

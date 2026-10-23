@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeMapUV(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeMapUV ( CompositorNode )
 
 Reprojects a texture through UV coordinates so it can be laid onto objects during compositing.

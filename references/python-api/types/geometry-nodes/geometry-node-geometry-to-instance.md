@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeGeometryToInstance(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGeometryToInstance ( GeometryNode ) 
 
 Turn each input geometry into an instance, which for large inputs can run far quicker than the Join Geometry node

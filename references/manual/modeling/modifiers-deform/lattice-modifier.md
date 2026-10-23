@@ -10,9 +10,9 @@ This documentation covers the Lattice Modifier specific to Grease Pencil. For ot
 
 **Options.**
 
-Object — the Lattice object governing the deformation.
+Object: the Lattice object governing the deformation.
 
-Strength — mixes between undeformed and deformed point placements.
+Strength: mixes between undeformed and deformed point placements.
 
 **Influence.**
 
@@ -38,7 +38,7 @@ Smooth lattice-based deformation is difficult to achieve by hand.
 
 A single lattice can deform multiple objects simultaneously.
 
-Like all modifiers, it is non-destructive—changes layer on top of the original, allowing recovery and re-editing.
+Like all modifiers, it is non-destructive: changes layer on top of the original, allowing recovery and re-editing.
 
 Lattices do not alter texture coordinates.
 

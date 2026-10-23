@@ -4,7 +4,7 @@
 
 ### LineStyleThicknessModifier_Noise(LineStyleThicknessModifier)
 
-base classes — bpy_struct, LineStyleModifier, LineStyleThicknessModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleThicknessModifier
 class bpy.types. LineStyleThicknessModifier_Noise ( LineStyleThicknessModifier )
 
 Drives line width from a random noise signal.

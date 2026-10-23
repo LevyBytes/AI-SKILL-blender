@@ -1,4 +1,4 @@
-# Icon Items — disk icons
+# Icon Items - disk icons
 
 | Value | Meaning |
 | --- | --- |

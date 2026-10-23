@@ -70,7 +70,7 @@ type
 
 ### CameraBackgroundImages(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. CameraBackgroundImages ( bpy_prop_collection )
 
 Group of background images

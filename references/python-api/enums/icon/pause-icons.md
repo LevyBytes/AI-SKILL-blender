@@ -1,4 +1,4 @@
-# Icon Items — pause icons
+# Icon Items - pause icons
 
 | Value | Meaning |
 | --- | --- |

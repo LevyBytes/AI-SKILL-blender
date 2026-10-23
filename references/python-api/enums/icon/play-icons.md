@@ -1,4 +1,4 @@
-# Icon Items — play icons
+# Icon Items - play icons
 
 | Value | Meaning |
 | --- | --- |

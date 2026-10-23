@@ -45,7 +45,7 @@ Render refractive surfaces as transparent for compositing glass over alternate b
 Roughness Threshold
 For transparent glass, surfaces with roughness exceeding this limit remain opaque.
 
-Film — Filtering and Background
+Film: Filtering and Background
 
 Filter Size
 Limited image and screen resolution necessitate pixel filtering to avoid aliasing artifacts. This is achieved by gentle image softening.

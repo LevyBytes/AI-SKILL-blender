@@ -91,7 +91,7 @@ type
 
 ### NodeTreeInterfacePanel(NodeTreeInterfaceItem) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem
+base classes: bpy_struct, NodeTreeInterfaceItem
 class bpy.types. NodeTreeInterfacePanel ( NodeTreeInterfaceItem ) 
 
 A panel declared inside a node interface.

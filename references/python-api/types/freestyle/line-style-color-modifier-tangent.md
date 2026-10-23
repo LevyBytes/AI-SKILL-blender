@@ -86,7 +86,7 @@ type
 
 ### LineStyleColorModifier_Tangent(LineStyleColorModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleColorModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleColorModifier
 class bpy.types. LineStyleColorModifier_Tangent ( LineStyleColorModifier ) 
 
 Varies line color from the orientation a stroke is heading

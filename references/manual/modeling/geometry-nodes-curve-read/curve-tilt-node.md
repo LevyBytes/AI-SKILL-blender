@@ -11,6 +11,6 @@ Related: Set Curve Tilt node provides input control.
 Inputs: None
 
 Outputs:
-Tilt — Rotation in radians.
+Tilt: Rotation in radians.
 
 [Related references](INDEX.md).

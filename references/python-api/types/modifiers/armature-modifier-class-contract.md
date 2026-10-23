@@ -1,4 +1,4 @@
-# bpy.types.ArmatureModifier — class-contract, Inherited Properties, Inherited Functions
+# bpy.types.ArmatureModifier - class-contract, Inherited Properties, Inherited Functions
 
 invert_vertex_group
 

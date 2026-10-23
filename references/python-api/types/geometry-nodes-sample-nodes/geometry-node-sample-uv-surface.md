@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSampleUVSurface(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSampleUVSurface ( GeometryNode )
 
 Work out the interpolated values a mesh attribute takes at a specified UV coordinate

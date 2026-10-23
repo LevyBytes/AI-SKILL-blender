@@ -1,4 +1,4 @@
-# Icon Items — add icons
+# Icon Items - add icons
 
 | Value | Meaning |
 | --- | --- |

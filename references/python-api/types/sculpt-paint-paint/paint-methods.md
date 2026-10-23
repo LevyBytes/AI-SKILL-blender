@@ -4,7 +4,7 @@
 
 ### Paint(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 CurvesSculpt, GpPaint, GpSculptPaint, GpVertexPaint, GpWeightPaint, ImagePaint, Sculpt, VertexPaint

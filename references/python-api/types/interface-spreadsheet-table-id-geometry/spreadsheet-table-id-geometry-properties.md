@@ -4,7 +4,7 @@
 
 ### SpreadsheetTableIDGeometry(SpreadsheetTableID)
 
-base classes — bpy_struct, SpreadsheetTableID
+base classes: bpy_struct, SpreadsheetTableID
 class bpy.types. SpreadsheetTableIDGeometry ( SpreadsheetTableID )
 ## See also
 

@@ -28,8 +28,8 @@ Samples the mesh detail at the clicked point.
 Parameters:
 - location ( Sequence [ int ] ) – Location, Screen coordinates of sampling (array of 2 items, in [0, 32767], optional)
 - mode ( Literal [ 'DYNTOPO' , 'VOXEL' ] ) – Detail Mode, Target sculpting workflow that is going to use the sampled size (optional)
-- DYNTOPO — Dyntopo: sample dyntopo detail.
-- VOXEL — Voxel: sample mesh voxel size.
+- DYNTOPO - Dyntopo: sample dyntopo detail.
+- VOXEL - Voxel: sample mesh voxel size.
 Returns: The operator's result.
 Return type: set[Literal[Operator Return Items]]
 

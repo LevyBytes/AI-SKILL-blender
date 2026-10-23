@@ -1,4 +1,4 @@
-# Icon Items — preview icons
+# Icon Items - preview icons
 
 | Value | Meaning |
 | --- | --- |

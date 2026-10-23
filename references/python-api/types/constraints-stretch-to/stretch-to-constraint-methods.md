@@ -4,7 +4,7 @@
 
 ### StretchToConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. StretchToConstraint ( Constraint )
 
 Stretch out to reach the target object

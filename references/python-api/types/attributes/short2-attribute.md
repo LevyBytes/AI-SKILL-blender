@@ -51,7 +51,7 @@ type
 
 ### Short2Attribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. Short2Attribute ( Attribute )
 
 A geometry attribute holding 2D integer vector values.

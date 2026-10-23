@@ -6,14 +6,14 @@ The Combine Color node builds an image from its composite color channels, suppor
 
 Merges four grayscale channels into one color image according to a chosen Color Model.
 
-Inputs — these depend on the Mode property (below).
-Alpha — the output color's opacity.
+Inputs: these depend on the Mode property (below).
+Alpha: the output color's opacity.
 
 Properties:
-Mode — the color model to use. RGB (Red, Green, Blue), HSV (Hue, Saturation, Value), or HSL (Hue, Saturation, Lightness).
+Mode: the color model to use. RGB (Red, Green, Blue), HSV (Hue, Saturation, Value), or HSL (Hue, Saturation, Lightness).
 
 Output:
-Color — the usual color output.
+Color: the usual color output.
 
 The Combine Color node merges four grayscale inputs into a single color based on the chosen color model.
 

@@ -4,7 +4,7 @@
 
 ### BoneCollection(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types.BoneCollection(bpy_struct)
 
 A grouping of bones within an Armature data-block

@@ -70,7 +70,7 @@ type
 
 ### NoiseTexture(Texture) 
 
-base classes — bpy_struct, ID, Texture
+base classes: bpy_struct, ID, Texture
 class bpy.types. NoiseTexture ( Texture ) 
 
 A texture generated procedurally from noise

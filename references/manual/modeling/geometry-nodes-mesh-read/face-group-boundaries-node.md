@@ -10,11 +10,11 @@ Used to mark seams for UV unwrapping, etc.
 
 ### Inputs
 
-Face Group ID — Region identifier. Contiguous faces with matching value = same region.
+Face Group ID: Region identifier. Contiguous faces with matching value = same region.
 
 ### Output
 
-Boundary Edges — Selection of region borders. An edge is a boundary if adjacent to faces with different identifiers.
+Boundary Edges: Selection of region borders. An edge is a boundary if adjacent to faces with different identifiers.
 
 ### Examples
 

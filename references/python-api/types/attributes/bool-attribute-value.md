@@ -56,7 +56,7 @@ type
 
 ### BoolAttributeValue(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BoolAttributeValue ( bpy_struct )
 
 A single boolean entry held inside a geometry attribute.

@@ -4,7 +4,7 @@
 
 ### FileAssetSelectIDFilter(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FileAssetSelectIDFilter ( bpy_struct )
 
 Controls which asset types appear or stay hidden while an asset library is being browsed.

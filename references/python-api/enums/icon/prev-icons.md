@@ -1,4 +1,4 @@
-# Icon Items — prev icons
+# Icon Items - prev icons
 
 | Value | Meaning |
 | --- | --- |

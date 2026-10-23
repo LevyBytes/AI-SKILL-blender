@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeUVAlongStroke(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeUVAlongStroke ( ShaderNode )
 
 Supplies UV coordinates that stretch a texture along the length of a stroke.

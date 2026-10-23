@@ -48,7 +48,7 @@ type
 
 ### BoidRuleGoal(BoidRule)
 
-base classes — bpy_struct, BoidRule
+base classes: bpy_struct, BoidRule
 class bpy.types.BoidRuleGoal(BoidRule)
 
 [Related references](INDEX.md).

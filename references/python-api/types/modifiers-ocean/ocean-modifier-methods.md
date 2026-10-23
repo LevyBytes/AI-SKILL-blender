@@ -4,7 +4,7 @@
 
 ### OceanModifier(Modifier) 
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. OceanModifier ( Modifier ) 
 
 Generate a simulated ocean surface

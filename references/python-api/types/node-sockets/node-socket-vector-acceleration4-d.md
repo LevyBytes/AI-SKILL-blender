@@ -64,7 +64,7 @@ type
 
 ### NodeSocketVectorAcceleration4D(NodeSocketStandard) 
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketVectorAcceleration4D ( NodeSocketStandard ) 
 
 A node socket carrying a three-component vector.

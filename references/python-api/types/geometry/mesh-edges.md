@@ -56,7 +56,7 @@ type
 
 ### MeshEdges(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. MeshEdges ( bpy_prop_collection )
 
 Collection of mesh edges

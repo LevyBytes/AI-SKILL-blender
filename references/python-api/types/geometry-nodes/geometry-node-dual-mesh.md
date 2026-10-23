@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeDualMesh(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeDualMesh ( GeometryNode )
 
 Swap faces for vertices and vertices for faces.

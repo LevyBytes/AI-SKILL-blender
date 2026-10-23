@@ -2,7 +2,7 @@
 
 ## Sampling
 
-Sampling — Antialiasing Control
+Sampling: Antialiasing Control
 
 EEVEE uses Temporal Anti-Aliasing (TAA) to suppress aliasing. Sample count determines aliasing suppression; more samples reduce artifacts at performance cost.
 

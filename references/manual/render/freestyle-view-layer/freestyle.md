@@ -2,7 +2,7 @@
 
 ## Freestyle
 
-Freestyle — View Map Configuration
+Freestyle: View Map Configuration
 
 Reference
 Panel: Properties ‣ View Layer ‣ Freestyle
@@ -20,7 +20,7 @@ Define Line Sets and line styles through a user interface.
 A view map can include multiple Line Sets, each linked to one line style.
 
 Python Scripting Mode:
-Lines render via Python scripting—powerful yet complex.
+Lines render via Python scripting: powerful yet complex.
 
 View Map Cache
 Reuse a previously computed view map for subsequent renders. Auto-updates when mesh geometry changes.

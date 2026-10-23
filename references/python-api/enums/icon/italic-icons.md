@@ -1,4 +1,4 @@
-# Icon Items — italic icons
+# Icon Items - italic icons
 
 | Value | Meaning |
 | --- | --- |

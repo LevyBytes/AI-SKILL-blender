@@ -63,7 +63,7 @@ type
 
 ### LibraryWeakReference(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. LibraryWeakReference ( bpy_struct ) 
 
 A read-only pointer to a linked data-block together with its library file

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeOffsetCornerInFace(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeOffsetCornerInFace ( GeometryNode ) 
 
 Look up other corners that belong to the same face as a given corner.

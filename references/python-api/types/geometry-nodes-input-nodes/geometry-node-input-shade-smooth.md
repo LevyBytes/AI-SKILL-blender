@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputShadeSmooth(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputShadeSmooth ( GeometryNode ) 
 
 Report, per face, whether its normals are set to render smooth or to stay sharp.

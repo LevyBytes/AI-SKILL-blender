@@ -49,7 +49,7 @@ type
 
 ### GeometryNodeCustomGroup(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCustomGroup ( GeometryNode )
 
 A custom geometry group node meant for Python-defined nodes.

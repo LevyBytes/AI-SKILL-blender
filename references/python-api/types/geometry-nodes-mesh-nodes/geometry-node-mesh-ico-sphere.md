@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeMeshIcoSphere(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshIcoSphere ( GeometryNode ) 
 
 Build a spherical mesh made from triangles that are all the same size.

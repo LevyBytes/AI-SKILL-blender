@@ -4,7 +4,7 @@
 
 ### GreasePencilBuildModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilBuildModifier ( Modifier )
 
 Animates strokes as they show up and fade away.

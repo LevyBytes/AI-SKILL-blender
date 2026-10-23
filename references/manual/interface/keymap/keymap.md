@@ -14,7 +14,7 @@ Throughout this manual, hotkeys appear the way they sit on a keyboard. For examp
 | 0 to 9 | The number keys on the row above the letters. |
 | Numpad0 to Numpad9 , NumpadPlus | The keys on the separate numeric keypad. |
 
-Remaining keys go by name — Esc, Tab, and F1 through F12. The arrow keys are written Left, Right, and so on.
+Remaining keys go by name: Esc, Tab, and F1 through F12. The arrow keys are written Left, Right, and so on.
 
 ### Mouse
 Here is how mouse buttons and wheel actions are named:

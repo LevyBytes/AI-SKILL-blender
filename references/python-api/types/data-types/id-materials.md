@@ -74,7 +74,7 @@ type
 
 ### IDMaterials(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. IDMaterials ( bpy_prop_collection )
 
 The list of materials attached to a data-block.

@@ -1,4 +1,4 @@
-# Icon Items — shapekey icons
+# Icon Items - shapekey icons
 
 | Value | Meaning |
 | --- | --- |

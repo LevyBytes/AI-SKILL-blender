@@ -85,7 +85,7 @@ type
 
 ### GeometryNodePointsToSDFGrid(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodePointsToSDFGrid ( GeometryNode )
 
 Turn a set of points into a signed distance volume grid

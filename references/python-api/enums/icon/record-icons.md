@@ -1,4 +1,4 @@
-# Icon Items — record icons
+# Icon Items - record icons
 
 | Value | Meaning |
 | --- | --- |

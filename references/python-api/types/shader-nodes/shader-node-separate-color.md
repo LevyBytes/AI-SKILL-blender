@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeSeparateColor(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeSeparateColor ( ShaderNode )
 
 Breaks a color apart into its separate components, with a choice of color models.

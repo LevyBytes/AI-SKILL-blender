@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexNoise(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexNoise ( ShaderNode )
 
 Builds fractal Perlin noise.

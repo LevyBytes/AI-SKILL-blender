@@ -1,4 +1,4 @@
-# Icon Items — uv icons
+# Icon Items - uv icons
 
 | Value | Meaning |
 | --- | --- |

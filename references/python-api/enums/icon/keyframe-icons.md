@@ -1,4 +1,4 @@
-# Icon Items — keyframe icons
+# Icon Items - keyframe icons
 
 | Value | Meaning |
 | --- | --- |

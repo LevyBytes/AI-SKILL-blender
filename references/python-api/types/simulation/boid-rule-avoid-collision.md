@@ -54,7 +54,7 @@ type
 
 ### BoidRuleAvoidCollision(BoidRule)
 
-base classes — bpy_struct, BoidRule
+base classes: bpy_struct, BoidRule
 class bpy.types.BoidRuleAvoidCollision(BoidRule)
 
 [Related references](INDEX.md).

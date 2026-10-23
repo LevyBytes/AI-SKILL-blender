@@ -2,7 +2,7 @@
 
 ## Volumes
 
-Volumes — Volumetric Effects
+Volumes: Volumetric Effects
 
 Reference
 Panel: Properties ‣ Render ‣ Volumes

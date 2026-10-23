@@ -4,7 +4,7 @@
 
 ### UnitSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. UnitSettings ( bpy_struct )
 length_unit
 

@@ -1,4 +1,4 @@
-# Icon Items — handletype icons
+# Icon Items - handletype icons
 
 | Value | Meaning |
 | --- | --- |

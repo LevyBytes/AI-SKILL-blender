@@ -49,7 +49,7 @@ type
 
 ### MovieClipScopes(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieClipScopes ( bpy_struct )
 
 Scope displays for inspecting a movie clip statistically

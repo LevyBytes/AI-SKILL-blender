@@ -1,4 +1,4 @@
-# Icon Items — light icons
+# Icon Items - light icons
 
 | Value | Meaning |
 | --- | --- |

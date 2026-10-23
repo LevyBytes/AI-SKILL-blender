@@ -73,7 +73,7 @@ type
 
 ### NodeTreeInterfaceSocketGeometry(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketGeometry ( NodeTreeInterfaceSocket )
 
 A node socket that carries geometry

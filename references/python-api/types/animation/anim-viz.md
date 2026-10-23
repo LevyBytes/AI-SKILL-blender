@@ -56,7 +56,7 @@ type
 
 Settings controlling display of moving objects.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AnimViz ( bpy_struct )
 
 Settings for movement visualization.

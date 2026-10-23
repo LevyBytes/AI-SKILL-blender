@@ -4,7 +4,7 @@
 
 ### FloatProperty(Property)
 
-base classes — bpy_struct, Property
+base classes: bpy_struct, Property
 class bpy.types. FloatProperty ( Property )
 
 Definition of an RNA property holding a single-precision floating-point number.

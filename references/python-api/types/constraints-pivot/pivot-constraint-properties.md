@@ -4,7 +4,7 @@
 
 ### PivotConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. PivotConstraint ( Constraint )
 
 Pivots the rotation about an alternate point

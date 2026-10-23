@@ -83,7 +83,7 @@ type
 
 ### NodeMenuSwitchItems(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodeMenuSwitchItems ( bpy_prop_collection )
 
 A set of the entries that form an enum.

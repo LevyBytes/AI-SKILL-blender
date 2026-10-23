@@ -1,4 +1,4 @@
-# Icon Items — wpaint icons
+# Icon Items - wpaint icons
 
 | Value | Meaning |
 | --- | --- |

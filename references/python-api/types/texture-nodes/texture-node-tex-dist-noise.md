@@ -85,7 +85,7 @@ type
 
 ### TextureNodeTexDistNoise(TextureNode)
 
-base classes — bpy_struct, Node, NodeInternal, TextureNode
+base classes: bpy_struct, Node, NodeInternal, TextureNode
 class bpy.types. TextureNodeTexDistNoise ( TextureNode )
 
 [Related references](INDEX.md).

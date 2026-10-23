@@ -1,4 +1,4 @@
-# Icon Items — nocurve icons
+# Icon Items - nocurve icons
 
 | Value | Meaning |
 | --- | --- |

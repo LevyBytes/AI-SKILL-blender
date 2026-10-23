@@ -4,7 +4,7 @@
 
 ### LineStyleColorModifier_DistanceFromObject(LineStyleColorModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleColorModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleColorModifier
 class bpy.types. LineStyleColorModifier_DistanceFromObject ( LineStyleColorModifier ) 
 
 Varies line color according to how far the geometry sits from an object

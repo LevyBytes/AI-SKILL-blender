@@ -15,7 +15,7 @@ This node or modifier only works with valid Surface geometry or object inputs pl
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in, holding the guide curves to interpolate.
+Geometry: the hair-curve geometry fed in, holding the guide curves to interpolate.
 
 Surface Input Type
 Picks how surface data is supplied for interpolation.

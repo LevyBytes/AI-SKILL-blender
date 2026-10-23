@@ -71,7 +71,7 @@ type
 
 ### ColorRampElements(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. ColorRampElements ( bpy_prop_collection )
 
 A group holding the Color Ramp Elements

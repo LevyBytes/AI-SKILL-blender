@@ -12,7 +12,7 @@ The download may take a few minutes by connection speed. (With a graphical Git c
 ```text
 https://projects.blender.org/blender/blender-manual.git
 ```
-Setting up the build environment — open a Terminal, enter the blender-manual folder git clone just made, and install dependencies:
+Setting up the build environment: open a Terminal, enter the blender-manual folder git clone just made, and install dependencies:
 ```console
 cd C:\blender-manual
 make setup

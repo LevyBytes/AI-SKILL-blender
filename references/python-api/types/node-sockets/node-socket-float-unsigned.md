@@ -64,7 +64,7 @@ type
 
 ### NodeSocketFloatUnsigned(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketFloatUnsigned ( NodeSocketStandard )
 
 A node socket carrying a floating-point value.

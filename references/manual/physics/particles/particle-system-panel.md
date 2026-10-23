@@ -89,7 +89,7 @@ Each system maintains separate settings. Systems can share settings, avoiding ma
 Particle System Types. 
 
 After initialization, the Properties panel fills with numerous controls.
-Don't panic—two distinct particle system types exist, selectable via Type: Emitter and Hair.
+Don't panic: two distinct particle system types exist, selectable via Type: Emitter and Hair.
 
 Particle System tab settings vary partially by system type.
 

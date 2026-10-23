@@ -2,7 +2,7 @@
 
 ## Raytracing
 
-Raytracing — Indirect Surface Detail
+Raytracing: Indirect Surface Detail
 
 Reference
 Panel: Render ‣ Raytracing

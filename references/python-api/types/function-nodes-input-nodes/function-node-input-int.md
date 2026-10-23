@@ -92,7 +92,7 @@ type
 
 ### FunctionNodeInputInt(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeInputInt ( FunctionNode ) 
 
 Supply an integer value that downstream nodes in the tree can read

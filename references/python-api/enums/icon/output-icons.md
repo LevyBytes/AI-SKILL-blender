@@ -1,4 +1,4 @@
-# Icon Items — output icons
+# Icon Items - output icons
 
 | Value | Meaning |
 | --- | --- |

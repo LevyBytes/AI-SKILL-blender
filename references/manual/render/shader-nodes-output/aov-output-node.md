@@ -10,12 +10,12 @@ Tip: Use AOV Output in Material and World shader nodes.
 
 ### Inputs
 
-- **Color** — Output a color variable (also works for normal values).
-- **Value** — Output a single numerical value.
+- **Color**: Output a color variable (also works for normal values).
+- **Value**: Output a single numerical value.
 
 ### Properties
 
-**Name** — Name of the render pass. Must match a pass name in the Shader AOV panel.
+**Name**: Name of the render pass. Must match a pass name in the Shader AOV panel.
 
 ### Outputs
 

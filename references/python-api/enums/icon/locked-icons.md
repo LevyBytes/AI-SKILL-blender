@@ -1,4 +1,4 @@
-# Icon Items — locked icons
+# Icon Items - locked icons
 
 | Value | Meaning |
 | --- | --- |

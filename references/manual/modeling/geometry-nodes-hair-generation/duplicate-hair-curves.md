@@ -9,7 +9,7 @@ Duplicate Hair Curves spins up extra copies of existing strands, scattering them
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in, holding the originals to duplicate.
+Geometry: the hair-curve geometry fed in, holding the originals to duplicate.
 
 Amount
 How many duplicates each original strand spawns. Higher values raise density.

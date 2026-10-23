@@ -1,4 +1,4 @@
-# Icon Items — scene icons
+# Icon Items - scene icons
 
 | Value | Meaning |
 | --- | --- |

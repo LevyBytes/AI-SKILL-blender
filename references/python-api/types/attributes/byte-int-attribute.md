@@ -56,7 +56,7 @@ type
 
 ### ByteIntAttribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. ByteIntAttribute ( Attribute )
 
 Geometry attribute that holds 8-bit signed integers

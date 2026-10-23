@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeAttributeDomainSize(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeAttributeDomainSize ( GeometryNode )
 
 Reports, per attribute domain, how many elements a geometry holds.

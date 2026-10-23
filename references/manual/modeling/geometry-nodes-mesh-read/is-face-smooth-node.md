@@ -12,6 +12,6 @@ None.
 
 ### Outputs
 
-Smooth — Boolean per face. Indicates per-corner-normal averaging with adjacent faces.
+Smooth: Boolean per face. Indicates per-corner-normal averaging with adjacent faces.
 
 [Related references](INDEX.md).

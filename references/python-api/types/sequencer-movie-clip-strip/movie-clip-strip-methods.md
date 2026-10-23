@@ -4,7 +4,7 @@
 
 ### MovieClipStrip(Strip)
 
-base classes — bpy_struct, Strip
+base classes: bpy_struct, Strip
 class bpy.types. MovieClipStrip ( Strip )
 
 Sequencer strip that pulls a video in from the clip editor

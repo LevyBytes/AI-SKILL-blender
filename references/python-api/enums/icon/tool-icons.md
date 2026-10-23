@@ -1,4 +1,4 @@
-# Icon Items — tool icons
+# Icon Items - tool icons
 
 | Value | Meaning |
 | --- | --- |

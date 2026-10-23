@@ -44,7 +44,7 @@ type
 
 ### `IO_FH`_gltf2(FileHandler)
 
-base classes — bpy_struct, FileHandler
+base classes: bpy_struct, FileHandler
 
 class bpy.types. `IO_FH`_gltf2 ( FileHandler )
 

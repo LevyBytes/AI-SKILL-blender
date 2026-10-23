@@ -4,7 +4,7 @@
 
 ### LightProbeVolume(LightProbe) 
 
-base classes — bpy_struct, ID, LightProbe
+base classes: bpy_struct, ID, LightProbe
 class bpy.types. LightProbeVolume ( LightProbe ) 
 
 Light probe that captures low frequency lighting inside a volume

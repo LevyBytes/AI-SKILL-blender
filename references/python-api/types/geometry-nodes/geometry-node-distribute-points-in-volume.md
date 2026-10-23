@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeDistributePointsInVolume(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeDistributePointsInVolume ( GeometryNode )
 
 Place points throughout a volume.

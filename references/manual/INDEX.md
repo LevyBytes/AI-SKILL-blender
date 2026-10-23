@@ -23,5 +23,4 @@
 - Open when diagnosing Blender failures or recovering work. [Troubleshooting](troubleshooting/INDEX.md).
 - Open when checking Blender-specific terms. [Terminology](glossary/INDEX.md).
 - Open when working on the Blender manual itself. [Manual contribution](contribute/INDEX.md).
-- Open when checking the source manual licensing terms. [Manual licensing](license.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

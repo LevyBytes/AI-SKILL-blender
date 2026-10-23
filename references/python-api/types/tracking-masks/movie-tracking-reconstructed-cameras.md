@@ -79,7 +79,7 @@ type
 
 ### MovieTrackingReconstructedCameras(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. MovieTrackingReconstructedCameras ( bpy_prop_collection )
 
 Set of solved cameras

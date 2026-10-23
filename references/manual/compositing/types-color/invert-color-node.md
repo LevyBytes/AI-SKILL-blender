@@ -7,11 +7,11 @@ The Invert Color node inverts the input image's colors to produce a negative. In
 Flips the input image's colors to produce a negative.
 
 Inputs:
-Color — the usual color input.
+Color: the usual color input.
 
-Properties — this node exposes no properties.
+Properties: this node exposes no properties.
 
 Outputs:
-Color — the usual color output.
+Color: the usual color output.
 
 [Related references](INDEX.md).

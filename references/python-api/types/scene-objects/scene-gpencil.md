@@ -77,7 +77,7 @@ type
 
 ### SceneGpencil(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SceneGpencil ( bpy_struct )
 
 Render settings

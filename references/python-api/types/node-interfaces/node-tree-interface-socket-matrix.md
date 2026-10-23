@@ -73,7 +73,7 @@ type
 
 ### NodeTreeInterfaceSocketMatrix(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketMatrix ( NodeTreeInterfaceSocket )
 
 A node socket that carries a matrix value

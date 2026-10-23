@@ -58,7 +58,7 @@ the typical case: for that, drop the 3D Cursor at the world origin and switch to
 side view.
 
 You're set to run it now: open the Edge menu — click it in the 3D Viewport header or press
-Ctrl - E — and pick Screw .
+Ctrl - E: and pick Screw .
 
 The step and turn counts can be changed afterward in the Adjust Last Operation panel.
 

@@ -4,7 +4,7 @@
 
 ### XrActionMapItems(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. XrActionMapItems ( bpy_prop_collection ) 
 
 A grouping of XR action map items

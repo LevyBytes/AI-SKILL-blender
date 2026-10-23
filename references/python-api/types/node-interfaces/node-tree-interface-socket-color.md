@@ -80,7 +80,7 @@ type
 
 ### NodeTreeInterfaceSocketColor(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketColor ( NodeTreeInterfaceSocket ) 
 
 A node socket carrying an RGBA color.

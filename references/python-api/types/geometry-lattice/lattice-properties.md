@@ -4,7 +4,7 @@
 
 ### Lattice(ID) 
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Lattice ( ID ) 
 
 Lattice data-block defining a grid for deforming other objects

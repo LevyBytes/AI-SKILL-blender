@@ -10,7 +10,7 @@ EEVEE rests on rasterization rather than path tracing. Instead of computing ever
 
 EEVEE final render – "Temple" by Dominik Graf.
 
-Introduction — Freestyle NPR Engine
+Introduction: Freestyle NPR Engine
 
 Freestyle is an edge/line-based non-photorealistic (NPR) rendering system. It leverages mesh data and Z-depth to draw lines on chosen edge types. Varied line styling produces artistic (hand-drawn, painted, etc.) or technical (hard-line) visuals.
 

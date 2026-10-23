@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexGradient(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexGradient ( ShaderNode )
 
 Outputs blended color and intensity values derived from the incoming vector.

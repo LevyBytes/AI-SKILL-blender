@@ -73,7 +73,7 @@ type
 
 ### MovieTrackingObjectTracks(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. MovieTrackingObjectTracks ( bpy_prop_collection )
 
 Set of movie-tracking tracks

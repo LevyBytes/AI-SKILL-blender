@@ -51,7 +51,7 @@ type
 
 ### SimulationZoneViewerPathElem(ViewerPathElem)
 
-base classes — bpy_struct, ViewerPathElem
+base classes: bpy_struct, ViewerPathElem
 class bpy.types. SimulationZoneViewerPathElem ( ViewerPathElem )
 
 [Related references](INDEX.md).

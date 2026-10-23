@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeParticleInfo(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeParticleInfo ( ShaderNode )
 
 Pulls in the data of the particle that produced this object instance — handy for varying many instances of the same object.

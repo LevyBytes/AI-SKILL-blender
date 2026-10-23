@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeTonemap(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeTonemap ( CompositorNode )
 
 Remaps one palette of colors onto another so the look approximates high dynamic range.

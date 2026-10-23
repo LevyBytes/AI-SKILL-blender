@@ -4,7 +4,7 @@
 
 ### GreasePencilWeightProximityModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilWeightProximityModifier ( Modifier )
 
 Computes vertex weights on the fly from distance to a reference.

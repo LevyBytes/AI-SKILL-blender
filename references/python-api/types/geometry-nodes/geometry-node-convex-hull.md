@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeConvexHull(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeConvexHull ( GeometryNode )
 
 Build a mesh that wraps every point of the incoming geometry using as few points as possible.

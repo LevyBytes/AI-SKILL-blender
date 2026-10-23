@@ -56,7 +56,7 @@ type
 
 ### BrushCapabilitiesWeightPaint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BrushCapabilitiesWeightPaint ( bpy_struct )
 
 Read-only flags reporting which weight-paint operations are available.

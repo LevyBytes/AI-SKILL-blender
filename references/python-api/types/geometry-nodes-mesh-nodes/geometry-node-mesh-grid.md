@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeMeshGrid(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshGrid ( GeometryNode ) 
 
 Build a flat mesh lying on the XY plane.

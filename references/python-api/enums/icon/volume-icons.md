@@ -1,4 +1,4 @@
-# Icon Items — volume icons
+# Icon Items - volume icons
 
 | Value | Meaning |
 | --- | --- |

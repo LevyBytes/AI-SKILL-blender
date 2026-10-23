@@ -4,7 +4,7 @@
 
 ### NodeClosureOutput(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeClosureOutput ( NodeInternal )
 active_input_index
 

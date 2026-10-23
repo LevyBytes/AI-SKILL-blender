@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeProjectPoint(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeProjectPoint ( FunctionNode )
 
 Sends a point through a matrix, accounting for location, rotation, scale, and the perspective divide.

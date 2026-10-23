@@ -4,7 +4,7 @@
 
 ### StudioLight(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. StudioLight ( bpy_struct )
 
 A studio light.

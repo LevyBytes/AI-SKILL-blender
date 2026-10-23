@@ -12,8 +12,8 @@ Selected from the Mode menu in the 3D Viewport header. Once engaged, the Toolbar
 
 **Vertex Paint Options.**
 
-Selection Mask — gates painting operations to picked points or strokes. Deploy Toolbar selection tools for rapid selection; gate painting to picked elements via the Selection mode toggle (switch with 1, 2, or 3).
+Selection Mask: gates painting operations to picked points or strokes. Deploy Toolbar selection tools for rapid selection; gate painting to picked elements via the Selection mode toggle (switch with 1, 2, or 3).
 
-Multiframe — sometimes concurrent modification across frames is required. Engage the Multiframe control next to the modes selector (faded lines icon); consult Multiframe for specifics.
+Multiframe: sometimes concurrent modification across frames is required. Engage the Multiframe control next to the modes selector (faded lines icon); consult Multiframe for specifics.
 
 [Related references](INDEX.md).

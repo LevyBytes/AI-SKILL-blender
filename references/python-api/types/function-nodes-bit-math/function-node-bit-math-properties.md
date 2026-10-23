@@ -4,7 +4,7 @@
 
 ### FunctionNodeBitMath(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeBitMath ( FunctionNode ) 
 
 Apply bitwise operations to 32-bit integers

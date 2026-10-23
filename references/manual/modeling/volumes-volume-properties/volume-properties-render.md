@@ -21,11 +21,11 @@ How precise the volume data is. Drop this down to use less memory, at the price 
 
 Full :
 
-Full float — every value stored at 32 bit.
+Full float: every value stored at 32 bit.
 
 Half :
 
-Half float — every value stored at 16 bit.
+Half float: every value stored at 16 bit.
 
 Variable :
 

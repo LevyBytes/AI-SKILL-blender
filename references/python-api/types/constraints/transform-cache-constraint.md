@@ -56,7 +56,7 @@ type
 
 ### TransformCacheConstraint(Constraint) 
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. TransformCacheConstraint ( Constraint ) 
 
 Reads a transform out of an external file.

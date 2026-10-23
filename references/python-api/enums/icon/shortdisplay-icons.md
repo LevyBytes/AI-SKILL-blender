@@ -1,4 +1,4 @@
-# Icon Items — shortdisplay icons
+# Icon Items - shortdisplay icons
 
 | Value | Meaning |
 | --- | --- |

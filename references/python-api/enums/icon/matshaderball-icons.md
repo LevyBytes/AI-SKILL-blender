@@ -1,4 +1,4 @@
-# Icon Items — matshaderball icons
+# Icon Items - matshaderball icons
 
 | Value | Meaning |
 | --- | --- |

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeImportVDB(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeImportVDB ( GeometryNode )
 
 Bring in volume data stored in a .vdb file.

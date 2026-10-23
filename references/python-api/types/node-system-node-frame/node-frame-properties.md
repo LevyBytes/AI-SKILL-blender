@@ -4,7 +4,7 @@
 
 ### NodeFrame(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeFrame ( NodeInternal )
 
 Group related nodes inside a shared region. Handy for tidiness when you do not need a node group's reusability.

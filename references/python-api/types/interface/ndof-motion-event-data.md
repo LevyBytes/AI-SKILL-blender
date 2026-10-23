@@ -77,7 +77,7 @@ type
 
 ### NDOFMotionEventData(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. NDOFMotionEventData ( bpy_struct )
 
 Motion information from an NDOF device carried on window manager events.

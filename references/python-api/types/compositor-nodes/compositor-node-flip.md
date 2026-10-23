@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeFlip(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeFlip ( CompositorNode )
 
 Mirrors an image across a selected axis.

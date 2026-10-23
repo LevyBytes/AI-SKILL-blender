@@ -1,4 +1,4 @@
-# Icon Items — boids icons
+# Icon Items - boids icons
 
 | Value | Meaning |
 | --- | --- |

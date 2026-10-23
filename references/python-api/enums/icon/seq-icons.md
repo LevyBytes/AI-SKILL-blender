@@ -1,4 +1,4 @@
-# Icon Items — seq icons
+# Icon Items - seq icons
 
 | Value | Meaning |
 | --- | --- |

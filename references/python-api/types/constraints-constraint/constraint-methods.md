@@ -4,7 +4,7 @@
 
 ### Constraint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 ActionConstraint, ArmatureConstraint, CameraSolverConstraint, ChildOfConstraint, ClampToConstraint, CopyLocationConstraint, CopyRotationConstraint, CopyScaleConstraint, CopyTransformsConstraint, DampedTrackConstraint, FloorConstraint, FollowPathConstraint, FollowTrackConstraint, GeometryAttributeConstraint, KinematicConstraint, LimitDistanceConstraint, LimitLocationConstraint, LimitRotationConstraint, LimitScaleConstraint, LockedTrackConstraint, MaintainVolumeConstraint, ObjectSolverConstraint, PivotConstraint, ShrinkwrapConstraint, SplineIKConstraint, StretchToConstraint, TrackToConstraint, TransformCacheConstraint, TransformConstraint

@@ -4,7 +4,7 @@
 
 ### SplinePoint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SplinePoint ( bpy_struct )
 
 A spline point that carries no handles

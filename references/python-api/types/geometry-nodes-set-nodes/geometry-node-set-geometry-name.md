@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetGeometryName(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetGeometryName ( GeometryNode ) 
 
 Labels a geometry with a name to make debugging easier.

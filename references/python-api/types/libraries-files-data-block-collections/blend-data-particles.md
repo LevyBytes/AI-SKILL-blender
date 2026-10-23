@@ -68,7 +68,7 @@ type
 
 ### BlendDataParticles(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataParticles(bpy_prop_collection)
 
 Manages a collection of particle system configurations within the database.

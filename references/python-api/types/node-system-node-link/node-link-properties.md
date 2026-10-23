@@ -4,7 +4,7 @@
 
 ### NodeLink(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. NodeLink ( bpy_struct )
 
 A connection joining two nodes inside a node tree

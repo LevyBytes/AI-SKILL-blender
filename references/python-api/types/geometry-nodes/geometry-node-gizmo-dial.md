@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGizmoDial(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGizmoDial ( GeometryNode ) 
 
 Display a dial gizmo over a value in the viewport

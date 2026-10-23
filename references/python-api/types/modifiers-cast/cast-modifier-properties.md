@@ -4,7 +4,7 @@
 
 ### CastModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. CastModifier ( Modifier )
 
 Modifier that distorts mesh into other geometries

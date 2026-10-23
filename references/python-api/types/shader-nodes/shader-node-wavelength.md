@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeWavelength(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeWavelength ( ShaderNode )
 
 Maps a wavelength figure onto a matching RGB color.

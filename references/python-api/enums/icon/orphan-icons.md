@@ -1,4 +1,4 @@
-# Icon Items — orphan icons
+# Icon Items - orphan icons
 
 | Value | Meaning |
 | --- | --- |

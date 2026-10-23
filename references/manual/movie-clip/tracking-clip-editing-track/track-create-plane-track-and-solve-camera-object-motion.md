@@ -11,7 +11,7 @@ The operator generates a plane object deforming identically to the plane defined
 
 Minimum requirement: four point tracks spanning the entire footage for the plane to be replaced. More tracks yield superior plane motion estimation.
 
-Feature points need not be corners—they can lie anywhere on the plane. Corners are often occluded or difficult to track precisely. Positioning tracked features distant from the actual surface to be replaced supplies richer information about plane deformation; such markers track even when partially obscured.
+Feature points need not be corners: they can lie anywhere on the plane. Corners are often occluded or difficult to track precisely. Positioning tracked features distant from the actual surface to be replaced supplies richer information about plane deformation; such markers track even when partially obscured.
 
 Overlapping neighbor frames must share at least four common tracks.
 

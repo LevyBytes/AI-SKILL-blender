@@ -4,7 +4,7 @@
 
 ### FunctionNodeAxesToRotation(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeAxesToRotation ( FunctionNode ) 
 
 Derive a rotation from a main axis plus a second axis that is ideally perpendicular

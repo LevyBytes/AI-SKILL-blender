@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorFactor(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorFactor ( NodeTreeInterfaceSocket ) 
 
 A node socket that transports a 3D vector

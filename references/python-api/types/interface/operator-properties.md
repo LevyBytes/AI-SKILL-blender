@@ -64,7 +64,7 @@ type
 
 ### OperatorProperties(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. OperatorProperties ( bpy_struct ) 
 
 The input properties belonging to an operator

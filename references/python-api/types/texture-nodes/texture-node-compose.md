@@ -85,7 +85,7 @@ type
 
 ### TextureNodeCompose(TextureNode)
 
-base classes — bpy_struct, Node, NodeInternal, TextureNode
+base classes: bpy_struct, Node, NodeInternal, TextureNode
 class bpy.types. TextureNodeCompose ( TextureNode )
 
 [Related references](INDEX.md).

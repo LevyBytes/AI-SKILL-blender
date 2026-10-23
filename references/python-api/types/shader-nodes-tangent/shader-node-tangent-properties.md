@@ -4,7 +4,7 @@
 
 ### ShaderNodeTangent(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTangent ( ShaderNode )
 
 Produces a tangent vector for use with the Anisotropic BSDF.

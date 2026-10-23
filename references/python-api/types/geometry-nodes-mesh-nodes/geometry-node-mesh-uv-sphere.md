@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeMeshUVSphere(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshUVSphere ( GeometryNode ) 
 
 Build a spherical mesh from quad faces, capped by triangles at the poles.

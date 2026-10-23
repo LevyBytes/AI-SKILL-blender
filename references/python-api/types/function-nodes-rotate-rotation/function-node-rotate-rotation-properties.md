@@ -4,7 +4,7 @@
 
 ### FunctionNodeRotateRotation(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeRotateRotation ( FunctionNode )
 
 Layers an extra rotation onto a rotation value already supplied.

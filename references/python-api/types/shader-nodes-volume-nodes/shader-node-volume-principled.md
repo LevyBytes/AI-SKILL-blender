@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeVolumePrincipled(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeVolumePrincipled ( ShaderNode )
 
 Rolls every volume-shading component into one convenient node.

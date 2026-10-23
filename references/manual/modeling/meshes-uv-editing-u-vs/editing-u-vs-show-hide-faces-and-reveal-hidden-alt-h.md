@@ -1,15 +1,15 @@
-# Editing UVs: Show/Hide Faces, Reveal Hidden — Alt - H
+# Editing UVs: Show/Hide Faces, Reveal Hidden - Alt - H
 
 Show/Hide Faces
 
 Mode: Edit Mode
 Menu: UV ‣ Show/Hide Faces
 
-Reveal Hidden — Alt - H
+Reveal Hidden: Alt - H
 
-Hide Selected — H
+Hide Selected: H
 
-Hide Unselected — Shift - H
+Hide Unselected: Shift - H
 
 Export UV Layout
 
@@ -42,11 +42,11 @@ During UV transforms, Round to Pixels helps match features in the image and ensu
 
 Note: Round to Pixels applies after any snapping modes.
 
-Disabled — UVs don't round.
+Disabled: UVs don't round.
 
-Corner — UVs round to the nearest pixel corner.
+Corner: UVs round to the nearest pixel corner.
 
-Center — UVs round to the nearest pixel center.
+Center: UVs round to the nearest pixel center.
 
 Constraining to Image Bounds
 

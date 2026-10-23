@@ -73,7 +73,7 @@ type
 
 ### NodeTreeInterfaceSocketShader(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketShader ( NodeTreeInterfaceSocket )
 
 A node socket that carries a shader

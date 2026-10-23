@@ -32,7 +32,7 @@ light_object.select_set(True)
 view_layer.objects.active = light_object
 ```
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 
 - WORLD
 World Space – Blender's outermost, most global space.

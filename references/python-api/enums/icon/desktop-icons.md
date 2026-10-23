@@ -1,4 +1,4 @@
-# Icon Items — desktop icons
+# Icon Items - desktop icons
 
 | Value | Meaning |
 | --- | --- |

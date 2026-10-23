@@ -4,7 +4,7 @@
 
 ### CompositorNodeSeparateColor(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeSeparateColor ( CompositorNode )
 
 Breaks an image apart into the separate channels that make up its color.

@@ -85,7 +85,7 @@ type
 
 ### RenderViews(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. RenderViews ( bpy_prop_collection )
 
 Collection of render views

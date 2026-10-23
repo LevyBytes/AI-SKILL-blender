@@ -44,7 +44,7 @@ type
 
 ### NodeInstanceHash(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. NodeInstanceHash ( bpy_struct )
 
 Hash map storing per-node-instance data.

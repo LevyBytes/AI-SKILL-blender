@@ -1,4 +1,4 @@
-# Video strips: Apply — Scale to Fit
+# Video strips: Apply - Scale to Fit
 
 #### Scale to Fit
 

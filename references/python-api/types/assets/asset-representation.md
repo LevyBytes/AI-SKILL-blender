@@ -91,7 +91,7 @@ type
 
 A reference to an asset within the system.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AssetRepresentation ( bpy_struct )
 
 Public interface to asset system information.

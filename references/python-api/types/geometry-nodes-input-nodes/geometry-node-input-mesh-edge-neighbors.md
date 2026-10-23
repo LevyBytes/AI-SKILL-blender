@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputMeshEdgeNeighbors(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputMeshEdgeNeighbors ( GeometryNode )
 
 Read out how many faces include a given edge among their sides.

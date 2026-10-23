@@ -1,4 +1,4 @@
-# Icon Items — eyedropper icons
+# Icon Items - eyedropper icons
 
 | Value | Meaning |
 | --- | --- |

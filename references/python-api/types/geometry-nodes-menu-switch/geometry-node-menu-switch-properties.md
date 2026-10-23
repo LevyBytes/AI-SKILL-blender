@@ -4,7 +4,7 @@
 
 ### GeometryNodeMenuSwitch(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMenuSwitch ( GeometryNode ) 
 
 Pick among several inputs by referencing their names.

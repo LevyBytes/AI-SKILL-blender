@@ -1,4 +1,4 @@
-# Icon Items — lattice icons
+# Icon Items - lattice icons
 
 | Value | Meaning |
 | --- | --- |

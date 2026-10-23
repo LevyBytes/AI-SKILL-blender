@@ -64,7 +64,7 @@ type
 
 ### NodeSocketRotation(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketRotation ( NodeSocketStandard )
 
 A node socket carrying a rotation value.

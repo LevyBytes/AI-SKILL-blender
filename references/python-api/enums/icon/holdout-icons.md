@@ -1,4 +1,4 @@
-# Icon Items — holdout icons
+# Icon Items - holdout icons
 
 | Value | Meaning |
 | --- | --- |

@@ -4,7 +4,7 @@
 
 ### PointLight(Light)
 
-base classes — bpy_struct, ID, Light
+base classes: bpy_struct, ID, Light
 class bpy.types. PointLight ( Light )
 
 A point Light that radiates in every direction.

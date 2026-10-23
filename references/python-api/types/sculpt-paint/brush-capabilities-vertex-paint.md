@@ -56,7 +56,7 @@ type
 
 ### BrushCapabilitiesVertexPaint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BrushCapabilitiesVertexPaint ( bpy_struct )
 
 Read-only flags reporting which vertex-paint operations are available.

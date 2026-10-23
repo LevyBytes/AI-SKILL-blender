@@ -4,7 +4,7 @@
 
 ### CompositorNodeCryptomatteV2(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeCryptomatteV2 ( CompositorNode )
 
 Builds per-object and per-material mattes by reading Cryptomatte render passes.

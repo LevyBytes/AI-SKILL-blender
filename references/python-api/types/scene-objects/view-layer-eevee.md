@@ -77,7 +77,7 @@ type
 
 ### ViewLayerEEVEE(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ViewLayerEEVEE ( bpy_struct )
 
 View Layer settings for EEVEE

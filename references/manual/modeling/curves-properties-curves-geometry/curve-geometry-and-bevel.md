@@ -39,7 +39,7 @@ Picture the Taper Object as a profile graph: how far along the curve you sit is 
 
 - Arrange them so the earliest taper point carries the largest X value and the final one the smallest
 (if the scaling looks inverted, apply Switch Direction).
-The absolute X span is irrelevant—[-10, 10], [-1, 1], or anything else behaves identically.
+The absolute X span is irrelevant: [-10, 10], [-1, 1], or anything else behaves identically.
 
 - Where Y sits at 1.0 the geometry stays as-is; 0.5 shrinks it by half,
 whereas 2.0 enlarges it twofold.

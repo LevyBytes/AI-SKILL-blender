@@ -4,7 +4,7 @@
 
 ### DriverTarget(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. DriverTarget ( bpy_struct )
 
 Where a driver variable draws its input values from

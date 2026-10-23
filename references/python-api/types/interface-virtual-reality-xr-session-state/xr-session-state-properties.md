@@ -4,7 +4,7 @@
 
 ### XrSessionState(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. XrSessionState ( bpy_struct ) 
 
 Live state details for the current VR session

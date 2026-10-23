@@ -4,7 +4,7 @@
 
 ### MaskLayer(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MaskLayer ( bpy_struct )
 
 One mask layer that controls which pixels are masked.

@@ -16,7 +16,7 @@ those types stay animatable, reachable from the user interface, and reachable fr
 Note
 
 While the values placed on Blender data persist to disk, the class
-definitions do not — so each time Blender starts the class must be
+definitions do not: so each time Blender starts the class must be
 registered once more.
 
 The recommended approach is an add-on that runs at startup and registers
@@ -45,7 +45,7 @@ bpy.types.Object.my_prop_grp = bpy.props.PointerProperty(type=MyPropertyGroup)
 bpy.data.objects[0].my_prop_grp.custom_1 = 22.0
 ```
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 OperatorFileListElement, OperatorMousePath, OperatorStrokeElement, SelectedUvElement

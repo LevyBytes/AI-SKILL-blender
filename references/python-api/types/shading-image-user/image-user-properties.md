@@ -4,7 +4,7 @@
 
 ### ImageUser(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ImageUser ( bpy_struct )
 
 Settings describing how one data-block draws on an Image data-block.

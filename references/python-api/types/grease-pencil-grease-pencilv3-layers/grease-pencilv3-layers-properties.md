@@ -4,7 +4,7 @@
 
 ### GreasePencilv3Layers(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. GreasePencilv3Layers ( bpy_prop_collection )
 
 A set of Grease Pencil layers held by a data-block.

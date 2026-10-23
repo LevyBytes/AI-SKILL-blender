@@ -4,7 +4,7 @@
 
 ### Space(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 SpaceClipEditor, SpaceConsole, SpaceDopeSheetEditor, SpaceFileBrowser, SpaceGraphEditor, SpaceImageEditor, SpaceInfo, SpaceNLA, SpaceNodeEditor, SpaceOutliner, SpacePreferences, SpaceProperties, SpaceSequenceEditor, SpaceSpreadsheet, SpaceTextEditor, SpaceView3D

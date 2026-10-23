@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSampleNearestSurface(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSampleNearestSurface ( GeometryNode )
 
 Work out the interpolated value a mesh attribute takes at the surface point closest to the input

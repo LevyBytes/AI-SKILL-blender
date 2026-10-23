@@ -7,7 +7,7 @@ Collection of materials
 
 Registry of polygon geometry objects.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 new ( name ) 
 
 Create a material in the database

@@ -4,7 +4,7 @@
 
 ### GreasePencilWeightAngleModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilWeightAngleModifier ( Modifier )
 
 Computes vertex weights on the fly from stroke orientation.

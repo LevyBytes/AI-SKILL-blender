@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputMeshFaceIsPlanar(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputMeshFaceIsPlanar ( GeometryNode )
 
 Read out whether every triangle in a face shares one plane — that is, whether they all carry the same normal.

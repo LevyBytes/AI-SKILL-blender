@@ -87,7 +87,7 @@ type
 
 ### UVLoopLayers(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. UVLoopLayers ( bpy_prop_collection ) 
 
 A grouping that holds the UV map layers

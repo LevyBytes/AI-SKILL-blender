@@ -72,7 +72,7 @@ The spring is ready to build:
 | --- | --- |
 | Counterclockwise direction.  | Flipped to Clockwise direction.  |
 
-A diagonal Axis yields curious shapes — for instance, hold Axis Z at -1 and set Axis X to 1.
+A diagonal Axis yields curious shapes: for instance, hold Axis Z at -1 and set Axis X to 1.
 Each loop then tilts 45°, yet the loops still march straight down the guide line's direction
 from one to the next.
 

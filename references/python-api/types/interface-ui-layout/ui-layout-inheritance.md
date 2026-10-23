@@ -2,7 +2,7 @@
 
 ### UILayout(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. UILayout ( bpy_struct ) 
 
 Layout for the user interface within a panel or header.

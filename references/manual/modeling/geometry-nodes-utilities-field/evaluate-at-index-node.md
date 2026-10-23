@@ -7,7 +7,7 @@
 Access geometry element data by index; similar to Sample Index.
 Differs: uses field context geometry (no geometry input).
 
-Also similar to Evaluate on Domain—but specifies retrieval by index instead of auto domain interpolation.
+Also similar to Evaluate on Domain: but specifies retrieval by index instead of auto domain interpolation.
 
 ### Inputs
 

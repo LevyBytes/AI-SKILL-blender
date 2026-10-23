@@ -4,7 +4,7 @@
 
 ### GeometryNodeListGetItem(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeListGetItem ( GeometryNode ) 
 
 Pull a single value out of a list.

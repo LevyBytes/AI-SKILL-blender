@@ -1,4 +1,4 @@
-# Icon Items — meta icons
+# Icon Items - meta icons
 
 | Value | Meaning |
 | --- | --- |

@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeRaycast(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeRaycast ( GeometryNode )
 
 Fire rays from the context geometry at a target geometry and read back data from where each ray lands

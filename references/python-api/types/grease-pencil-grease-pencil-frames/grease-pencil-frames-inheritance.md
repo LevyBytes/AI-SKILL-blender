@@ -4,7 +4,7 @@
 
 ### GreasePencilFrames(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. GreasePencilFrames ( bpy_prop_collection )
 
 Collection of Grease Pencil frames

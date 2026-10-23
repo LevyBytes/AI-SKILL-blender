@@ -46,7 +46,7 @@ type
 
 ### `CURVES_UL`_attributes(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `CURVES_UL`_attributes ( UIList )
 

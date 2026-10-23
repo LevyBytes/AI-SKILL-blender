@@ -1,8 +1,8 @@
-# bpy.types.ShaderNodeOutputAOV — ShaderNodeOutputAOV(ShaderNode)
+# bpy.types.ShaderNodeOutputAOV - ShaderNodeOutputAOV(ShaderNode)
 
 ### ShaderNodeOutputAOV(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeOutputAOV ( ShaderNode )
 
 Arbitrary Output Variables.

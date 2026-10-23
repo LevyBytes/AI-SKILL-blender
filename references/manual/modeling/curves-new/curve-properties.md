@@ -6,7 +6,7 @@ Hair Curves exhibit distinct properties in comparison to standard Curve objects,
 
 The Attributes panel holds diverse characteristics specific to hair, including strand placement and coloration. You can leverage the List View for attribute administration. For more details, consult the Attribute Reference documentation.
 
-Hair requires an optional attachment surface—a mesh that anchors the curves and acts as a scalp for grooming operations. When you create a Curves object from the Add Menu, the selected object is automatically applied as the surface.
+Hair requires an optional attachment surface: a mesh that anchors the curves and acts as a scalp for grooming operations. When you create a Curves object from the Add Menu, the selected object is automatically applied as the surface.
 
 To assign a different surface, press Ctrl+P and choose Object (Attach Curves to Surface) from the Set Parent To popup. This option is also available in the Properties Editor under Curves settings.
 

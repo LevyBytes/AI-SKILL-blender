@@ -4,7 +4,7 @@
 
 ### GeometryNodeFieldOnDomain(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeFieldOnDomain ( GeometryNode ) 
 
 Pull a field's values from a domain other than the one supplied by the context

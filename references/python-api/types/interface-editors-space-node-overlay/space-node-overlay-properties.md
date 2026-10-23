@@ -4,7 +4,7 @@
 
 ### SpaceNodeOverlay(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SpaceNodeOverlay ( bpy_struct )
 
 Configuration for the overlays drawn in the Node Editor

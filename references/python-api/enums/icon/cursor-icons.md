@@ -1,4 +1,4 @@
-# Icon Items — cursor icons
+# Icon Items - cursor icons
 
 | Value | Meaning |
 | --- | --- |

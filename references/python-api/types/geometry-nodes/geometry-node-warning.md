@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeWarning(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeWarning ( GeometryNode )
 
 Lets a node group raise its own custom warnings.

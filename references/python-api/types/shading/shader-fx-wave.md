@@ -72,7 +72,7 @@ type
 
 ### ShaderFxWave(ShaderFx)
 
-base classes — bpy_struct, ShaderFx
+base classes: bpy_struct, ShaderFx
 class bpy.types. ShaderFxWave ( ShaderFx )
 
 Wave Deformation effect

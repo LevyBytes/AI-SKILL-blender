@@ -58,7 +58,7 @@ type
 
 ### FModifierSmooth(FModifier)
 
-base classes — bpy_struct, FModifier
+base classes: bpy_struct, FModifier
 class bpy.types. FModifierSmooth ( FModifier )
 
 Applies Gaussian smoothing to the curve.

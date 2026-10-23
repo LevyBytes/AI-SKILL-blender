@@ -1,4 +1,4 @@
-# Icon Items — input keypad keys
+# Icon Items - input keypad keys
 
 | Value | Meaning |
 | --- | --- |

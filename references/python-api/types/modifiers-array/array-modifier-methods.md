@@ -4,7 +4,7 @@
 
 Modifier for creating object duplicates.
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. ArrayModifier ( Modifier )
 
 Copies geometry into an ordered pattern.

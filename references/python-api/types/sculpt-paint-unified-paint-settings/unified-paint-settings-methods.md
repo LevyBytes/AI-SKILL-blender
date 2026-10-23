@@ -4,7 +4,7 @@
 
 ### UnifiedPaintSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. UnifiedPaintSettings ( bpy_struct )
 
 Values that take the place of the matching settings on the currently active brush.

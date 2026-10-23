@@ -4,7 +4,7 @@
 
 ### GreasePencilEnvelopeModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilEnvelopeModifier ( Modifier )
 
 Stroke modifier that wraps strokes in an envelope.

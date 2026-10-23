@@ -80,7 +80,7 @@ type
 
 ### NodeTreeInterfaceSocketMenu(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketMenu ( NodeTreeInterfaceSocket )
 
 A node socket that carries a menu

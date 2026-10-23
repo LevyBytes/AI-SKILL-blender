@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketFloatTime(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketFloatTime ( NodeTreeInterfaceSocket )
 
 A node socket that carries a floating-point number

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetMaterialIndex(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetMaterialIndex ( GeometryNode ) 
 
 Assigns a material index to every geometry element that is selected.

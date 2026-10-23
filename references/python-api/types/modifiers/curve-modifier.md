@@ -72,7 +72,7 @@ type
 
 ### CurveModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. CurveModifier ( Modifier )
 
 A modifier that bends geometry along a curve.

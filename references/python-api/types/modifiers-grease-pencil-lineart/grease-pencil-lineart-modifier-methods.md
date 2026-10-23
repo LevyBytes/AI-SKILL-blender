@@ -4,7 +4,7 @@
 
 ### GreasePencilLineartModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilLineartModifier ( Modifier )
 
 Produces Line Art strokes out of a chosen source.

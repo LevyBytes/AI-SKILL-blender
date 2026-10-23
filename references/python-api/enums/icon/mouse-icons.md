@@ -1,4 +1,4 @@
-# Icon Items — mouse icons
+# Icon Items - mouse icons
 
 | Value | Meaning |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 ## Perspective/Orthographic
 
-Reference — Mode: All modes. Menu: View ‣ Perspective/Orthographic. Shortcut: Numpad5.
+Reference - Mode: All modes. Menu: View ‣ Perspective/Orthographic. Shortcut: Numpad5.
 
 This operator switches the viewport camera's projection. Every 3D Viewport supports two projection types, illustrated in the figure.
 

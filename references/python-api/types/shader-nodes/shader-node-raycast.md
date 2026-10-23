@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeRaycast(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeRaycast ( ShaderNode )
 
 Shoots rays and reports back what they strike at the hit point.

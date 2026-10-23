@@ -45,7 +45,7 @@ type
 
 ### `VIEWLAYER_UL`_aov(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `VIEWLAYER_UL`_aov ( UIList )
 

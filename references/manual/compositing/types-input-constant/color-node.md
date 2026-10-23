@@ -20,6 +20,6 @@ Uses the color picker widget.
 
 ### Outputs
 
-- **Color** — The chosen color as a constant.
+- **Color**: The chosen color as a constant.
 
 [Related references](INDEX.md).

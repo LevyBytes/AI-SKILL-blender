@@ -4,7 +4,7 @@
 
 ### GeometryNodeFieldVariance(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeFieldVariance ( GeometryNode ) 
 
 Work out the standard deviation along with the variance of a supplied field

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSDFGridOffset(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSDFGridOffset ( GeometryNode )
 
 Shift a signed distance field surface outward or inward by a world-space distance. A positive value dilates and a negative value erodes, all while keeping the signed distance property intact

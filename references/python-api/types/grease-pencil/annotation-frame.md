@@ -70,7 +70,7 @@ type
 
 A single drawn frame within an annotation layer.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AnnotationFrame ( bpy_struct )
 
 Set of sketches on a single frame.

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetPosition(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetPosition ( GeometryNode ) 
 
 Places each point at a new location.

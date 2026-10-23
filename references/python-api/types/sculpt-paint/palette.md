@@ -56,7 +56,7 @@ type
 
 ### Palette(ID) 
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Palette ( ID )
 
 [Related references](INDEX.md).

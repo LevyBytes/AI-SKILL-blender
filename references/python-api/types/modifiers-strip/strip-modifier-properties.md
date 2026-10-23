@@ -4,7 +4,7 @@
 
 ### StripModifier(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 BrightContrastModifier, ColorBalanceModifier, CurvesModifier, EchoModifier, HueCorrectModifier, MaskStripModifier, PitchModifier, SequencerCompositorModifierData, SequencerTonemapModifierData, SoundEqualizerModifier, WhiteBalanceModifier

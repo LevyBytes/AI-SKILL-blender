@@ -45,7 +45,7 @@ type
 
 ### `VOLUME_UL`_grids(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `VOLUME_UL`_grids ( UIList )
 

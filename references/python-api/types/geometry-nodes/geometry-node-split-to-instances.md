@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSplitToInstances(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSplitToInstances ( GeometryNode ) 
 
 Builds a distinct geometry for each group, gathering together the elements that share it.

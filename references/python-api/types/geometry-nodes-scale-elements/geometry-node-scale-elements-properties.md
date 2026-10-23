@@ -4,7 +4,7 @@
 
 ### GeometryNodeScaleElements(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeScaleElements ( GeometryNode )
 
 Resize connected groups of edges and faces

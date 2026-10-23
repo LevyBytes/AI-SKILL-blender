@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeVolumeCube(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeVolumeCube ( GeometryNode )
 
 Builds a dense volume in which a field drives each voxel’s density according to where that voxel sits in the grid.

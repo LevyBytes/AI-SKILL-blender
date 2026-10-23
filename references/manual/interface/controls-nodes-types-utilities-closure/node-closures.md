@@ -57,7 +57,7 @@ Define inputs and outputs evaluated via Evaluate Closure in another group.
 When connected, the closure's graph injects into the evaluation context.
 Procedural systems stay flexible with clear control points.
 
-Closures resemble function parameters—users define operations in a controlled parent context.
+Closures resemble function parameters: users define operations in a controlled parent context.
 
 ### Nodes
 

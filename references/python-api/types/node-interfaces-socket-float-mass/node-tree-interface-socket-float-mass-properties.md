@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketFloatMass(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketFloatMass ( NodeTreeInterfaceSocket )
 
 A node socket that carries a floating-point number

@@ -4,7 +4,7 @@
 
 ### GeometryNodeForeachGeometryElementInput(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeForeachGeometryElementInput ( GeometryNode )
 paired_output 
 

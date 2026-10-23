@@ -1,4 +1,4 @@
-# bpy.types.ActionGroup — class-contract, Inherited Properties, Inherited Functions, References, ActionGroup(bpy_struct)
+# bpy.types.ActionGroup - class-contract, Inherited Properties, Inherited Functions, References, ActionGroup(bpy_struct)
 
 channels
 

@@ -84,7 +84,7 @@ type
 
 ### ParticleKey(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ParticleKey ( bpy_struct )
 
 Where a particle is keyed at a moment in time

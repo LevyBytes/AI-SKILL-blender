@@ -1,4 +1,4 @@
-# Icon Items — xray icons
+# Icon Items - xray icons
 
 | Value | Meaning |
 | --- | --- |

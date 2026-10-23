@@ -1,4 +1,4 @@
-# bpy.types.KeyConfigurations: methods — class-contract, Inherited Properties, Inherited Functions
+# bpy.types.KeyConfigurations: methods - class-contract, Inherited Properties, Inherited Functions
 
 new ( name )
 

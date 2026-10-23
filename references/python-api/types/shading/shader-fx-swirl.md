@@ -72,7 +72,7 @@ type
 
 ### ShaderFxSwirl(ShaderFx)
 
-base classes — bpy_struct, ShaderFx
+base classes: bpy_struct, ShaderFx
 class bpy.types. ShaderFxSwirl ( ShaderFx )
 
 Swirl effect

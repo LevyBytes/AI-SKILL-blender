@@ -73,7 +73,7 @@ type
 
 ### LineStyleThicknessModifiers(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. LineStyleThicknessModifiers ( bpy_prop_collection )
 
 The set of thickness modifiers that alter line width.

@@ -4,7 +4,7 @@
 
 ### Spline(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Spline ( bpy_struct )
 
 A single curve element: NURBS, Bézier, Polyline, or a character on text objects

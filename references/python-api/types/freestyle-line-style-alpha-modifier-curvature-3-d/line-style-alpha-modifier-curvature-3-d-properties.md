@@ -4,7 +4,7 @@
 
 ### LineStyleAlphaModifier_Curvature_3D(LineStyleAlphaModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleAlphaModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleAlphaModifier
 class bpy.types. LineStyleAlphaModifier_Curvature_3D ( LineStyleAlphaModifier ) 
 
 Drives alpha transparency from the radial curvature measured on 3D mesh surfaces

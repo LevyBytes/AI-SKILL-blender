@@ -56,7 +56,7 @@ type
 
 ### TextLine(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. TextLine ( bpy_struct )
 
 A single line within a Text data-block.

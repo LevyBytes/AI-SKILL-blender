@@ -13,37 +13,37 @@ Shape Method
 
 How to consider each island's shape:
 
-Exact Shape (Concave) — Uses the island's complete shape, including holes and concave regions.
+Exact Shape (Concave): Uses the island's complete shape, including holes and concave regions.
 
-Boundary Shape (Convex) — Accounts for the boundary (Convex Hull), not placing islands inside holes.
+Boundary Shape (Convex): Accounts for the boundary (Convex Hull), not placing islands inside holes.
 
-Bounding Box — Uses the simple bounding box.
+Bounding Box: Uses the simple bounding box.
 
-Scale — Scale islands to fill the unit square, or pack toward the lower left corner.
+Scale: Scale islands to fill the unit square, or pack toward the lower left corner.
 
-Rotate — Allows rotation alongside translation and scaling to optimize usage.
+Rotate: Allows rotation alongside translation and scaling to optimize usage.
 
 Rotation Method
 
 Allowable rotations:
 
-Any — Any rotation improving packing.
+Any: Any rotation improving packing.
 
-Axis-aligned — Islands rotate to fit the smallest rectangle, then only 90-degree turns.
+Axis-aligned: Islands rotate to fit the smallest rectangle, then only 90-degree turns.
 
-Cardinal — Only 90-degree rotations (like compass directions).
+Cardinal: Only 90-degree rotations (like compass directions).
 
 Margin Method
 
 How empty space is calculated:
 
-Scaled — Multiply margin by the scale of existing UVs.
+Scaled: Multiply margin by the scale of existing UVs.
 
-Add — Simple addition of margin.
+Add: Simple addition of margin.
 
-Fraction — Precise fraction specification of the UV unit square (slower).
+Fraction: Precise fraction specification of the UV unit square (slower).
 
-Margin — Scale for empty space between islands.
+Margin: Scale for empty space between islands.
 
 Lock Pinned Islands
 
@@ -53,11 +53,11 @@ Lock Method
 
 How Pinned Islands are packed:
 
-Scale — Pinned Island scale doesn't change.
+Scale: Pinned Island scale doesn't change.
 
-Rotation — Pinned Islands don't rotate.
+Rotation: Pinned Islands don't rotate.
 
-Rotation and Scale — Pinned Islands translate only.
+Rotation and Scale: Pinned Islands translate only.
 
 Merge Overlapping
 
@@ -67,13 +67,13 @@ Pack To
 
 Where islands end up after packing:
 
-Closest UDIM — Pack to the UDIM grid nearest the selection center.
+Closest UDIM: Pack to the UDIM grid nearest the selection center.
 
-Active UDIM — Pack to the active UDIM image tile or the UDIM grid at the 2D cursor.
+Active UDIM: Pack to the active UDIM image tile or the UDIM grid at the 2D cursor.
 
-Original bounding box — Find the original bounding box, pack islands, then move them back inside.
+Original bounding box: Find the original bounding box, pack islands, then move them back inside.
 
-Custom Region — Pack into a user-defined custom region (requires Custom Region enabled). Allows packing into reserved atlas regions, trim sheet zones, or texture slot layouts.
+Custom Region: Pack into a user-defined custom region (requires Custom Region enabled). Allows packing into reserved atlas regions, trim sheet zones, or texture slot layouts.
 
 Pack Islands performance depends heavily on selected options. Fastest results use "Bounding Box" shape method and "Add" margin method. Enabling "Rotate" slightly impacts performance but often improves efficiency. The "Fraction" margin method requires significantly more computation and may take 10 times longer. "Exact shape" and "Boundary shape" methods are much slower than "Bounding Box".
 

@@ -70,7 +70,7 @@ type
 
 ### MovieTrackingReconstruction(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieTrackingReconstruction ( bpy_struct )
 
 Reconstruction data produced by the match-mover from the tracker

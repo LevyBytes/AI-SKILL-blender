@@ -4,7 +4,7 @@
 
 ### MeshLoop(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MeshLoop ( bpy_struct )
 
 Loop in a Mesh data-block

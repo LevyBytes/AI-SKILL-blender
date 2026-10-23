@@ -61,7 +61,7 @@ Bake
 Initiates baking (Blender freezes). Cursor shows progress. Object Mode only.
 
 Delete Bake
-Marks cache temporary—removed on next edit/frame change. (Post-bake only.)
+Marks cache temporary: removed on next edit/frame change. (Post-bake only.)
 
 Calculate to Frame
 Bakes to current frame (End frame limit applies).

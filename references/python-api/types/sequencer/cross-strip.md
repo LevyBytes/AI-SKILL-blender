@@ -65,7 +65,7 @@ type
 
 ### CrossStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 class bpy.types. CrossStrip ( EffectStrip )
 
 Crossfade Strip

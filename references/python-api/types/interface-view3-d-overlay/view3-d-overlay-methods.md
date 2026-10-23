@@ -4,7 +4,7 @@
 
 ### View3DOverlay(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. View3DOverlay ( bpy_struct ) 
 
 Controls for how overlays are drawn inside the 3D viewport

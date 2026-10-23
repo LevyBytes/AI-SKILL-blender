@@ -34,7 +34,7 @@ index ( int ) – Index of the item to be removed.
 
 ### bpy_prop_collection_idprop
 
-base classes — bpy_prop_collection
+base classes: bpy_prop_collection
 class bpy.types. bpy_prop_collection_idprop ( bpy_prop_collection )
 
 The built-in class behind user-defined collections.

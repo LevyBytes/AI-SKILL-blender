@@ -4,7 +4,7 @@
 
 ### BooleanModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. BooleanModifier ( Modifier )
 
 A modifier that performs Boolean operations between meshes.

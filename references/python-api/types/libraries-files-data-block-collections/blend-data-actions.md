@@ -84,7 +84,7 @@ type
 
 Enumeration of drawing annotation records.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. BlendDataActions ( bpy_prop_collection )
 
 Enumeration of motion sequence data

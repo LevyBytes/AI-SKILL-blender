@@ -2,7 +2,7 @@
 
 ### PreferencesSystem(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PreferencesSystem ( bpy_struct )
 
 Settings for the graphics driver and operating system

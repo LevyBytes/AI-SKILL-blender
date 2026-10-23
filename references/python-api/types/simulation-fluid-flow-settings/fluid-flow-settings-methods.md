@@ -4,7 +4,7 @@
 
 ### FluidFlowSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FluidFlowSettings ( bpy_struct )
 
 Settings that drive a fluid flow.

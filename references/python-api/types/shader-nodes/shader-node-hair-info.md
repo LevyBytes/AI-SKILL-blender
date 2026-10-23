@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeHairInfo(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeHairInfo ( ShaderNode ) 
 
 Read out information about a hair curve

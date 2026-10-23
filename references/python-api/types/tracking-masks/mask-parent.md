@@ -84,7 +84,7 @@ type
 
 ### MaskParent(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MaskParent ( bpy_struct )
 
 Settings that parent a masking element.

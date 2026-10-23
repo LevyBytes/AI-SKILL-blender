@@ -1,4 +1,4 @@
-# Icon Items — file icons
+# Icon Items - file icons
 
 | Value | Meaning |
 | --- | --- |

@@ -63,7 +63,7 @@ type
 
 ### ViewerPathElem(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 EvaluateClosureNodeViewerPathElem, ForeachGeometryElementZoneViewerPathElem, GroupNodeViewerPathElem, IDViewerPathElem, ModifierViewerPathElem, RepeatZoneViewerPathElem, SimulationZoneViewerPathElem, ViewerNodeViewerPathElem

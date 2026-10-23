@@ -77,7 +77,7 @@ type
 
 ### TexPaintSlot(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. TexPaintSlot ( bpy_struct )
 
 A slot holding details for texture painting.

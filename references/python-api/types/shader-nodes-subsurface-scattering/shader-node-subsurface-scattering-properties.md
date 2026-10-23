@@ -4,7 +4,7 @@
 
 ### ShaderNodeSubsurfaceScattering(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeSubsurfaceScattering ( ShaderNode )
 
 A multiple-scattering subsurface shader that models light sinking into a surface and scattering around beneath it.

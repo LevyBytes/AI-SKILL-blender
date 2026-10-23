@@ -4,7 +4,7 @@
 
 ### PreferencesInput(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PreferencesInput ( bpy_struct )
 
 Options for input devices

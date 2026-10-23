@@ -16,10 +16,10 @@ None.
 
 **From Instancer** *(Cycles Only)* — See Texture Coordinate Node's From Instancer option.
 
-**UV Map** — Name of the UV map to use. Populated from the object's mesh UV maps. If unset, uses the Active Render UV map.
+**UV Map**: Name of the UV map to use. Populated from the object's mesh UV maps. If unset, uses the Active Render UV map.
 
 ### Outputs
 
-- **UV** — Coordinates from the specified UV map.
+- **UV**: Coordinates from the specified UV map.
 
 [Related references](INDEX.md).

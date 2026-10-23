@@ -1,4 +1,4 @@
-# Icon Items — cube icons
+# Icon Items - cube icons
 
 | Value | Meaning |
 | --- | --- |

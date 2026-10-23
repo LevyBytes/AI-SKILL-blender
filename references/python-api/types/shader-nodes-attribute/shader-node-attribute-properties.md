@@ -4,7 +4,7 @@
 
 ### ShaderNodeAttribute(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeAttribute ( ShaderNode )
 
 Read out attributes that are stored on objects or geometry

@@ -4,7 +4,7 @@
 
 ### FieldSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FieldSettings ( bpy_struct )
 
 The force-field settings that belong to an object inside a physics simulation.

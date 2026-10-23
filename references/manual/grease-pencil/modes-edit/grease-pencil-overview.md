@@ -8,10 +8,10 @@ Note: Editing multiple Grease Pencil objects simultaneously is not currently sup
 
 Available via the Toolbar, the Stroke menu in the 3D Viewport header, context menus (RMB), and individual shortcuts.
 
-Toolbar — upon selecting a stroke and pressing Tab to enter Edit Mode, the Toolbar transitions from Object Tools to Stroke editing panels; not every stroke tool is exposed in this panel.
+Toolbar: upon selecting a stroke and pressing Tab to enter Edit Mode, the Toolbar transitions from Object Tools to Stroke editing panels; not every stroke tool is exposed in this panel.
 
-Menus — the Stroke Menu is located in the header.
+Menus: the Stroke Menu is located in the header.
 
-Context Menu — RMB displays the complete Stroke Menu.
+Context Menu: RMB displays the complete Stroke Menu.
 
 [Related references](INDEX.md).

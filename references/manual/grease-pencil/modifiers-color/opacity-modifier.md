@@ -6,14 +6,14 @@ The Opacity Modifier tweaks the opacity (alpha) value of stroke points. Alpha lo
 
 **Options.**
 
-Mode — the opacity transformation impacts stroke/fill output or stroke Hardness. When Hardness is active, opacity governs stroke fade (alpha) from interior to edge:
+Mode: the opacity transformation impacts stroke/fill output or stroke Hardness. When Hardness is active, opacity governs stroke fade (alpha) from interior to edge:
 - Stroke & Fill, Stroke, Fill, or Hardness.
 
-Uniform Opacity — when engaged, equalizes opacity throughout strokes.
+Uniform Opacity: when engaged, equalizes opacity throughout strokes.
 
-Strength — fixed opacity for all stroke points.
+Strength: fixed opacity for all stroke points.
 
-Opacity Factor — steers stroke point opacity:
+Opacity Factor - steers stroke point opacity:
 - 1.0 honors the source alpha.
 - Below 1.0 amplifies transparency versus source.
 - Above 1.0 amplifies opacity; 2.0 yields complete solidity.

@@ -4,7 +4,7 @@
 
 ### GeometryNodeSetGreasePencilColor(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetGreasePencilColor ( GeometryNode ) 
 
 Writes color and opacity attributes onto Grease Pencil geometry.

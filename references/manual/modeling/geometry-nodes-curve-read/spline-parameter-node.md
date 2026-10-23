@@ -17,9 +17,9 @@ Special case: When length is zero, Factor defaults to index-over-total.
 Inputs: None
 
 Outputs:
-Factor — At point domain: fraction of spline length. At spline domain: fraction of total curve length.
-Length — At point domain: distance along the spline. At spline domain: distance along entire curve.
-Index — Zero-indexed position within the current spline, separate from the global Index node.
+Factor - At point domain: fraction of spline length. At spline domain: fraction of total curve length.
+Length - At point domain: distance along the spline. At spline domain: distance along entire curve.
+Index: Zero-indexed position within the current spline, separate from the global Index node.
 
 Examples:
 Use parameter to drive radial variation along a curve. Start has radius 0, end has radius 1.

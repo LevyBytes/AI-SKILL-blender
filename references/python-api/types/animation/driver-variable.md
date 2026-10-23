@@ -92,7 +92,7 @@ type
 
 ### DriverVariable(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. DriverVariable ( bpy_struct )
 
 A variable pulled from some source or target within a driver relationship

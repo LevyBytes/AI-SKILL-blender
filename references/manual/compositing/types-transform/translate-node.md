@@ -7,12 +7,12 @@ The Translate node moves an image — also usable to add a 2D camera shake. Inpu
 Offsets an image's or texture's texture coordinates.
 
 Inputs:
-Color — the usual color input.
-Offset — how much to offset the coordinates along each of the three axes.
+Color: the usual color input.
+Offset: how much to offset the coordinates along each of the three axes.
 
-Properties — this node exposes no properties.
+Properties: this node exposes no properties.
 
 Outputs:
-Color — the usual color output.
+Color: the usual color output.
 
 [Related references](INDEX.md).

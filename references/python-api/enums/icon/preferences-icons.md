@@ -1,4 +1,4 @@
-# Icon Items — preferences icons
+# Icon Items - preferences icons
 
 | Value | Meaning |
 | --- | --- |

@@ -4,7 +4,7 @@
 
 ### Function(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Function ( bpy_struct ) 
 
 The definition of an RNA function

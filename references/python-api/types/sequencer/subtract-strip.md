@@ -65,7 +65,7 @@ type
 
 ### SubtractStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 class bpy.types. SubtractStrip ( EffectStrip )
 
 Subtract Strip

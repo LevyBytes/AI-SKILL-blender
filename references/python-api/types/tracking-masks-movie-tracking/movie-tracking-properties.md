@@ -4,7 +4,7 @@
 
 ### MovieTracking(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieTracking ( bpy_struct )
 
 Container for match-moving tracking data

@@ -1,4 +1,4 @@
-# bpy.types.NodeCompositorFileOutputItem — class-contract, Inherited Properties, Inherited Functions, References
+# bpy.types.NodeCompositorFileOutputItem - class-contract, Inherited Properties, Inherited Functions, References
 
 color
 

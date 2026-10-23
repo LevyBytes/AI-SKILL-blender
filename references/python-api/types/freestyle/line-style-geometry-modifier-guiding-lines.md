@@ -72,7 +72,7 @@ type
 
 ### LineStyleGeometryModifier_GuidingLines(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_GuidingLines ( LineStyleGeometryModifier ) 
 
 Reshape the stroke so it follows its principal direction line

@@ -4,7 +4,7 @@
 
 ### SpaceNLA(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpaceNLA ( Space )
 
 The space data for the NLA editor

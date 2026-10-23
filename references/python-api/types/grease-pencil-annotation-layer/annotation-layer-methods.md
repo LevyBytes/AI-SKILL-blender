@@ -4,7 +4,7 @@
 
 A named layer within an annotation.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AnnotationLayer ( bpy_struct )
 
 A named grouping of sketches.

@@ -1,4 +1,4 @@
-# Icon Items — particlemode icons
+# Icon Items - particlemode icons
 
 | Value | Meaning |
 | --- | --- |

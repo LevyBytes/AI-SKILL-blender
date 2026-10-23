@@ -6,11 +6,11 @@ A Group node bundles a set of nodes into one, selectively exposing their inputs 
 
 A Group Node folds a set of nodes into one and selectively exposes those nodes' inputs and outputs. Group nodes tidy a node tree by tucking complexity away and letting you reuse functionality.
 
-Group Input — exposes the node group's inputs. You can place several in one tree to keep it tidy, pulling each input in right where it's needed instead of dragging long links across the graph. The input slots are edited in the Sidebar's Group tab.
+Group Input: exposes the node group's inputs. You can place several in one tree to keep it tidy, pulling each input in right where it's needed instead of dragging long links across the graph. The input slots are edited in the Sidebar's Group tab.
 
-Group Output — receives the node group's outputs. You can place several in one tree to keep it tidy, emitting each result right where it's produced instead of dragging long links across the graph. The output slots are edited in the Sidebar's Group tab.
+Group Output: receives the node group's outputs. You can place several in one tree to keep it tidy, emitting each result right where it's produced instead of dragging long links across the graph. The output slots are edited in the Sidebar's Group tab.
 
-Node Groups — this section lists every node group: those in the current blend-file plus any Linked or Appended in from elsewhere.
+Node Groups: this section lists every node group: those in the current blend-file plus any Linked or Appended in from elsewhere.
 
 ### Group
 

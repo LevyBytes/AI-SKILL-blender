@@ -4,7 +4,7 @@
 
 UI widget for quick asset browsing and picking.
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 `IMAGE_AST`_brush_paint, `NODE_AST`_compositor, `VIEW3D_AST`_brush_gpencil_paint, `VIEW3D_AST`_brush_gpencil_sculpt, `VIEW3D_AST`_brush_gpencil_vertex, `VIEW3D_AST`_brush_gpencil_weight, `VIEW3D_AST`_brush_sculpt, `VIEW3D_AST`_brush_sculpt_curves, `VIEW3D_AST`_brush_texture_paint, `VIEW3D_AST`_brush_vertex_paint, `VIEW3D_AST`_brush_weight_paint, `VIEW3D_AST`_pose_library

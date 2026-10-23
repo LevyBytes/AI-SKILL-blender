@@ -68,7 +68,7 @@ type
 
 ### BlendDataPointClouds(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataPointClouds(bpy_prop_collection)
 
 Houses a collection of point cloud data structures.

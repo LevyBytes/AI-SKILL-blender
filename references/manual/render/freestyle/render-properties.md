@@ -2,7 +2,7 @@
 
 ## Render Properties
 
-Render Properties — Freestyle Setup
+Render Properties: Freestyle Setup
 
 Reference
 Panel: Properties ‣ Render ‣ Freestyle

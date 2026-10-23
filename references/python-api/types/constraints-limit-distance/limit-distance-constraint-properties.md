@@ -4,7 +4,7 @@
 
 ### LimitDistanceConstraint(Constraint) 
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. LimitDistanceConstraint ( Constraint ) 
 
 Limit the distance from target object

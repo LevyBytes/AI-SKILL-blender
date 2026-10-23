@@ -8,9 +8,9 @@ Selected from the Mode menu in the 3D Viewport header. Once activated, the Toolb
 
 **Sculpting Options.**
 
-Selection Mask — confines sculpting operations to picked points or strokes. Employ Toolbar selection tools for rapid selection; use Selection mode buttons to apply restrictions. Toggle modes via 1, 2, or 3.
+Selection Mask: confines sculpting operations to picked points or strokes. Employ Toolbar selection tools for rapid selection; use Selection mode buttons to apply restrictions. Toggle modes via 1, 2, or 3.
 
-Multiframe — sometimes simultaneous modification across multiple frames is needed. Activate the Multiframe control next to the modes selector (faded lines icon); consult Multiframe for guidance.
+Multiframe: sometimes simultaneous modification across multiple frames is needed. Activate the Multiframe control next to the modes selector (faded lines icon); consult Multiframe for guidance.
 
 **Auto-Masking.**
 
@@ -18,20 +18,20 @@ Menu ‣ Header ‣ Auto-Masking; shortcut Shift+Alt+A. Automatically hides geom
 
 Access through Pie Menus via Shift+Alt+A. All auto-masking options compose, creating stricter masks.
 
-Stroke — affects only the strokes under the cursor upon tool start.
+Stroke: affects only the strokes under the cursor upon tool start.
 
-Layer — affects only strokes belonging to the same layer as those under the cursor at tool start.
+Layer: affects only strokes belonging to the same layer as those under the cursor at tool start.
 
-Material — affects only strokes sharing the material under the cursor at tool start.
+Material: affects only strokes sharing the material under the cursor at tool start.
 
-Active Layer — affects only the current active layer's strokes.
+Active Layer: affects only the current active layer's strokes.
 
-Active Material — affects only strokes using the current active material.
+Active Material: affects only strokes using the current active material.
 
 **Keyboard Shortcuts.**
 
-Invert stroke toggle — Ctrl.
+Invert stroke toggle: Ctrl.
 
-Change active material — U.
+Change active material: U.
 
 [Related references](INDEX.md).

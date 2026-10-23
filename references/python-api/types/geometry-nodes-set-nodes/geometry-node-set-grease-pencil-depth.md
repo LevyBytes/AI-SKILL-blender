@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSetGreasePencilDepth(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetGreasePencilDepth ( GeometryNode ) 
 
 Chooses which depth ordering Grease Pencil should apply.

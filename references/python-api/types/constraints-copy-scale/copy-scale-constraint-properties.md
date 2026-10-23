@@ -4,7 +4,7 @@
 
 ### CopyScaleConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. CopyScaleConstraint ( Constraint )
 
 Mirror the target's scale onto the owner.

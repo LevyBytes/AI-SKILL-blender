@@ -4,7 +4,7 @@
 
 ### CompositorNodeDefocus(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeDefocus ( CompositorNode )
 
 Adds 2D depth-of-field blur, driven by a Z depth map or a mask.

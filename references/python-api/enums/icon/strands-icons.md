@@ -1,4 +1,4 @@
-# Icon Items — strands icons
+# Icon Items - strands icons
 
 | Value | Meaning |
 | --- | --- |

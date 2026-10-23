@@ -4,7 +4,7 @@
 
 ### ThemeCommonAnim(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeCommonAnim ( bpy_struct )
 
 Animation styling shared across editors

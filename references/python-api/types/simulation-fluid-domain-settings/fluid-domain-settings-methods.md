@@ -2,7 +2,7 @@
 
 ### FluidDomainSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FluidDomainSettings ( bpy_struct )
 
 Settings that govern a fluid domain.

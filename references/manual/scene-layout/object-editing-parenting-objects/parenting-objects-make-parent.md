@@ -38,7 +38,7 @@ when Ctrl - P is triggered.
 
 When the parent moves, rotates, or changes size, child objects typically transform identically.
 However, the inverse is not true: modifying child objects leaves the parent unchanged.
-The effect flows strictly downward—parent to child, not vice versa.
+The effect flows strictly downward: parent to child, not vice versa.
 
 Tip
 

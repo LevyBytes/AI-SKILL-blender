@@ -4,7 +4,7 @@
 
 ### FModifier(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 FModifierCycles, FModifierEnvelope, FModifierFunctionGenerator, FModifierGenerator, FModifierLimits, FModifierNoise, FModifierSmooth, FModifierStepped

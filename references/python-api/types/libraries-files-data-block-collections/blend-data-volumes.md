@@ -68,7 +68,7 @@ type
 
 ### BlendDataVolumes(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataVolumes(bpy_prop_collection)
 
 Stores volume data structures in the database.

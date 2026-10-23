@@ -70,7 +70,7 @@ type
 
 ### ThemeFileBrowser(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeFileBrowser ( bpy_struct )
 
 Styling for the File Browser

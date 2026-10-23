@@ -2,11 +2,11 @@
 
 ## Measure
 
-Reference — Mode: All Modes. Tool: Toolbar ‣ Measure.
+Reference - Mode: All Modes. Tool: Toolbar ‣ Measure.
 
 Measure is an interactive tool: you drag lines across the scene to read off distances or angles. Switching on snapping to geometry sharpens accuracy and lets you gauge things like wall thickness. You reach it from the Toolbar.
 
-Usage — a typical workflow:
+Usage - a typical workflow:
 Activate Measure from the Toolbar.
 Drag in the viewport to lay down the ruler's first start and end points; you can place several rulers.
 Drag either endpoint to reposition the ruler.

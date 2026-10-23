@@ -8,24 +8,24 @@ Creates fog volume from mesh geometry. Grid labeled "density".
 
 ### Inputs
 
-Mesh — Standard input.
+Mesh: Standard input.
 
-Density — Voxel value inside volume.
+Density: Voxel value inside volume.
 
-Resolution Mode — Voxel specification method.
+Resolution Mode: Voxel specification method.
 
-Amount — Approximate diagonal voxel count.
+Amount: Approximate diagonal voxel count.
 
-Size — Voxel side length (caution: small tweaks have large performance impact).
+Size - Voxel side length (caution: small tweaks have large performance impact).
 
-Voxel Amount — Approximate diagonal count.
+Voxel Amount: Approximate diagonal count.
 
-Voxel Size — Edge length.
+Voxel Size: Edge length.
 
-Interior Band Width — Maximum distance inside mesh included.
+Interior Band Width: Maximum distance inside mesh included.
 
 ### Outputs
 
-Volume — Generated grid.
+Volume: Generated grid.
 
 [Related references](INDEX.md).

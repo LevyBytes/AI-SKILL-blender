@@ -26,7 +26,7 @@ For expanding Blender with operator-building nodes, see Node-Based Tools.
 
 3D scenes require at least three key components: Models, materials, and lights. This section covers modeling—the art and science of creating surfaces that mimic real-world shapes or express imaginative abstractions.
 
-Modeling Modes — Depending on object type, different modes apply. Cross-mode switching during modeling is common; some tools exist in multiple modes, others are mode-specific.
+Modeling Modes: Depending on object type, different modes apply. Cross-mode switching during modeling is common; some tools exist in multiple modes, others are mode-specific.
 
 Edit Mode: Primary modeling context. Used to edit meshes, curves, surfaces, metaballs, text objects, lattices. Only mesh modification occurs; to edit other objects, exit Edit Mode, select, and re-enter, or use Multi-Object Editing.
 

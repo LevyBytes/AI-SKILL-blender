@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeImportCSV(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeImportCSV ( GeometryNode )
 
 Load geometry out of a CSV file on disk.

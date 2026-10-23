@@ -85,7 +85,7 @@ type
 
 ### Linesets(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. Linesets ( bpy_prop_collection ) 
 
 Line sets that pair lines with their style parameters

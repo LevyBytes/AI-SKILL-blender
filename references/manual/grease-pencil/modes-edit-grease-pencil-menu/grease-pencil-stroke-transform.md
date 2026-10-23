@@ -6,13 +6,13 @@
 
 Strokes can be edited by adjusting point positions.
 
-Move, Rotate & Scale — accessible via Toolbar ‣ Move, Rotate, Scale; Menu ‣ Grease Pencil ‣ Transform ‣ Move, Rotate, Scale; or shortcuts G, R, S.
+Move, Rotate & Scale: accessible via Toolbar ‣ Move, Rotate, Scale; Menu ‣ Grease Pencil ‣ Transform ‣ Move, Rotate, Scale; or shortcuts G, R, S.
 
 Points and strokes move (G), rotate (R), or scale (S) as described in Basic Transformations; Proportional Editing applies in Edit Mode.
 
-Transform Snapping — basic move, rotate, and scale transformations for selected points or strokes (see Move, Rotate, Scale Basics).
+Transform Snapping: basic move, rotate, and scale transformations for selected points or strokes (see Move, Rotate, Scale Basics).
 
-Tools — accessible via Menu ‣ Grease Pencil ‣ Transform or Toolbar with Bend/Shear shortcuts. Bend, Shear, To Sphere, Extrude, and Shrink Fatten are covered in the Editing tools section.
+Tools: accessible via Menu ‣ Grease Pencil ‣ Transform or Toolbar with Bend/Shear shortcuts. Bend, Shear, To Sphere, Extrude, and Shrink Fatten are covered in the Editing tools section.
 
 **Mirror.**
 
@@ -52,28 +52,28 @@ Menu ‣ Grease Pencil ‣ Copy; shortcut Ctrl+C. Copies selected points or stro
 
 Menu ‣ Grease Pencil ‣ Paste; shortcut Ctrl+V. Places Grease Pencil points or strokes from the internal clipboard into the active layer.
 
-Paste on Back (Shift+Ctrl+V) — inserts pasted strokes behind all existing ones.
+Paste on Back (Shift+Ctrl+V): inserts pasted strokes behind all existing ones.
 
-Keep World Transform — maintains the world-space position of clipboard strokes.
+Keep World Transform: maintains the world-space position of clipboard strokes.
 
 **Show/Hide.**
 
 Adjusts visibility of points and strokes in the viewport.
 
-Show All Layers — Menu ‣ Grease Pencil ‣ Show/Hide ‣ Show All Layers; shortcut Alt+H. Displays all Grease Pencil layers.
+Show All Layers: Menu ‣ Grease Pencil ‣ Show/Hide ‣ Show All Layers; shortcut Alt+H. Displays all Grease Pencil layers.
 
-Hide Active Layer — Menu ‣ Grease Pencil ‣ Show/Hide ‣ Hide Active Layer; shortcut H. Conceals the active layer only.
+Hide Active Layer: Menu ‣ Grease Pencil ‣ Show/Hide ‣ Hide Active Layer; shortcut H. Conceals the active layer only.
 
-Hide Inactive Layers — Menu ‣ Grease Pencil ‣ Show/Hide ‣ Hide Inactive Layers; shortcut Shift+H. Makes all non-active layers invisible.
+Hide Inactive Layers: Menu ‣ Grease Pencil ‣ Show/Hide ‣ Hide Inactive Layers; shortcut Shift+H. Makes all non-active layers invisible.
 
 **Separate.**
 
 Menu ‣ Grease Pencil ‣ Separate; shortcut P. Creates new Grease Pencil objects based on criteria.
 
-Selection — splits selected points or strokes into a new object.
+Selection: splits selected points or strokes into a new object.
 
-By Material — each material becomes a separate object.
+By Material: each material becomes a separate object.
 
-By Layer — each layer becomes a separate object (see 2D Layers).
+By Layer: each layer becomes a separate object (see 2D Layers).
 
 [Related references](INDEX.md).

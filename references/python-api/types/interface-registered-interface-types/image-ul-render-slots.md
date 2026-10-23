@@ -45,7 +45,7 @@ type
 
 ### `IMAGE_UL`_render_slots(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `IMAGE_UL`_render_slots ( UIList )
 

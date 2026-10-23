@@ -59,7 +59,7 @@ Return type: type
 
 ### ActionChannelbagGroups(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.ActionChannelbagGroups(bpy_prop_collection)
 
 A set of curve groups

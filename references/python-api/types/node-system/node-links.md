@@ -80,7 +80,7 @@ type
 
 ### NodeLinks(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodeLinks ( bpy_prop_collection )
 
 A set holding the node links.

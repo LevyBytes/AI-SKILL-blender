@@ -44,7 +44,7 @@ type
 
 ### LineStyleModifier(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 LineStyleAlphaModifier, LineStyleColorModifier, LineStyleGeometryModifier, LineStyleThicknessModifier

@@ -45,7 +45,7 @@ type
 
 ### `MATERIAL_UL`_matslots(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `MATERIAL_UL`_matslots ( UIList )
 

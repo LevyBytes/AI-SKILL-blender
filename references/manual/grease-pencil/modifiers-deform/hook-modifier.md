@@ -10,17 +10,17 @@ This documentation targets the Hook Modifier as implemented for Grease Pencil. F
 
 **Options.**
 
-Object — the object to which points link.
+Object: the object to which points link.
 
-Strength — tweaks hook potency on stroke points, ranging from 0.0 (inert) to 1.0 (point trails the hook).
+Strength: tweaks hook potency on stroke points, ranging from 0.0 (inert) to 1.0 (point trails the hook).
 
 **Falloff.**
 
-Type — picks the Strength decay curve; author a custom profile for fine-grain governance.
+Type: picks the Strength decay curve; author a custom profile for fine-grain governance.
 
-Radius — the extent of hook influence.
+Radius: the extent of hook influence.
 
-Uniform Falloff — worthwhile when hooking scaled objects, especially if non-uniform scaling would distort the deformation.
+Uniform Falloff: worthwhile when hooking scaled objects, especially if non-uniform scaling would distort the deformation.
 
 **Influence.**
 

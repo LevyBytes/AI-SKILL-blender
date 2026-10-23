@@ -79,7 +79,7 @@ type
 
 ### BuildModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. BuildModifier ( Modifier )
 
 Modifier that reveals geometry progressively over time

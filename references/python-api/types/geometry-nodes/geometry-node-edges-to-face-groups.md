@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeEdgesToFaceGroups(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeEdgesToFaceGroups ( GeometryNode )
 
 Cluster faces into regions bounded by the selected edges.

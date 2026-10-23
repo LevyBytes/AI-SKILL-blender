@@ -56,7 +56,7 @@ type
 
 ### Lightgroup(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Lightgroup ( bpy_struct )
 
 [Related references](INDEX.md).

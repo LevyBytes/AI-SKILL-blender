@@ -1,4 +1,4 @@
-# Icon Items — face icons
+# Icon Items - face icons
 
 | Value | Meaning |
 | --- | --- |

@@ -70,7 +70,7 @@ type
 
 ### Timer(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Timer ( bpy_struct ) 
 
 Timer fired by window events.

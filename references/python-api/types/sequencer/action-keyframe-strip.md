@@ -73,7 +73,7 @@ Return type: type
 
 ### ActionKeyframeStrip(ActionStrip)
 
-base classes — bpy_struct, ActionStrip
+base classes: bpy_struct, ActionStrip
 class bpy.types.ActionKeyframeStrip(ActionStrip)
 
 A strip holding F-Curves for each action slot

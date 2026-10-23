@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeConvolve(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeConvolve ( CompositorNode )
 
 Runs a kernel-based convolution pass over an image.

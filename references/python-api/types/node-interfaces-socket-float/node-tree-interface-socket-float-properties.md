@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketFloat(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketFloat ( NodeTreeInterfaceSocket ) 
 
 A node socket carrying a floating-point number.

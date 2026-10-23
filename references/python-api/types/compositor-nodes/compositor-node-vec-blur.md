@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeVecBlur(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeVecBlur ( CompositorNode )
 
 Draws on the vector speed render pass to apply a 2D blur across the image pixels.

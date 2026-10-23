@@ -4,7 +4,7 @@
 
 ### PreferencesView(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PreferencesView ( bpy_struct ) 
 
 Settings that govern how data is presented on screen

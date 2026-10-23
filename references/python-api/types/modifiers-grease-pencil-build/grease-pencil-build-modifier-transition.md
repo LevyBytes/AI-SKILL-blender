@@ -2,7 +2,7 @@
 
 transition
 
-Sets the way strokes animate — whether they appear or vanish (default 'GROW' )
+Sets the way strokes animate: whether they appear or vanish (default 'GROW' )
 
 - GROW
 Grow – Show points in the order they occur in each stroke (e.g. for animating lines being drawn).

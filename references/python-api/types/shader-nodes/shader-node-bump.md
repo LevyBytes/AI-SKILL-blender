@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeBump(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBump ( ShaderNode ) 
 
 Build a perturbed normal from a height texture to do bump mapping, a common trick for simulating fine surface detail

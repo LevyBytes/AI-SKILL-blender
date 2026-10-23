@@ -85,7 +85,7 @@ type
 
 ### TextureNodeRGBToBW(TextureNode)
 
-base classes — bpy_struct, Node, NodeInternal, TextureNode
+base classes: bpy_struct, Node, NodeInternal, TextureNode
 class bpy.types. TextureNodeRGBToBW ( TextureNode )
 
 [Related references](INDEX.md).

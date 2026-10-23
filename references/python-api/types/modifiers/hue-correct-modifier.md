@@ -58,7 +58,7 @@ type
 
 ### HueCorrectModifier(StripModifier)
 
-base classes — bpy_struct, StripModifier
+base classes: bpy_struct, StripModifier
 class bpy.types. HueCorrectModifier ( StripModifier )
 
 Adjusts hue on a sequencer strip via a curve.

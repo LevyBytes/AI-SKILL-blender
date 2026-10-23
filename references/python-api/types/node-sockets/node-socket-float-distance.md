@@ -64,7 +64,7 @@ type
 
 ### NodeSocketFloatDistance(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketFloatDistance ( NodeSocketStandard )
 
 A node socket carrying a floating-point value.

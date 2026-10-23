@@ -51,7 +51,7 @@ type
 
 ### CollectionProperty(Property)
 
-base classes — bpy_struct, Property
+base classes: bpy_struct, Property
 class bpy.types. CollectionProperty ( Property )
 
 An RNA collection property used for lists, arrays, and mappings

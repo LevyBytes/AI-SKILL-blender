@@ -1,4 +1,4 @@
-# bpy.types.TrackToConstraint — class-contract, Inherited Properties, Inherited Functions, TrackToConstraint(Constraint)
+# bpy.types.TrackToConstraint - class-contract, Inherited Properties, Inherited Functions, TrackToConstraint(Constraint)
 
 head_tail 
 

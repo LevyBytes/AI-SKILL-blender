@@ -44,7 +44,7 @@ type
 
 ### `VIEW3D_FH`_vdb_volume(FileHandler) 
 
-base classes — bpy_struct, FileHandler
+base classes: bpy_struct, FileHandler
 
 class bpy.types. `VIEW3D_FH`_vdb_volume ( FileHandler )
 

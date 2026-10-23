@@ -63,7 +63,7 @@ type
 
 ### SpreadsheetTable(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SpreadsheetTable ( bpy_struct )
 
 Data that persists for a table

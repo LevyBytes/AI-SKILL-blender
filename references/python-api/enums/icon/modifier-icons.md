@@ -1,4 +1,4 @@
-# Icon Items — modifier icons
+# Icon Items - modifier icons
 
 | Value | Meaning |
 | --- | --- |

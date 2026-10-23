@@ -72,7 +72,7 @@ Substitute global illumination with ambient occlusion after specified bounces du
 Render Bounces
 Bounce count for final rendering.
 
-Light Paths — Direct and Indirect Control
+Light Paths: Direct and Indirect Control
 
 ### Clamping
 

@@ -92,7 +92,7 @@ type
 
 ### FunctionNodeInputColor(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeInputColor ( FunctionNode ) 
 
 Emit a color value picked through the color picker widget

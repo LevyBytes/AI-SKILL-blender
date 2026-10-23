@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeTranslate(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeTranslate ( CompositorNode )
 
 Shifts an image by an offset.

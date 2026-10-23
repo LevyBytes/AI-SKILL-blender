@@ -1,4 +1,4 @@
-# Icon Items — recover icons
+# Icon Items - recover icons
 
 | Value | Meaning |
 | --- | --- |

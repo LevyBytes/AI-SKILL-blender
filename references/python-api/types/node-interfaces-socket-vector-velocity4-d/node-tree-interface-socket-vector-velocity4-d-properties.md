@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorVelocity4D(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorVelocity4D ( NodeTreeInterfaceSocket ) 
 
 A socket for a 3D vector on a node

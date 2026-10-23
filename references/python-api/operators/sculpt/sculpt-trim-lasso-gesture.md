@@ -75,20 +75,20 @@ Parameters:
 - use_front_faces_only ( bool ) – Front Faces Only, Affect only faces facing towards the view (optional)
 - location ( Sequence [ int ] ) – Location, Mouse location (array of 2 items, in [-inf, inf], optional)
 - trim_mode ( Literal [ 'DIFFERENCE' , 'UNION' , 'JOIN' ] ) – Trim Mode, (optional)
-- DIFFERENCE — Difference: use a difference boolean operation.
-- UNION — Union: use a union boolean operation.
-- JOIN — Join: join the new mesh as separate geometry, without performing any boolean operation.
+- DIFFERENCE - Difference: use a difference boolean operation.
+- UNION - Union: use a union boolean operation.
+- JOIN - Join: join the new mesh as separate geometry, without performing any boolean operation.
 - use_cursor_depth ( bool ) – Use Cursor for Depth, Use cursor location and radius for the dimensions and position of the trimming shape (optional)
 - trim_orientation ( Literal [ 'VIEW' , 'SURFACE' ] ) – Shape Orientation, (optional)
-- VIEW — View: use the view to orientate the trimming shape.
-- SURFACE — Surface: use the surface normal to orientate the trimming shape.
+- VIEW - View: use the view to orientate the trimming shape.
+- SURFACE - Surface: use the surface normal to orientate the trimming shape.
 - trim_extrude_mode ( Literal [ 'PROJECT' , 'FIXED' ] ) – Extrude Mode, (optional)
-- PROJECT — Project: align trim geometry with the perspective of the current view for a tapered shape.
-- FIXED — Fixed: align trim geometry orthogonally for a shape with 90 degree angles.
+- PROJECT - Project: align trim geometry with the perspective of the current view for a tapered shape.
+- FIXED - Fixed: align trim geometry orthogonally for a shape with 90 degree angles.
 - trim_solver ( Literal [ 'EXACT' , 'FLOAT' , 'MANIFOLD' ] ) – Solver, (optional)
-- EXACT — Exact: slower solver with the best results for coplanar faces.
-- FLOAT — Float: simple solver with good performance, without support for overlapping geometry.
-- MANIFOLD — Manifold: fastest solver, works only on manifold meshes but gives better results.
+- EXACT - Exact: slower solver with the best results for coplanar faces.
+- FLOAT - Float: simple solver with good performance, without support for overlapping geometry.
+- MANIFOLD - Manifold: fastest solver, works only on manifold meshes but gives better results.
 Returns: The operator's result.
 Return type: set[Literal[Operator Return Items]]
 

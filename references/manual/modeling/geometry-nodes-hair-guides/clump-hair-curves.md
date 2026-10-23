@@ -9,7 +9,7 @@ Clump Hair Curves draws nearby strands together around chosen guide curves, form
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for clumping.
+Geometry: the hair-curve geometry fed in for clumping.
 
 Factor
 Overall strength of the clump. At 0.0 nothing clumps; at 1.0 curves pull fully toward their guides.

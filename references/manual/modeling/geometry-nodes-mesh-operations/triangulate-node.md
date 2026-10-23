@@ -8,31 +8,31 @@ Converts all quads and n-gons to triangles; equivalent to Triangulate in Edit Mo
 
 ### Inputs
 
-Mesh — Standard input.
+Mesh: Standard input.
 
-Selection — Boolean; which faces triangulate.
+Selection: Boolean; which faces triangulate.
 
 Quad Method
 
-Beauty — Good triangles, slower.
+Beauty: Good triangles, slower.
 
-Fixed — Diagonal through vertices 1 and 3.
+Fixed: Diagonal through vertices 1 and 3.
 
-Fixed Alternate — Diagonal through vertices 2 and 4.
+Fixed Alternate: Diagonal through vertices 2 and 4.
 
-Shortest Diagonal — Splits along shortest edge.
+Shortest Diagonal: Splits along shortest edge.
 
-Longest Diagonal — Splits along longest edge (preferred for cloth).
+Longest Diagonal: Splits along longest edge (preferred for cloth).
 
 N-gon Method
 
-Beauty — Optimal triangles, slower.
+Beauty: Optimal triangles, slower.
 
-Clip — Ear-clipping tessellation (viewport default).
+Clip: Ear-clipping tessellation (viewport default).
 
 ### Outputs
 
-Mesh — Standard output.
+Mesh: Standard output.
 
 ### Example
 

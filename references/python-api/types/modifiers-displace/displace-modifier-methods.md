@@ -4,7 +4,7 @@
 
 ### DisplaceModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. DisplaceModifier ( Modifier )
 
 Pushes vertices around to displace the surface.

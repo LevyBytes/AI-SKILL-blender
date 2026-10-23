@@ -63,7 +63,7 @@ type
 
 ### ThemeCommon(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeCommon ( bpy_struct )
 
 UI styling reused across the various editors

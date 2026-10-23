@@ -1,4 +1,4 @@
-# Icon Items — syntax icons
+# Icon Items - syntax icons
 
 | Value | Meaning |
 | --- | --- |

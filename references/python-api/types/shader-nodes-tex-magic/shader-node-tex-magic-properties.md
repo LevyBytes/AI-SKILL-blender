@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexMagic(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexMagic ( ShaderNode )
 
 Builds a swirling, psychedelic color texture.

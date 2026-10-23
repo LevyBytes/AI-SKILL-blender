@@ -4,7 +4,7 @@
 
 ### CompositorNodeOutputFile(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeOutputFile ( CompositorNode )
 
 Saves the incoming image out to a file on disk.

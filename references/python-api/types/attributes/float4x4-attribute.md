@@ -51,7 +51,7 @@ type
 
 ### Float4x4Attribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. Float4x4Attribute ( Attribute )
 
 A geometry attribute holding a 4-by-4 float matrix.

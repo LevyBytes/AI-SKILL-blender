@@ -92,7 +92,7 @@ type
 
 ### FunctionNodeHashValue(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeHashValue ( FunctionNode ) 
 
 Produce a pseudo-random integer by treating the supplied input as the seed

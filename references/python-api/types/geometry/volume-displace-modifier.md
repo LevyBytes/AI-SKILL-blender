@@ -93,7 +93,7 @@ type
 
 ### VolumeDisplaceModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. VolumeDisplaceModifier ( Modifier )
 
 [Related references](INDEX.md).

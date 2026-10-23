@@ -3,15 +3,15 @@
 - Open when you need Video strips: Add Freeze Frame and Slide: [Video strips: Add Freeze Frame and Slide](add-freeze-frame-and-slide.md).
 - Open when you need Video strips: Add Retiming Keys: [Video strips: Add Retiming Keys](add-retiming-keys.md).
 - Open when you need Video strips: Add Speed Transition and Slide: [Video strips: Add Speed Transition and Slide](add-speed-transition-and-slide.md).
-- Open when you need Video strips: Apply — Scale to Fill: [Video strips: Apply — Scale to Fill](apply-scale-to-fill.md).
-- Open when you need Video strips: Apply — Scale to Fit: [Video strips: Apply — Scale to Fit](apply-scale-to-fit.md).
-- Open when you need Video strips: Apply — Stretch to Fill: [Video strips: Apply — Stretch to Fill](apply-stretch-to-fill.md).
+- Open when you need Video strips: Apply - Scale to Fill: [Video strips: Apply - Scale to Fill](apply-scale-to-fill.md).
+- Open when you need Video strips: Apply - Scale to Fit: [Video strips: Apply - Scale to Fit](apply-scale-to-fit.md).
+- Open when you need Video strips: Apply - Stretch to Fill: [Video strips: Apply - Stretch to Fill](apply-stretch-to-fill.md).
 - Open when you need Video strips: Change Effect Type: [Video strips: Change Effect Type](change-effect-type.md).
 - Open when you need Video strips: Clear Strip Offset: [Video strips: Clear Strip Offset](clear-strip-offset.md).
-- Open when you need Video strips: Clear transforms — All Transforms: [Video strips: Clear transforms — All Transforms](clear-transforms-all-transforms.md).
-- Open when you need Video strips: Clear transforms — Position: [Video strips: Clear transforms — Position](clear-transforms-position.md).
-- Open when you need Video strips: Clear transforms — Rotation: [Video strips: Clear transforms — Rotation](clear-transforms-rotation.md).
-- Open when you need Video strips: Clear transforms — Scale: [Video strips: Clear transforms — Scale](clear-transforms-scale.md).
+- Open when you need Video strips: Clear transforms - All Transforms: [Video strips: Clear transforms - All Transforms](clear-transforms-all-transforms.md).
+- Open when you need Video strips: Clear transforms - Position: [Video strips: Clear transforms - Position](clear-transforms-position.md).
+- Open when you need Video strips: Clear transforms - Rotation: [Video strips: Clear transforms - Rotation](clear-transforms-rotation.md).
+- Open when you need Video strips: Clear transforms - Scale: [Video strips: Clear transforms - Scale](clear-transforms-scale.md).
 - Open when you need Video strips: Context Menu: [Video strips: Context Menu](context-menu.md).
 - Open when you need Video strips: Deinterlace Movies: [Video strips: Deinterlace Movies](deinterlace-movies.md).
 - Open when you need Video strips: Delete Retiming Keys: [Video strips: Delete Retiming Keys](delete-retiming-keys.md).
@@ -39,8 +39,8 @@
 - Open when you need Video strips: Snap Strips to the Current Frame: [Video strips: Snap Strips to the Current Frame](snap-strips-to-the-current-frame.md).
 - Open when you need Video strips: Snapping: [Video strips: Snapping](snapping.md).
 - Open when you need Video strips: Split: [Video strips: Split](split.md).
-- Open when you need Video strips: Strip handles — End Frame: [Video strips: Strip handles — End Frame](strip-handles-end-frame.md).
-- Open when you need Video strips: Strip handles — Start Frame Offset: [Video strips: Strip handles — Start Frame Offset](strip-handles-start-frame-offset.md).
+- Open when you need Video strips: Strip handles - End Frame: [Video strips: Strip handles - End Frame](strip-handles-end-frame.md).
+- Open when you need Video strips: Strip handles - Start Frame Offset: [Video strips: Strip handles - Start Frame Offset](strip-handles-start-frame-offset.md).
 - Open when you need Video strips: Swap Inputs: [Video strips: Swap Inputs](swap-inputs.md).
 - Open when you need Video strips: Swap Strip: [Video strips: Swap Strip](swap-strip.md).
 - Open when you need Video strips: Toggle Retiming Keys: [Video strips: Toggle Retiming Keys](toggle-retiming-keys.md).

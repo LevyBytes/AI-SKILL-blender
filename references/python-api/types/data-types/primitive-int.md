@@ -51,7 +51,7 @@ type
 
 ### PrimitiveInt(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PrimitiveInt ( bpy_struct ) 
 
 RNA wrapped int

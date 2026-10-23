@@ -1,4 +1,4 @@
-# Icon Items — duplicate icons
+# Icon Items - duplicate icons
 
 | Value | Meaning |
 | --- | --- |

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetInstanceTransform(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetInstanceTransform ( GeometryNode ) 
 
 Assigns a transformation matrix to each individual instance.

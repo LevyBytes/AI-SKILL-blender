@@ -54,7 +54,7 @@ type
 | BlendData.paint_curves | |
 ## BlendDataPaintCurves(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. BlendDataPaintCurves ( bpy_prop_collection )
 
 Collection of paint curves

@@ -50,7 +50,7 @@ type
 
 ### `VIEW3D_AST`_brush_gpencil_paint(AssetShelf) 
 
-base classes — bpy_struct, AssetShelf
+base classes: bpy_struct, AssetShelf
 
 class bpy.types. `VIEW3D_AST`_brush_gpencil_paint ( AssetShelf )
 

@@ -63,7 +63,7 @@ type
 
 ### WorldLighting(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. WorldLighting ( bpy_struct ) 
 
 Lighting settings attached to a World data-block

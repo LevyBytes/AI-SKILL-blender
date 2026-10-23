@@ -10,10 +10,10 @@ The shader socket is a core concept: surface and volume shaders output a shader�
 
 **Shader types:**
 
-- **BSDF shader** — Describes reflection, refraction and absorption at surfaces.
-- **Emission shader** — Describes surface or volumetric light emission.
-- **Volume shader** — Describes volumetric light scattering.
-- **Background shader** — Describes environmental light emission.
+- **BSDF shader**: Describes reflection, refraction and absorption at surfaces.
+- **Emission shader**: Describes surface or volumetric light emission.
+- **Volume shader**: Describes volumetric light scattering.
+- **Background shader**: Describes environmental light emission.
 
 Each shader node has a color input and outputs a shader. Mix and Add Shader nodes combine them; no other operations are allowed. The resulting output feeds the renderer's light computation.
 

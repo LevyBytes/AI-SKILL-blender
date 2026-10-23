@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeBrightContrast(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeBrightContrast ( CompositorNode )
 
 Tune an image's brightness and contrast

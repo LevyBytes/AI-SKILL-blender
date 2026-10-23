@@ -4,7 +4,7 @@
 
 ### FModifierNoise(FModifier)
 
-base classes — bpy_struct, FModifier
+base classes: bpy_struct, FModifier
 class bpy.types. FModifierNoise ( FModifier )
 
 Adds randomness to the F-Curve it modifies.

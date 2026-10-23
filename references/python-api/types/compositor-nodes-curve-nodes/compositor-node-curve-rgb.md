@@ -92,7 +92,7 @@ type
 
 ### CompositorNodeCurveRGB(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeCurveRGB ( CompositorNode )
 
 Adjusts tonal levels separately for each color channel of an image.

@@ -70,7 +70,7 @@ type
 
 ### MaskSplinePointUW(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MaskSplinePointUW ( bpy_struct )
 
 A single point within a spline segment that defines the feather.

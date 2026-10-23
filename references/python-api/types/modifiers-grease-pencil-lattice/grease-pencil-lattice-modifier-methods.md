@@ -4,7 +4,7 @@
 
 ### GreasePencilLatticeModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilLatticeModifier ( Modifier )
 
 Bends strokes by way of a lattice object.

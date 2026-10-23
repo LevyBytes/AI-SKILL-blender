@@ -4,7 +4,7 @@
 
 ### GeometryNodeFieldToGrid(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeFieldToGrid ( GeometryNode ) 
 
 Build fresh grids by sampling new values over the topology of an existing volume grid

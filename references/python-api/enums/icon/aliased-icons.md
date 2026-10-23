@@ -1,4 +1,4 @@
-# Icon Items — aliased icons
+# Icon Items - aliased icons
 
 | Value | Meaning |
 | --- | --- |

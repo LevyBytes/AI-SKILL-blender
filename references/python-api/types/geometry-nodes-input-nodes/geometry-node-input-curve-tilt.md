@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputCurveTilt(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputCurveTilt ( GeometryNode )
 
 Read out the per-control-point angle that rolls the curve's normal about its tangent.

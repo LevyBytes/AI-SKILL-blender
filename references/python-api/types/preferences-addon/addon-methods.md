@@ -22,7 +22,7 @@ Parameters:
 Returns: The class or default when not found.
 
 Return type: type
-base class — bpy_struct
+base class: bpy_struct
 ### Inherited Properties
 
 | Members | Members |

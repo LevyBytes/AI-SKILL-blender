@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorEuler(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorEuler ( NodeTreeInterfaceSocket ) 
 
 A socket on a node that carries a 3D vector

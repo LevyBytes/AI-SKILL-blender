@@ -4,7 +4,7 @@
 
 ### CompositorNodeConvertToDisplay(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeConvertToDisplay ( CompositorNode )
 
 Move from scene-linear into a display color space, applying a view transform and look for tone mapping

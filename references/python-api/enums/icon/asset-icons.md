@@ -1,4 +1,4 @@
-# Icon Items — asset icons
+# Icon Items - asset icons
 
 | Value | Meaning |
 | --- | --- |

@@ -9,7 +9,7 @@ Rotate Hair Curves spins each strand about a chosen axis — soft twisting, spir
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for rotating.
+Geometry: the hair-curve geometry fed in for rotating.
 
 Factor
 Overall strength of the rotation. At 0.0 nothing turns; at 1.0 the full rotation angle is reached.

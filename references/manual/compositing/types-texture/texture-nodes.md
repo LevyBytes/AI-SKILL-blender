@@ -7,7 +7,7 @@ The Texture Nodes add textures. Tip: texture nodes can produce detail at a highe
 These nodes generate procedural textures and behave just like their non-node-based counterparts.
 
 Common Options:
-Color 1/Color 2 — remap the procedural texture with these colors; they have no effect in the Magic node.
+Color 1/Color 2: remap the procedural texture with these colors; they have no effect in the Magic node.
 
 Texture Nodes
 

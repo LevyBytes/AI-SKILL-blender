@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexChecker(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexChecker ( ShaderNode )
 
 A procedural texture that produces a checkerboard.

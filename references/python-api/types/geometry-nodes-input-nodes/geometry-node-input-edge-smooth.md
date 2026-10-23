@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputEdgeSmooth(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputEdgeSmooth ( GeometryNode )
 
 Read out whether each edge is flagged for smooth shading or for split normals.

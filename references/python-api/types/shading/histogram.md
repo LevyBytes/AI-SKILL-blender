@@ -81,7 +81,7 @@ type
 
 ### Histogram(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Histogram ( bpy_struct )
 
 A graph showing the distribution of color levels across an image.

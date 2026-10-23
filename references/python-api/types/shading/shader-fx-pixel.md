@@ -58,7 +58,7 @@ type
 
 ### ShaderFxPixel(ShaderFx)
 
-base classes — bpy_struct, ShaderFx
+base classes: bpy_struct, ShaderFx
 class bpy.types. ShaderFxPixel ( ShaderFx )
 
 Pixelate effect

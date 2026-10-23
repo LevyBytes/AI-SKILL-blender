@@ -35,7 +35,7 @@ New/Add (files icon)
 Makes a fresh data-block (or copies the current one) and selects it.
 
 Open File (folder icon)
-Brings up the File Browser — to import an image, for instance.
+Brings up the File Browser: to import an image, for instance.
 
 Unpack File (bin icon)
 Writes the file packed inside the current blend-file back out to an external one.

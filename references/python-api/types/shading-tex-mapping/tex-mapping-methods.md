@@ -4,7 +4,7 @@
 
 ### TexMapping(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. TexMapping ( bpy_struct )
 
 Settings that govern how texture coordinates are mapped.

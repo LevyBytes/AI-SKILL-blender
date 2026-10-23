@@ -4,7 +4,7 @@
 
 ### KeyingSet(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. KeyingSet ( bpy_struct )
 
 A group of settings meant to be keyframed at once.

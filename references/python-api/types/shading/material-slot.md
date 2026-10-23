@@ -77,7 +77,7 @@ type
 
 ### MaterialSlot(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MaterialSlot ( bpy_struct )
 
 A material slot belonging to an object.

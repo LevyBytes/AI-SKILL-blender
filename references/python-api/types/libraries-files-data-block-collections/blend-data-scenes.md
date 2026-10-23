@@ -66,7 +66,7 @@ type
 
 ### BlendDataScenes(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataScenes(bpy_prop_collection)
 
 Maintains a collection of scene instances within the file.

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeCurveLength(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveLength ( GeometryNode )
 
 Return the combined length of every spline summed together.

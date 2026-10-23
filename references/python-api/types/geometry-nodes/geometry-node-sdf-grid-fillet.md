@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSDFGridFillet(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSDFGridFillet ( GeometryNode )
 
 Smooth out concave inside corners within a signed distance field. The effect is limited to regions of negative principal curvature, where it eases the transition between surfaces

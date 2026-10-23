@@ -56,7 +56,7 @@ type
 
 ### EQCurveMappingData(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. EQCurveMappingData ( bpy_struct )
 
 EQCurveMappingData

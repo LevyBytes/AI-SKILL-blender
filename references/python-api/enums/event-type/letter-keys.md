@@ -1,4 +1,4 @@
-# Event Type Items — letter keys
+# Event Type Items - letter keys
 
 | Value | Meaning |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Icon Items — window icons
+# Icon Items - window icons
 
 | Value | Meaning |
 | --- | --- |

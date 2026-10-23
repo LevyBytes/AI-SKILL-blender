@@ -85,7 +85,7 @@ type
 
 ### CompositorNodePosterize(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodePosterize ( CompositorNode )
 
 Cuts down how many colors an image carries, turning gradual blends into abrupt steps.

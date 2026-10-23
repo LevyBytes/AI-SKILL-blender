@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexWhiteNoise(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexWhiteNoise ( ShaderNode )
 
 From a supplied seed, derives a pseudo-random scalar or color.

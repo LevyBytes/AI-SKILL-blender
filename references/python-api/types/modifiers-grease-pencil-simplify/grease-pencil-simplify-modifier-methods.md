@@ -4,7 +4,7 @@
 
 ### GreasePencilSimplifyModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilSimplifyModifier ( Modifier )
 
 Reduces the point count of strokes.

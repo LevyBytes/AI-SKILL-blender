@@ -14,6 +14,6 @@ Chosen from the Mode menu in the 3D Viewport header. Once enabled, the Toolbar r
 
 **Weight Options.**
 
-Multiframe — sometimes weight assignment must span multiple frames concurrently. Activate the Multiframe button next to the modes selector (faded lines icon); check Multiframe for guidance.
+Multiframe: sometimes weight assignment must span multiple frames concurrently. Activate the Multiframe button next to the modes selector (faded lines icon); check Multiframe for guidance.
 
 [Related references](INDEX.md).

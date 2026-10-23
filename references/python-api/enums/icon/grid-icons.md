@@ -1,4 +1,4 @@
-# Icon Items — grid icons
+# Icon Items - grid icons
 
 | Value | Meaning |
 | --- | --- |

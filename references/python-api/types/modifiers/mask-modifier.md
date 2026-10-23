@@ -86,7 +86,7 @@ type
 
 ### MaskModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. MaskModifier ( Modifier )
 
 A modifier that hides selected portions of the mesh.

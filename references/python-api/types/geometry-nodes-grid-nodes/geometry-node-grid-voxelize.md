@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGridVoxelize(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridVoxelize ( GeometryNode )
 
 Densify a volume grid by converting its currently active tiles into individual voxels, eliminating the sparse storage.

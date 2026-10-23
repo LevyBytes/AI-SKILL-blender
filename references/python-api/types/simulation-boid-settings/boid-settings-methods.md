@@ -4,7 +4,7 @@
 
 ### BoidSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types.BoidSettings(bpy_struct)
 
 Configuration controlling boid simulation behavior

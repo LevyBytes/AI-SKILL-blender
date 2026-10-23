@@ -4,7 +4,7 @@
 
 ### BlendImportContext(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types.BlendImportContext(bpy_struct)
 
 Carries contextual state for an operation involving a blendfile's libraries or linked data. At present it is surfaced only as read-only information for the handlers that run before and after a blend import.

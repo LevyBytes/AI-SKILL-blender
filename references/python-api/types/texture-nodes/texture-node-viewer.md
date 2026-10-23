@@ -85,7 +85,7 @@ type
 
 ### TextureNodeViewer(TextureNode)
 
-base classes — bpy_struct, Node, NodeInternal, TextureNode
+base classes: bpy_struct, Node, NodeInternal, TextureNode
 class bpy.types. TextureNodeViewer ( TextureNode )
 
 [Related references](INDEX.md).

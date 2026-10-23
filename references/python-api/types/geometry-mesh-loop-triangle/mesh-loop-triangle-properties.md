@@ -4,7 +4,7 @@
 
 ### MeshLoopTriangle(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MeshLoopTriangle ( bpy_struct )
 
 Tessellated triangle in a Mesh data-block

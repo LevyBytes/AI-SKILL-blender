@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeRotationToAxisAngle(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeRotationToAxisAngle ( FunctionNode )
 
 Breaks a rotation down into axis-and-angle components.

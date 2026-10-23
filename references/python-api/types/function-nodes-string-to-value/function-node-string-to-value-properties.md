@@ -4,7 +4,7 @@
 
 ### FunctionNodeStringToValue(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeStringToValue ( FunctionNode )
 
 Parses a number out of its string form.

@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGetNamedGrid(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGetNamedGrid ( GeometryNode ) 
 
 Pull a named volume grid out of a volume geometry

@@ -44,7 +44,7 @@ type
 
 ### `NODE_AST`_compositor(AssetShelf)
 
-base classes — bpy_struct, AssetShelf
+base classes: bpy_struct, AssetShelf
 
 class bpy.types. `NODE_AST`_compositor ( AssetShelf )
 

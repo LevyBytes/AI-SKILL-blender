@@ -79,7 +79,7 @@ type
 
 ### EnumProperty(Property)
 
-base classes — bpy_struct, Property
+base classes: bpy_struct, Property
 class bpy.types. EnumProperty ( Property )
 
 An RNA enumeration property whose value is selected from a fixed set of predefined options.

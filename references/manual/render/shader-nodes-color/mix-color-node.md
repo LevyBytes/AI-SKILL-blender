@@ -7,18 +7,18 @@ The Mix Color node mixes value, color, and vector inputs using a factor that con
 The Mix Color Node mixes value, color, and vector inputs, using a factor to control the amount of interpolation; the Color mode adds extra blending modes.
 
 Inputs:
-Factor — how much mixing happens between the A and B inputs.
-A/B — the two inputs mixed together.
+Factor: how much mixing happens between the A and B inputs.
+A/B: the two inputs mixed together.
 
 Properties:
-Data Type — the data type used for mixing; the node supports float, vector, color, and rotation data types.
-Factor Mode (Vector only) — set to Uniform or Non-Uniform: Uniform uses a single float for the factor, Non-Uniform uses a vector controlling the factor for each XYZ channel separately.
-Mix (Color only) — pick a blend mode from the select menu (see Color Blend Modes for details on each): Add, Subtract, Multiply, Screen, Divide, Difference, Darken, Lighten, Overlay, Color Dodge, Color Burn, Hue, Saturation, Value, Color, Soft Light, Linear Light.
-Clamp Factor — limit the factor to between 0.0 and 1.0; unchecked, the node operates using Extrapolation.
-Clamp Result (Color only) — limit the Result to between 0.0 and 1.0.
+Data Type: the data type used for mixing; the node supports float, vector, color, and rotation data types.
+Factor Mode (Vector only): set to Uniform or Non-Uniform: Uniform uses a single float for the factor, Non-Uniform uses a vector controlling the factor for each XYZ channel separately.
+Mix (Color only): pick a blend mode from the select menu (see Color Blend Modes for details on each): Add, Subtract, Multiply, Screen, Divide, Difference, Darken, Lighten, Overlay, Color Dodge, Color Burn, Hue, Saturation, Value, Color, Soft Light, Linear Light.
+Clamp Factor: limit the factor to between 0.0 and 1.0; unchecked, the node operates using Extrapolation.
+Clamp Result (Color only): limit the Result to between 0.0 and 1.0.
 
 Outputs:
-Result — the mix result, in the selected data type.
+Result: the mix result, in the selected data type.
 
 Examples: below are blending-mode examples plus some practical use cases, such as blending a colored pattern with a flat color (top row) and with a circular mask (bottom row).
 Fixing overexposure: the compositing setup fixes an overexposed render by darkening it and increasing contrast. The top RGB Curves Node darkens the image by linearly scaling each color value down; the bottom curve node raises contrast by making small values smaller and large values larger; finally the Mix node blends the two together.
@@ -34,7 +34,7 @@ Blender supplies complete functionality for both embedding and verifying waterma
 
 #### Encoding your Watermark in an Image 
 
-Start by creating a personal watermark—text, symbol, or distinctive image hard to replicate. Though neutral gray functions optimally with the proposed technique, any color or pattern works. Size flexibility ranges from single pixel to complete gradient.
+Start by creating a personal watermark: text, symbol, or distinctive image hard to replicate. Though neutral gray functions optimally with the proposed technique, any color or pattern works. Size flexibility ranges from single pixel to complete gradient.
 
 Below, we position the watermark using the Translate node; later we need only check a specific area. The RGB to BW node converts the color image to grayscale, fed to Map Range to diminish the mark to one-tenth strength.
 

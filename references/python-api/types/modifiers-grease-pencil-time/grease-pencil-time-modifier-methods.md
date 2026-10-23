@@ -4,7 +4,7 @@
 
 ### GreasePencilTimeModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilTimeModifier ( Modifier )
 
 Shifts which keyframes are shown over time.

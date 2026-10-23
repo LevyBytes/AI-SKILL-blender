@@ -1,4 +1,4 @@
-# Icon Items — playhead icons
+# Icon Items - playhead icons
 
 | Value | Meaning |
 | --- | --- |

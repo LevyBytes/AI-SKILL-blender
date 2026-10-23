@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSampleGrid(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSampleGrid ( GeometryNode )
 
 Read values out of the chosen volume grid

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeReplaceMaterial(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeReplaceMaterial ( GeometryNode )
 
 Exchange one material for a different one

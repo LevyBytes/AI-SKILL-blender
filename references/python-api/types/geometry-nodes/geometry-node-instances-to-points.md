@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInstancesToPoints(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInstancesToPoints ( GeometryNode ) 
 
 Drop a point at the origin of every instance.

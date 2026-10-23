@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeInputSpecialCharacters(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeInputSpecialCharacters ( FunctionNode ) 
 
 Emit string characters that the keyboard cannot enter directly

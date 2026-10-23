@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSampleGridIndex(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSampleGridIndex ( GeometryNode )
 
 Read out the values held by particular voxels of a volume grid

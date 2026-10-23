@@ -4,7 +4,7 @@
 
 ### WeightedNormalModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. WeightedNormalModifier ( Modifier )
 invert_vertex_group
 

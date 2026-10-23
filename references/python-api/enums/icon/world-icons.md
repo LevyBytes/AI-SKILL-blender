@@ -1,4 +1,4 @@
-# Icon Items — world icons
+# Icon Items - world icons
 
 | Value | Meaning |
 | --- | --- |

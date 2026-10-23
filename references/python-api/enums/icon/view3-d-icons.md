@@ -1,4 +1,4 @@
-# Icon Items — view3 d icons
+# Icon Items - view3 d icons
 
 | Value | Meaning |
 | --- | --- |

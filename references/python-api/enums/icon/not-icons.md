@@ -1,4 +1,4 @@
-# Icon Items — not icons
+# Icon Items - not icons
 
 | Value | Meaning |
 | --- | --- |

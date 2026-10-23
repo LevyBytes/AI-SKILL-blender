@@ -4,7 +4,7 @@
 
 ### CompositorNodeConvertColorSpace(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeConvertColorSpace ( CompositorNode )
 
 Translate an image between color spaces

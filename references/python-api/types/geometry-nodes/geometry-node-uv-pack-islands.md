@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeUVPackIslands(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeUVPackIslands ( GeometryNode )
 
 Resizes and repositions the islands of a UV map so they occupy as much of the UV space as they can.

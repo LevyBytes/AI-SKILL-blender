@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeHueSaturation(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeHueSaturation ( ShaderNode ) 
 
 Adjust color using the HSV color model

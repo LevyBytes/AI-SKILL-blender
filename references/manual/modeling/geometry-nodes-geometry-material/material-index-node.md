@@ -11,6 +11,6 @@ Related: Set Material Index node provides input control.
 Inputs: None
 
 Outputs:
-Material Index — Integer value (minimum zero).
+Material Index: Integer value (minimum zero).
 
 [Related references](INDEX.md).

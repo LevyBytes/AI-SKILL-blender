@@ -4,7 +4,7 @@
 
 ### VertexWeightMixModifier(Modifier) 
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. VertexWeightMixModifier ( Modifier ) 
 
 Blend together the weights of a pair of vertex groups

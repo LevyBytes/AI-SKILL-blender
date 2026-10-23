@@ -1,4 +1,4 @@
-# Video strips: Clear transforms — Position
+# Video strips: Clear transforms - Position
 
 #### Position
 

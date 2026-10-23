@@ -4,7 +4,7 @@
 
 ### TextureSlot(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 BrushTextureSlot, LineStyleTextureSlot, ParticleSettingsTextureSlot

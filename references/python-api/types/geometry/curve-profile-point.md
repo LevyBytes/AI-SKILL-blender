@@ -77,7 +77,7 @@ type
 
 ### CurveProfilePoint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CurveProfilePoint ( bpy_struct )
 
 A point that helps define a profile path.

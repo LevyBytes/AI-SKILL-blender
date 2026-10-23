@@ -1,4 +1,4 @@
-# bpy.types.ColorRamp — class-contract, Inherited Properties, Inherited Functions, References, ColorRamp(bpy_struct)
+# bpy.types.ColorRamp - class-contract, Inherited Properties, Inherited Functions, References, ColorRamp(bpy_struct)
 
 color_mode
 

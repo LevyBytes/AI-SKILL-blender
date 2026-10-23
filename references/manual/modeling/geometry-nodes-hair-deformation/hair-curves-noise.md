@@ -9,7 +9,7 @@ Hair Curves Noise deforms strands with procedural noise, yielding believable ran
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for noise deformation.
+Geometry: the hair-curve geometry fed in for noise deformation.
 
 Cumulative Offset
 On, every point's offset takes cues from the points ahead of it along the strand — gentler, continuous bending instead of each point moving on its own.

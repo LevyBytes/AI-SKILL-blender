@@ -4,7 +4,7 @@
 
 ### GeometryNodeBoneInfo(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeBoneInfo ( GeometryNode )
 
 Pulls information about the bones of an armature.

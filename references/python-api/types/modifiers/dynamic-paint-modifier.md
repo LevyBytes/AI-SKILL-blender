@@ -65,7 +65,7 @@ type
 
 ### DynamicPaintModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. DynamicPaintModifier ( Modifier )
 
 The Dynamic Paint modifier

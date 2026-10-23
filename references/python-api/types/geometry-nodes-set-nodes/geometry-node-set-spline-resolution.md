@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetSplineResolution(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetSplineResolution ( GeometryNode ) 
 
 Determines the count of evaluated points placed along every curve segment.

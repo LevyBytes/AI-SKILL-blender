@@ -56,7 +56,7 @@ type
 
 ### CollectionLightLinking(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CollectionLightLinking ( bpy_struct )
 
 Light linking configuration for a collection's objects and child collections

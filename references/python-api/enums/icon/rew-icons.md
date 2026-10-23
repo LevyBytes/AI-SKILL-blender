@@ -1,4 +1,4 @@
-# Icon Items — rew icons
+# Icon Items - rew icons
 
 | Value | Meaning |
 | --- | --- |

@@ -64,7 +64,7 @@ type
 
 ### NodeSocketFloatTime(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketFloatTime ( NodeSocketStandard )
 
 A node socket carrying a floating-point value.

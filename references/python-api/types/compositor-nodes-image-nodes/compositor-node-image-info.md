@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeImageInfo(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeImageInfo ( CompositorNode )
 
 Reports metadata and properties about an image.

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeUVTangent(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeUVTangent ( GeometryNode )
 
 Derives tangent vectors from a UV map.

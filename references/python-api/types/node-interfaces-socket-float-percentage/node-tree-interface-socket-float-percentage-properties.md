@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketFloatPercentage(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketFloatPercentage ( NodeTreeInterfaceSocket )
 
 A node socket that carries a floating-point number

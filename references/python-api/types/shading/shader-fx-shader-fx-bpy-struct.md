@@ -1,8 +1,8 @@
-# bpy.types.ShaderFx — ShaderFx(bpy_struct)
+# bpy.types.ShaderFx - ShaderFx(bpy_struct)
 
 ### ShaderFx(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 ShaderFxBlur, ShaderFxColorize, ShaderFxFlip, ShaderFxGlow, ShaderFxPixel, ShaderFxRim, ShaderFxShadow, ShaderFxSwirl, ShaderFxWave

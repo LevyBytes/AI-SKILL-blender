@@ -2,7 +2,7 @@
 
 ## Along Stroke
 
-Along Stroke — Length-Based Gradient
+Along Stroke: Length-Based Gradient
 
 The Along Stroke modifier applies a property gradient along each stroke's length, mapping a new value range per stroke.
 

@@ -4,7 +4,7 @@
 
 ### FreestyleSettings(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FreestyleSettings ( bpy_struct ) 
 
 The Freestyle configuration carried by a ViewLayer data-block

@@ -89,6 +89,6 @@ Collection of movie clips
 
 Registry of reusable node setup templates.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 
 [Related references](INDEX.md).

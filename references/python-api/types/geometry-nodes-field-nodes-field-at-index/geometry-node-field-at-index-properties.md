@@ -4,7 +4,7 @@
 
 ### GeometryNodeFieldAtIndex(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeFieldAtIndex ( GeometryNode ) 
 
 Read data belonging to other elements within the geometry of the current context

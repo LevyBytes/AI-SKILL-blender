@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeGridGradient(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridGradient ( GeometryNode ) 
 
 Measure how fast and in what direction the values of a scalar grid change

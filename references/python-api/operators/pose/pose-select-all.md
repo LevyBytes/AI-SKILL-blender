@@ -30,10 +30,10 @@ set[Literal[Operator Return Items]]
 bpy.ops.pose. select_all ( * , action = 'TOGGLE' )
 Toggles the selection status of all bones.
 Parameters: action ( Literal [ 'TOGGLE' , 'SELECT' , 'DESELECT' , 'INVERT' ] ) – Action, Selection action to execute (optional)
-- TOGGLE — Toggle: toggle selection for all elements.
-- SELECT — Select: select all elements.
-- DESELECT — Deselect: deselect all elements.
-- INVERT — Invert: invert selection of all elements.
+- TOGGLE - Toggle: toggle selection for all elements.
+- SELECT - Select: select all elements.
+- DESELECT - Deselect: deselect all elements.
+- INVERT - Invert: invert selection of all elements.
 Returns: The operator's result.
 Return type: set[Literal[Operator Return Items]]
 

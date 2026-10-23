@@ -64,7 +64,7 @@ type
 
 ### NodeSocketVectorXYZ4D(NodeSocketStandard) 
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketVectorXYZ4D ( NodeSocketStandard ) 
 
 A node socket carrying a three-component vector.

@@ -1,4 +1,4 @@
-# Icon Items — panel icons
+# Icon Items - panel icons
 
 | Value | Meaning |
 | --- | --- |

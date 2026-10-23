@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorTranslation4D(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorTranslation4D ( NodeTreeInterfaceSocket ) 
 
 A node's 3D vector socket

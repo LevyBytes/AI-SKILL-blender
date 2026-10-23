@@ -2,7 +2,7 @@
 
 ## Light Settings (EEVEE)
 
-Light Settings (EEVEE) — Overview
+Light Settings (EEVEE): Overview
 
 Reference
 Panel: Properties ‣ Object Data and Shader Editor ‣ Sidebar ‣ Options

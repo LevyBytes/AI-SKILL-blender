@@ -68,7 +68,7 @@ type
 
 ### BlendDataWorlds(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataWorlds(bpy_prop_collection)
 
 Manages the collection of world environment data.

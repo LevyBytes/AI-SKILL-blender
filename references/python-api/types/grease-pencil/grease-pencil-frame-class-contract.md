@@ -1,4 +1,4 @@
-# bpy.types.GreasePencilFrame — class-contract, Inherited Properties, Inherited Functions, References, GreasePencilFrame(bpy_struct)
+# bpy.types.GreasePencilFrame - class-contract, Inherited Properties, Inherited Functions, References, GreasePencilFrame(bpy_struct)
 
 drawing
 

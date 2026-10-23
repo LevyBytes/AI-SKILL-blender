@@ -64,7 +64,7 @@ type
 
 ### NodeSocketFloatMass(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketFloatMass ( NodeSocketStandard )
 
 A node socket carrying a floating-point value.

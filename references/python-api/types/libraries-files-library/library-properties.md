@@ -4,7 +4,7 @@
 
 ### Library(ID) 
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Library ( ID ) 
 
 External .blend file from which data is linked

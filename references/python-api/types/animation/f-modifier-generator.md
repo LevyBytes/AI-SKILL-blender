@@ -72,7 +72,7 @@ type
 
 ### FModifierGenerator(FModifier)
 
-base classes — bpy_struct, FModifier
+base classes: bpy_struct, FModifier
 class bpy.types. FModifierGenerator ( FModifier )
 
 Computes deterministic values for the F-Curve it modifies.

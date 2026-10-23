@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeInputNamedAttribute(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputNamedAttribute ( GeometryNode )
 
 Read out the values stored in a named attribute.

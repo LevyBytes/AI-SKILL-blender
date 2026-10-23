@@ -4,7 +4,7 @@
 
 ### GreasePencilLengthModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilLengthModifier ( Modifier )
 
 Lengthens or shortens strokes.

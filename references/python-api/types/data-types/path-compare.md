@@ -63,7 +63,7 @@ type
 
 ### PathCompare(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PathCompare ( bpy_struct )
 
 A value that paths are tested against

@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeToolActiveElement(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeToolActiveElement ( GeometryNode ) 
 
 The active element indices of the geometry being edited, supplied during tool execution.

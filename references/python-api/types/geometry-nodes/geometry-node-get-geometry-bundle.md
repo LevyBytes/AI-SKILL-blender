@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeGetGeometryBundle(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGetGeometryBundle ( GeometryNode ) 
 
 Fetch the bundle attached to a geometry

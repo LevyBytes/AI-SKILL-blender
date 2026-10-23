@@ -1,4 +1,4 @@
-# Icon Items — input letter keys
+# Icon Items - input letter keys
 
 | Value | Meaning |
 | --- | --- |

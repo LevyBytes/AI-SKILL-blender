@@ -1,4 +1,4 @@
-# Icon Items — stroke icons
+# Icon Items - stroke icons
 
 | Value | Meaning |
 | --- | --- |

@@ -64,7 +64,7 @@ type
 
 ### NodeSocketFloatWavelength(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketFloatWavelength ( NodeSocketStandard )
 
 A node socket carrying a floating-point value.

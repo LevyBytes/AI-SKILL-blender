@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeDespeckle(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeDespeckle ( CompositorNode )
 
 Cleans up visibly noisy patches of an image while leaving busy, detailed regions alone.

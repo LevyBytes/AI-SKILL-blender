@@ -90,7 +90,7 @@ type
 
 ### NodeGroup(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeGroup ( NodeInternal )
 
 [Related references](INDEX.md).

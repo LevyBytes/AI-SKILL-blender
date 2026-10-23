@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSwitch(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSwitch ( GeometryNode ) 
 
 Picks one of a pair of inputs to pass through.

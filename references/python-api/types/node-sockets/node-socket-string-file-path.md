@@ -64,7 +64,7 @@ type
 
 ### NodeSocketStringFilePath(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketStringFilePath ( NodeSocketStandard )
 
 A node socket carrying a string value.

@@ -57,7 +57,7 @@ type
 
 ### `UI_UL`_list(UIList) 
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `UI_UL`_list ( UIList ) 
 

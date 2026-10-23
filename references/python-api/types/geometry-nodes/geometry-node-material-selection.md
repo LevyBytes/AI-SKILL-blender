@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeMaterialSelection(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMaterialSelection ( GeometryNode ) 
 
 Output a face selection covering the faces assigned the chosen material.

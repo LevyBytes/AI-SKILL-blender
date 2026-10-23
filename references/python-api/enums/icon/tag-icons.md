@@ -1,4 +1,4 @@
-# Icon Items — tag icons
+# Icon Items - tag icons
 
 | Value | Meaning |
 | --- | --- |

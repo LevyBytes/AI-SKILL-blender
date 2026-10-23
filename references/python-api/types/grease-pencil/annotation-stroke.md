@@ -56,7 +56,7 @@ type
 
 A single hand-drawn curve within an annotation frame.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AnnotationStroke ( bpy_struct )
 
 A sketched line segment in a frame.

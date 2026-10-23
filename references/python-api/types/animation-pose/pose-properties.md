@@ -4,7 +4,7 @@
 
 ### Pose(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Pose ( bpy_struct )
 
 A set of pose channels together with the settings that animate bones.

@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexIES(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexIES ( ShaderNode )
 
 Reproduces real-world fixtures from IES files, which record how a light source spreads its intensity in each direction.

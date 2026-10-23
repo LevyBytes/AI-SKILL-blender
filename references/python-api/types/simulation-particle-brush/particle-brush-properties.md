@@ -4,7 +4,7 @@
 
 ### ParticleBrush(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ParticleBrush ( bpy_struct )
 
 Brush used when editing particles

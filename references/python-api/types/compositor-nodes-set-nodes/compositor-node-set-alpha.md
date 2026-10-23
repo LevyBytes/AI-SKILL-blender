@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeSetAlpha(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeSetAlpha ( CompositorNode )
 
 Attaches an alpha channel to an image.

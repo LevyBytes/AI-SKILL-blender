@@ -85,7 +85,7 @@ type
 
 ### NodeGeometryViewerItems(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodeGeometryViewerItems ( bpy_prop_collection )
 
 A set holding the viewer items for this node.

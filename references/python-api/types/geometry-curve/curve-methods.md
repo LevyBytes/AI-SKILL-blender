@@ -4,7 +4,7 @@
 
 ### Curve(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 
 subclasses —
 SurfaceCurve, TextCurve

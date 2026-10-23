@@ -1,4 +1,4 @@
-# bpy.types.GreasePencilTimeModifierSegment — class-contract, Inherited Properties, Inherited Functions, References, GreasePencilTimeModifierSegment(bpy_struct)
+# bpy.types.GreasePencilTimeModifierSegment - class-contract, Inherited Properties, Inherited Functions, References, GreasePencilTimeModifierSegment(bpy_struct)
 
 name
 

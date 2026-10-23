@@ -12,7 +12,7 @@ Note: grayscale textures stretch along one axis. Color textures work better.
 
 Strength controls displacement magnitude.
 
-Sample Radius affects quality and performance—smaller values run faster but may clip the volume exterior. Keeping displaced volumes near their original position is important for performance.
+Sample Radius affects quality and performance: smaller values run faster but may clip the volume exterior. Keeping displaced volumes near their original position is important for performance.
 
 Mid Level compensates when the texture causes a directional bias toward one side, allowing the displaced region to return to center.
 

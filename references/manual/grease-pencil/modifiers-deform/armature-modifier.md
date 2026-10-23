@@ -12,13 +12,13 @@ This documentation covers the Armature Modifier tailored to Grease Pencil object
 
 **Options.**
 
-Object — the armature object referenced by this modifier.
+Object: the armature object referenced by this modifier.
 
-Vertex Group — the object's vertex group whose weights regulate this modifier's blending with other Armature modifiers.
+Vertex Group: the object's vertex group whose weights regulate this modifier's blending with other Armature modifiers.
 
 Applies only when at least two Armature modifiers coexist on the same object with Multi Modifier engaged.
 
-Invert — reverses the vertex group's influence directivity (flips weight polarity).
+Invert: reverses the vertex group's influence directivity (flips weight polarity).
 
 Bind to:
 - Vertex Groups: when active, bones by name deform points in vertex groups of the same name (e.g., a "forearm" bone affects only "forearm" group points). Influence scales with the point's group weight—precise but setup-intensive versus Bone Envelopes.

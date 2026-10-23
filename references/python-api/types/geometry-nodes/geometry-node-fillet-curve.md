@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeFilletCurve(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeFilletCurve ( GeometryNode ) 
 
 Soften the corners at each control point by inserting circular arcs

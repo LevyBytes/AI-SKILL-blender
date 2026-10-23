@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorAcceleration(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorAcceleration ( NodeTreeInterfaceSocket )
 
 A node socket holding a 3D vector

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeCurveStar(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveStar ( GeometryNode )
 
 Build a star-shaped poly spline by linking alternating points taken from two circles.

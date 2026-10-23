@@ -45,7 +45,7 @@ type
 
 ### `PHYSICS_UL`_dynapaint_surfaces(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `PHYSICS_UL`_dynapaint_surfaces ( UIList )
 

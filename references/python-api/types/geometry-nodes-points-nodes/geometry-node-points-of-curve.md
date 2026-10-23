@@ -85,7 +85,7 @@ type
 
 ### GeometryNodePointsOfCurve(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodePointsOfCurve ( GeometryNode )
 
 Look up the index of a point that sits within a given curve

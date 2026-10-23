@@ -59,7 +59,7 @@ Return type: type
 
 ### ActionChannelbags(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.ActionChannelbags(bpy_prop_collection)
 
 For every action slot, a set of animation channels intended for that slot

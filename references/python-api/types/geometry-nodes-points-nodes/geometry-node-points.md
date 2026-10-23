@@ -85,7 +85,7 @@ type
 
 ### GeometryNodePoints(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodePoints ( GeometryNode )
 
 Build a point cloud whose per-point positions and radii are driven by fields

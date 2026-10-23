@@ -85,7 +85,7 @@ type
 
 ### ShaderNodePointInfo(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodePointInfo ( ShaderNode )
 
 Reads back data describing points within a point cloud.

@@ -22,25 +22,25 @@ Controls the Strength falloff from the brush center (left curve) to borders (rig
 
 Curve Preset
 
-Custom — Manually manipulate control points in the curve widget or choose a preset curve as a starting point.
+Custom: Manually manipulate control points in the curve widget or choose a preset curve as a starting point.
 
-Smooth — Center, border, and transition strength are evenly distributed.
+Smooth: Center, border, and transition strength are evenly distributed.
 
-Smoother — Similar to Smooth with a wider center point before tapering.
+Smoother: Similar to Smooth with a wider center point before tapering.
 
-Sphere — Strength concentrates at the center with steep border falloff.
+Sphere: Strength concentrates at the center with steep border falloff.
 
-Root — Similar to Sphere with a more concentrated center.
+Root: Similar to Sphere with a more concentrated center.
 
-Sharp — Strongest at center, exponentially tapering off to a fine point.
+Sharp: Strongest at center, exponentially tapering off to a fine point.
 
-Linear — Center is strongest; strength consistently weakens toward borders.
+Linear: Center is strongest; strength consistently weakens toward borders.
 
-Sharper — Similar to Sharp with a more condensed center.
+Sharper: Similar to Sharp with a more condensed center.
 
-Inverse Square — Hybrid between Smooth and Sphere.
+Inverse Square: Hybrid between Smooth and Sphere.
 
-Constant — Strength remains unified across the entire brush, creating a sharp border edge.
+Constant: Strength remains unified across the entire brush, creating a sharp border edge.
 
 Options
 

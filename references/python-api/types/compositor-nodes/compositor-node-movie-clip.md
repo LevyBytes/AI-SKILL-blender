@@ -90,7 +90,7 @@ type
 
 ### CompositorNodeMovieClip(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeMovieClip ( CompositorNode )
 
 Pulls a still or video frame from a movie clip data-block, a common source when working with motion tracking.

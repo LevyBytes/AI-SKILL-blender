@@ -41,7 +41,7 @@ type
 
 ### BlendImportContextLibraries(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendImportContextLibraries(bpy_prop_collection)
 
 Groups together the source libraries — that is, the blendfile paths — referenced by an import.

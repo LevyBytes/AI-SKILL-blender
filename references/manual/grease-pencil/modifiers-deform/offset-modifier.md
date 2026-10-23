@@ -8,11 +8,11 @@ The Offset Modifier repositions, rotates, or rescales strokes measured from the 
 
 **General.**
 
-Location X, Y, Z — stroke displacement relative to origin.
+Location X, Y, Z: stroke displacement relative to origin.
 
-Rotation X, Y, Z — stroke angular orientation.
+Rotation X, Y, Z: stroke angular orientation.
 
-Scale X, Y, Z — stroke magnitude scaling.
+Scale X, Y, Z: stroke magnitude scaling.
 
 **Advanced.**
 
@@ -22,19 +22,19 @@ Mode:
 - Stroke: bases offsets on stroke enumeration.
 - Material: bases offsets on material assignment.
 
-Offset X, Y, Z — per-element positional delta.
+Offset X, Y, Z: per-element positional delta.
 
-Rotation X, Y, Z — per-element angular rotation.
+Rotation X, Y, Z: per-element angular rotation.
 
-Scale X, Y, Z — per-element magnitude change.
+Scale X, Y, Z: per-element magnitude change.
 
-Uniform Scale (Random mode) — shares one random Seed across all scale axes, producing isotropic scaling.
+Uniform Scale (Random mode): shares one random Seed across all scale axes, producing isotropic scaling.
 
-Seed (Random mode) — initializer for the pseudo-random sequence.
+Seed (Random mode): initializer for the pseudo-random sequence.
 
-Layer/Stroke/Material Step (Layer, Stroke, Material mode) — how many contiguous elements to batch and offset.
+Layer/Stroke/Material Step (Layer, Stroke, Material mode): how many contiguous elements to batch and offset.
 
-Offset (Layer, Stroke, Material mode) — shifts the enumeration baseline.
+Offset (Layer, Stroke, Material mode): shifts the enumeration baseline.
 
 **Influence.**
 

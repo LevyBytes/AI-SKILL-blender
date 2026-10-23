@@ -51,7 +51,7 @@ type
 
 ### FloatVectorAttribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. FloatVectorAttribute ( Attribute )
 
 A geometry attribute whose entries are floating-point 3D vectors.

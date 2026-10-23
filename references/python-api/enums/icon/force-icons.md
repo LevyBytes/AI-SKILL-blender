@@ -1,4 +1,4 @@
-# Icon Items — force icons
+# Icon Items - force icons
 
 | Value | Meaning |
 | --- | --- |

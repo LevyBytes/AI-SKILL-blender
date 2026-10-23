@@ -50,7 +50,7 @@ obj.keyframe_insert(data_path="location", frame=1)
 ```
 
 Bear in mind that keying data paths with nested properties has to be
-performed on the ID subclass — here the Armature rather
+performed on the ID subclass: here the Armature rather
 than the bone.
 
 ```python

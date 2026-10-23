@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeMeshFaceSetBoundaries(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshFaceSetBoundaries ( GeometryNode ) 
 
 Locate the edges sitting between neighbouring face groups that carry matching ID values.

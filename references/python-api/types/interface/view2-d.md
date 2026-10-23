@@ -85,7 +85,7 @@ type
 
 ### View2D(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. View2D ( bpy_struct ) 
 
 Panning and zooming over a 2D region

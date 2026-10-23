@@ -30,7 +30,7 @@ Sort by Name
 Flips ordering between alphabetical and not.
 
 Reverse
-Orders objects ascending or descending — and where alphabetical sorting is on, that direction applies to it as well.
+Orders objects ascending or descending: and where alphabetical sorting is on, that direction applies to it as well.
 
 Over on the right of the list view sit the list modification buttons:
 

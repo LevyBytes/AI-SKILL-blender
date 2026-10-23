@@ -1,4 +1,4 @@
-# Icon Items — graph icons
+# Icon Items - graph icons
 
 | Value | Meaning |
 | --- | --- |

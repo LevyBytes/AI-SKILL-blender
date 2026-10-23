@@ -70,7 +70,7 @@ type
 
 Collection of target bones for an armature constraint.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. ArmatureConstraintTargets ( bpy_prop_collection )
 
 Container of influencing bones and their weights.

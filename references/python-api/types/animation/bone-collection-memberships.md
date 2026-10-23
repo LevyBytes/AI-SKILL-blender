@@ -52,7 +52,7 @@ type
 
 ### BoneCollectionMemberships(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. BoneCollectionMemberships ( bpy_prop_collection )
 
 The set of bone collections that this Bone belongs to.

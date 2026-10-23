@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetID(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetID ( GeometryNode ) 
 
 Writes the id attribute onto incoming geometry; chiefly an internal helper used for randomization.

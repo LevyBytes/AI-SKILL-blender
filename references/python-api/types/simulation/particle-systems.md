@@ -63,7 +63,7 @@ type
 
 ### ParticleSystems(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. ParticleSystems ( bpy_prop_collection )
 
 The set of particle systems

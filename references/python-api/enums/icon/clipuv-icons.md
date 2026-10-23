@@ -1,4 +1,4 @@
-# Icon Items — clipuv icons
+# Icon Items - clipuv icons
 
 | Value | Meaning |
 | --- | --- |

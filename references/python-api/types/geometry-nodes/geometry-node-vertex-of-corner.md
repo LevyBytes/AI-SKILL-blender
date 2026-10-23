@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeVertexOfCorner(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeVertexOfCorner ( GeometryNode )
 
 Looks up which vertex a given face corner connects to.

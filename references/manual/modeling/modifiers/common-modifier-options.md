@@ -8,7 +8,7 @@ Vertex Groups enable targeted per-vertex control. A group's weights determine ho
 
 A field displays the current group name. When a group is renamed, any modifier referencing it loses the link (the field turns red), requiring manual re-selection.
 
-Invert reverses the group's effect—selected vertices now represent areas the modifier will not touch. The inversion flips the weight values.
+Invert reverses the group's effect: selected vertices now represent areas the modifier will not touch. The inversion flips the weight values.
 
 Texture-based masking allows any image (including procedural textures) to control modifier strength. Most often the grayscale value is used, though some modifiers (like Displace in certain modes) read RGB channels.
 

@@ -24,7 +24,7 @@ Cancel Esc
 Drops the cut entirely.
 
 Undo Ctrl - Z
-Undoes the last cutting line — or, if you'd been dragging, every cutting line from that drag.
+Undoes the last cutting line: or, if you'd been dragging, every cutting line from that drag.
 
 Midpoint Snap Shift
 Hold it down to pull the cursor onto the midpoint of each edge.
@@ -41,7 +41,7 @@ Pins the current cutting line to a global axis. A second press uses the object's
 third lifts the constraint.
 
 Measure S
-Steps through the measurement readouts — distances, angles, or both at once.
+Steps through the measurement readouts: distances, angles, or both at once.
 
 X-Ray V
 Switches the display of geometry-hidden cuts on or off.

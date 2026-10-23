@@ -6,7 +6,7 @@
 
 For every top-level instance, Instance Bounds returns its axis-aligned bounding box.
 
-Useful for determining instance spatial extent—positioning or scaling based on size, etc.
+Useful for determining instance spatial extent: positioning or scaling based on size, etc.
 
 Note: Only top-level instances are considered; nested instances inside instance geometry are not included (avoids realizing nested instances for performance).
 

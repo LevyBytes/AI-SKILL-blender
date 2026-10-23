@@ -1,4 +1,4 @@
-# Icon Items — gp icons
+# Icon Items - gp icons
 
 | Value | Meaning |
 | --- | --- |

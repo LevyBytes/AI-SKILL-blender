@@ -77,7 +77,7 @@ type
 
 ### StripCrop(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. StripCrop ( bpy_struct )
 
 The cropping controls belonging to a sequence strip.

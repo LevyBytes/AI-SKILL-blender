@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSubdivideMesh(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSubdivideMesh ( GeometryNode ) 
 
 Splits mesh faces into smaller pieces while preserving the form and volume, positioning the added vertices by linear interpolation.

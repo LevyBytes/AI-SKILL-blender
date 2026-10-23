@@ -4,7 +4,7 @@
 
 ### GeometryNodeGizmoLinear(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGizmoLinear ( GeometryNode ) 
 
 Display a linear gizmo over a value in the viewport

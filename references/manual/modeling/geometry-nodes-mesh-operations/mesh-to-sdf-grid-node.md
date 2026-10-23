@@ -10,14 +10,14 @@ Positive = outside, negative = inside, zero = surface.
 
 ### Inputs
 
-Mesh — Surface to distance-field.
+Mesh: Surface to distance-field.
 
-Voxel Size — Edge dimension. Smaller = finer detail, more memory/compute. Larger = lower precision, faster.
+Voxel Size: Edge dimension. Smaller = finer detail, more memory/compute. Larger = lower precision, faster.
 
-Band Width — Active region width (voxel units). Only voxels near surface store distances; wider band = more overhead.
+Band Width: Active region width (voxel units). Only voxels near surface store distances; wider band = more overhead.
 
 ### Outputs
 
-SDF Grid — Float grid. Each voxel: signed distance to nearest surface point.
+SDF Grid - Float grid. Each voxel: signed distance to nearest surface point.
 
 [Related references](INDEX.md).

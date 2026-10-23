@@ -48,7 +48,7 @@ type
 
 ### `IMAGE_AST`_brush_paint(AssetShelf)
 
-base classes — bpy_struct, AssetShelf
+base classes: bpy_struct, AssetShelf
 
 class bpy.types. `IMAGE_AST`_brush_paint ( AssetShelf )
 

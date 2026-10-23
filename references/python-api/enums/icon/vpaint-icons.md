@@ -1,4 +1,4 @@
-# Icon Items — vpaint icons
+# Icon Items - vpaint icons
 
 | Value | Meaning |
 | --- | --- |

@@ -58,7 +58,7 @@ type
 
 ### WhiteBalanceModifier(StripModifier)
 
-base classes — bpy_struct, StripModifier
+base classes: bpy_struct, StripModifier
 class bpy.types. WhiteBalanceModifier ( StripModifier )
 
 White balance modifier applied to a sequence strip.

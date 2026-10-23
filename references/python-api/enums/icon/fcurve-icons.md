@@ -1,4 +1,4 @@
-# Icon Items — fcurve icons
+# Icon Items - fcurve icons
 
 | Value | Meaning |
 | --- | --- |

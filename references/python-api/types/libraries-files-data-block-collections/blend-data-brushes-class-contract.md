@@ -1,4 +1,4 @@
-# bpy.types.BlendDataBrushes — class-contract, Inherited Properties, Inherited Functions, References
+# bpy.types.BlendDataBrushes - class-contract, Inherited Properties, Inherited Functions, References
 
 new ( name , * , mode = '`TEXTURE_PAINT`' ) 
 

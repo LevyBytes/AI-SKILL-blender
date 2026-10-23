@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeListLength(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeListLength ( GeometryNode ) 
 
 Return the number of entries contained in a list.

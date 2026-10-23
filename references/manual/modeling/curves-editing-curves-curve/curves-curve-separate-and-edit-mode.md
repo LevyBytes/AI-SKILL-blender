@@ -44,7 +44,7 @@ Auto handles update only if they are Auto type.
 Open and Closed curves. 
 
 This action applies only to the original first or the last added control point.
-Deleting segments doesn't change this—only the starting and last points matter. This means
+Deleting segments doesn't change this: only the starting and last points matter. This means
 Alt - C may join two curves instead of closing one!
 Remember: closing a 2D curve creates a renderable flat face.
 

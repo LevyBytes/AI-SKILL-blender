@@ -26,7 +26,7 @@ Tracking Mode offers three views; toggle using the header selector. The entire M
 
 Manual Lens Calibration
 
-All cameras record distorted video—intrinsic to optical design.
+All cameras record distorted video: intrinsic to optical design.
 
 Accurate camera solving demands exact focal length and distortion values.
 

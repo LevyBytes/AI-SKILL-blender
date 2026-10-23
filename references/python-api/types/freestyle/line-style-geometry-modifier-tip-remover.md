@@ -72,7 +72,7 @@ type
 
 ### LineStyleGeometryModifier_TipRemover(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_TipRemover ( LineStyleGeometryModifier ) 
 
 Trim a segment off each end of the stroke backbone

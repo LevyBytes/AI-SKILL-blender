@@ -12,7 +12,7 @@ None.
 
 ### Outputs
 
-Face Count — Face count using edge. One = boundary edge (non-manifold). Zero = loose (unused).
+Face Count: Face count using edge. One = boundary edge (non-manifold). Zero = loose (unused).
 
 ### Examples
 

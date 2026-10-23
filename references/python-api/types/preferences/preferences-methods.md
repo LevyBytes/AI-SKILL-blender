@@ -4,7 +4,7 @@
 
 ### Preferences(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Preferences ( bpy_struct )
 
 Blender's global preference settings.

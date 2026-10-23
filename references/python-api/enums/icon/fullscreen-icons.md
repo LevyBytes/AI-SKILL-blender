@@ -1,4 +1,4 @@
-# Icon Items — fullscreen icons
+# Icon Items - fullscreen icons
 
 | Value | Meaning |
 | --- | --- |

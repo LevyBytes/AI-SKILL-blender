@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeMeshCircle(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshCircle ( GeometryNode ) 
 
 Build a closed loop of edges shaped as a circle.

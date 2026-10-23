@@ -4,7 +4,7 @@
 
 ### FModifierLimits(FModifier)
 
-base classes — bpy_struct, FModifier
+base classes: bpy_struct, FModifier
 class bpy.types. FModifierLimits ( FModifier )
 
 Clamps the time and value range of the F-Curve it modifies.

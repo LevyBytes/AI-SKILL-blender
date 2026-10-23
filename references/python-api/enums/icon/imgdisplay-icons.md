@@ -1,4 +1,4 @@
-# Icon Items — imgdisplay icons
+# Icon Items - imgdisplay icons
 
 | Value | Meaning |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 ## Supported Nodes
 
-Supported Nodes — Node Compatibility
+Supported Nodes: Node Compatibility
 
 Most nodes originate from Cycles. Some functionality is absent and may or may not appear in EEVEE later.
 

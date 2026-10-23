@@ -1,4 +1,4 @@
-# Icon Items — bone icons
+# Icon Items - bone icons
 
 | Value | Meaning |
 | --- | --- |

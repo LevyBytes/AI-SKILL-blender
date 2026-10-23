@@ -56,7 +56,7 @@ type
 
 ### LineStyleThicknessModifier(LineStyleModifier) 
 
-base classes — bpy_struct, LineStyleModifier
+base classes: bpy_struct, LineStyleModifier
 
 subclasses —
 LineStyleThicknessModifier_AlongStroke, LineStyleThicknessModifier_Calligraphy, LineStyleThicknessModifier_CreaseAngle, LineStyleThicknessModifier_Curvature_3D, LineStyleThicknessModifier_DistanceFromCamera, LineStyleThicknessModifier_DistanceFromObject, LineStyleThicknessModifier_Material, LineStyleThicknessModifier_Noise, LineStyleThicknessModifier_Tangent

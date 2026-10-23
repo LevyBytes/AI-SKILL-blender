@@ -1,4 +1,4 @@
-# bpy.types.SmoothModifier — class-contract, Inherited Properties, Inherited Functions, SmoothModifier(Modifier)
+# bpy.types.SmoothModifier - class-contract, Inherited Properties, Inherited Functions, SmoothModifier(Modifier)
 
 factor
 

@@ -4,7 +4,7 @@
 
 ### GeometryNodeStoreNamedAttribute(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeStoreNamedAttribute ( GeometryNode ) 
 
 Evaluates a field across a geometry and saves the outcome as a named attribute.

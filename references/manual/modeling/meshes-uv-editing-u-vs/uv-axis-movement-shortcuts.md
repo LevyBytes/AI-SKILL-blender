@@ -9,29 +9,29 @@ Moves selected UV coordinates along a chosen axis by a specified distance. Desig
 
 Use these shortcuts to move UVs directly:
 
-Numpad8 / Numpad2 — Move up or down.
+Numpad8 / Numpad2: Move up or down.
 
-Numpad4 / Numpad6 — Move left or right.
+Numpad4 / Numpad6: Move left or right.
 
 Type
 
 Movement unit:
 
-Dynamic — Move using active grid size. Ctrl + number pad activates this.
+Dynamic: Move using active grid size. Ctrl + number pad activates this.
 
-Pixel — Move by pixel increments. Shift + number pad activates this.
+Pixel: Move by pixel increments. Shift + number pad activates this.
 
-UDIM — Move by full UV tiles (1.0 unit). Number pad without modifiers uses this.
+UDIM: Move by full UV tiles (1.0 unit). Number pad without modifiers uses this.
 
 Axis
 
 Direction to move:
 
-X Axis — Move horizontally.
+X Axis: Move horizontally.
 
-Y Axis — Move vertically.
+Y Axis: Move vertically.
 
-Distance — The distance to move, in selected units.
+Distance: The distance to move, in selected units.
 
 Copy UVs
 

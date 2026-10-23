@@ -1,4 +1,4 @@
-# Icon Items — spreadsheet icons
+# Icon Items - spreadsheet icons
 
 | Value | Meaning |
 | --- | --- |

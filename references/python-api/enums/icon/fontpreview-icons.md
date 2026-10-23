@@ -1,4 +1,4 @@
-# Icon Items — fontpreview icons
+# Icon Items - fontpreview icons
 
 | Value | Meaning |
 | --- | --- |

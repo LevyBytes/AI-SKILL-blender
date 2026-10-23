@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeSeparateXYZ(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeSeparateXYZ ( ShaderNode )
 
 Breaks a vector apart into separate X, Y, and Z channels.

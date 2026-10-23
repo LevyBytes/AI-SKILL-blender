@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeEdgesOfVertex(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeEdgesOfVertex ( GeometryNode )
 
 Look up the edges joined to each vertex.

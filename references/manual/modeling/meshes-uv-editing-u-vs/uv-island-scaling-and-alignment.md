@@ -7,9 +7,9 @@ Menu: UV ‣ Average Island Scale
 
 Scales each UV island so all approximate the same scale.
 
-Non-Uniform — Reduces average texture stretching within islands by scaling U and V axes independently.
+Non-Uniform: Reduces average texture stretching within islands by scaling U and V axes independently.
 
-Shear — Reduces average texture shearing by shearing the U axis.
+Shear: Reduces average texture shearing by shearing the U axis.
 
 Arrange/Align Islands
 
@@ -22,43 +22,43 @@ Initial Position
 
 Reference point for calculating initial alignment:
 
-Bounding Box — Uses the bounding boxes of selected islands.
+Bounding Box: Uses the bounding boxes of selected islands.
 
-UV Grid — Aligns relative to the UV grid origin (0-1 UV tile).
+UV Grid: Aligns relative to the UV grid origin (0-1 UV tile).
 
-Active UDIM — Aligns based on the active UDIM tile.
+Active UDIM: Aligns based on the active UDIM tile.
 
-2D Cursor — Uses the current 2D cursor position.
+2D Cursor: Uses the current 2D cursor position.
 
 Axis
 
 The axis along which to arrange islands:
 
-X — Align horizontally.
+X: Align horizontally.
 
-Y — Align vertically.
+Y: Align vertically.
 
 Align
 
 How islands align relative to each other:
 
-Min — Aligns by minimum boundary.
+Min: Aligns by minimum boundary.
 
-Max — Aligns by maximum boundary.
+Max: Aligns by maximum boundary.
 
-Center — Aligns by the center of the largest island.
+Center: Aligns by the center of the largest island.
 
-None — Keeps each island's original offset and alignment.
+None: Keeps each island's original offset and alignment.
 
 Order
 
 How islands are ordered:
 
-Largest to Smallest — Sorts by area, largest first.
+Largest to Smallest: Sorts by area, largest first.
 
-Smallest to Largest — Sorts by area, smallest first.
+Smallest to Largest: Sorts by area, smallest first.
 
-Fixed — Keeps the current selection order.
+Fixed: Keeps the current selection order.
 
 Margin
 

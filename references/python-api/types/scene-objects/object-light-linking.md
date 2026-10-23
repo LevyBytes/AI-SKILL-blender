@@ -63,7 +63,7 @@ type
 
 ### ObjectLightLinking(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ObjectLightLinking ( bpy_struct )
 
 [Related references](INDEX.md).

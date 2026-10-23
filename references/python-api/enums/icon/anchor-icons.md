@@ -1,4 +1,4 @@
-# Icon Items — anchor icons
+# Icon Items - anchor icons
 
 | Value | Meaning |
 | --- | --- |

@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeBilateralblur(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeBilateralblur ( CompositorNode )
 
 Blur an image adaptively while keeping its edges crisp

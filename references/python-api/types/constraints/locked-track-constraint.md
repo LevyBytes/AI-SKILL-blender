@@ -86,7 +86,7 @@ type
 
 ### LockedTrackConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. LockedTrackConstraint ( Constraint )
 
 Aims along the track axis at the target while keeping the remaining axis locked.

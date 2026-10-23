@@ -1,4 +1,4 @@
-# Icon Items — nla icons
+# Icon Items - nla icons
 
 | Value | Meaning |
 | --- | --- |

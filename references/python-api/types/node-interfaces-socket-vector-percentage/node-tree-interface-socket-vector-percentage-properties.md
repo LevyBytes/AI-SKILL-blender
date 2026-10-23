@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorPercentage(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorPercentage ( NodeTreeInterfaceSocket ) 
 
 A node socket that passes a 3D vector

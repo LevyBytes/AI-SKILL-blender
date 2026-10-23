@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeSwitch(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeSwitch ( CompositorNode )
 
 Flips between a pair of images via a checkbox toggle.

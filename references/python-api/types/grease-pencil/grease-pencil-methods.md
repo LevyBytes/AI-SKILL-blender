@@ -4,7 +4,7 @@
 
 ### GreasePencil(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. GreasePencil ( ID )
 
 Data-block holding Grease Pencil data.

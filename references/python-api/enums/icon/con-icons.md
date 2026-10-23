@@ -1,4 +1,4 @@
-# Icon Items — con icons
+# Icon Items - con icons
 
 | Value | Meaning |
 | --- | --- |

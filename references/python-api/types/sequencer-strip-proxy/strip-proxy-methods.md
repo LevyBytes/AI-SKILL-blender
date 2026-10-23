@@ -4,7 +4,7 @@
 
 ### StripProxy(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. StripProxy ( bpy_struct )
 
 The proxy controls belonging to a sequence strip.

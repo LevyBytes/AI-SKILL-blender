@@ -4,7 +4,7 @@
 
 ### ParticleEdit(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ParticleEdit ( bpy_struct )
 
 Settings that apply while in particle editing mode

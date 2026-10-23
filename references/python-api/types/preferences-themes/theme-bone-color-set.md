@@ -77,7 +77,7 @@ type
 
 ### ThemeBoneColorSet(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeBoneColorSet ( bpy_struct )
 
 Color-set styling for bones

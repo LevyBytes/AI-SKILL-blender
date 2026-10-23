@@ -66,7 +66,7 @@ type
 
 ### NlaStripFCurves(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NlaStripFCurves ( bpy_prop_collection )
 
 A set of F-Curves belonging to an NLA strip.

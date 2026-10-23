@@ -4,7 +4,7 @@
 
 ### VolumeDisplay(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. VolumeDisplay ( bpy_struct )
 
 Settings for showing a volume object in the 3D viewport.

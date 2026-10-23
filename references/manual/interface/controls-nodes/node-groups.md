@@ -11,18 +11,18 @@ Note: input values that don't affect the output are grayed out.
 The Group Output node defines what the group passes out; only sockets connected to it become outputs on the group itself.
 Important: avoid using output nodes such as Material Output inside node groups — keep those on the top-level node tree to make groups more reusable. Use Group Output to pass data out of a node group.
 
-Usage — Managing Inputs/Outputs: add, remove, and reorder input/output sockets in the Group panel in the Sidebar; you can also create a socket directly by dragging a link to or from the hollow socket on the Group Input or Group Output node to another socket in the editor.
+Usage - Managing Inputs/Outputs: add, remove, and reorder input/output sockets in the Group panel in the Sidebar; you can also create a socket directly by dragging a link to or from the hollow socket on the Group Input or Group Output node to another socket in the editor.
 Reusing Node Groups (Menu: Add ‣ Group; Shortcut: Shift-A): once defined, a node group can be placed again, in the same tree or another, and you can import groups from another blend-file via File ‣ Link/Append.
 Tip: when appending groups from another blend-file, Blender doesn't distinguish types like material vs. compositing groups, so adopt a naming convention — prefixes such as Mat_, Comp_, Geo_ — to signal each group's context.
 
-Properties — Group (Panel: Sidebar ‣ Group ‣ Group): properties about the group node, such as its name and look.
-Name — the node's name shown in the Title.
-Description — the message shown when hovering the Title or in add menus.
-Color Tag — the group's color tag, which influences the header color.
-Node Width — the width for newly created group nodes.
-(Set Default Node Width) — set the width from the parent group node in the current context.
-Show Manage Panel (Geometry Nodes) — show the Manage panel in Geometry Nodes modifiers when creating a modifier from a node-group asset.
-Usage (Geometry Nodes) — this panel shows only in the Geometry Node Editor.
+Properties - Group (Panel: Sidebar ‣ Group ‣ Group): properties about the group node, such as its name and look.
+Name: the node's name shown in the Title.
+Description: the message shown when hovering the Title or in add menus.
+Color Tag: the group's color tag, which influences the header color.
+Node Width: the width for newly created group nodes.
+(Set Default Node Width): set the width from the parent group node in the current context.
+Show Manage Panel (Geometry Nodes): show the Manage panel in Geometry Nodes modifiers when creating a modifier from a node-group asset.
+Usage (Geometry Nodes): this panel shows only in the Geometry Node Editor.
 - Modifier: the group is meant for the Geometry Nodes Modifier.
 - Tool: the group is meant to be used as a tool.
 The data-block menu in the Geometry Node Editor header lists only groups whose Usage matches the current Node Tree Sub-Type.
@@ -34,7 +34,7 @@ Group Sockets (Panel: Sidebar ‣ Group ‣ Group Sockets): add, remove, reorder
 - Panels: group related sockets together for structuring complex setups; panels always sit at the bottom of the node interface and can be nested by dragging one panel onto another in the interface item list.
 - Panel Toggle: add a boolean checkbox to a panel's header to control its contents; available only when a panel is selected in the interface item list. Panel toggles have their own options under the Panel Toggle subpanel, and a toggle socket isn't listed directly — a panel with a toggle instead shows a boolean socket icon by its name; unlink it from the panel to make the toggle socket visible again.
 Note: a panel toggle doesn't automatically disable or grey out its sockets; to disable sockets visually and functionally, use a Switch Node or similar logic and disconnect the socket manually.
-Interface Item List — a UI list view of all input/output sockets and panels; each item can be renamed and configured individually, and its name appears in the node's user interface.
+Interface Item List: a UI list view of all input/output sockets and panels; each item can be renamed and configured individually, and its name appears in the node's user interface.
 
 The Group panel contains properties for the group node itself. Name identifies the node uniquely within its tree. Label provides a custom title displayed in the header (not required to be unique). Color Tag influences header appearance. Node Width sets width for newly created group nodes; (Set Default Node Width) bases it on the parent.
 
@@ -61,8 +61,8 @@ Edit Group (Menu: Node ‣ Edit Group; Header: Go to Parent Node Tree; Shortcut:
 Ungroup (Menu: Node ‣ Ungroup; Shortcut: Ctrl-Alt-G): remove the group and place its individual nodes into your editor workspace, losing no internal connections, so you can now link those nodes to others in your workspace.
 
 Separate (Shortcut: P): remove the selected nodes from a node group and place them in the parent node tree — useful when nodes need editing outside a group for clarity or reuse.
-Copy — duplicate the selected nodes into the parent node tree while keeping the originals inside the group, useful for reusing nodes outside the group while preserving its definition.
-Move — move the selected nodes to the parent node tree, removing them from the original group, useful for simplifying a group or exposing its contents directly.
+Copy: duplicate the selected nodes into the parent node tree while keeping the originals inside the group, useful for reusing nodes outside the group while preserving its definition.
+Move: move the selected nodes to the parent node tree, removing them from the original group, useful for simplifying a group or exposing its contents directly.
 
 Join Group Inputs (Menu: Node ‣ Join Group Inputs; Shortcut: Ctrl-J): merge multiple selected Group Input nodes into one consolidated Group Input node where possible, preserving existing links and unifying duplicate inputs to cut clutter and simplify the node tree — useful for tidying groups that have become disorganized or hold redundant input nodes.
 

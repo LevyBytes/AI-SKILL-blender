@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSubdivisionSurface(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSubdivisionSurface ( GeometryNode ) 
 
 Refines mesh faces into a smooth surface by applying Catmull-Clark subdivision.

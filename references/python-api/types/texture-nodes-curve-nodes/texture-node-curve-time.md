@@ -92,7 +92,7 @@ type
 
 ### TextureNodeCurveTime(TextureNode)
 
-base classes — bpy_struct, Node, NodeInternal, TextureNode
+base classes: bpy_struct, Node, NodeInternal, TextureNode
 class bpy.types. TextureNodeCurveTime ( TextureNode )
 
 [Related references](INDEX.md).

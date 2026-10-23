@@ -4,7 +4,7 @@
 
 ### ShaderNodeAmbientOcclusion(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeAmbientOcclusion ( ShaderNode )
 
 Measure how much the hemisphere over the shading point is blocked, handy for adding wear to corners.

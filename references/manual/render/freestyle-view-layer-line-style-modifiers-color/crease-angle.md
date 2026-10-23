@@ -2,7 +2,7 @@
 
 ## Crease Angle
 
-Crease Angle — Edge Sharpness Modifier
+Crease Angle: Edge Sharpness Modifier
 
 This modifier alters properties based on adjacent face angles. Stroke segments not on creases (lacking Crease Angle nature) remain unaffected.
 

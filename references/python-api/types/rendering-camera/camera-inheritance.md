@@ -4,7 +4,7 @@
 
 ### Camera(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Camera ( ID )
 
 Camera data-block containing optical and rendering settings

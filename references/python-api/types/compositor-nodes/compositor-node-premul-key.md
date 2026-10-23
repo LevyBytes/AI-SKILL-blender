@@ -85,7 +85,7 @@ type
 
 ### CompositorNodePremulKey(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodePremulKey ( CompositorNode )
 
 Switches an image back and forth between straight and premultiplied (associated) alpha.

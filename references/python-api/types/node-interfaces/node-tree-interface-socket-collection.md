@@ -80,7 +80,7 @@ type
 
 ### NodeTreeInterfaceSocketCollection(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketCollection ( NodeTreeInterfaceSocket ) 
 
 A node socket that holds a collection.

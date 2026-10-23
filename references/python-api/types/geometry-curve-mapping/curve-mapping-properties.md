@@ -4,7 +4,7 @@
 
 ### CurveMapping(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CurveMapping ( bpy_struct )
 
 A curve, drawn by the user, that remaps color, vector, and scalar values onto new ones.

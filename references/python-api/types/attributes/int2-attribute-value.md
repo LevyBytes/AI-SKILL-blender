@@ -56,7 +56,7 @@ type
 
 ### Int2AttributeValue(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Int2AttributeValue ( bpy_struct )
 
 A 2D value within a geometry attribute.

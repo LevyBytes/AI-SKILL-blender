@@ -1,4 +1,4 @@
-# Icon Items — cone icons
+# Icon Items - cone icons
 
 | Value | Meaning |
 | --- | --- |

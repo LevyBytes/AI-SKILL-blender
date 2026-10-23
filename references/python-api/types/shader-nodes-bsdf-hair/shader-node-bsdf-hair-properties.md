@@ -4,7 +4,7 @@
 
 ### ShaderNodeBsdfHair(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfHair ( ShaderNode )
 
 Reflection and transmission shaders tuned for rendering hair

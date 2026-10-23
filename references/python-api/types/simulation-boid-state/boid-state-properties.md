@@ -4,7 +4,7 @@
 
 ### BoidState(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types.BoidState(bpy_struct)
 
 A behavioral state used by the boid simulation

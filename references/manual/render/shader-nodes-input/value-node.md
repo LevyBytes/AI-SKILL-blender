@@ -45,7 +45,7 @@ Single floating-point numerical value.
 
 ### Outputs
 
-- **Value** — The value set in node properties.
+- **Value**: The value set in node properties.
 
 ### Example
 

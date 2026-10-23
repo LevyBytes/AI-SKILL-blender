@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeBoundBox(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeBoundBox ( GeometryNode )
 
 Finds the extent of a geometry's positions and builds a box mesh matching those bounds.

@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGridDilateAndErode(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridDilateAndErode ( GeometryNode ) 
 
 Grow or shrink the active regions of a grid. The set of active voxels shifts while the stored values stay the same.

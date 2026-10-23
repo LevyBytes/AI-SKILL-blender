@@ -1,4 +1,4 @@
-# Icon Items — blender icons
+# Icon Items - blender icons
 
 | Value | Meaning |
 | --- | --- |

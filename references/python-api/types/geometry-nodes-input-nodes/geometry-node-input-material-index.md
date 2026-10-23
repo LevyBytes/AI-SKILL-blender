@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputMaterialIndex(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputMaterialIndex ( GeometryNode )
 
 Read out, for each element, the slot index of its material within the geometry's material list.

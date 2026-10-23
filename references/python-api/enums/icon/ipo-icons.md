@@ -1,4 +1,4 @@
-# Icon Items — ipo icons
+# Icon Items - ipo icons
 
 | Value | Meaning |
 | --- | --- |

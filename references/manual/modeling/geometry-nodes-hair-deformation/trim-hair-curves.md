@@ -9,7 +9,7 @@ Trim Hair Curves cuts strands down or scales them against a target length or len
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for trimming.
+Geometry: the hair-curve geometry fed in for trimming.
 
 Scale Uniform
 On, each strand scales uniformly to the target length. Off, the trim works progressively from root to tip.

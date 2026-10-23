@@ -1,4 +1,4 @@
-# Icon Items — underline icons
+# Icon Items - underline icons
 
 | Value | Meaning |
 | --- | --- |

@@ -46,7 +46,7 @@ type
 
 ### `POINTCLOUD_UL`_attributes(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `POINTCLOUD_UL`_attributes ( UIList )
 

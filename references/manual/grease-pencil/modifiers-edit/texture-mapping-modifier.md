@@ -6,7 +6,7 @@ The Texture Mapping Modifier repositions stroke texture UV coordinates.
 
 **Options.**
 
-Mode — which texture data to transform (stroke/fill or stroke alone):
+Mode: which texture data to transform (stroke/fill or stroke alone):
 
 Stroke:
 - Fit Method: chooses the texture alignment approach.

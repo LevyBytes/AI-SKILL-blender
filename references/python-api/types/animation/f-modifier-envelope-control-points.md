@@ -71,7 +71,7 @@ type
 
 ### FModifierEnvelopeControlPoints(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. FModifierEnvelopeControlPoints ( bpy_prop_collection )
 
 The set of control points that shape the envelope.

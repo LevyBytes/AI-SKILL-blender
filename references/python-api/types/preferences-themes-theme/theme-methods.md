@@ -4,7 +4,7 @@
 
 ### Theme(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Theme ( bpy_struct )
 
 Color and styling configuration for the user interface

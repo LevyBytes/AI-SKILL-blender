@@ -80,7 +80,7 @@ type
 
 ### KeyingSets(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. KeyingSets ( bpy_prop_collection ) 
 
 The keying sets belonging to a scene

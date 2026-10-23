@@ -4,7 +4,7 @@
 
 ### LineStyleThicknessModifier_CreaseAngle(LineStyleThicknessModifier)
 
-base classes — bpy_struct, LineStyleModifier, LineStyleThicknessModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleThicknessModifier
 class bpy.types. LineStyleThicknessModifier_CreaseAngle ( LineStyleThicknessModifier )
 
 Drives line width from the crease angle formed between two neighboring faces.

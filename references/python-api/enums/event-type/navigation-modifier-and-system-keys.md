@@ -1,4 +1,4 @@
-# Event Type Items — navigation modifier and system keys
+# Event Type Items - navigation modifier and system keys
 
 | Value | Meaning |
 | --- | --- |

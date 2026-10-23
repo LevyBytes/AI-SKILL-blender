@@ -45,7 +45,7 @@ type
 
 UI list showing metadata tags.
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `ASSETBROWSER_UL`_metadata_tags ( UIList )
 

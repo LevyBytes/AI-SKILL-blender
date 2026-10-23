@@ -70,7 +70,7 @@ type
 
 ### GreasePencilLayerMask(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. GreasePencilLayerMask ( bpy_struct )
 
 List of Mask Layers

@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeSeparateMatrix(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeSeparateMatrix ( FunctionNode )
 
 Decomposes a 4x4 matrix into its separate entries.

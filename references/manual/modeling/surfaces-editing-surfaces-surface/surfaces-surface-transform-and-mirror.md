@@ -77,7 +77,7 @@ Menu :
 Surface ‣ Spin
 
 Just like its mesh namesake, this operator sweeps the chosen control points
-again and again along a circle — one sitting on
+again and again along a circle: one sitting on
 the 3D Cursor and lying flat against the plane you're viewing from.
 Weights on the freshly made control points are tuned
 to trace a circle, and along the extrusion direction the surface gets flagged Cyclic , Bézier , and Endpoint

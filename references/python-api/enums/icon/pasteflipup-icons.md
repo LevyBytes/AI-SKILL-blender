@@ -1,4 +1,4 @@
-# Icon Items — pasteflipup icons
+# Icon Items - pasteflipup icons
 
 | Value | Meaning |
 | --- | --- |

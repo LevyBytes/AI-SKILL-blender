@@ -10,16 +10,16 @@ Output grids feature smooth transitions: high density inside, low outside. Enabl
 
 ### Inputs
 
-Mesh — Surface to voxelize.
+Mesh: Surface to voxelize.
 
-Density — Voxel value inside mesh. Convention: 1.0 full, 0.0 empty; any range works.
+Density: Voxel value inside mesh. Convention: 1.0 full, 0.0 empty; any range works.
 
-Voxel Size — Edge length in object units. Smaller = higher detail, more memory. Larger = faster, coarser.
+Voxel Size: Edge length in object units. Smaller = higher detail, more memory. Larger = faster, coarser.
 
-Gradient Width — Transition zone thickness (object units). Controls falloff steepness; wider = softer edge.
+Gradient Width: Transition zone thickness (object units). Controls falloff steepness; wider = softer edge.
 
 ### Outputs
 
-Density Grid — Float grid. Interior voxels high, exterior low; smooth ramp controlled by Gradient Width.
+Density Grid: Float grid. Interior voxels high, exterior low; smooth ramp controlled by Gradient Width.
 
 [Related references](INDEX.md).

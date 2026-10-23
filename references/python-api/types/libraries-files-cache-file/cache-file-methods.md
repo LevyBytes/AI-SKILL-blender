@@ -4,7 +4,7 @@
 
 ### CacheFile(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. CacheFile ( ID )
 classmethod bl_rna_get_subclass ( id , default = None , / )
 

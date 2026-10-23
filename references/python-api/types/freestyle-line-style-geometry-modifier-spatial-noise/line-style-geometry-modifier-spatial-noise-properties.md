@@ -4,7 +4,7 @@
 
 ### LineStyleGeometryModifier_SpatialNoise(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_SpatialNoise ( LineStyleGeometryModifier ) 
 
 Apply spatial noise to the stroke backbone geometry

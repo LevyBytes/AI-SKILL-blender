@@ -90,7 +90,7 @@ type
 
 ### ShaderNodeGroup(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeGroup ( ShaderNode )
 
 [Related references](INDEX.md).

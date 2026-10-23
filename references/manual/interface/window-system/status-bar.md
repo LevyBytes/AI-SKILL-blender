@@ -22,7 +22,7 @@ Running Task
 Tracks how far the task in flight has gotten (rendering or baking, say). Park the pointer over the progress bar and a time estimate appears. Click the cancel button ( ) to abort it.
 
 Report Message
-Notices or warnings — for instance, right after a file is saved. They fade out before long. A click opens the whole message in the Info Editor.
+Notices or warnings: for instance, right after a file is saved. They fade out before long. A click opens the whole message in the Info Editor.
 
 ### Resource Information
 On the right, the Status Bar reports on the Blender instance. Which details show is your call, set via RMB on the Status Bar or through the Preferences.

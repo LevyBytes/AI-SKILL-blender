@@ -4,7 +4,7 @@
 
 ### SpotLight(Light)
 
-base classes — bpy_struct, ID, Light
+base classes: bpy_struct, ID, Light
 class bpy.types. SpotLight ( Light )
 
 A cone-shaped directional Light

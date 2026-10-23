@@ -77,7 +77,7 @@ type
 
 ### CurveSlice(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CurveSlice ( bpy_struct )
 
 One curve drawn from a curves data-block.

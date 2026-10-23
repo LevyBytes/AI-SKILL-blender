@@ -51,7 +51,7 @@ type
 
 ### ModifierViewerPathElem(ViewerPathElem)
 
-base classes — bpy_struct, ViewerPathElem
+base classes: bpy_struct, ViewerPathElem
 class bpy.types. ModifierViewerPathElem ( ViewerPathElem )
 
 [Related references](INDEX.md).

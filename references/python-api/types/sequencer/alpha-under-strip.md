@@ -52,7 +52,7 @@ class bpy.types.AlphaUnderStrip(EffectStrip)
 Alpha Under Strip
 ### AnimData(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 ## AlphaUnderStrip(EffectStrip)
 
 [Related references](INDEX.md).

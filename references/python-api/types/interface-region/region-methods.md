@@ -4,7 +4,7 @@
 
 ### Region(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Region ( bpy_struct ) 
 
 A region inside a subdivided screen area

@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeColorSpill(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeColorSpill ( CompositorNode )
 
 Strip colors out of a blue or green screen by lowering one RGB channel relative to the rest

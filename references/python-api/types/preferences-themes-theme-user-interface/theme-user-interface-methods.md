@@ -4,7 +4,7 @@
 
 ### ThemeUserInterface(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeUserInterface ( bpy_struct ) 
 
 Color theming for user interface elements.

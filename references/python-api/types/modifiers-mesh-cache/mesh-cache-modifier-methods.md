@@ -4,7 +4,7 @@
 
 ### MeshCacheModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. MeshCacheModifier ( Modifier )
 
 Cache Mesh

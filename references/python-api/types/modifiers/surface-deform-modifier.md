@@ -93,7 +93,7 @@ type
 
 ### SurfaceDeformModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. SurfaceDeformModifier ( Modifier )
 
 [Related references](INDEX.md).

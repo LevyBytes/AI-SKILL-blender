@@ -1,4 +1,4 @@
-# Icon Items — hand icons
+# Icon Items - hand icons
 
 | Value | Meaning |
 | --- | --- |

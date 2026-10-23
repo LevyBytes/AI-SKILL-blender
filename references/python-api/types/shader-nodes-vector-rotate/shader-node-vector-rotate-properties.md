@@ -4,7 +4,7 @@
 
 ### ShaderNodeVectorRotate(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeVectorRotate ( ShaderNode )
 
 Turns a vector about a chosen pivot (center) point.

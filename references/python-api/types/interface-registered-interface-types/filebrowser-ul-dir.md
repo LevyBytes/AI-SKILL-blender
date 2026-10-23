@@ -45,7 +45,7 @@ type
 
 ### `FILEBROWSER_UL`_dir(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `FILEBROWSER_UL`_dir ( UIList )
 

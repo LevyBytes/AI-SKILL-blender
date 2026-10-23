@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexImage(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexImage ( ShaderNode )
 
 Reads an image file and uses it as a texture.

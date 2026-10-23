@@ -4,7 +4,7 @@
 
 ### ThemeCommonCurves(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeCommonCurves ( bpy_struct )
 
 Curve styling shared across editors

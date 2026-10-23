@@ -4,7 +4,7 @@
 
 ### LineStyleAlphaModifier_DistanceFromObject(LineStyleAlphaModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleAlphaModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleAlphaModifier
 class bpy.types. LineStyleAlphaModifier_DistanceFromObject ( LineStyleAlphaModifier ) 
 
 Adjusts alpha transparency according to how far the geometry sits from an object

@@ -8,28 +8,28 @@ Generates point cloud from mesh surface.
 
 ### Inputs
 
-Mesh — Standard input.
+Mesh: Standard input.
 
-Selection — Source for point generation.
+Selection: Source for point generation.
 
-Position — Location of new points. Default: Position Node equivalent.
+Position: Location of new points. Default: Position Node equivalent.
 
-Radius — Radii of points.
+Radius: Radii of points.
 
 ### Properties
 
-Mode — Generation source.
+Mode: Generation source.
 
-Vertices — One point per vertex.
+Vertices: One point per vertex.
 
-Edges — One point per edge (centered).
+Edges: One point per edge (centered).
 
-Faces — One point per face (center of mass).
+Faces: One point per face (center of mass).
 
-Corners — One per corner (at corner vertex location; overlaps by default).
+Corners: One per corner (at corner vertex location; overlaps by default).
 
 ### Outputs
 
-Points — Generated point cloud.
+Points: Generated point cloud.
 
 [Related references](INDEX.md).

@@ -54,7 +54,7 @@ type
 
 ### Float4x4AttributeValue(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Float4x4AttributeValue ( bpy_struct )
 
 A matrix value stored within a geometry attribute.

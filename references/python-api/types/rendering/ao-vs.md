@@ -67,7 +67,7 @@ type
 
 Collection for output channels.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. AOVs ( bpy_prop_collection )
 
 Container of output channels.

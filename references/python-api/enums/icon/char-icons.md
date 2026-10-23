@@ -1,4 +1,4 @@
-# Icon Items — char icons
+# Icon Items - char icons
 
 | Value | Meaning |
 | --- | --- |

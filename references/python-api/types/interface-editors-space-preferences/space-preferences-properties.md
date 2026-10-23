@@ -4,7 +4,7 @@
 
 ### SpacePreferences(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpacePreferences ( Space )
 
 The space data for the Blender preferences

@@ -4,7 +4,7 @@
 
 ### SoftBodySettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SoftBodySettings ( bpy_struct )
 
 The soft body simulation settings attached to an object.

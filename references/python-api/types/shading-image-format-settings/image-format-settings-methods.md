@@ -4,7 +4,7 @@
 
 ### ImageFormatSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ImageFormatSettings ( bpy_struct )
 
 Settings governing image formats.

@@ -4,7 +4,7 @@
 
 ### NodeGetBundleItem(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeGetBundleItem ( NodeInternal )
 
 Fetch a single bundle entry given its path.

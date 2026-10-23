@@ -1,4 +1,4 @@
-# Icon Items — uglypackage icons
+# Icon Items - uglypackage icons
 
 | Value | Meaning |
 | --- | --- |

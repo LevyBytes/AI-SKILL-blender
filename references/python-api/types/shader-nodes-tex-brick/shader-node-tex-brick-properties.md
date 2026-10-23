@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexBrick(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexBrick ( ShaderNode )
 
 A procedural texture that lays out a brick pattern.

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputMeshFaceNeighbors(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputMeshFaceNeighbors ( GeometryNode )
 
 Read out per-face topology data for a mesh.

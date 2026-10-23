@@ -4,7 +4,7 @@
 
 ### ShaderNodeDisplacement(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeDisplacement ( ShaderNode ) 
 
 Push the surface outward along its normal direction

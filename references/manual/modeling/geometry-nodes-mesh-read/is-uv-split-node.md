@@ -10,10 +10,10 @@ Useful for detecting UV boundaries, islands, or procedural UV-dependent operatio
 
 ### Inputs
 
-UV Map — Vector attribute (mesh UVs). Checked for discontinuities.
+UV Map: Vector attribute (mesh UVs). Checked for discontinuities.
 
 ### Outputs
 
-Is UV Split — Boolean per edge. True = UV discontinuity; false = continuous.
+Is UV Split: Boolean per edge. True = UV discontinuity; false = continuous.
 
 [Related references](INDEX.md).

@@ -17,9 +17,9 @@ During merging, the highest-complexity data type is chosen. Example: weight bool
 Note: Vertex groups survive instance realization and geometry joining. If domain and type rules produce vertex domain and float type, the attribute becomes a vertex group on output.
 
 Inputs:
-Geometry — Geometries to merge. Multiple links accepted. Muting passes only the first link.
+Geometry: Geometries to merge. Multiple links accepted. Muting passes only the first link.
 
 Outputs:
-Geometry — Standard geometry output.
+Geometry: Standard geometry output.
 
 [Related references](INDEX.md).

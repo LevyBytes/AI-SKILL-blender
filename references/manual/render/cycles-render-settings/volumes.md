@@ -11,7 +11,7 @@ Panel :
 Render ‣ Volumes
 
 Biased
-Standard volume rendering employs null scattering—unbiased, fewer anomalies, potentially noisier. Biased uses ray marching with step and iteration controls.
+Standard volume rendering employs null scattering: unbiased, fewer anomalies, potentially noisier. Biased uses ray marching with step and iteration controls.
 
 Note
 

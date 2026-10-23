@@ -1,4 +1,4 @@
-# Icon Items — community icons
+# Icon Items - community icons
 
 | Value | Meaning |
 | --- | --- |

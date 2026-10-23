@@ -1,4 +1,4 @@
-# Icon Items — mod icons
+# Icon Items - mod icons
 
 | Value | Meaning |
 | --- | --- |

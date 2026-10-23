@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSplineParameter(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSplineParameter ( GeometryNode ) 
 
 Reports a control point's progress along the spline it belongs to.

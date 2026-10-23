@@ -4,7 +4,7 @@
 
 ### GeometryNodeCollectionInfo(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCollectionInfo ( GeometryNode )
 
 Pull instances of geometry out of a collection.

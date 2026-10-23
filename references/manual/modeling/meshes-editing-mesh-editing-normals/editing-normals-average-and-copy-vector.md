@@ -24,7 +24,7 @@ Set each group's face-corner custom normals to their average.
 Face Area :
 
 Set each group's face-corner custom normals to a weighted average of their face normals, weighted
-by face area — bigger faces sway the final normal more.
+by face area: bigger faces sway the final normal more.
 
 Corner Angle :
 

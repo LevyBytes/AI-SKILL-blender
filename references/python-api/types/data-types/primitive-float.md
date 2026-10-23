@@ -51,7 +51,7 @@ type
 
 ### PrimitiveFloat(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PrimitiveFloat ( bpy_struct ) 
 
 RNA wrapped float

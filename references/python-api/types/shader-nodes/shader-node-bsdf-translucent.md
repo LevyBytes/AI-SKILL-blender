@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeBsdfTranslucent(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfTranslucent ( ShaderNode ) 
 
 Diffuse transmission of the Lambertian kind

@@ -49,7 +49,7 @@ type
 
 ### NodesModifierBakes(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodesModifierBakes ( bpy_prop_collection )
 
 Stored bake data for each bake node.

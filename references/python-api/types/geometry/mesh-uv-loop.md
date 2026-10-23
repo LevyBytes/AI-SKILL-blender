@@ -63,7 +63,7 @@ type
 
 ### MeshUVLoop(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MeshUVLoop ( bpy_struct )
 
 (Deprecated) Layer of UV coordinates in a Mesh data-block

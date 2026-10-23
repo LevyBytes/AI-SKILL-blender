@@ -65,7 +65,7 @@ type
 
 ### EdgeSplitModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. EdgeSplitModifier ( Modifier )
 
 A modifier that breaks edges apart to make them sharp

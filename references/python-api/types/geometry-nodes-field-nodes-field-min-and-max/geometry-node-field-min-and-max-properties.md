@@ -4,7 +4,7 @@
 
 ### GeometryNodeFieldMinAndMax(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeFieldMinAndMax ( GeometryNode ) 
 
 Work out the smallest and largest values held by a supplied field

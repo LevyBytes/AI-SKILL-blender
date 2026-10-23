@@ -58,7 +58,7 @@ type
 
 ### ConstraintTarget(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ConstraintTarget ( bpy_struct )
 
 One of the targets used by a constraint that drives from several at once.

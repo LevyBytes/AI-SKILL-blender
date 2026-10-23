@@ -4,7 +4,7 @@
 
 ### NodeCombineBundle(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeCombineBundle ( NodeInternal )
 
 Merge several socket values down into a single one.

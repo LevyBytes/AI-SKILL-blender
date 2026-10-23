@@ -2,7 +2,7 @@
 
 ## Geometry
 
-Geometry — Stroke Deformation
+Geometry: Stroke Deformation
 
 This tab controls stroke geometry. It provides only the option to add modifiers.
 

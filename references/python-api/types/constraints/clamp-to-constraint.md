@@ -65,7 +65,7 @@ type
 
 ### ClampToConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. ClampToConstraint ( Constraint )
 
 Restrict position to nearest point on target curve

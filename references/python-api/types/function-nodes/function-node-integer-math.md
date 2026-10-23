@@ -92,7 +92,7 @@ type
 
 ### FunctionNodeIntegerMath(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeIntegerMath ( FunctionNode ) 
 
 Apply a range of math operations to the supplied integer inputs

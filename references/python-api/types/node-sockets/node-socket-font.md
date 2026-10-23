@@ -62,7 +62,7 @@ type
 
 ### NodeSocketFont(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketFont ( NodeSocketStandard )
 
 A node socket whose value is a font.

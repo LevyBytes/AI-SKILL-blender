@@ -66,7 +66,7 @@ type
 
 ### RenderPasses(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. RenderPasses ( bpy_prop_collection ) 
 
 A collection holding render passes

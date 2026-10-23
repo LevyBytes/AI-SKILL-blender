@@ -4,7 +4,7 @@
 
 ### PitchModifier(StripModifier)
 
-base classes — bpy_struct, StripModifier
+base classes: bpy_struct, StripModifier
 class bpy.types. PitchModifier ( StripModifier )
 
 Adjusts the pitch of an audio strip

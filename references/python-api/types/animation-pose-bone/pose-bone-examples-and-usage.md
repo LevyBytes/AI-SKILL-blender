@@ -4,7 +4,7 @@
 
 ### PoseBone(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PoseBone ( bpy_struct )
 
 A channel that holds the pose data for one bone within a Pose.

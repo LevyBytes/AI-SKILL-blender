@@ -79,7 +79,7 @@ type
 
 ### FloorConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. FloorConstraint ( Constraint )
 
 Restrict where an object may move by treating a target as a floor it cannot cross.

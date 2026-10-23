@@ -49,7 +49,7 @@ type
 
 ### ShaderNodeCustomGroup(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeCustomGroup ( ShaderNode ) 
 
 A user-defined Shader Group Node intended for Python-defined nodes

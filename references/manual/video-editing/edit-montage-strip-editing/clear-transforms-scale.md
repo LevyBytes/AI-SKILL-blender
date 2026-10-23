@@ -1,4 +1,4 @@
-# Video strips: Clear transforms — Scale
+# Video strips: Clear transforms - Scale
 
 #### Scale
 

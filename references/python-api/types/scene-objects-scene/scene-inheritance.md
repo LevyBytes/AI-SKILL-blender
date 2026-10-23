@@ -4,7 +4,7 @@
 
 ### Scene(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Scene ( ID )
 
 A Scene data-block: it holds the objects and sets the time- and render-related settings

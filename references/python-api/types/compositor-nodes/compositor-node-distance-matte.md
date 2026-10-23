@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeDistanceMatte(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeDistanceMatte ( CompositorNode )
 
 Generates a matte by measuring how far apart colors sit in 3D color space.

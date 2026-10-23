@@ -4,7 +4,7 @@
 
 ### MusgraveTexture(Texture)
 
-base classes — bpy_struct, ID, Texture
+base classes: bpy_struct, ID, Texture
 class bpy.types. MusgraveTexture ( Texture )
 
 A procedurally generated musgrave pattern.

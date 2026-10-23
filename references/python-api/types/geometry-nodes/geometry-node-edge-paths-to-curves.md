@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeEdgePathsToCurves(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeEdgePathsToCurves ( GeometryNode )
 
 Emit curves that trace paths running along mesh edges.

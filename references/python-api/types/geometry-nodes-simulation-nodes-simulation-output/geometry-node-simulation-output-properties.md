@@ -4,7 +4,7 @@
 
 ### GeometryNodeSimulationOutput(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSimulationOutput ( GeometryNode ) 
 
 Emits data out of the simulation zone.

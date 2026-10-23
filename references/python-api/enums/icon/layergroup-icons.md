@@ -1,4 +1,4 @@
-# Icon Items — layergroup icons
+# Icon Items - layergroup icons
 
 | Value | Meaning |
 | --- | --- |

@@ -90,7 +90,7 @@ type
 
 ### GeometryNodeInputMaterial(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputMaterial ( GeometryNode )
 
 Emit one material as output.

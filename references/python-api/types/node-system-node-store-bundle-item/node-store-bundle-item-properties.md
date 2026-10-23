@@ -4,7 +4,7 @@
 
 ### NodeStoreBundleItem(NodeInternal) 
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeStoreBundleItem ( NodeInternal ) 
 
 Save one item of a bundle, keyed by its path and data type.

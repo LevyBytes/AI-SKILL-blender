@@ -61,17 +61,17 @@ Parameters:
 - prev_frame ( int ) – Previous Keyframe, Frame number of keyframe immediately before the current frame (in [-1048574, 1048574], optional)
 - next_frame ( int ) – Next Keyframe, Frame number of keyframe immediately after the current frame (in [-1048574, 1048574], optional)
 - channels ( Literal [ 'ALL' , 'LOC' , 'ROT' , 'SIZE' , 'BBONE' , 'CUSTOM' ] ) – Channels, Set of properties that are affected (optional)
-- ALL — All Properties: all properties, including transforms, bendy bone shape, and custom properties.
-- LOC — Location: location only.
-- ROT — Rotation: rotation only.
-- SIZE — Scale: scale only.
-- BBONE — Bendy Bone: bendy bone shape properties.
-- CUSTOM — Custom Properties: custom properties.
+- ALL - All Properties: all properties, including transforms, bendy bone shape, and custom properties.
+- LOC - Location: location only.
+- ROT - Rotation: rotation only.
+- SIZE - Scale: scale only.
+- BBONE - Bendy Bone: bendy bone shape properties.
+- CUSTOM - Custom Properties: custom properties.
 - axis_lock ( Literal [ 'FREE' , 'X' , 'Y' , 'Z' ] ) – Axis Lock, Transform axis to restrict effects to (optional)
-- FREE — Free: all axes are affected.
-- X — X: only X-axis transforms are affected.
-- Y — Y: only Y-axis transforms are affected.
-- Z — Z: only Z-axis transforms are affected.
+- FREE - Free: all axes are affected.
+- X - X: only X-axis transforms are affected.
+- Y - Y: only Y-axis transforms are affected.
+- Z - Z: only Z-axis transforms are affected.
 Returns: The operator's result.
 Return type: set[Literal[Operator Return Items]]
 

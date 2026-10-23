@@ -4,7 +4,7 @@
 
 ### SpaceImageEditor(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpaceImageEditor ( Space )
 
 The space data for the image and UV editor

@@ -1,4 +1,4 @@
-# Icon Items — pointcloud icons
+# Icon Items - pointcloud icons
 
 | Value | Meaning |
 | --- | --- |

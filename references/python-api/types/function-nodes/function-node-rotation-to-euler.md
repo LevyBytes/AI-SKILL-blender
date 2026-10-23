@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeRotationToEuler(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeRotationToEuler ( FunctionNode )
 
 Turns an ordinary rotation value into an Euler rotation.

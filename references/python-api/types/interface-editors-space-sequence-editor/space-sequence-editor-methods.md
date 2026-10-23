@@ -4,7 +4,7 @@
 
 ### SpaceSequenceEditor(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpaceSequenceEditor ( Space )
 
 Data for the sequence editor space

@@ -1,4 +1,4 @@
-# Event Type Items — three dimensional controller events
+# Event Type Items - three dimensional controller events
 
 | Value | Meaning |
 | --- | --- |

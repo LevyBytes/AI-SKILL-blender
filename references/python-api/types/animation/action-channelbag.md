@@ -61,7 +61,7 @@ Return type: type
 
 ### ActionChannelbag(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types.ActionChannelbag(bpy_struct)
 
 A collection of animation channels, typically tied to an action slot

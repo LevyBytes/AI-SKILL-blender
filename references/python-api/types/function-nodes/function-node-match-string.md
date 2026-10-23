@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeMatchString(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeMatchString ( FunctionNode )
 
 Tests whether one string is contained inside another.

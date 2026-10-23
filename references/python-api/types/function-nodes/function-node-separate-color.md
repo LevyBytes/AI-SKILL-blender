@@ -92,7 +92,7 @@ type
 
 ### FunctionNodeSeparateColor(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeSeparateColor ( FunctionNode )
 
 Breaks a color apart into its component channels, following a chosen color model.

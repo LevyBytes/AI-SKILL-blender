@@ -4,7 +4,7 @@
 
 ### NormalEditModifier(Modifier) 
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. NormalEditModifier ( Modifier ) 
 
 A modifier that generates or alters custom normals

@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeImageCoordinates(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeImageCoordinates ( CompositorNode )
 
 Outputs the per-pixel coordinate values of an image.

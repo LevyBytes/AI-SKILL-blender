@@ -72,7 +72,7 @@ type
 
 ### GaussianBlurStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 class bpy.types. GaussianBlurStrip ( EffectStrip )
 
 Sequence strip that applies a gaussian blur.

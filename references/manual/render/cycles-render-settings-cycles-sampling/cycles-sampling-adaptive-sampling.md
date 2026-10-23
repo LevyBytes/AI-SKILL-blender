@@ -23,7 +23,7 @@ Halts rendering upon exceeding the time threshold, even if sample targets remain
 
 Note
 
-Time limit excludes preprocessing—only active render time counts.
+Time limit excludes preprocessing: only active render time counts.
 
 ### Adaptive Sampling
 

@@ -46,7 +46,7 @@ type
 
 ### `GREASE_PENCIL_UL`_attributes(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `GREASE_PENCIL_UL`_attributes ( UIList )
 

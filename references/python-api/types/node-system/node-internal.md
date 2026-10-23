@@ -90,7 +90,7 @@ type
 | GeometryNodeForeachGeometryElementInput.pair_with_output GeometryNodeRepeatInput.pair_with_output | GeometryNodeSimulationInput.pair_with_output NodeClosureInput.pair_with_output |
 ### NodeInternal(Node)
 
-base classes — bpy_struct, Node
+base classes: bpy_struct, Node
 
 subclasses —
 CompositorNode, FunctionNode, GeometryNode, NodeClosureInput, NodeClosureOutput, NodeCombineBundle, NodeEnableOutput, NodeEvaluateClosure, NodeFrame, NodeGetBundleItem, NodeGroup, NodeGroupInput, NodeGroupOutput, NodeJoinBundle, NodeReroute, NodeSeparateBundle, NodeStoreBundleItem, ShaderNode, TextureNode

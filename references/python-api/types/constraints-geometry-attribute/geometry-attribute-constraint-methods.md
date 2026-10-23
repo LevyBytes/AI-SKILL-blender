@@ -4,7 +4,7 @@
 
 ### GeometryAttributeConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. GeometryAttributeConstraint ( Constraint )
 
 Sets up a constraint driven by an attribute read from geometry.

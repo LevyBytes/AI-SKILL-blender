@@ -4,7 +4,7 @@
 
 ### XrEventData(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. XrEventData ( bpy_struct ) 
 
 XR payload carried by a Window Manager event

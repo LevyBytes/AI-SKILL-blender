@@ -4,7 +4,7 @@
 
 ### TextStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 class bpy.types. TextStrip ( EffectStrip )
 
 A sequencer strip that generates text.

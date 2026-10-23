@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputInstanceBounds(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputInstanceBounds ( GeometryNode )
 
 Work out the bounding extents of the geometry set held by each instance.

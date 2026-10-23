@@ -2,7 +2,7 @@
 
 ## Scene Settings
 
-Scene Settings — Global Render Control
+Scene Settings: Global Render Control
 
 ### Light Probes
 

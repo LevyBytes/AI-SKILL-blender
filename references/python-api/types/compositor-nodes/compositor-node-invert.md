@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeInvert(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeInvert ( CompositorNode )
 
 Flips colors to their opposites, yielding a photographic negative.

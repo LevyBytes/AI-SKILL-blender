@@ -12,24 +12,24 @@ Warning: Samples surface; loose points/edges ignored.
 
 ### Inputs
 
-Mesh — Source geometry.
+Mesh: Source geometry.
 
-Value — Source field for transfer.
+Value: Source field for transfer.
 
-Group ID — Face domain; splits input by id.
+Group ID: Face domain; splits input by id.
 
-Sample Position — Sampling origin (default: Position Node equivalent).
+Sample Position - Sampling origin (default: Position Node equivalent).
 
-Sample Group ID — Selects group for closest-point search.
+Sample Group ID: Selects group for closest-point search.
 
 ### Properties
 
-Data Type — Retrieved value type.
+Data Type: Retrieved value type.
 
 ### Outputs
 
-Value — Retrieved and interpolated attribute.
+Value: Retrieved and interpolated attribute.
 
-Is Valid — Success indicator; fails when group empty.
+Is Valid: Success indicator; fails when group empty.
 
 [Related references](INDEX.md).

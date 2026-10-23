@@ -1,4 +1,4 @@
-# Icon Items — spherecurve icons
+# Icon Items - spherecurve icons
 
 | Value | Meaning |
 | --- | --- |

@@ -46,7 +46,7 @@ To file a report:
 
 - Go to the bug template on projects.blender.org.
 
-- Write a clear, direct title—avoid long, winding phrases.
+- Write a clear, direct title: avoid long, winding phrases.
 
 - Fill in your machine details and Blender version under System Information and Blender Version.
 

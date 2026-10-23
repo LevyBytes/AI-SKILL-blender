@@ -4,7 +4,7 @@
 
 ### MovieTrackingStabilization(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieTrackingStabilization ( bpy_struct )
 
 2D stabilization driven by tracking markers

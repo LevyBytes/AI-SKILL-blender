@@ -90,7 +90,7 @@ type
 
 ### CompositorNodeMovieDistortion(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeMovieDistortion ( CompositorNode )
 
 Strips lens distortion out of footage by drawing on the camera lens parameters recorded during motion tracking.

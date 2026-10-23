@@ -44,7 +44,7 @@ type
 
 ### `SEQUENCER_FH`_movie_strip(FileHandler)
 
-base classes — bpy_struct, FileHandler
+base classes: bpy_struct, FileHandler
 
 class bpy.types. `SEQUENCER_FH`_movie_strip ( FileHandler )
 

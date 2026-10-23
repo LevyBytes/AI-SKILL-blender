@@ -1,4 +1,4 @@
-# Icon Items — physics icons
+# Icon Items - physics icons
 
 | Value | Meaning |
 | --- | --- |

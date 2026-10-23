@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeImportText(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeImportText ( GeometryNode )
 
 Bring in string contents from a text file.

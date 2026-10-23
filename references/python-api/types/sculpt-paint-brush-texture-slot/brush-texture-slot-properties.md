@@ -4,7 +4,7 @@
 
 ### BrushTextureSlot(TextureSlot)
 
-base classes — bpy_struct, TextureSlot
+base classes: bpy_struct, TextureSlot
 class bpy.types. BrushTextureSlot ( TextureSlot )
 
 Texture slot configuration for textures in a Brush data-block

@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeLevels(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeLevels ( CompositorNode )
 
 Measures the mean and standard deviation across an image's pixel values.

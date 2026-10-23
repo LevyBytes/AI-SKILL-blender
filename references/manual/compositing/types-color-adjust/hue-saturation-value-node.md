@@ -7,21 +7,21 @@ The Hue/Saturation/Value node transforms an image's colors within the HSV color 
 The Hue/Saturation/Value Node applies a color transformation within the HSV Color Model.
 
 Inputs:
-Image/Color — the usual color input.
-Hue — the hue rotation offset, from 0 (-180°) to 1 (+180°); note 0 and 1 give the same result.
-Saturation — 0 drains all color, leaving black-and-white, while above 1.0 boosts saturation.
-Value — the value shift: 0 makes the color black, 1 leaves it unchanged, and higher values brighten it.
-Factor — how much sway the node has over the image.
+Image/Color: the usual color input.
+Hue: the hue rotation offset, from 0 (-180°) to 1 (+180°); note 0 and 1 give the same result.
+Saturation: 0 drains all color, leaving black-and-white, while above 1.0 boosts saturation.
+Value - the value shift: 0 makes the color black, 1 leaves it unchanged, and higher values brighten it.
+Factor: how much sway the node has over the image.
 
 Outputs:
-Image/Color — the usual color output.
+Image/Color: the usual color output.
 
-Hue/Saturation Tips — a few things that may help you use this node:
-Hues sit on a circle — apply a Hue offset of 1 (+180°) to a blue image and you land on the opposite color, yellow; apply 1 again and you're back to blue.
-Grayscale images have no hue — changing Hue or Saturation on a grayscale image does nothing; you can only brighten or darken it via Value. To add color, reach for the Mix node.
-Animating the effect — the various values can be animated with a Time Curve node or by keyframing.
+Hue/Saturation Tips: a few things that may help you use this node:
+Hues sit on a circle: apply a Hue offset of 1 (+180°) to a blue image and you land on the opposite color, yellow; apply 1 again and you're back to blue.
+Grayscale images have no hue: changing Hue or Saturation on a grayscale image does nothing; you can only brighten or darken it via Value. To add color, reach for the Mix node.
+Animating the effect: the various values can be animated with a Time Curve node or by keyframing.
 
-HSV Example — a basic example, plus an example of the Factor input used for masking.
+HSV Example: a basic example, plus an example of the Factor input used for masking.
 
 ### Hue/Saturation/Value Node 
 

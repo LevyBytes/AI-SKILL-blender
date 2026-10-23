@@ -49,7 +49,7 @@ type
 
 ### SceneObjects(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. SceneObjects ( bpy_prop_collection )
 
 Every object in the scene

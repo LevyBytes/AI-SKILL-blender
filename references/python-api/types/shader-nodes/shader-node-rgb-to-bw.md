@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeRGBToBW(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeRGBToBW ( ShaderNode )
 
 Turns a color's luminance into a single grayscale value.

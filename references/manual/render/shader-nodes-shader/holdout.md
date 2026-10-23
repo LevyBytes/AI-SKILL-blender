@@ -16,7 +16,7 @@ None.
 
 ### Outputs
 
-- **Holdout** — Standard shader output.
+- **Holdout**: Standard shader output.
 
 ### Examples
 

@@ -4,7 +4,7 @@
 
 ### LineStyleAlphaModifier_DistanceFromCamera(LineStyleAlphaModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleAlphaModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleAlphaModifier
 class bpy.types. LineStyleAlphaModifier_DistanceFromCamera ( LineStyleAlphaModifier ) 
 
 Adjusts alpha transparency according to how far the geometry sits from the camera

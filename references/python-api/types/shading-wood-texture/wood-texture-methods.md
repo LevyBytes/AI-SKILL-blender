@@ -4,7 +4,7 @@
 
 ### WoodTexture(Texture) 
 
-base classes — bpy_struct, ID, Texture
+base classes: bpy_struct, ID, Texture
 class bpy.types. WoodTexture ( Texture ) 
 
 A procedurally generated noise-based texture

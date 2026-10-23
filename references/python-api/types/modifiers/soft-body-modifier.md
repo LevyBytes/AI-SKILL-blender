@@ -58,7 +58,7 @@ type
 
 ### SoftBodyModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. SoftBodyModifier ( Modifier )
 
 A modifier that runs a soft body simulation.

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeCurveQuadraticBezier(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveQuadraticBezier ( GeometryNode )
 
 Build a poly spline shaped like a parabola from the positions of its control points.

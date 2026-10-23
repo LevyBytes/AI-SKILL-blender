@@ -4,7 +4,7 @@
 
 ### SceneDisplay(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SceneDisplay ( bpy_struct )
 
 Scene display settings for 3D viewport

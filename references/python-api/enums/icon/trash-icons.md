@@ -1,4 +1,4 @@
-# Icon Items — trash icons
+# Icon Items - trash icons
 
 | Value | Meaning |
 | --- | --- |

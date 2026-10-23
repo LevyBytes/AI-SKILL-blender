@@ -4,7 +4,7 @@
 
 ### MetaElement(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MetaElement ( bpy_struct )
 
 One blobby component within a metaball data-block

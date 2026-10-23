@@ -51,7 +51,7 @@ type
 
 ### NodeTreeInterfaceSocketMask(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketMask ( NodeTreeInterfaceSocket )
 
 A node socket that carries a mask

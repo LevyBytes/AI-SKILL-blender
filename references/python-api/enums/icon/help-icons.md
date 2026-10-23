@@ -1,4 +1,4 @@
-# Icon Items — help icons
+# Icon Items - help icons
 
 | Value | Meaning |
 | --- | --- |

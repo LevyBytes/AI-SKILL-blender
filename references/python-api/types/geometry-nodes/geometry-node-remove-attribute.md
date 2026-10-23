@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeRemoveAttribute(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeRemoveAttribute ( GeometryNode )
 
 Remove a named attribute from a geometry; commonly applied as a performance optimization

@@ -4,7 +4,7 @@
 
 ### GeometryNodeProximity(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeProximity ( GeometryNode )
 
 Work out, on the target geometry, the nearest location to each input

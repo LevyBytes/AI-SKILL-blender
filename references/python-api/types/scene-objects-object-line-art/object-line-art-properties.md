@@ -4,7 +4,7 @@
 
 ### ObjectLineArt(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ObjectLineArt ( bpy_struct ) 
 
 Per-object Line Art settings

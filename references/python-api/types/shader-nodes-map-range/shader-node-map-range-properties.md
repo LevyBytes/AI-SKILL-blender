@@ -4,7 +4,7 @@
 
 ### ShaderNodeMapRange(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeMapRange ( ShaderNode ) 
 
 Convert a value from one range onto a destination range

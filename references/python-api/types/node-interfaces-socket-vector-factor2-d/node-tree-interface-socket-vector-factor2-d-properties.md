@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorFactor2D(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorFactor2D ( NodeTreeInterfaceSocket ) 
 
 A 3D-vector socket attached to a node

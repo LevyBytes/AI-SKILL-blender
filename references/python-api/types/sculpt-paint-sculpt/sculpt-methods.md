@@ -4,7 +4,7 @@
 
 ### Sculpt(Paint)
 
-base classes — bpy_struct, Paint
+base classes: bpy_struct, Paint
 class bpy.types. Sculpt ( Paint )
 classmethod bl_rna_get_subclass ( id , default = None , / )
 

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSDFGridMeanCurvature(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSDFGridMeanCurvature ( GeometryNode )
 
 Smooth a signed distance field with mean curvature flow. The surface evolves according to its mean curvature, so highly curved areas are smoothed more strongly than flat ones

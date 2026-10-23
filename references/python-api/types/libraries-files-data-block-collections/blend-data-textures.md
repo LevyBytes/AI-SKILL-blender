@@ -69,7 +69,7 @@ type
 
 ### BlendDataTextures(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataTextures(bpy_prop_collection)
 
 Manages texture data blocks within Blender.

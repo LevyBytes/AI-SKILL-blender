@@ -4,7 +4,7 @@
 
 ### SplineIKConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. SplineIKConstraint ( Constraint )
 
 Lay 'n' bones out along a curve

@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeInputNormal(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputNormal ( GeometryNode )
 
 Read out, at each element, a unit-length vector pointing outward from the geometry's surface.

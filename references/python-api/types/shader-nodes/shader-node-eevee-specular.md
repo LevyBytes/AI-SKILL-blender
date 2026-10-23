@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeEeveeSpecular(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeEeveeSpecular ( ShaderNode ) 
 
 Comparable to the Principled BSDF, but driven by a specular rather than metallic workflow: you supply the facing reflection color directly. Because energy is not conserved, results can deviate from physical accuracy

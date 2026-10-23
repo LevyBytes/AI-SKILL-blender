@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeRadialTiling(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeRadialTiling ( ShaderNode )
 
 Remaps the coordinate system to support radial tiling.

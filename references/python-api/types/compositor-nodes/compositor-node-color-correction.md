@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeColorCorrection(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeColorCorrection ( CompositorNode )
 
 Adjust an image's color independently within several tonal bands (highlights, midtones, and shadows)

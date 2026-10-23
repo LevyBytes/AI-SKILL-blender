@@ -4,7 +4,7 @@
 
 ### XrActionMapBinding(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. XrActionMapBinding ( bpy_struct ) 
 
 A binding belonging to an XR action map item

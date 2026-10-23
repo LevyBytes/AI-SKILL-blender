@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputMeshEdgeAngle(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputMeshEdgeAngle ( GeometryNode )
 
 The angle separating the normals of the two manifold faces that meet at an edge.

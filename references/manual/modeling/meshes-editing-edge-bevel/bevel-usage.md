@@ -4,17 +4,17 @@
 
 Smooths out corners and edges to create realism—physical objects lack infinite sharpness. The Bevel Modifier performs this non-destructively.
 
-Reference — Mode: Edit Mode | Menu: Vertex ‣ Bevel Vertices, Edge ‣ Bevel Edges | Shortcut: Shift - Ctrl - B (vertices), Ctrl - B (edges)
+Reference - Mode: Edit Mode | Menu: Vertex ‣ Bevel Vertices, Edge ‣ Bevel Edges | Shortcut: Shift - Ctrl - B (vertices), Ctrl - B (edges)
 
 Usage: Select vertices, edges, or faces; press Ctrl - B (edges and corners) or Shift - Ctrl - B (corners only). Move mouse to increase radius; scroll wheel adjusts segment density. Confirm with LMB/Return; cancel with RMB/Esc.
 
 While active, settings display at viewport top. Keyboard shortcuts (status bar) select settings; mouse or numeric input changes values. Hold Shift for slower precision; Ctrl snaps to coarse increments. After LMB confirmation, Adjust Last Operation panel retains setting access.
 
-Affect — Target selection:
+Affect - Target selection:
 - Vertices: Bevel selected vertices, leaving edges unchanged
 - Edges: Bevel selected edges plus vertices where 3+ edges meet
 
-Width Type (M) — Width meaning (examples below use 50% for Percent, 1.0 for others): Offset, Width, Depth, Percent, Absolute
+Width Type (M): Width meaning (examples below use 50% for Percent, 1.0 for others): Offset, Width, Depth, Percent, Absolute
 
 Width (A): Bevel size/radius (meaning depends on Width Type)
 
@@ -44,17 +44,17 @@ Miter Inner (I): For 2+ edges at one vertex forming <180° corner on face side, 
 
 Spread: Inner Miter arc size; also affects Outer Miter
 
-Intersection Type (N) — Multi-edge intersection geometry:
+Intersection Type (N) - Multi-edge intersection geometry:
 - Grid Fill: Smoothly connect edges with geometry
 - Cutoff: Cap each edge with flat face
 
-Face Strength — Face strength application for bevel faces (works with Weight Normals Modifier, Face Influence checked):
+Face Strength: Face strength application for bevel faces (works with Weight Normals Modifier, Face Influence checked):
 - None: No face strength set
 - New: New edge faces = Medium strength; new vertex faces = Weak
 - Affected: New case + adjacent faces = Strong
 - All: Affected case + remaining faces = Strong
 
-Profile Type (Z) — Generated-edge flow along beveled edge:
+Profile Type (Z): Generated-edge flow along beveled edge:
 - Superellipse: Auto profile from Profile Shape setting
 - Custom: Custom profile from Curve Widget in Adjust Last Operation panel; side view of bevel between 90° faces; darkened area = mesh interior
 

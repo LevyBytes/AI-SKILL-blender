@@ -4,7 +4,7 @@
 
 ### Screen(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Screen ( ID )
 
 A Screen data-block that lays out the areas inside a window

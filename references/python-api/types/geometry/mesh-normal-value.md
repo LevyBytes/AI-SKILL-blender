@@ -56,7 +56,7 @@ type
 
 ### MeshNormalValue(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MeshNormalValue ( bpy_struct )
 
 Vector in a mesh normal array

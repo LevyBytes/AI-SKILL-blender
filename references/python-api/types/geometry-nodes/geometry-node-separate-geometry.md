@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSeparateGeometry(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSeparateGeometry ( GeometryNode )
 
 Use a selection to divide a geometry into two separate geometry outputs

@@ -4,7 +4,7 @@
 
 ### LineStyleAlphaModifier_CreaseAngle(LineStyleAlphaModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleAlphaModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleAlphaModifier
 class bpy.types. LineStyleAlphaModifier_CreaseAngle ( LineStyleAlphaModifier ) 
 
 Drives alpha transparency from the angle formed by two neighboring faces

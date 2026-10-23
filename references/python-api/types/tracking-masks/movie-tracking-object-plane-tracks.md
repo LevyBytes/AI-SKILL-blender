@@ -56,7 +56,7 @@ type
 
 ### MovieTrackingObjectPlaneTracks(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. MovieTrackingObjectPlaneTracks ( bpy_prop_collection )
 
 Set of plane tracks used in tracking

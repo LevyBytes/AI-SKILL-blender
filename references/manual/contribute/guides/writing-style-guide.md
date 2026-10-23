@@ -10,7 +10,7 @@ Glossary — for the Glossary section defining common Blender and computer-graph
 ```text
 See also `OpenGL `__ on Wikipedia.
 ```
-Examples — this entry:
+Examples - this entry:
 ```text
 Displacement Mapping
    Uses a grayscale heightmap, like Bump Mapping,

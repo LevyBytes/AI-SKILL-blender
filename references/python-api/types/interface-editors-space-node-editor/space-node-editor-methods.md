@@ -4,7 +4,7 @@
 
 ### SpaceNodeEditor(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpaceNodeEditor ( Space )
 
 The space data for the node editor

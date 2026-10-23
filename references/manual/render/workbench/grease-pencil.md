@@ -26,7 +26,7 @@ Super-sampling count in final renders. Higher counts smooth lines but extend ren
 Motion Blur Steps
 Adjusts motion blur precision; more steps increase accuracy but render time. Only applies when Motion Blur is active. Set to 0 to omit motion blur for Grease Pencil objects.
 
-Grease Pencil — Line Rendering Settings
+Grease Pencil: Line Rendering Settings
 
 Reference
 Panel: Render ‣ Grease Pencil

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeImageInfo(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeImageInfo ( GeometryNode )
 
 Read back metadata describing a given image.

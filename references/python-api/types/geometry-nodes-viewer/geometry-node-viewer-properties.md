@@ -4,7 +4,7 @@
 
 ### GeometryNodeViewer(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeViewer ( GeometryNode )
 
 Sends the connected data to the Spreadsheet Editor so it can be inspected.

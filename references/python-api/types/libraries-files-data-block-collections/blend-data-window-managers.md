@@ -47,7 +47,7 @@ type
 
 ### BlendDataWindowManagers(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataWindowManagers(bpy_prop_collection)
 
 Provides the collection of window management instances.

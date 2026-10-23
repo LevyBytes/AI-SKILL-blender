@@ -9,7 +9,7 @@ Restore Curve Segment Length brings each curve segment back to its original leng
 ### Inputs
 
 Curves
-Curves — the input geometry whose segment lengths get restored.
+Curves: the input geometry whose segment lengths get restored.
 
 Selection
 A boolean field choosing which points or segments are affected; unselected ones stay put.

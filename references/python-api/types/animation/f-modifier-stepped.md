@@ -86,7 +86,7 @@ type
 
 ### FModifierStepped(FModifier)
 
-base classes — bpy_struct, FModifier
+base classes: bpy_struct, FModifier
 class bpy.types. FModifierStepped ( FModifier )
 
 Holds each interpolated F-Curve value across several frames while leaving the timing untouched.

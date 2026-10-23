@@ -12,13 +12,13 @@ None.
 
 ### Properties
 
-**Pixel Size** — When enabled, edge line width is defined in screen space.
+**Pixel Size**: When enabled, edge line width is defined in screen space.
 
-**Size** — Edge line thickness.
+**Size**: Edge line thickness.
 
 ### Outputs
 
-- **Factor** — Black-and-white mask with white lines representing edges per object topology.
+- **Factor**: Black-and-white mask with white lines representing edges per object topology.
 
 ### Examples
 

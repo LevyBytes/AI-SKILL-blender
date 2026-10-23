@@ -62,7 +62,7 @@ type
 
 ### NodeSocketScene(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketScene ( NodeSocketStandard )
 
 A node socket whose value is a scene.

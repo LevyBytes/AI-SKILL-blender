@@ -73,7 +73,7 @@ type
 
 ### NodeTreeInterfaceSocketClosure(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketClosure ( NodeTreeInterfaceSocket ) 
 
 A node socket that carries a closure.

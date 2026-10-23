@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeBsdfRefraction(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfRefraction ( ShaderNode ) 
 
 Sharp or microfacet glossy refraction, commonly applied to light-transmitting materials

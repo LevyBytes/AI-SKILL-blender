@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeDiffMatte(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeDiffMatte ( CompositorNode )
 
 Builds a matte that separates foreground from a scene by differencing it against a known background plate.

@@ -4,7 +4,7 @@
 
 ### ActionConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types.ActionConstraint(Constraint)
 
 Bind an action to the transform channels of a bone

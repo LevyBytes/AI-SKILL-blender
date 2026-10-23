@@ -56,7 +56,7 @@ type
 
 ### ByteColorAttribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. ByteColorAttribute ( Attribute )
 
 Geometry attribute that stores RGBA colors using 8-bit integer representation per channel

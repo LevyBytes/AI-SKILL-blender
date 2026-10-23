@@ -1,4 +1,4 @@
-# Icon Items — speaker icons
+# Icon Items - speaker icons
 
 | Value | Meaning |
 | --- | --- |

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeCurveSpiral(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveSpiral ( GeometryNode )
 
 Build a poly spline that winds into a spiral.

@@ -1,4 +1,4 @@
-# Icon Items — downarrow icons
+# Icon Items - downarrow icons
 
 | Value | Meaning |
 | --- | --- |

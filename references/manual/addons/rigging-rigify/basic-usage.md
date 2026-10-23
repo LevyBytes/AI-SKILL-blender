@@ -2,7 +2,7 @@
 
 ## Basic Usage
 
-Rigify — basic usage. The short path: add a meta-rig from Add ▸ Armature, move its bones to match your character, then click Generate Rig in the armature properties.
+Rigify: basic usage. The short path: add a meta-rig from Add ▸ Armature, move its bones to match your character, then click Generate Rig in the armature properties.
 
 Adding a predefined meta-rig (Object Mode; Add ▸ Armature; Shift-A): Rigify packs everything needed to generate complex rig controls and mechanisms into simpler armatures it calls "meta-rigs," and the predefined ones live in the Add menu. The current types are Basic Human (no face or fingers), Basic Quadruped, Human, Cat, Wolf, Horse, and Shark.
 

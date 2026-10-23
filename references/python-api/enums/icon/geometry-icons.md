@@ -1,4 +1,4 @@
-# Icon Items — geometry icons
+# Icon Items - geometry icons
 
 | Value | Meaning |
 | --- | --- |

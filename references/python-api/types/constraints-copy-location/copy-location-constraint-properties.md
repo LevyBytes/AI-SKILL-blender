@@ -4,7 +4,7 @@
 
 ### CopyLocationConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. CopyLocationConstraint ( Constraint )
 
 Mirror the target's location onto the owner.

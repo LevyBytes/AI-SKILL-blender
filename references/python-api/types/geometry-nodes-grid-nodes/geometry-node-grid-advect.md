@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGridAdvect(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridAdvect ( GeometryNode ) 
 
 Carry grid values along a velocity field by numerical integration. Several integration schemes are offered, each balancing accuracy against performance differently

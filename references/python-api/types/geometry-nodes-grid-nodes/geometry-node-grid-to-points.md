@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGridToPoints(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridToPoints ( GeometryNode ) 
 
 Build a point cloud from the active voxels of a volume grid

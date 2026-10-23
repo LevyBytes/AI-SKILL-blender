@@ -17,7 +17,7 @@ Shortcut :
 V
 
 Convert splines between Bézier, NURBS, Poly, and Catmull Rom types.
-This is basic conversion—Blender doesn't preserve exact shape or point count.
+This is basic conversion: Blender doesn't preserve exact shape or point count.
 For instance, converting NURBS to Bézier maps each three-point NURBS group
 to one Bézier point with two handles.
 
@@ -76,19 +76,19 @@ Set Spline Type Node
 Converts splines to a target classification.
 
 Inputs:
-Curve — Standard geometry input with curve data.
-Selection — Splines to convert.
+Curve: Standard geometry input with curve data.
+Selection: Splines to convert.
 
 Properties:
-Spline Type — Target type. Consult Spline Types documentation.
+Spline Type: Target type. Consult Spline Types documentation.
 
-Bézier — From poly: vector handles. From NURBS/Catmull Rom: auto handles. Requires ≥6 points for NURBS conversion; truncation occurs if point count is not a multiple of three.
+Bézier - From poly: vector handles. From NURBS/Catmull Rom: auto handles. Requires ≥6 points for NURBS conversion; truncation occurs if point count is not a multiple of three.
 
-NURBS — Target classification.
-Poly — Target classification.
-Catmull Rom — Target classification.
+NURBS: Target classification.
+Poly: Target classification.
+Catmull Rom: Target classification.
 
 Outputs:
-Curve — Standard geometry output.
+Curve: Standard geometry output.
 
 [Related references](INDEX.md).

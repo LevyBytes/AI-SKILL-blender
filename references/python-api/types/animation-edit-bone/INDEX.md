@@ -33,8 +33,8 @@
 - Open when you need bpy.types.EditBone: length: [bpy.types.EditBone: length](edit-bone-length.md).
 - Open when you need bpy.types.EditBone: lock: [bpy.types.EditBone: lock](edit-bone-lock.md).
 - Open when you need bpy.types.EditBone: matrix: [bpy.types.EditBone: matrix](edit-bone-matrix.md).
-- Open when you need bpy.types.EditBone: methods — EditBone(bpy_struct), EditBone(bpy_struct), Inherited Properties, Inherited Functions: [bpy.types.EditBone: methods — EditBone(bpy_struct), EditBone(bpy_struct), Inherited Properties, Inherited Functions](edit-bone-methods-edit-bone-bpy-struct.md).
-- Open when you need bpy.types.EditBone: methods — References: [bpy.types.EditBone: methods — References](edit-bone-methods-references.md).
+- Open when you need bpy.types.EditBone: methods - EditBone(bpy_struct), EditBone(bpy_struct), Inherited Properties, Inherited Functions: [bpy.types.EditBone: methods - EditBone(bpy_struct), EditBone(bpy_struct), Inherited Properties, Inherited Functions](edit-bone-methods-edit-bone-bpy-struct.md).
+- Open when you need bpy.types.EditBone: methods - References: [bpy.types.EditBone: methods - References](edit-bone-methods-references.md).
 - Open when you need bpy.types.EditBone: name: [bpy.types.EditBone: name](edit-bone-name.md).
 - Open when you need bpy.types.EditBone: parent: [bpy.types.EditBone: parent](edit-bone-parent.md).
 - Open when you need bpy.types.EditBone: roll: [bpy.types.EditBone: roll](edit-bone-roll.md).

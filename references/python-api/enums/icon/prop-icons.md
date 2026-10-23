@@ -1,4 +1,4 @@
-# Icon Items — prop icons
+# Icon Items - prop icons
 
 | Value | Meaning |
 | --- | --- |

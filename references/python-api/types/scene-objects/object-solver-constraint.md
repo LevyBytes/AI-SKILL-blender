@@ -79,7 +79,7 @@ type
 
 ### ObjectSolverConstraint(Constraint) 
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. ObjectSolverConstraint ( Constraint ) 
 
 Tie motion to the movement of the reconstructed object

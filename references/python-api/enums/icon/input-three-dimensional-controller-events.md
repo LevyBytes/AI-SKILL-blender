@@ -1,4 +1,4 @@
-# Icon Items — input three dimensional controller events
+# Icon Items - input three dimensional controller events
 
 | Value | Meaning |
 | --- | --- |

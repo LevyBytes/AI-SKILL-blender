@@ -1,4 +1,4 @@
-# Icon Items — script icons
+# Icon Items - script icons
 
 | Value | Meaning |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Icon Items — antialiased icons
+# Icon Items - antialiased icons
 
 | Value | Meaning |
 | --- | --- |

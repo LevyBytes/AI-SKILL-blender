@@ -4,7 +4,7 @@
 
 ### GreasePencilLayer(GreasePencilTreeNode)
 
-base classes — bpy_struct, GreasePencilTreeNode
+base classes: bpy_struct, GreasePencilTreeNode
 class bpy.types. GreasePencilLayer ( GreasePencilTreeNode )
 
 Collection of related drawings

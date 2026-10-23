@@ -4,7 +4,7 @@
 
 Controls for displaying motion trails of bones and objects.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AnimVizMotionPaths ( bpy_struct )
 
 Settings for motion path visualization and rendering.

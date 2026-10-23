@@ -85,7 +85,7 @@ type
 
 ### GeometryNodePointsToCurves(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodePointsToCurves ( GeometryNode )
 
 Group every point into a curve according to its group ID, then sort the points within each curve by weight

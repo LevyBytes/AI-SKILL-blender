@@ -1,4 +1,4 @@
-# Icon Items — ghost icons
+# Icon Items - ghost icons
 
 | Value | Meaning |
 | --- | --- |

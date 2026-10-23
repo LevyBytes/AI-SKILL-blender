@@ -4,7 +4,7 @@
 
 ### DataTransferModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. DataTransferModifier ( Modifier )
 
 Copies selected data across from one mesh onto another.

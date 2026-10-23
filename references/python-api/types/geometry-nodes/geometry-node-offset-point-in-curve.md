@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeOffsetPointInCurve(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeOffsetPointInCurve ( GeometryNode ) 
 
 Shift a control-point index by a step while staying inside its curve.

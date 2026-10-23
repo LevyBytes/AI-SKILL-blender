@@ -19,7 +19,7 @@ Twist: Offsets target vertex choice for source vertices; makes tube twist along 
 
 Number of Cuts: Intermediate loop count between existing loop pairs
 
-Interpolation — Intermediate loop calculation when Number of Cuts > 0:
+Interpolation: Intermediate loop calculation when Number of Cuts > 0:
 - Linear: Straight-line loops
 - Blend Path: Bézier spline loops (disregards neighboring surfaces)
 - Blend Surface: Bézier loops along surface normals (surface-aware)

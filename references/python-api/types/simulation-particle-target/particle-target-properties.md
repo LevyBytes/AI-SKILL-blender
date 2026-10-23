@@ -4,7 +4,7 @@
 
 ### ParticleTarget(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ParticleTarget ( bpy_struct )
 
 A particle system designated as a target

@@ -63,7 +63,7 @@ type
 
 ### PaintModeSettings(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PaintModeSettings ( bpy_struct ) 
 
 Settings that govern paint mode

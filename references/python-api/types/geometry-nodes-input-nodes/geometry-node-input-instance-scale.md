@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputInstanceScale(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputInstanceScale ( GeometryNode )
 
 Read out how each instance within the geometry is scaled.

@@ -4,7 +4,7 @@
 
 ### LineStyleThicknessModifier_DistanceFromObject(LineStyleThicknessModifier)
 
-base classes — bpy_struct, LineStyleModifier, LineStyleThicknessModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleThicknessModifier
 class bpy.types. LineStyleThicknessModifier_DistanceFromObject ( LineStyleThicknessModifier )
 
 Adjusts line width according to how far the stroke sits from a chosen object.

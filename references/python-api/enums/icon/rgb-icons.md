@@ -1,4 +1,4 @@
-# Icon Items — rgb icons
+# Icon Items - rgb icons
 
 | Value | Meaning |
 | --- | --- |

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeTransform(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeTransform ( GeometryNode )
 
 Applies translation, rotation, or scaling to the incoming geometry.

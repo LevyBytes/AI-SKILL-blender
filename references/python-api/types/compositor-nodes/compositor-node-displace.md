@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeDisplace(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeDisplace ( CompositorNode )
 
 Shifts each pixel's location according to an offset vector.

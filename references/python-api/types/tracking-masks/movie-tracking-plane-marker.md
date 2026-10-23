@@ -70,7 +70,7 @@ type
 
 ### MovieTrackingPlaneMarker(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieTrackingPlaneMarker ( bpy_struct )
 
 Plane-marker data used during match-moving tracking

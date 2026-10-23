@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorPercentage2D(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorPercentage2D ( NodeTreeInterfaceSocket ) 
 
 A 3D vector socket on a node

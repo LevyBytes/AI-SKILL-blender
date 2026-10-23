@@ -1,4 +1,4 @@
-# Icon Items — pinned icons
+# Icon Items - pinned icons
 
 | Value | Meaning |
 | --- | --- |

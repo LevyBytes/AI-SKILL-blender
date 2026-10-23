@@ -4,7 +4,7 @@
 
 ### ShaderNodeBsdfAnisotropic(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfAnisotropic ( ShaderNode )
 
 Microfacet-based reflection suited to surfaces like metal or mirrors

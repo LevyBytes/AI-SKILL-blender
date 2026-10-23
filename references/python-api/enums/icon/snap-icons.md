@@ -1,4 +1,4 @@
-# Icon Items — snap icons
+# Icon Items - snap icons
 
 | Value | Meaning |
 | --- | --- |

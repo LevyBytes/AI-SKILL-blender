@@ -7,8 +7,8 @@
 - Open when you need bpy.types.ColorManagedSequencerColorspaceSettings: [bpy.types.ColorManagedSequencerColorspaceSettings](color-managed-sequencer-colorspace-settings.md).
 - Open when you need Color managed view settings: [Color managed view settings](../shading-color-managed-view-settings/INDEX.md).
 - Open when you need Color mapping: [Color mapping](../shading-color-mapping/INDEX.md).
-- Open when you need bpy.types.ColorRamp — class-contract, Inherited Properties, Inherited Functions, References, ColorRamp(bpy_struct): [bpy.types.ColorRamp — class-contract, Inherited Properties, Inherited Functions, References, ColorRamp(bpy_struct)](color-ramp-class-contract.md).
-- Open when you need bpy.types.ColorRamp — ColorRamp(bpy_struct), See also: [bpy.types.ColorRamp — ColorRamp(bpy_struct), See also](color-ramp-color-ramp-bpy-struct.md).
+- Open when you need bpy.types.ColorRamp - class-contract, Inherited Properties, Inherited Functions, References, ColorRamp(bpy_struct): [bpy.types.ColorRamp - class-contract, Inherited Properties, Inherited Functions, References, ColorRamp(bpy_struct)](color-ramp-class-contract.md).
+- Open when you need bpy.types.ColorRamp - ColorRamp(bpy_struct), See also: [bpy.types.ColorRamp - ColorRamp(bpy_struct), See also](color-ramp-color-ramp-bpy-struct.md).
 - Open when you need bpy.types.ColorRampElement: [bpy.types.ColorRampElement](color-ramp-element.md).
 - Open when you need bpy.types.ColorRampElements: [bpy.types.ColorRampElements](color-ramp-elements.md).
 - Open when you need Distorted noise texture: [Distorted noise texture](../shading-distorted-noise-texture/INDEX.md).
@@ -33,13 +33,13 @@
 - Open when you need bpy.types.NoiseTexture: [bpy.types.NoiseTexture](noise-texture.md).
 - Open when you need Scopes: [Scopes](../shading-scopes/INDEX.md).
 - Open when you need bpy.types.ShaderFxBlur: [bpy.types.ShaderFxBlur](shader-fx-blur.md).
-- Open when you need bpy.types.ShaderFx — class-contract, Inherited Properties, Inherited Functions, References, ShaderFx(bpy_struct): [bpy.types.ShaderFx — class-contract, Inherited Properties, Inherited Functions, References, ShaderFx(bpy_struct)](shader-fx-class-contract.md).
+- Open when you need bpy.types.ShaderFx - class-contract, Inherited Properties, Inherited Functions, References, ShaderFx(bpy_struct): [bpy.types.ShaderFx - class-contract, Inherited Properties, Inherited Functions, References, ShaderFx(bpy_struct)](shader-fx-class-contract.md).
 - Open when you need bpy.types.ShaderFxColorize: [bpy.types.ShaderFxColorize](shader-fx-colorize.md).
 - Open when you need bpy.types.ShaderFxFlip: [bpy.types.ShaderFxFlip](shader-fx-flip.md).
 - Open when you need Shader fx glow: [Shader fx glow](../shading-shader-fx-glow/INDEX.md).
 - Open when you need bpy.types.ShaderFxPixel: [bpy.types.ShaderFxPixel](shader-fx-pixel.md).
 - Open when you need bpy.types.ShaderFxRim: [bpy.types.ShaderFxRim](shader-fx-rim.md).
-- Open when you need bpy.types.ShaderFx — ShaderFx(bpy_struct): [bpy.types.ShaderFx — ShaderFx(bpy_struct)](shader-fx-shader-fx-bpy-struct.md).
+- Open when you need bpy.types.ShaderFx - ShaderFx(bpy_struct): [bpy.types.ShaderFx - ShaderFx(bpy_struct)](shader-fx-shader-fx-bpy-struct.md).
 - Open when you need Shader fx shadow: [Shader fx shadow](../shading-shader-fx-shadow/INDEX.md).
 - Open when you need bpy.types.ShaderFxSwirl: [bpy.types.ShaderFxSwirl](shader-fx-swirl.md).
 - Open when you need bpy.types.ShaderFxWave: [bpy.types.ShaderFxWave](shader-fx-wave.md).

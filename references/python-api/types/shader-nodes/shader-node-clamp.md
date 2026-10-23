@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeClamp(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeClamp ( ShaderNode ) 
 
 Hold a value within a chosen lower and upper bound

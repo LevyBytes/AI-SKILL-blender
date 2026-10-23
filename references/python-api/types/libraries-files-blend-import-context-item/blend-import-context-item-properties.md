@@ -4,7 +4,7 @@
 
 ### BlendImportContextItem(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types.BlendImportContextItem(bpy_struct)
 
 Represents one data-block entry held inside a BlendImportContext. For now it is available solely as read-only information passed to the pre- and post-linking handlers.

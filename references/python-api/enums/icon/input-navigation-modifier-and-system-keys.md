@@ -1,4 +1,4 @@
-# Icon Items — input navigation modifier and system keys
+# Icon Items - input navigation modifier and system keys
 
 | Value | Meaning |
 | --- | --- |

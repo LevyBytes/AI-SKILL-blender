@@ -6,7 +6,7 @@
 
 Menu ‣ Weights ‣ Normalize All. For each point, guarantees all vertex group weights sum to unity, normalizing all except those locked, which remain static.
 
-Lock Active — keeps the active group's values unaltered while rescaling others.
+Lock Active: keeps the active group's values unaltered while rescaling others.
 
 **Normalize.**
 

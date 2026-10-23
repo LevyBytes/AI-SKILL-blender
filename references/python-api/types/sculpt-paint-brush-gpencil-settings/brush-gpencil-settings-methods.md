@@ -2,7 +2,7 @@
 
 ### BrushGpencilSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BrushGpencilSettings ( bpy_struct )
 
 Configures behavior and properties for Grease Pencil brush strokes

@@ -4,7 +4,7 @@
 
 ### SpaceProperties(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpaceProperties ( Space )
 
 Data for the Properties editor space

@@ -2,7 +2,7 @@
 
 ### Brush(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Brush ( ID )
 
 A data-block that holds the settings of a brush used for painting and sculpting.

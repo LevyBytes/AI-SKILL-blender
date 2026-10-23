@@ -44,7 +44,7 @@ type
 
 ### LightProbePlane(LightProbe) 
 
-base classes — bpy_struct, ID, LightProbe
+base classes: bpy_struct, ID, LightProbe
 class bpy.types. LightProbePlane ( LightProbe ) 
 
 Light probe that captures incoming light from a single direction on a plane

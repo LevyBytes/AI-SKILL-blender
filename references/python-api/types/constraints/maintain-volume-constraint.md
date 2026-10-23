@@ -74,7 +74,7 @@ type
 
 ### MaintainVolumeConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. MaintainVolumeConstraint ( Constraint )
 
 Holds volume steady while scaling occurs along one axis.

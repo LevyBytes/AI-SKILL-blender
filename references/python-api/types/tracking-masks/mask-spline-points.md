@@ -63,7 +63,7 @@ type
 
 ### MaskSplinePoints(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. MaskSplinePoints ( bpy_prop_collection )
 
 The group of points belonging to a masking spline.

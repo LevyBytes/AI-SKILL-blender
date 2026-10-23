@@ -4,7 +4,7 @@
 
 ### LineStyleColorModifier_DistanceFromCamera(LineStyleColorModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleColorModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleColorModifier
 class bpy.types. LineStyleColorModifier_DistanceFromCamera ( LineStyleColorModifier ) 
 
 Varies line color according to how far the geometry sits from the camera

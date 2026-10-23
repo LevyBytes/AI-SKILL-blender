@@ -77,7 +77,7 @@ type
 
 ### BrushCapabilities(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BrushCapabilities ( bpy_struct )
 
 Read-only flags reporting which operations are available.

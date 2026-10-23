@@ -56,7 +56,7 @@ type
 
 ### LineStyleGeometryModifier(LineStyleModifier) 
 
-base classes — bpy_struct, LineStyleModifier
+base classes: bpy_struct, LineStyleModifier
 
 subclasses —
 LineStyleGeometryModifier_2DOffset, LineStyleGeometryModifier_2DTransform, LineStyleGeometryModifier_BackboneStretcher, LineStyleGeometryModifier_BezierCurve, LineStyleGeometryModifier_Blueprint, LineStyleGeometryModifier_GuidingLines, LineStyleGeometryModifier_PerlinNoise1D, LineStyleGeometryModifier_PerlinNoise2D, LineStyleGeometryModifier_Polygonalization, LineStyleGeometryModifier_Sampling, LineStyleGeometryModifier_Simplification, LineStyleGeometryModifier_SinusDisplacement, LineStyleGeometryModifier_SpatialNoise, LineStyleGeometryModifier_TipRemover

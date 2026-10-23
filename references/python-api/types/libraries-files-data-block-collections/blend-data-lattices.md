@@ -84,7 +84,7 @@ type
 
 Registry of linked external blend files.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. BlendDataLattices ( bpy_prop_collection )
 
 Collection of lattices

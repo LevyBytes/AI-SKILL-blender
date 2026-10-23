@@ -57,7 +57,7 @@ type
 
 ### NodeSocketShader(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketShader ( NodeSocketStandard )
 
 A node socket whose value is a shader.

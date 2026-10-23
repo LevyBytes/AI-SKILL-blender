@@ -63,7 +63,7 @@ class bpy.types.ActionStrips(bpy_prop_collection)
 A set of animation strips
 ### Addon(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 ## ActionStrips(bpy_prop_collection)
 
 [Related references](INDEX.md).

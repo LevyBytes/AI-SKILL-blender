@@ -4,7 +4,7 @@
 
 ### CopyTransformsConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. CopyTransformsConstraint ( Constraint )
 
 Mirror every transform of the target onto the owner.

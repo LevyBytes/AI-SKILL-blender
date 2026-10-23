@@ -85,7 +85,7 @@ type
 
 ### CompositorNodePixelate(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodePixelate ( CompositorNode )
 
 Coarsens an image by enlarging its pixels, giving a chunky, mosaic-style look.

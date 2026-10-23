@@ -92,7 +92,7 @@ type
 
 ### FunctionNodeBooleanMath(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeBooleanMath ( FunctionNode ) 
 
 Apply a logical operation to the supplied boolean inputs

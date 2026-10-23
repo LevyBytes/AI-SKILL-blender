@@ -4,7 +4,7 @@
 
 ### ParticleInstanceModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. ParticleInstanceModifier ( Modifier )
 
 A modifier that instances geometry across a particle system

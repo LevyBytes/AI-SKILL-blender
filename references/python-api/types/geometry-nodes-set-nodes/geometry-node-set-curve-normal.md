@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetCurveNormal(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetCurveNormal ( GeometryNode )
 
 Choose how curve normals are evaluated

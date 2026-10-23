@@ -4,7 +4,7 @@
 
 ### GeometryNodeDeleteGeometry(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeDeleteGeometry ( GeometryNode )
 
 Strip out the chosen elements from a geometry.

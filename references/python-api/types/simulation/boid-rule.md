@@ -65,7 +65,7 @@ type
 
 ### BoidRule(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 BoidRuleAverageSpeed, BoidRuleAvoid, BoidRuleAvoidCollision, BoidRuleFight, BoidRuleFollowLeader, BoidRuleGoal

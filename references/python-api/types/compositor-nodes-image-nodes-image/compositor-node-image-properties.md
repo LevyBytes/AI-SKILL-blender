@@ -4,7 +4,7 @@
 
 ### CompositorNodeImage(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeImage ( CompositorNode )
 
 Feeds in a still image or a movie file.

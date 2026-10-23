@@ -29,7 +29,7 @@ of new edges behind the cut.
 
 To begin, grab the tool from the Toolbar or press K . A scalpel cursor signals it's live.
 
-LMB wherever the cut should start — that can be anywhere: on a vertex, edge, or face, or even off
+LMB wherever the cut should start - that can be anywhere: on a vertex, edge, or face, or even off
 the mesh entirely.
 
 Move toward your next point. A yellow line previews the edges to come and aqua dots mark the new

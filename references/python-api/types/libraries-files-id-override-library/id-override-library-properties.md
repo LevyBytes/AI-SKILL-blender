@@ -4,7 +4,7 @@
 
 ### IDOverrideLibrary(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. IDOverrideLibrary ( bpy_struct )
 
 Bundles together everything an overridden linked ID needs.

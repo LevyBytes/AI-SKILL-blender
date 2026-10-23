@@ -46,8 +46,8 @@ Parameters:
 - use_custom_directory ( bool ) – Custom Directory, Manually set the path for extensions to be stored. When disabled a user's extensions directory is created. (optional)
 - custom_directory ( str ) – Custom Directory, The local directory containing extensions (optional, never None)
 - type ( Literal [ 'REMOTE' , 'LOCAL' ] ) – Type, The kind of repository to add (optional)
-- REMOTE — Add Remote Repository: add a repository referencing a remote one, with support for listing and updating extensions.
-- LOCAL — Add Local Repository: add a repository managed manually, without referencing an external one.
+- REMOTE - Add Remote Repository: add a repository referencing a remote one, with support for listing and updating extensions.
+- LOCAL - Add Local Repository: add a repository managed manually, without referencing an external one.
 Returns: The operator's result.
 Return type: set[Literal[Operator Return Items]]
 

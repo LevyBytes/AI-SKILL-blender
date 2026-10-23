@@ -10,8 +10,8 @@ Light units: Point, spot, and area lights use Watts. Sun lights use Watts/m², r
 
 ### Inputs
 
-- **Color** — Emitted light color.
-- **Strength** — Emitted light strength. For point/area lights: Watts. For materials: 1.0 makes the object display its exact Color input (shadeless).
+- **Color**: Emitted light color.
+- **Strength**: Emitted light strength. For point/area lights: Watts. For materials: 1.0 makes the object display its exact Color input (shadeless).
 
 ### Properties
 
@@ -19,7 +19,7 @@ None.
 
 ### Outputs
 
-- **Emission** — Can connect to Surface or Volume Input of Material Output node.
+- **Emission**: Can connect to Surface or Volume Input of Material Output node.
 
 ### Examples
 

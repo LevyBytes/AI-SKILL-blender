@@ -8,34 +8,34 @@ A keyframe is a time marker storing a property's value — for example, that a c
 
 The Dope Sheet gives a bird's-eye view of the keyframes in the scene. It draws on classical hand-drawn animation, where animators used a chart marking exactly when each drawing, sound, and camera move happens and for how long. You can also bring up Playback Controls to drive the playhead.
 
-Dope Sheet Modes — the editor has several modes, picked from a header dropdown. The default Dope Sheet mode surveys most kinds of animatable data; for others, such as masks, you switch to a more specific mode. They are:
+Dope Sheet Modes: the editor has several modes, picked from a header dropdown. The default Dope Sheet mode surveys most kinds of animatable data; for others, such as masks, you switch to a more specific mode. They are:
 Dope Sheet, Action Editor, Shape Key Editor, Grease Pencil, Mask, and Cache File (originally intended to display baked animation data from Alembic files, though it was never implemented).
 
-Main Region — the Dope Sheet Editor presents a stack of channels (animatable properties), and for each channel a row of keyframes spread along the time axis. Keyframes vary in color and shape:
-  Gray — unselected.
-  Yellow — selected.
-  Other colors — a custom keyframe tag you set (Key ‣ Keyframe Type).
-  Diamond — Free Keyframe Handle (Key ‣ Handle Type).
-  Round — Auto-Clamped Keyframe Handle.
-  Circle — Automatic Keyframe Handle.
-  Square — Vector Keyframe Handle.
-  Rhombus — Aligned Keyframe Handle.
-  Gray bar between keys — a held key, meaning the pair of keyframes match.
-  Green line between keys — that curve segment runs on custom interpolation (Key ‣ Interpolation Mode).
-  Upwards arrow — a local maximum in the curve (shown when View ‣ Show Curve Extremes is on).
-  Downwards arrow — a local minimum in the curve.
+Main Region: the Dope Sheet Editor presents a stack of channels (animatable properties), and for each channel a row of keyframes spread along the time axis. Keyframes vary in color and shape:
+  Gray: unselected.
+  Yellow: selected.
+  Other colors: a custom keyframe tag you set (Key ‣ Keyframe Type).
+  Diamond: Free Keyframe Handle (Key ‣ Handle Type).
+  Round: Auto-Clamped Keyframe Handle.
+  Circle: Automatic Keyframe Handle.
+  Square: Vector Keyframe Handle.
+  Rhombus: Aligned Keyframe Handle.
+  Gray bar between keys: a held key, meaning the pair of keyframes match.
+  Green line between keys: that curve segment runs on custom interpolation (Key ‣ Interpolation Mode).
+  Upwards arrow: a local maximum in the curve (shown when View ‣ Show Curve Extremes is on).
+  Downwards arrow: a local minimum in the curve.
 Click to select a keyframe and drag to move it; the Select and Key menus hold more options.
 
-Channels Region — sits down the left side of time-based editors such as the Dope Sheet and the Graph Editor. It lists a tree of items (objects, bones…) and their animated properties, the latter also called "channels," each with an F-curve that describes how its value changes over time.
+Channels Region: sits down the left side of time-based editors such as the Dope Sheet and the Graph Editor. It lists a tree of items (objects, bones…) and their animated properties, the latter also called "channels," each with an F-curve that describes how its value changes over time.
 
 The rows carry color codes:
-Dark blue — scenes, objects.
-Light blue — actions, shape keys, and the like.
-Green — channel groups.
-Gray — channels.
-Search (Ctrl-F) — filters the channels by part of their name; click Invert to instead show channels that lack the search text.
+Dark blue: scenes, objects.
+Light blue: actions, shape keys, and the like.
+Green: channel groups.
+Gray: channels.
+Search (Ctrl-F): filters the channels by part of their name; click Invert to instead show channels that lack the search text.
 
-Channels — the headers hold these toggle buttons:
+Channels: the headers hold these toggle buttons:
 / Pin — keeps the row and its children visible even after you select a different object.
 / Hide — hides the keyframes and curve tied to the channel.
 / Modifiers — switches off the curve's modifiers.
@@ -44,21 +44,21 @@ Channels — the headers hold these toggle buttons:
 Note: this works in the Nonlinear Animation Editor too, but there it only locks the strips, not the underlying F-curves.
 
 Selection:
-Select single header — LMB.
-Add/Remove single header — Ctrl-LMB.
-Select range — Shift-LMB.
-Select All — A.
-Deselect All — Alt-A, or double-tap A.
-Box Select — drag LMB.
-Box Add — drag Shift-LMB.
-Box Remove — drag Ctrl-LMB.
-Select all keyframes in the channel — double-click LMB on its header.
+Select single header: LMB.
+Add/Remove single header: Ctrl-LMB.
+Select range: Shift-LMB.
+Select All: A.
+Deselect All: Alt-A, or double-tap A.
+Box Select: drag LMB.
+Box Add: drag Shift-LMB.
+Box Remove: drag Ctrl-LMB.
+Select all keyframes in the channel: double-click LMB on its header.
 
 Editing:
-Rename (anything but a channel) — double-click LMB.
-Delete selected — X or Delete.
-Lock selected — Tab.
-Sliders — turning on View ‣ Show Sliders adds a value slider beside each channel; changing one alters the curve's value at the current frame, inserting a keyframe if none exists yet.
+Rename (anything but a channel): double-click LMB.
+Delete selected: X or Delete.
+Lock selected: Tab.
+Sliders: turning on View ‣ Show Sliders adds a value slider beside each channel; changing one alters the curve's value at the current frame, inserting a keyframe if none exists yet.
 
 The Outliner shows the blend-file's content as a tree, which you can use to survey the scene's data; pick and unpick objects; render objects unselectable or hidden in the 3D Viewport; keep objects out of the render; duplicate and delete objects; and manage parent/child relationships and collections. Items with a left-hand arrow expand: LMB it to expand one, drag LMB to expand several, or Shift-LMB to expand recursively.
 

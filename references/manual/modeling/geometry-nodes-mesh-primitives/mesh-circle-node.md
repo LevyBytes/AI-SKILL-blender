@@ -8,22 +8,22 @@ Generates optionally-filled circular ring.
 
 ### Inputs
 
-Vertices — Ring vertex count; minimum 3.
+Vertices: Ring vertex count; minimum 3.
 
-Radius — Distance from origin.
+Radius: Distance from origin.
 
 ### Properties
 
-Fill Type — Interior fill.
+Fill Type: Interior fill.
 
-None — Ring only.
+None: Ring only.
 
-N-Gon — Single face.
+N-Gon: Single face.
 
-Triangles — Fan from origin.
+Triangles: Fan from origin.
 
 ### Outputs
 
-Mesh — Standard output.
+Mesh: Standard output.
 
 [Related references](INDEX.md).

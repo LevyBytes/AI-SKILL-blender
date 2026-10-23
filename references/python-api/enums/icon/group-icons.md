@@ -1,4 +1,4 @@
-# Icon Items — group icons
+# Icon Items - group icons
 
 | Value | Meaning |
 | --- | --- |

@@ -4,7 +4,7 @@
 
 ### ShaderNodeOutputMaterial(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeOutputMaterial ( ShaderNode )
 
 Hands surface material data off to the renderer.

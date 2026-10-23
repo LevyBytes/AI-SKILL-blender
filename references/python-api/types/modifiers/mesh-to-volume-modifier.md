@@ -92,7 +92,7 @@ type
 
 ### MeshToVolumeModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. MeshToVolumeModifier ( Modifier )
 
 [Related references](INDEX.md).

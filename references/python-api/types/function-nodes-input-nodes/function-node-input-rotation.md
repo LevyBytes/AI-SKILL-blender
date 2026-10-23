@@ -92,7 +92,7 @@ type
 
 ### FunctionNodeInputRotation(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeInputRotation ( FunctionNode ) 
 
 Supply a rotation value that downstream nodes in the tree can read

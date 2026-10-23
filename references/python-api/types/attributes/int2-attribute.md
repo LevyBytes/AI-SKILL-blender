@@ -51,7 +51,7 @@ type
 
 ### Int2Attribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. Int2Attribute ( Attribute )
 
 A geometry attribute holding 2D integer vectors.

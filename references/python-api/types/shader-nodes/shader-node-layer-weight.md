@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeLayerWeight(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeLayerWeight ( ShaderNode ) 
 
 Output a mix factor based on the angle between the surface normal and the viewing direction.

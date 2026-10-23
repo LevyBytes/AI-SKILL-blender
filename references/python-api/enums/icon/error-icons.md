@@ -1,4 +1,4 @@
-# Icon Items — error icons
+# Icon Items - error icons
 
 | Value | Meaning |
 | --- | --- |

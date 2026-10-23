@@ -10,7 +10,7 @@ The parameter order (msgid first, then optional msgctxt) differs from standard g
 
 Note
 
-Generally avoid this in production add-ons—Blender's core handles translations internally. Exception: strings with format specifiers (like "File: %r"); prefer pgettext_iface()/pgettext_tip() for those.
+Generally avoid this in production add-ons: Blender's core handles translations internally. Exception: strings with format specifiers (like "File: %r"); prefer pgettext_iface()/pgettext_tip() for those.
 
 Note
 

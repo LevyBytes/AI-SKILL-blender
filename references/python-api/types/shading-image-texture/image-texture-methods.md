@@ -4,7 +4,7 @@
 
 ### ImageTexture(Texture)
 
-base classes — bpy_struct, ID, Texture
+base classes: bpy_struct, ID, Texture
 class bpy.types. ImageTexture ( Texture )
 classmethod bl_rna_get_subclass ( id , default = None , / )
 

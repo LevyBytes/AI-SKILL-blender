@@ -1,4 +1,4 @@
-# Icon Items — filebrowser icons
+# Icon Items - filebrowser icons
 
 | Value | Meaning |
 | --- | --- |

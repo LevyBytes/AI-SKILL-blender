@@ -56,7 +56,7 @@ type
 
 ### BoolAttribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. BoolAttribute ( Attribute )
 
 A geometry attribute whose values are booleans.

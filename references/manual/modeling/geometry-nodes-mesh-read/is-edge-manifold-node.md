@@ -14,6 +14,6 @@ None.
 
 ### Outputs
 
-Manifold — Boolean per edge. True = exactly two adjacent faces; false = one, more than two, or none.
+Manifold: Boolean per edge. True = exactly two adjacent faces; false = one, more than two, or none.
 
 [Related references](INDEX.md).

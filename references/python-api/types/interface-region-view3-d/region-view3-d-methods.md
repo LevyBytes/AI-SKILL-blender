@@ -4,7 +4,7 @@
 
 ### RegionView3D(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. RegionView3D ( bpy_struct ) 
 
 Data for a 3D View region

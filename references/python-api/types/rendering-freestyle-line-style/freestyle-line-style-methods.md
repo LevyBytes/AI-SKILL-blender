@@ -4,7 +4,7 @@
 
 ### FreestyleLineStyle(ID) 
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. FreestyleLineStyle ( ID ) 
 
 A line style definition that several line sets can share

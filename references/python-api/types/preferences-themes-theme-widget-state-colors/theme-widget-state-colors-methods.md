@@ -4,7 +4,7 @@
 
 ### ThemeWidgetStateColors(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeWidgetStateColors ( bpy_struct ) 
 
 Color theming for widget state colors.

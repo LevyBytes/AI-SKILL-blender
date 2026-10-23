@@ -1,4 +1,4 @@
-# Icon Items — unlocked icons
+# Icon Items - unlocked icons
 
 | Value | Meaning |
 | --- | --- |

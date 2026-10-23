@@ -4,7 +4,7 @@
 
 Procedural operator that smooths and rounds edge and corner geometry.
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. BevelModifier ( Modifier )
 
 Adds rounded corners and edges to geometry

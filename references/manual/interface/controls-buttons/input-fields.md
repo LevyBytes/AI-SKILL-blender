@@ -3,23 +3,23 @@
 ## Input Fields
 
 Text & Search Fields: a text field has a rounded rectangular border and may show an icon and/or text inside it. Text fields hold text strings and let you edit with the usual text-editing shortcuts:
-- Home — go to the start of the line.
-- End — go to the end of the line.
-- Left, Right — move the cursor one character.
-- Ctrl-Left, Ctrl-Right — move the cursor a whole word.
-- Backspace, Delete — delete characters.
-- Ctrl-Backspace, Ctrl-Delete — delete words.
-- Shift — hold while moving the cursor to select.
-- Ctrl-A — select all text.
-- Ctrl-C — copy the selected text.
-- Ctrl-X — cut the selected text.
-- Ctrl-V — paste text at the cursor position.
+- Home: go to the start of the line.
+- End: go to the end of the line.
+- Left, Right: move the cursor one character.
+- Ctrl-Left, Ctrl-Right: move the cursor a whole word.
+- Backspace, Delete: delete characters.
+- Ctrl-Backspace, Ctrl-Delete: delete words.
+- Shift: hold while moving the cursor to select.
+- Ctrl-A: select all text.
+- Ctrl-C: copy the selected text.
+- Ctrl-X: cut the selected text.
+- Ctrl-V: paste text at the cursor position.
 For text fields with an icon and pop-ups, see Data ID.
 
 Number Fields: these store values and units. The first kind shows left (<) and right (>) triangles on its sides when the pointer is over it. Sliders, a second kind, carry a colored background bar showing a value across a range, such as a percentage. You can edit the value several ways:
-Incremental Steps — click LMB on the small triangles to step by units (not available for sliders); you can also use Ctrl-Wheel while hovering over the field to change the value.
-Dragging — hold LMB and drag left or right to change the value with the mouse; hold Ctrl to snap to discrete steps while dragging, or Shift for precision input.
-Keyboard Input — press LMB or Return to type the value. While typing, number fields behave like text fields:
+Incremental Steps: click LMB on the small triangles to step by units (not available for sliders); you can also use Ctrl-Wheel while hovering over the field to change the value.
+Dragging: hold LMB and drag left or right to change the value with the mouse; hold Ctrl to snap to discrete steps while dragging, or Shift for precision input.
+Keyboard Input: press LMB or Return to type the value. While typing, number fields behave like text fields:
 - press Return, or LMB outside the field, to apply the change;
 - press Esc or RMB to cancel;
 - press Tab to jump to the next field, or Shift-Tab to go to the previous one;

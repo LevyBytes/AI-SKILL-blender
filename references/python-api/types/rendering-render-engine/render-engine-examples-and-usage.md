@@ -44,7 +44,7 @@ if __name__ == "__main__":
     register()
 ```
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 HydraRenderEngine

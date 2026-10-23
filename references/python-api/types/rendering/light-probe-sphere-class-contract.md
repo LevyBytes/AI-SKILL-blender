@@ -1,4 +1,4 @@
-# bpy.types.LightProbeSphere — class-contract, Inherited Properties, Inherited Functions, LightProbeSphere(LightProbe)
+# bpy.types.LightProbeSphere - class-contract, Inherited Properties, Inherited Functions, LightProbeSphere(LightProbe)
 
 clip_end 
 

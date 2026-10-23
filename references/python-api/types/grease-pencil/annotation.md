@@ -63,7 +63,7 @@ type
 
 Data block for freehand sketched notes.
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Annotation ( ID )
 
 Freehand sketched annotation storage.

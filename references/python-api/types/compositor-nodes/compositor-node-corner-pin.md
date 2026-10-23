@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeCornerPin(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeCornerPin ( CompositorNode )
 
 Warps an image onto a plane driven by four user-set corner positions.

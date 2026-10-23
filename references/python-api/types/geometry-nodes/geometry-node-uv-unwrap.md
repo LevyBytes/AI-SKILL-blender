@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeUVUnwrap(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeUVUnwrap ( GeometryNode )
 
 Builds a UV map by following the edges marked as seams.

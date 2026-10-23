@@ -8,12 +8,12 @@ Adds faces using linear subdivision interpolation.
 
 ### Inputs
 
-Mesh — Standard input.
+Mesh: Standard input.
 
-Level — Subdivision count.
+Level: Subdivision count.
 
 ### Outputs
 
-Mesh — Standard output.
+Mesh: Standard output.
 
 [Related references](INDEX.md).

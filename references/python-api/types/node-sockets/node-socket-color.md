@@ -64,7 +64,7 @@ type
 
 ### NodeSocketColor(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketColor ( NodeSocketStandard )
 
 A node socket carrying an RGBA color.

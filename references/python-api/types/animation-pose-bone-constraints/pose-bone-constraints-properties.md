@@ -4,7 +4,7 @@
 
 ### PoseBoneConstraints(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. PoseBoneConstraints ( bpy_prop_collection )
 
 The set of constraints belonging to a pose bone.

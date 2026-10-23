@@ -49,7 +49,7 @@ type
 
 ### CacheObjectPaths(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. CacheObjectPaths ( bpy_prop_collection )
 
 List of object paths

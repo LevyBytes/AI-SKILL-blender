@@ -4,7 +4,7 @@
 
 ### Strip(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 EffectStrip, ImageStrip, MaskStrip, MetaStrip, MovieClipStrip, MovieStrip, SceneStrip, SoundStrip

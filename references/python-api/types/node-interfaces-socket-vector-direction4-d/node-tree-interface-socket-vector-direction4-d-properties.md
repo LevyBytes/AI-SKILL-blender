@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorDirection4D(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorDirection4D ( NodeTreeInterfaceSocket ) 
 
 A node socket for a 3D vector

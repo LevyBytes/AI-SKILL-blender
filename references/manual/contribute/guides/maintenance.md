@@ -2,7 +2,7 @@
 
 ## Maintenance
 
-Adding, removing, or moving files — when RST files are added or removed, the update script adds or removes the matching locale files automatically. To move files, however, use this Python script first:
+Adding, removing, or moving files: when RST files are added or removed, the update script adds or removes the matching locale files automatically. To move files, however, use this Python script first:
 ```console
 python tools/utils_maintenance/rst_remap.py start
 ```

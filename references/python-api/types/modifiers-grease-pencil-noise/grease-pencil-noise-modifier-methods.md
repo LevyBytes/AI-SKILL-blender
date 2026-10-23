@@ -4,7 +4,7 @@
 
 ### GreasePencilNoiseModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilNoiseModifier ( Modifier )
 
 Stroke modifier that adds a noise effect.

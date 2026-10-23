@@ -1,4 +1,4 @@
-# bpy.types.ShaderNodeBevel — class-contract, Inherited Properties, Inherited Functions, ShaderNodeBevel(ShaderNode)
+# bpy.types.ShaderNodeBevel - class-contract, Inherited Properties, Inherited Functions, ShaderNodeBevel(ShaderNode)
 
 samples
 

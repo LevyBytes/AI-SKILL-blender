@@ -42,6 +42,6 @@ bpy.types.VIEW3D_MT_object.append(menu_func)
 bpy.ops.object.search_enum_operator('INVOKE_DEFAULT')
 ```
 
-base class — bpy_struct
+base class: bpy_struct
 
 [Related references](INDEX.md).

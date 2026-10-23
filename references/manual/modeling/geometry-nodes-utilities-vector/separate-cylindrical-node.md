@@ -8,7 +8,7 @@ Converts a vector from Cartesian (X, Y, Z) to cylindrical (R, Φ, Z) coordinates
 Inverse of Combine Cylindrical.
 
 Useful for analyzing geometry or building procedural effects based on
-radial distance, angular position, or height—spirals, cylindrical gradients, radial masks, etc.
+radial distance, angular position, or height: spirals, cylindrical gradients, radial masks, etc.
 
 **Inputs**
 

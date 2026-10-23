@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeTransformDirection(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeTransformDirection ( FunctionNode )
 
 Runs a vector through a transformation matrix while ignoring its translation part.

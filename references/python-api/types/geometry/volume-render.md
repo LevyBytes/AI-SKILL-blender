@@ -92,7 +92,7 @@ type
 
 ### VolumeRender(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. VolumeRender ( bpy_struct )
 
 Render settings for a volume object.

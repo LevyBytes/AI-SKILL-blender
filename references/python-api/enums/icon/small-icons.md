@@ -1,4 +1,4 @@
-# Icon Items — small icons
+# Icon Items - small icons
 
 | Value | Meaning |
 | --- | --- |

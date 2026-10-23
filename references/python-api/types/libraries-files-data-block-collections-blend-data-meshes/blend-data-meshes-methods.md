@@ -4,7 +4,7 @@
 
 Registry of implicit surface blob objects.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. BlendDataMeshes ( bpy_prop_collection )
 
 Collection of meshes

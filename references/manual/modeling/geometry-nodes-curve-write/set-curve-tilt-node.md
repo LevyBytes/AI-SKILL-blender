@@ -11,11 +11,11 @@ The rotation mechanism: Axis Angle around the tangent, equivalent to Vector Rota
 Related: Curve Tilt node reads this attribute.
 
 Inputs:
-Curve — Standard geometry input.
-Selection — Boolean mask for which control points change.
-Tilt — Per-point rotation angle.
+Curve: Standard geometry input.
+Selection: Boolean mask for which control points change.
+Tilt: Per-point rotation angle.
 
 Outputs:
-Curve — Standard geometry output.
+Curve: Standard geometry output.
 
 [Related references](INDEX.md).

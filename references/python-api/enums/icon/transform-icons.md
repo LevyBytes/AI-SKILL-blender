@@ -1,4 +1,4 @@
-# Icon Items — transform icons
+# Icon Items - transform icons
 
 | Value | Meaning |
 | --- | --- |

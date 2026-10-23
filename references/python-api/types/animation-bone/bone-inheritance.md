@@ -4,7 +4,7 @@
 
 ### Bone(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types.Bone(bpy_struct)
 
 A single bone belonging to an Armature data-block

@@ -70,7 +70,7 @@ type
 
 ### MovieClipUser(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieClipUser ( bpy_struct )
 
 Settings that describe how one data-block consumes a MovieClip data-block

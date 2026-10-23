@@ -44,7 +44,7 @@ type
 
 ### SurfaceCurve(Curve)
 
-base classes — bpy_struct, ID, Curve
+base classes: bpy_struct, ID, Curve
 class bpy.types. SurfaceCurve ( Curve )
 
 A curve data-block that holds surface data.

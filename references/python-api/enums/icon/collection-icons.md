@@ -1,4 +1,4 @@
-# Icon Items — collection icons
+# Icon Items - collection icons
 
 | Value | Meaning |
 | --- | --- |

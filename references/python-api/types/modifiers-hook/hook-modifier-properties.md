@@ -4,7 +4,7 @@
 
 ### HookModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. HookModifier ( Modifier )
 
 Drives vertex positions from an external object or bone.

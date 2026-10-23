@@ -63,7 +63,7 @@ type
 
 ### FreestyleModuleSettings(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FreestyleModuleSettings ( bpy_struct ) 
 
 Configuration that points at a single style module

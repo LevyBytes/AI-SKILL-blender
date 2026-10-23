@@ -10,7 +10,7 @@ This guide gives patterns for documenting interface elements and directories. Op
    :Menu: :menuselection:`Curve --> Snap`
    :Shortcut: :kbd:`Shift-S`
 ```
-Panels — document each panel under its own heading, with nested panels at decreasing heading levels; a panel may warrant its own page by documentation length or panel count, and expanded menus that toggle which properties show should be treated like subpanels:
+Panels: document each panel under its own heading, with nested panels at decreasing heading levels; a panel may warrant its own page by documentation length or panel count, and expanded menus that toggle which properties show should be treated like subpanels:
 ```text
 Panel Title
 ===========
@@ -18,7 +18,7 @@ Panel Title
 Nested Panel Title
 ------------------
 ```
-Properties — document with definition lists, using nested definitions for properties hidden behind other properties:
+Properties: document with definition lists, using nested definitions for properties hidden behind other properties:
 ```text
 Property
    Property description.
@@ -35,7 +35,7 @@ Menu Label
    :Menu Item: Menu Item Definition.
    :Menu Item: Menu Item Definition.
 ```
-Nodes — always give three headings (inputs, properties, outputs), noting absence where the node has none, with an optional example(s) section at the end of the page:
+Nodes: always give three headings (inputs, properties, outputs), noting absence where the node has none, with an optional example(s) section at the end of the page:
 ```rst
 **********
 World Node
@@ -66,7 +66,7 @@ This node has no outputs.
 Example
 =======
 ```
-Directory layout — structure sections generally as a directory holding index.rst (links to internal files), introduction.rst, then section_1.rst, section_2.rst, and so on; for example:
+Directory layout: structure sections generally as a directory holding index.rst (links to internal files), introduction.rst, then section_1.rst, section_2.rst, and so on; for example:
 ```text
 - rendering/
   - index.rst

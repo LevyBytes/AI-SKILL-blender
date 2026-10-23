@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeBsdfDiffuse(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfDiffuse ( ShaderNode )
 
 Diffuse reflection of the Lambertian and Oren-Nayar kind

@@ -4,7 +4,7 @@
 
 A skeletal system for character rigging.
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Armature ( ID )
 
 Hierarchical bone system, typically used for character animation and deformation.

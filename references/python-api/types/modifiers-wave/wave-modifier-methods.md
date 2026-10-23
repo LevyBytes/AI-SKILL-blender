@@ -4,7 +4,7 @@
 
 ### WaveModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. WaveModifier ( Modifier )
 
 Wave effect modifier

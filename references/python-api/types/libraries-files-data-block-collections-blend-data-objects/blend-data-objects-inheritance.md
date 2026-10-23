@@ -3,7 +3,7 @@
 ## BlendDataObjects(bpy_prop_collection)
 
 ### BlendDataObjects(bpy_prop_collection)
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. BlendDataObjects ( bpy_prop_collection )
 A collection of objects.
 class bpy.types. BlendDataObjects ( bpy_prop_collection )

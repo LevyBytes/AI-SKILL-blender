@@ -1,4 +1,4 @@
-# Icon Items — settings icons
+# Icon Items - settings icons
 
 | Value | Meaning |
 | --- | --- |

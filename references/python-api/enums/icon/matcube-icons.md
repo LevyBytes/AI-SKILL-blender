@@ -1,4 +1,4 @@
-# Icon Items — matcube icons
+# Icon Items - matcube icons
 
 | Value | Meaning |
 | --- | --- |

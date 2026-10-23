@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeObjectInfo(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeObjectInfo ( ShaderNode )
 
 Reads back data describing the object instance being shaded.

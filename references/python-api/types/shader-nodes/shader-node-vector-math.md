@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeVectorMath(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeVectorMath ( ShaderNode )
 
 Applies a chosen mathematical operation to vector inputs.

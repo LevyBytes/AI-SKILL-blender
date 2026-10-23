@@ -82,7 +82,7 @@ type
 
 ### ParticleSettingsTextureSlots(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. ParticleSettingsTextureSlots ( bpy_prop_collection )
 
 The set of texture slots

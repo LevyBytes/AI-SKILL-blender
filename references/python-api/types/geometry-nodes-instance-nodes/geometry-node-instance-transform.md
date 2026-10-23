@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInstanceTransform(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInstanceTransform ( GeometryNode ) 
 
 Read out the complete transform applied to each instance within the geometry.

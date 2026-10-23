@@ -9,10 +9,10 @@ Wraps every connected input as a separate instance. Visually resembles Join Geom
 Useful with Pick Instances in Instance on Points Node to select among node-tree-generated geometries (vs. picking from Collection Info Node instances).
 
 Inputs:
-Geometry — Input geometries to wrap. Multiple links accepted. Muting passes only the first link.
+Geometry: Input geometries to wrap. Multiple links accepted. Muting passes only the first link.
 
 Outputs:
-Geometry — Standard geometry output.
+Geometry: Standard geometry output.
 
 Examples:
 Paired with Instance on Points Node to randomly pick among primitives.

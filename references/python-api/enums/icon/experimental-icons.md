@@ -1,4 +1,4 @@
-# Icon Items — experimental icons
+# Icon Items - experimental icons
 
 | Value | Meaning |
 | --- | --- |

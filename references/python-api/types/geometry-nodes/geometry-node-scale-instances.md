@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeScaleInstances(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeScaleInstances ( GeometryNode )
 
 Resize geometry instances, using either local or global space

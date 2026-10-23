@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeCurveOfPoint(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveOfPoint ( GeometryNode )
 
 Find which curve a given control point belongs to.

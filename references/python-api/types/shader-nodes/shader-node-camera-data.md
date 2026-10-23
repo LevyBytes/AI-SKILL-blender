@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeCameraData(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeCameraData ( ShaderNode ) 
 
 Read out camera data and how it relates to where the current shading point sits

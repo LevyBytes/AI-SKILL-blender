@@ -4,7 +4,7 @@
 
 ### GeometryNodeSDFGridBoolean(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSDFGridBoolean ( GeometryNode )
 
 Carve, subtract, or merge several SDF volume grid inputs together

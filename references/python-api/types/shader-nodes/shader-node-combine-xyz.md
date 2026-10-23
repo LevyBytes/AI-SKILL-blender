@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeCombineXYZ(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeCombineXYZ ( ShaderNode ) 
 
 Build a vector out of separate X, Y, and Z components

@@ -44,7 +44,7 @@ type
 
 ### `IO_FH`_svg_as_curves(FileHandler)
 
-base classes — bpy_struct, FileHandler
+base classes: bpy_struct, FileHandler
 
 class bpy.types. `IO_FH`_svg_as_curves ( FileHandler )
 

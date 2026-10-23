@@ -1,4 +1,4 @@
-# Icon Items — time icons
+# Icon Items - time icons
 
 | Value | Meaning |
 | --- | --- |

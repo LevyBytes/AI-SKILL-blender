@@ -6,7 +6,7 @@
 
 - Light motion is disregarded in motion blur calculations.
 
-Motion Blur — Temporal Shutter
+Motion Blur: Temporal Shutter
 
 Reference
 Panel: Render ‣ Motion Blur

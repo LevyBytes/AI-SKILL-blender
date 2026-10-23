@@ -1,4 +1,4 @@
-# Icon Items — renderlayers icons
+# Icon Items - renderlayers icons
 
 | Value | Meaning |
 | --- | --- |

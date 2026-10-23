@@ -62,7 +62,7 @@ type
 
 ### NodeSocketObject(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketObject ( NodeSocketStandard )
 
 A node socket whose value is an object.

@@ -4,7 +4,7 @@
 
 ### NodeTreeInterfaceSocketVectorXYZ(NodeTreeInterfaceSocket) 
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketVectorXYZ ( NodeTreeInterfaceSocket ) 
 
 A node socket that handles a 3D vector

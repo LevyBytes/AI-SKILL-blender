@@ -4,7 +4,7 @@
 
 ### RenderSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. RenderSettings ( bpy_struct )
 
 Per-Scene data-block holding that scene's render configuration

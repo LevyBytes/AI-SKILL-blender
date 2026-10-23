@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeFloatCurve(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeFloatCurve ( ShaderNode ) 
 
 Send an input float through a curve and return the resulting float

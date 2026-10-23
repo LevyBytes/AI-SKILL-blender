@@ -57,7 +57,7 @@ type
 
 ### NodeSocketGeometry(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketGeometry ( NodeSocketStandard )
 
 A node socket whose value is geometry.

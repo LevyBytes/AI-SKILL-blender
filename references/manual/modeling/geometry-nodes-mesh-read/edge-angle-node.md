@@ -14,8 +14,8 @@ None.
 
 ### Outputs
 
-Unsigned Angle — Shortest angle (0 to PI). Flat and non-manifold edges: 0. Back-folded: PI (180°). Computing this is faster than signed angle; use when distinction unnecessary.
+Unsigned Angle: Shortest angle (0 to PI). Flat and non-manifold edges: 0. Back-folded: PI (180°). Computing this is faster than signed angle; use when distinction unnecessary.
 
-Signed Angle — Signed angle. Flat and non-manifold: 0. Concave positive, convex negative.
+Signed Angle: Signed angle. Flat and non-manifold: 0. Concave positive, convex negative.
 
 [Related references](INDEX.md).

@@ -63,7 +63,7 @@ type
 
 ### KeyingSetsAll(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. KeyingSetsAll ( bpy_prop_collection ) 
 
 Every keying set that can be used

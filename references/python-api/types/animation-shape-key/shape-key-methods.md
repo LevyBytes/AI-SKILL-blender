@@ -4,7 +4,7 @@
 
 ### ShapeKey(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ShapeKey ( bpy_struct )
 
 A single shape key stored inside a shape keys data-block.

@@ -7,13 +7,13 @@ The Rotate node rotates the input image around its center by a given angle. Inpu
 Rotates an image's or texture's texture coordinates.
 
 Inputs:
-Color — the usual color input.
-Turns — how many full 360° turns to rotate the coordinates about the chosen axis.
-Axis — the axis to rotate the mapping about.
+Color: the usual color input.
+Turns: how many full 360° turns to rotate the coordinates about the chosen axis.
+Axis: the axis to rotate the mapping about.
 
-Properties — this node exposes no properties.
+Properties: this node exposes no properties.
 
 Outputs:
-Color — the usual color output.
+Color: the usual color output.
 
 [Related references](INDEX.md).

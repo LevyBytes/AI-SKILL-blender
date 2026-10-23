@@ -85,7 +85,7 @@ type
 
 ### GeometryNodePointsToVertices(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodePointsToVertices ( GeometryNode )
 
 For each point in the point cloud, produce one mesh vertex

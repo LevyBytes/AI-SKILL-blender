@@ -69,7 +69,7 @@ type
 
 ### BlendDataProbes(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataProbes(bpy_prop_collection)
 
 Stores a collection of light probe instances.

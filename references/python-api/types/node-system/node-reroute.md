@@ -92,7 +92,7 @@ type
 
 ### NodeReroute(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeReroute ( NodeInternal )
 
 A single-socket routing helper that accepts one input and feeds several outputs

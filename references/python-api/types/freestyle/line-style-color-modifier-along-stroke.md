@@ -86,7 +86,7 @@ type
 
 ### LineStyleColorModifier_AlongStroke(LineStyleColorModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleColorModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleColorModifier
 class bpy.types. LineStyleColorModifier_AlongStroke ( LineStyleColorModifier ) 
 
 Varies line color as the stroke progresses

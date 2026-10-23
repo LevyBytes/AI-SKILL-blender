@@ -88,7 +88,7 @@ type
 
 Container of frames within an annotation layer.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. AnnotationFrames ( bpy_prop_collection )
 
 Collection of frames in an annotation layer.

@@ -4,7 +4,7 @@
 
 ### WorkSpace(ID) 
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. WorkSpace ( ID ) 
 
 A data-block that lays out the user's working environment

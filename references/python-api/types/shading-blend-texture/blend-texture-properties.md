@@ -4,7 +4,7 @@
 
 ### BlendTexture(Texture)
 
-base classes — bpy_struct, ID, Texture
+base classes: bpy_struct, ID, Texture
 class bpy.types.BlendTexture(Texture)
 
 A generated texture that interpolates between colors.

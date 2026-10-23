@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeSequencerStripInfo(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeSequencerStripInfo ( CompositorNode )
 
 Reports details about the modifier's currently active strip.

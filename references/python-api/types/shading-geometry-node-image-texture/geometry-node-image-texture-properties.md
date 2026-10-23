@@ -4,7 +4,7 @@
 
 ### GeometryNodeImageTexture(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeImageTexture ( GeometryNode )
 
 Look up colors and values stored in an image texture.

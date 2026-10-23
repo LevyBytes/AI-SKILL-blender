@@ -85,7 +85,7 @@ type
 
 ### NodeCombineBundleItems(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodeCombineBundleItems ( bpy_prop_collection )
 
 A set of combine bundle items.

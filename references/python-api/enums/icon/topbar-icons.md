@@ -1,4 +1,4 @@
-# Icon Items — topbar icons
+# Icon Items - topbar icons
 
 | Value | Meaning |
 | --- | --- |

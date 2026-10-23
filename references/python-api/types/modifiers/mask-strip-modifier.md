@@ -44,7 +44,7 @@ type
 
 ### MaskStripModifier(StripModifier)
 
-base classes — bpy_struct, StripModifier
+base classes: bpy_struct, StripModifier
 class bpy.types. MaskStripModifier ( StripModifier )
 
 A mask modifier applied to a sequence strip.

@@ -1,4 +1,4 @@
-# bpy.types.KeyingSetPaths — class-contract, Inherited Properties, Inherited Functions, References, KeyingSetPaths(bpy_prop_collection)
+# bpy.types.KeyingSetPaths - class-contract, Inherited Properties, Inherited Functions, References, KeyingSetPaths(bpy_prop_collection)
 
 active 
 

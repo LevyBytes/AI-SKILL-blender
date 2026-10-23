@@ -56,7 +56,7 @@ type
 
 ### SplineBezierPoints(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. SplineBezierPoints ( bpy_prop_collection )
 
 Set of Bézier points belonging to a spline

@@ -11,11 +11,11 @@ Evaluated points appear in the viewport, feed Curve to Mesh Node, and optionally
 Related: Spline Resolution node reads this attribute.
 
 Inputs:
-Curve — Standard geometry input.
-Selection — Boolean mask for which splines change.
-Resolution — Evaluated points per control point. Higher values increase accuracy at computational cost.
+Curve: Standard geometry input.
+Selection: Boolean mask for which splines change.
+Resolution: Evaluated points per control point. Higher values increase accuracy at computational cost.
 
 Outputs:
-Curve — Standard geometry output.
+Curve: Standard geometry output.
 
 [Related references](INDEX.md).

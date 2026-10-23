@@ -73,7 +73,7 @@ type
 
 Registry of local and remote asset libraries.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. AssetLibraryCollection ( bpy_prop_collection )
 
 Container of stored asset libraries.

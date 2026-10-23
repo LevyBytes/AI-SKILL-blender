@@ -14,7 +14,7 @@ Inputs:
 - Rotation: When Type is Euler, rotation angles around X then Y then Z axes
 
 Properties:
-Type — Rotation method:
+Type - Rotation method:
 
 X/Y/Z Axis: Rotate around the defined axis by the amount specified in Angle
 

@@ -1,4 +1,4 @@
-# bpy.types.WipeStrip — class-contract, Inherited Properties, Inherited Functions, WipeStrip(EffectStrip)
+# bpy.types.WipeStrip - class-contract, Inherited Properties, Inherited Functions, WipeStrip(EffectStrip)
 
 angle 
 

@@ -11,6 +11,6 @@ Warning: For NURBS and Bézier splines, output corresponds to control points, no
 Inputs: None
 
 Outputs:
-Tangent — Direction vector per control point.
+Tangent: Direction vector per control point.
 
 [Related references](INDEX.md).

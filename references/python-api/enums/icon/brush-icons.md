@@ -1,4 +1,4 @@
-# Icon Items — brush icons
+# Icon Items - brush icons
 
 | Value | Meaning |
 | --- | --- |

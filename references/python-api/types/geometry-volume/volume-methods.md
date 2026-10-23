@@ -4,7 +4,7 @@
 
 ### Volume(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. Volume ( ID )
 
 Data-block that holds 3D volume grids.

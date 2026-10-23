@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGridMean(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridMean ( GeometryNode ) 
 
 Smooth a voxel with a mean (box) filter. The neighbouring voxels inside a box of the chosen radius are averaged, and that average overwrites the voxel.

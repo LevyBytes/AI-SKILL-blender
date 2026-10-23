@@ -4,7 +4,7 @@
 
 ### MovieTrackingMarker(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieTrackingMarker ( bpy_struct )
 
 Marker data used during match-moving tracking

@@ -4,8 +4,8 @@
 - Open when you need bpy.types.BlendDataActions: [bpy.types.BlendDataActions](blend-data-actions.md).
 - Open when you need bpy.types.BlendDataAnnotations: [bpy.types.BlendDataAnnotations](blend-data-annotations.md).
 - Open when you need bpy.types.BlendDataArmatures: [bpy.types.BlendDataArmatures](blend-data-armatures.md).
-- Open when you need bpy.types.BlendDataBrushes — BlendDataBrushes(bpy_prop_collection): [bpy.types.BlendDataBrushes — BlendDataBrushes(bpy_prop_collection)](blend-data-brushes-blend-data-brushes-bpy-prop-collection.md).
-- Open when you need bpy.types.BlendDataBrushes — class-contract, Inherited Properties, Inherited Functions, References: [bpy.types.BlendDataBrushes — class-contract, Inherited Properties, Inherited Functions, References](blend-data-brushes-class-contract.md).
+- Open when you need bpy.types.BlendDataBrushes - BlendDataBrushes(bpy_prop_collection): [bpy.types.BlendDataBrushes - BlendDataBrushes(bpy_prop_collection)](blend-data-brushes-blend-data-brushes-bpy-prop-collection.md).
+- Open when you need bpy.types.BlendDataBrushes - class-contract, Inherited Properties, Inherited Functions, References: [bpy.types.BlendDataBrushes - class-contract, Inherited Properties, Inherited Functions, References](blend-data-brushes-class-contract.md).
 - Open when you need bpy.types.BlendDataCacheFiles: [bpy.types.BlendDataCacheFiles](blend-data-cache-files.md).
 - Open when you need bpy.types.BlendDataCameras: [bpy.types.BlendDataCameras](blend-data-cameras.md).
 - Open when you need bpy.types.BlendDataCollections: [bpy.types.BlendDataCollections](blend-data-collections.md).

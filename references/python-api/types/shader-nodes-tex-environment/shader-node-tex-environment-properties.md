@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexEnvironment(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexEnvironment ( ShaderNode )
 
 Reads an image file as an environment texture, most often paired with the Background node to light a scene.

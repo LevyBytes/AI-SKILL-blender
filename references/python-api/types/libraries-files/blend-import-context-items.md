@@ -41,7 +41,7 @@ type
 
 ### BlendImportContextItems(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendImportContextItems(bpy_prop_collection)
 
 Groups together the per-entry items of a blendfile import context.

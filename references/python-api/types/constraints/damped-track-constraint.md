@@ -79,7 +79,7 @@ type
 
 ### DampedTrackConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. DampedTrackConstraint ( Constraint )
 
 Aim at the target along the shortest rotational route.

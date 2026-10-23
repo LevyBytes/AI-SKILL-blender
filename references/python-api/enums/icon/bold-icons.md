@@ -1,4 +1,4 @@
-# Icon Items — bold icons
+# Icon Items - bold icons
 
 | Value | Meaning |
 | --- | --- |

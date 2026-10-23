@@ -70,7 +70,7 @@ type
 
 ### Point(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Point ( bpy_struct )
 
 A single point within a point cloud

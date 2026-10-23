@@ -46,6 +46,6 @@ print(image_dest.size)
 print(image_dest.pixels[0:4])
 ```
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 
 [Related references](INDEX.md).

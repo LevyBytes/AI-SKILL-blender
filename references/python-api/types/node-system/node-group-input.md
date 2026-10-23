@@ -85,7 +85,7 @@ type
 
 ### NodeGroupInput(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeGroupInput ( NodeInternal )
 
 Surface data wired in from within a node group as inputs on its interface

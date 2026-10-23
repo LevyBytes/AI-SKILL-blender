@@ -92,7 +92,7 @@ type
 
 ### NodeGroupOutput(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeGroupOutput ( NodeInternal )
 
 Emit data out of a node group from inside it

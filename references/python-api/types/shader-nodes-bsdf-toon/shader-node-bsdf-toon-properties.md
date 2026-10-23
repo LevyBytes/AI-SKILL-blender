@@ -4,7 +4,7 @@
 
 ### ShaderNodeBsdfToon(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfToon ( ShaderNode ) 
 
 Diffuse and Glossy shading rendered with stylized cartoon lighting

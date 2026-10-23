@@ -4,7 +4,7 @@
 
 ### ID(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 Action, Annotation, Armature, Brush, CacheFile, Camera, Collection, Curve, Curves, FreestyleLineStyle, GreasePencil, Image, Key, Lattice, Library, Light, LightProbe, Mask, Material, Mesh, MetaBall, MovieClip, NodeTree, Object, PaintCurve, Palette, ParticleSettings, PointCloud, Scene, Screen, Sound, Speaker, Text, Texture, VectorFont, Volume, WindowManager, WorkSpace, World

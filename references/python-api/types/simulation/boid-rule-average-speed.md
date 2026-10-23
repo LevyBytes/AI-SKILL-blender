@@ -54,7 +54,7 @@ type
 
 ### BoidRuleAverageSpeed(BoidRule)
 
-base classes — bpy_struct, BoidRule
+base classes: bpy_struct, BoidRule
 class bpy.types.BoidRuleAverageSpeed(BoidRule)
 
 [Related references](INDEX.md).

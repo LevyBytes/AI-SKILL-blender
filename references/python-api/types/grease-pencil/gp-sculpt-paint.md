@@ -49,7 +49,7 @@ type
 
 ### GpSculptPaint(Paint)
 
-base classes — bpy_struct, Paint
+base classes: bpy_struct, Paint
 class bpy.types. GpSculptPaint ( Paint )
 
 [Related references](INDEX.md).

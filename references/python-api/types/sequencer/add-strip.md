@@ -52,7 +52,7 @@ class bpy.types.AddStrip(EffectStrip)
 Add Strip
 ### AdjustmentStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 ## AddStrip(EffectStrip)
 
 [Related references](INDEX.md).

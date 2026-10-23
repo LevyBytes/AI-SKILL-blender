@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeInvertMatrix(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeInvertMatrix ( FunctionNode ) 
 
 Find the inverse of the supplied matrix when one is defined

@@ -4,7 +4,7 @@
 
 ### CompositorNodeCombineColor(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeCombineColor ( CompositorNode )
 
 Assemble an image back together from its component color channels

@@ -4,7 +4,7 @@
 
 ### ThemeInfo(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeInfo ( bpy_struct )
 
 Styling for Info

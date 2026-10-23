@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeTransform(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeTransform ( CompositorNode )
 
 Applies scaling, translation, and rotation to an image in one step.

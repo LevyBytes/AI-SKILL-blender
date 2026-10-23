@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeLightFalloff(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeLightFalloff ( ShaderNode ) 
 
 Control the rate at which light intensity drops with distance. Mostly serves non-physical effects, since real light always falls off quadratically

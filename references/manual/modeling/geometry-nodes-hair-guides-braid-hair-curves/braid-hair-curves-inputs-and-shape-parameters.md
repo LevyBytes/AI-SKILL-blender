@@ -11,7 +11,7 @@ It targets grooming where a few curves act as braid guides and the surrounding c
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for braiding.
+Geometry: the hair-curve geometry fed in for braiding.
 
 Factor
 How strongly the braid effect lands. At 0.0 the hair is untouched; at 1.0 the full braid deform applies.

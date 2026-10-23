@@ -63,7 +63,7 @@ type
 
 ### StringProperty(Property)
 
-base classes — bpy_struct, Property
+base classes: bpy_struct, Property
 class bpy.types. StringProperty ( Property )
 
 Definition of an RNA property holding a text string.

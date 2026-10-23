@@ -22,25 +22,25 @@ Controls the Strength falloff from brush center to borders. Adjust the curve sha
 
 Curve Preset
 
-Custom — Manually adjust curve control points or select a preset curve to start from.
+Custom: Manually adjust curve control points or select a preset curve to start from.
 
-Smooth — Center, border, and transition strength are evenly distributed.
+Smooth: Center, border, and transition strength are evenly distributed.
 
-Smoother — Similar to Smooth with a wider center point.
+Smoother: Similar to Smooth with a wider center point.
 
-Sphere — Strength concentrates at center with steep border falloff.
+Sphere: Strength concentrates at center with steep border falloff.
 
-Root — Similar to Sphere with more concentrated center.
+Root: Similar to Sphere with more concentrated center.
 
-Sharp — Strongest at center, exponentially tapering to a fine point.
+Sharp: Strongest at center, exponentially tapering to a fine point.
 
-Linear — Center is strongest; strength weakens consistently toward borders.
+Linear: Center is strongest; strength weakens consistently toward borders.
 
-Sharper — Similar to Sharp with a more condensed center.
+Sharper: Similar to Sharp with a more condensed center.
 
-Inverse Square — Hybrid between Smooth and Sphere.
+Inverse Square: Hybrid between Smooth and Sphere.
 
-Constant — Strength unified across the brush, creating a sharp border edge.
+Constant: Strength unified across the brush, creating a sharp border edge.
 
 Options
 

@@ -1,4 +1,4 @@
-# Video strips: Clear transforms — Rotation
+# Video strips: Clear transforms - Rotation
 
 #### Rotation
 

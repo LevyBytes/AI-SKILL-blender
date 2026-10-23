@@ -4,7 +4,7 @@
 
 ### GeometryNodeAccumulateField(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeAccumulateField ( GeometryNode )
 
 Sums the values of an evaluated field and reports the running tally for every element.

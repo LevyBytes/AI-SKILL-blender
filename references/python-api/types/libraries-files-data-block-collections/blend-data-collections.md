@@ -84,7 +84,7 @@ type
 
 Registry of parametric curve objects.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. BlendDataCollections ( bpy_prop_collection )
 
 List of object group hierarchies

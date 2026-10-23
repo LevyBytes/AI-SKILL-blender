@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeCrop(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeCrop ( CompositorNode )
 
 Trims an image down to a chosen region — either clearing the cut-away area to transparency or rescaling what remains.

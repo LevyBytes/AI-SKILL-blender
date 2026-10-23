@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeCornersOfEdge(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCornersOfEdge ( GeometryNode )
 
 Look up the face corners attached to each edge.

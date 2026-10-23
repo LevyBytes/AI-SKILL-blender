@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSetGridBackground(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetGridBackground ( GeometryNode ) 
 
 Defines the fallback value held by voxels and tiles that are inactive.

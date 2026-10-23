@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputCurveHandlePositions(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputCurveHandlePositions ( GeometryNode )
 
 Read out where each Bézier control point's handles are located.

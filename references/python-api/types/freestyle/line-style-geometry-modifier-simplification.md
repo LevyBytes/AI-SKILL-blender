@@ -72,7 +72,7 @@ type
 
 ### LineStyleGeometryModifier_Simplification(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_Simplification ( LineStyleGeometryModifier ) 
 
 Reduce the complexity of the stroke set

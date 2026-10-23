@@ -8,31 +8,31 @@ Brightening (scaling) a channel: a Math (Multiply) node raises the luminance cha
 
 The Math Node carries out math operations.
 
-Inputs — the node's inputs are dynamic, with some appearing only for certain operations; the Addend input, for instance, shows only for Multiply Add.
-Value — an input value; trigonometric functions read it as radians.
-Addend — an input addend.
-Base — an input base.
-Exponent — an input exponent.
-Epsilon — an input epsilon.
-Distance — an input distance.
-Min — an input minimum.
-Max — an input maximum.
-Increment — an input increment.
-Scale — an input scale.
-Degrees — input degrees.
-Radians — input radians.
+Inputs: the node's inputs are dynamic, with some appearing only for certain operations; the Addend input, for instance, shows only for Multiply Add.
+Value: an input value; trigonometric functions read it as radians.
+Addend: an input addend.
+Base: an input base.
+Exponent: an input exponent.
+Epsilon: an input epsilon.
+Distance: an input distance.
+Min: an input minimum.
+Max: an input maximum.
+Increment: an input increment.
+Scale: an input scale.
+Degrees: input degrees.
+Radians: input radians.
 
 Properties:
-Operation — the math operator applied to the inputs.
+Operation: the math operator applied to the inputs.
   Functions: Add (the two values' sum), Subtract (their difference), Multiply (their product), Divide (the first over the second; dividing by zero gives zero), Multiply Add (the product of the two plus Addend), Power (Base raised to Exponent), Logarithm (the log of the value to the given Base), Square Root (the value's square root), Inverse Square Root (one over the square root), Absolute (the value with its sign dropped, turning negatives positive), Exponent (Euler's number raised to the value).
   Comparison: Minimum (the smaller input), Maximum (the larger input), Less Than (1.0 when the first is below the second, else 0.0), Greater Than (1.0 when the first exceeds the second, else 0.0), Sign (positives give 1.0, negatives -1.0, and 0.0 gives 0.0), Compare (1.0 when the two values differ by at most Epsilon), Smooth Minimum, Smooth Maximum.
   Rounding: Round (rounds entrywise to the nearest integer, up at a 0.5 fraction), Floor (rounds down to the nearest integer), Ceil (rounds up to the nearest integer), Truncate (the value's integer part), Fraction (the value's fractional part), Truncated Modulo (the remainder of the first over the second), Floored Modulo (a division's positive remainder), Wrap (a value between Min and Max from the absolute gap between the value and the nearest integer multiple of Max below it), Snap (rounds down to the nearest integer multiple of Increment), Ping-pong (bounces between 0.0 and Scale as the value rises).
   Trigonometric: Sine, Cosine, Tangent, Arcsine, Arccosine, Arctangent (each of the input value), Arctan2 (the inverse tangent of the first over the second, in radians), Hyperbolic Sine, Hyperbolic Cosine, Hyperbolic Tangent (each of the input value).
   Conversion: To Radians (degrees to radians), To Degrees (radians to degrees).
-Clamp — limits the output to 0.0–1.0; see Clamp.
+Clamp: limits the output to 0.0–1.0; see Clamp.
 
 Outputs:
-Value — the numerical result.
+Value: the numerical result.
 
 ### Math Node
 

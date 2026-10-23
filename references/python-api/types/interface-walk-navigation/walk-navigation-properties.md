@@ -4,7 +4,7 @@
 
 ### WalkNavigation(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. WalkNavigation ( bpy_struct )
 
 Settings for walk navigation.

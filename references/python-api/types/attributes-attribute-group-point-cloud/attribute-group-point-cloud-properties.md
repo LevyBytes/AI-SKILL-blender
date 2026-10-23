@@ -4,7 +4,7 @@
 
 This Python-API class represents a collection of geometry attributes for point cloud objects.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. AttributeGroupPointCloud ( bpy_prop_collection )
 
 Manages point cloud geometry attribute groupings

@@ -1,4 +1,4 @@
-# Video strips: Apply — Stretch to Fill
+# Video strips: Apply - Stretch to Fill
 
 #### Stretch to Fill
 

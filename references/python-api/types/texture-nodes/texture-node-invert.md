@@ -85,7 +85,7 @@ type
 
 ### TextureNodeInvert(TextureNode)
 
-base classes — bpy_struct, Node, NodeInternal, TextureNode
+base classes: bpy_struct, Node, NodeInternal, TextureNode
 class bpy.types. TextureNodeInvert ( TextureNode )
 
 [Related references](INDEX.md).

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputSplineCyclic(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputSplineCyclic ( GeometryNode ) 
 
 Report, for each spline, whether its end loops back around to join its start.

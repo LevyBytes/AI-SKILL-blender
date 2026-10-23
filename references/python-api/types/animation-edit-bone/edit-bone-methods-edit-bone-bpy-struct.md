@@ -1,10 +1,10 @@
-# bpy.types.EditBone: methods — EditBone(bpy_struct), EditBone(bpy_struct), Inherited Properties, Inherited Functions
+# bpy.types.EditBone: methods - EditBone(bpy_struct), EditBone(bpy_struct), Inherited Properties, Inherited Functions
 
 ## EditBone(bpy_struct)
 
 ### EditBone(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. EditBone ( bpy_struct )
 
 A bone as it appears while editing an armature data-block

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSDFGridLaplacian(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSDFGridLaplacian ( GeometryNode )
 
 Smooth a signed distance field using Laplacian flow. A cheaper substitute for mean curvature flow that pairs especially well with SDF normalization

@@ -1,4 +1,4 @@
-# Icon Items — vis icons
+# Icon Items - vis icons
 
 | Value | Meaning |
 | --- | --- |

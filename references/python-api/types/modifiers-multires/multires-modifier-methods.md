@@ -4,7 +4,7 @@
 
 ### MultiresModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. MultiresModifier ( Modifier )
 
 Modifier that supports several mesh resolution levels at once.

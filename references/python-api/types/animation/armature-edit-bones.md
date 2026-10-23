@@ -78,7 +78,7 @@ type
 
 Collection of bones available for editing.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. ArmatureEditBones ( bpy_prop_collection )
 
 Container of bones in edit mode.

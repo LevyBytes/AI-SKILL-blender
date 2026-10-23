@@ -49,7 +49,7 @@ type
 
 ### GpVertexPaint(Paint)
 
-base classes — bpy_struct, Paint
+base classes: bpy_struct, Paint
 class bpy.types. GpVertexPaint ( Paint )
 
 [Related references](INDEX.md).

@@ -23,11 +23,11 @@ Menu: UV ‣ Minimize Stretch
 
 Minimize Stretch reduces UV stretch by minimizing angle differences between 3D and UV space. This operation resembles the Relax tool with the Geometry Method but uses a different algorithm.
 
-Fill Holes — During minimize stretch, internal holes are filled with temporary polygons to prevent surrounding UV stretching and overlap.
+Fill Holes: During minimize stretch, internal holes are filled with temporary polygons to prevent surrounding UV stretching and overlap.
 
-Blend — Fraction (0-1) of the original UVs to blend after minimizing. Zero represents fully minimized stretch; 0.5 is halfway between original and minimized UVs.
+Blend: Fraction (0-1) of the original UVs to blend after minimizing. Zero represents fully minimized stretch; 0.5 is halfway between original and minimized UVs.
 
-Iterations — More iterations produce smoother UVs but take longer.
+Iterations: More iterations produce smoother UVs but take longer.
 
 Stitch
 
@@ -47,27 +47,27 @@ Positions selected UV vertices along a line specified by Axis.
 
 Axis
 
-Straighten — Positions UV vertices along the line defined by the endpoints.
+Straighten: Positions UV vertices along the line defined by the endpoints.
 
-Straighten X — Positions UV vertices horizontally along the line defined by endpoints.
+Straighten X: Positions UV vertices horizontally along the line defined by endpoints.
 
-Straighten Y — Positions UV vertices vertically along the line defined by endpoints.
+Straighten Y: Positions UV vertices vertically along the line defined by endpoints.
 
-Align Auto — Positions UV vertices automatically, choosing direction based on existing alignment.
+Align Auto: Positions UV vertices automatically, choosing direction based on existing alignment.
 
-Align Vertically — Positions UV vertices vertically along the line defined by the selection midpoint.
+Align Vertically: Positions UV vertices vertically along the line defined by the selection midpoint.
 
-Align Horizontally — Positions UV vertices horizontally along the line defined by the selection midpoint.
+Align Horizontally: Positions UV vertices horizontally along the line defined by the selection midpoint.
 
 Position Mode (Align Vertically / Align Horizontally)
 
 How the final alignment line position is calculated:
 
-Mean — Aligns UVs along the average position.
+Mean: Aligns UVs along the average position.
 
-Minimum — Aligns UVs along the smallest coordinate value.
+Minimum: Aligns UVs along the smallest coordinate value.
 
-Maximum — Aligns UVs along the largest coordinate value.
+Maximum: Aligns UVs along the largest coordinate value.
 
 Align Rotation
 

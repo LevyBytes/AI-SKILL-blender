@@ -4,7 +4,7 @@
 
 ### CloudsTexture(Texture)
 
-base classes — bpy_struct, ID, Texture
+base classes: bpy_struct, ID, Texture
 class bpy.types. CloudsTexture ( Texture )
 
 Noise-based procedural texture

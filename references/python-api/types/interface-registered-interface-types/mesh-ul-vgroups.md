@@ -45,7 +45,7 @@ type
 
 ### `MESH_UL`_vgroups(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `MESH_UL`_vgroups ( UIList )
 

@@ -4,7 +4,7 @@
 
 ### ActionChannelbagFCurves(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.ActionChannelbagFCurves(bpy_prop_collection)
 
 A set of F-Curves for a specific action slot on a specific strip

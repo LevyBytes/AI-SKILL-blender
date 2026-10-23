@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeEdgePathsToSelection(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeEdgePathsToSelection ( GeometryNode )
 
 Emit an edge selection traced out by following paths along mesh edges.

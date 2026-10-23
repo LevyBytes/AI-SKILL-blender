@@ -64,7 +64,7 @@ type
 
 ### GizmoGroupProperties(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. GizmoGroupProperties ( bpy_struct )
 
 Input properties of a Gizmo Group

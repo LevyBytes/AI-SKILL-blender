@@ -84,7 +84,7 @@ type
 
 ### LatticePoint(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. LatticePoint ( bpy_struct ) 
 
 One point of the lattice grid

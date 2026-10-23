@@ -14,8 +14,8 @@ Open when reading geometry attributes, object information or lighting conditions
 - Open when you need bpy.types.ShaderNodeLightFalloff. [bpy.types.ShaderNodeLightFalloff](shader-node-light-falloff.md).
 - Open when you need bpy.types.ShaderNodeRaycast. [bpy.types.ShaderNodeRaycast](shader-node-raycast.md).
 - Open when you need Ambient occlusion. [Ambient occlusion](../shader-nodes-ambient-occlusion/INDEX.md).
-- Open when you need bpy.types.ShaderNodeWireframe — class-contract, Inherited Properties, Inherited Functions, ShaderNodeWireframe(ShaderNode). [bpy.types.ShaderNodeWireframe — class-contract, Inherited Properties, Inherited Functions, ShaderNodeWireframe(ShaderNode)](shader-node-wireframe-class-contract.md).
-- Open when you need bpy.types.ShaderNodeWireframe — ShaderNodeWireframe(ShaderNode). [bpy.types.ShaderNodeWireframe — ShaderNodeWireframe(ShaderNode)](shader-node-wireframe-shader-node-wireframe-shader-node.md).
+- Open when you need bpy.types.ShaderNodeWireframe - class-contract, Inherited Properties, Inherited Functions, ShaderNodeWireframe(ShaderNode). [bpy.types.ShaderNodeWireframe - class-contract, Inherited Properties, Inherited Functions, ShaderNodeWireframe(ShaderNode)](shader-node-wireframe-class-contract.md).
+- Open when you need bpy.types.ShaderNodeWireframe - ShaderNodeWireframe(ShaderNode). [bpy.types.ShaderNodeWireframe - ShaderNodeWireframe(ShaderNode)](shader-node-wireframe-shader-node-wireframe-shader-node.md).
 - Open when you need bpy.types.ShaderNodeFresnel. [bpy.types.ShaderNodeFresnel](shader-node-fresnel.md).
 - Open when you need bpy.types.ShaderNodeLayerWeight. [bpy.types.ShaderNodeLayerWeight](shader-node-layer-weight.md).
 

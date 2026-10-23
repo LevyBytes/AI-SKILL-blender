@@ -91,7 +91,7 @@ type
 
 ### ThemeGraphEditor(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeGraphEditor ( bpy_struct )
 
 Styling for the graph editor

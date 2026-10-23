@@ -54,7 +54,7 @@ type
 
 ### QuaternionAttributeValue(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. QuaternionAttributeValue ( bpy_struct ) 
 
 A rotation value stored in a geometry attribute

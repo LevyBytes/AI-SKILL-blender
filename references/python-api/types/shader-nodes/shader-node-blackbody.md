@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeBlackbody(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBlackbody ( ShaderNode )
 
 Turn a blackbody temperature into an RGB color

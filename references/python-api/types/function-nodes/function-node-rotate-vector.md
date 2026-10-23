@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeRotateVector(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeRotateVector ( FunctionNode )
 
 Rotates a given vector by a specified rotation.

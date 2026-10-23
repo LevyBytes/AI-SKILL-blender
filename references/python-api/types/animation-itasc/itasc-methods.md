@@ -4,7 +4,7 @@
 
 ### Itasc(IKParam)
 
-base classes — bpy_struct, IKParam
+base classes: bpy_struct, IKParam
 class bpy.types. Itasc ( IKParam )
 
 Settings for the iTaSC IK solver.

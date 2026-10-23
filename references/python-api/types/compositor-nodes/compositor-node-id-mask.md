@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeIDMask(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeIDMask ( CompositorNode )
 
 Turns an object or material index pass into a matte.

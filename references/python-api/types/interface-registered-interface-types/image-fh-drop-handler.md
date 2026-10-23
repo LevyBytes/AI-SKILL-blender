@@ -44,7 +44,7 @@ type
 
 ### `IMAGE_FH`_drop_handler(FileHandler)
 
-base classes — bpy_struct, FileHandler
+base classes: bpy_struct, FileHandler
 
 class bpy.types. `IMAGE_FH`_drop_handler ( FileHandler )
 

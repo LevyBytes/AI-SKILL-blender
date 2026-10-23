@@ -1,4 +1,4 @@
-# Icon Items — action icons
+# Icon Items - action icons
 
 | Value | Meaning |
 | --- | --- |

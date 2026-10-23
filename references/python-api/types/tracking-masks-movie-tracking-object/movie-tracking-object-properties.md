@@ -4,7 +4,7 @@
 
 ### MovieTrackingObject(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieTrackingObject ( bpy_struct )
 
 Tracking and reconstruction data for a match-moved object

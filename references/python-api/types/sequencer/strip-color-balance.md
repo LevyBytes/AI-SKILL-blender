@@ -44,7 +44,7 @@ type
 
 ### StripColorBalance(StripColorBalanceData)
 
-base classes — bpy_struct, StripColorBalanceData
+base classes: bpy_struct, StripColorBalanceData
 class bpy.types. StripColorBalance ( StripColorBalanceData )
 
 The color balance controls belonging to a sequence strip.

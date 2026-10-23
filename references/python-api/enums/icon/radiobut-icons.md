@@ -1,4 +1,4 @@
-# Icon Items — radiobut icons
+# Icon Items - radiobut icons
 
 | Value | Meaning |
 | --- | --- |

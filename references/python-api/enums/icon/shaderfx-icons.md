@@ -1,4 +1,4 @@
-# Icon Items — shaderfx icons
+# Icon Items - shaderfx icons
 
 | Value | Meaning |
 | --- | --- |

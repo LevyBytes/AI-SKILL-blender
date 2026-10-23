@@ -13,6 +13,6 @@ Related: Set Spline Resolution Node provides input control.
 Inputs: None
 
 Outputs:
-Resolution — Integer resolution per spline.
+Resolution: Integer resolution per spline.
 
 [Related references](INDEX.md).

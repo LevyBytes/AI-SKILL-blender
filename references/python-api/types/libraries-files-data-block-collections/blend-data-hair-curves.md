@@ -87,6 +87,6 @@ Collection of hair curves
 
 Registry of raster and procedural image textures.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 
 [Related references](INDEX.md).

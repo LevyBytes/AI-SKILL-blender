@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeGreasePencilToCurves(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGreasePencilToCurves ( GeometryNode ) 
 
 Turn the layers of a Grease Pencil object into curve instances

@@ -58,7 +58,7 @@ type
 
 ### ShaderFxFlip(ShaderFx)
 
-base classes — bpy_struct, ShaderFx
+base classes: bpy_struct, ShaderFx
 class bpy.types. ShaderFxFlip ( ShaderFx )
 
 Flip effect

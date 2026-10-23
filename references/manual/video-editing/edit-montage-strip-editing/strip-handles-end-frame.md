@@ -1,4 +1,4 @@
-# Video strips: Strip handles — End Frame
+# Video strips: Strip handles - End Frame
 
 #### End Frame
 

@@ -1,4 +1,4 @@
-# Icon Items — armature icons
+# Icon Items - armature icons
 
 | Value | Meaning |
 | --- | --- |

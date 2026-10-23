@@ -4,7 +4,7 @@
 
 ### GeometryNodeCurvePrimitiveCircle(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurvePrimitiveCircle ( GeometryNode )
 
 Build a circle as a poly spline.

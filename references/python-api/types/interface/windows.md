@@ -64,7 +64,7 @@ type
 
 ### Windows(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. Windows ( bpy_prop_collection ) 
 
 A grouping that holds the open windows

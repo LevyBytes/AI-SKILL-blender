@@ -66,7 +66,7 @@ Reference it implicitly later using `Section Title`_
 ```text
 `Blender's Official Website `__
 ```
-Context-sensitive manual access — to link Blender UI properties and operators to manual entries: right-click the property/operator in Blender and choose Online Python Reference to get the RNA tag (shown in the OS console), then use an external reference matching that RNA tag:
+Context-sensitive manual access: to link Blender UI properties and operators to manual entries: right-click the property/operator in Blender and choose Online Python Reference to get the RNA tag (shown in the OS console), then use an external reference matching that RNA tag:
 ```text
 .. _bpy.types.FluidDomainSettings.use_fractions:
 

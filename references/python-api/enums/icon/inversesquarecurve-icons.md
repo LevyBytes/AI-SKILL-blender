@@ -1,4 +1,4 @@
-# Icon Items — inversesquarecurve icons
+# Icon Items - inversesquarecurve icons
 
 | Value | Meaning |
 | --- | --- |

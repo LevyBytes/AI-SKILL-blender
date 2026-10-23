@@ -1,4 +1,4 @@
-# Icon Items — colorset icons
+# Icon Items - colorset icons
 
 | Value | Meaning |
 | --- | --- |

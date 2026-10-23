@@ -56,7 +56,7 @@ type
 
 ### GPencilInterpolateSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. GPencilInterpolateSettings ( bpy_struct )
 
 Configuration for the Grease Pencil interpolation tools.

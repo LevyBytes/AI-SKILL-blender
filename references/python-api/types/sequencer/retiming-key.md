@@ -59,7 +59,7 @@ type
 
 ### RetimingKey(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. RetimingKey ( bpy_struct )
 
 A key tied to a specific frame that you can slide to alter playback speed

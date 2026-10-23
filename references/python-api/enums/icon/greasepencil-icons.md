@@ -1,4 +1,4 @@
-# Icon Items — greasepencil icons
+# Icon Items - greasepencil icons
 
 | Value | Meaning |
 | --- | --- |

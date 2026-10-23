@@ -4,7 +4,7 @@
 
 ### LineStyleAlphaModifier_Noise(LineStyleAlphaModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleAlphaModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleAlphaModifier
 class bpy.types. LineStyleAlphaModifier_Noise ( LineStyleAlphaModifier ) 
 
 Drives alpha transparency from a random noise signal

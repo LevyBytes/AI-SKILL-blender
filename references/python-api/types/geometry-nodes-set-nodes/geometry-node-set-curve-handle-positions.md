@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSetCurveHandlePositions(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetCurveHandlePositions ( GeometryNode )
 
 Assign new positions to the handles on Bézier curves

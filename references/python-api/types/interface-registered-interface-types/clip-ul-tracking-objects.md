@@ -45,7 +45,7 @@ type
 
 ### `CLIP_UL`_tracking_objects(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `CLIP_UL`_tracking_objects ( UIList )
 

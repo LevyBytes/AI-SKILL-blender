@@ -4,7 +4,7 @@
 
 ### ShrinkwrapModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. ShrinkwrapModifier ( Modifier )
 
 A modifier that wraps an object's surface onto a target.

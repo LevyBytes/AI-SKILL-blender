@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeGridPrune(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridPrune ( GeometryNode ) 
 
 Reduce the storage footprint of a volume grid by folding data up into tiles or inner nodes

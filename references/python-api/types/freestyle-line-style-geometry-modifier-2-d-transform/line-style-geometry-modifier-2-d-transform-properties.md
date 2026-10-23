@@ -4,7 +4,7 @@
 
 ### LineStyleGeometryModifier_2DTransform(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_2DTransform ( LineStyleGeometryModifier ) 
 
 Scale and rotate the stroke backbone geometry within two dimensions

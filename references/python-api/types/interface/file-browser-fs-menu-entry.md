@@ -77,7 +77,7 @@ type
 
 ### FileBrowserFSMenuEntry(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FileBrowserFSMenuEntry ( bpy_struct )
 
 File Select Parameters

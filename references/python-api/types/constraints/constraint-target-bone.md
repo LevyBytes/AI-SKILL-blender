@@ -70,7 +70,7 @@ type
 
 ### ConstraintTargetBone(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ConstraintTargetBone ( bpy_struct )
 
 A single bone serving as one target for a multi-target constraint.

@@ -1,4 +1,4 @@
-# Icon Items — copy icons
+# Icon Items - copy icons
 
 | Value | Meaning |
 | --- | --- |

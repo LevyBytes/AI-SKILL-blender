@@ -1,4 +1,4 @@
-# Icon Items — facesel icons
+# Icon Items - facesel icons
 
 | Value | Meaning |
 | --- | --- |

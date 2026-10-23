@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeEmission(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeEmission ( ShaderNode ) 
 
 Emission shader of the Lambertian type

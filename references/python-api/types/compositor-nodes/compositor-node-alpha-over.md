@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeAlphaOver(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeAlphaOver ( CompositorNode )
 
 Composite a foreground image on top of a background image

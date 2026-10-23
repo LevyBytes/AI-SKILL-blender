@@ -60,7 +60,7 @@ type
 
 ### BoidRuleFollowLeader(BoidRule)
 
-base classes — bpy_struct, BoidRule
+base classes: bpy_struct, BoidRule
 class bpy.types.BoidRuleFollowLeader(BoidRule)
 
 [Related references](INDEX.md).

@@ -4,7 +4,7 @@
 
 ### MovieTrackingCamera(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MovieTrackingCamera ( bpy_struct )
 
 Camera parameters used during match-moving tracking

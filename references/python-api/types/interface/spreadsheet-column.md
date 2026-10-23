@@ -63,7 +63,7 @@ type
 
 ### SpreadsheetColumn(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SpreadsheetColumn ( bpy_struct )
 
 Data that persists for a column of the spreadsheet

@@ -29,7 +29,7 @@ Face Set Introduction.
 ### General
 
 Most general brush options are available,
-though defaults require no adjustment—this brush serves a simple purpose.
+though defaults require no adjustment: this brush serves a simple purpose.
 
 Note
 

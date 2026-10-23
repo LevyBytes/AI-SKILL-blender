@@ -9,7 +9,7 @@ Roll Hair Curves winds strand tips into coils, rolling them in or out under a ha
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for rolling.
+Geometry: the hair-curve geometry fed in for rolling.
 
 Factor
 Overall strength of the roll. At 0.0 nothing happens; at 1.0 the full roll lands.

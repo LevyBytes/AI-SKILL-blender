@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeCurveSplineType(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveSplineType ( GeometryNode )
 
 Switch the curves over to a different type.

@@ -56,7 +56,7 @@ type
 
 ### ThemeTopBar(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeTopBar ( bpy_struct ) 
 
 Color theming for the Top Bar.

@@ -70,7 +70,7 @@ type
 
 ### ConsoleLine(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ConsoleLine ( bpy_struct )
 
 An input line belonging to the interactive console.

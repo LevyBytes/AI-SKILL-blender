@@ -4,7 +4,7 @@
 
 ### SolidifyModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. SolidifyModifier ( Modifier )
 
 Gives a mesh a solid skin while correcting for sharp angles

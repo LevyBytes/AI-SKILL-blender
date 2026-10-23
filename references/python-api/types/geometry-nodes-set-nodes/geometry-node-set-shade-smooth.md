@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeSetShadeSmooth(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetShadeSmooth ( GeometryNode ) 
 
 Adjusts how smoothly mesh normals blend across faces by editing the “shade smooth” attribute.

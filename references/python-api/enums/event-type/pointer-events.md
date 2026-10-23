@@ -1,4 +1,4 @@
-# Event Type Items — pointer events
+# Event Type Items - pointer events
 
 | Value | Meaning |
 | --- | --- |

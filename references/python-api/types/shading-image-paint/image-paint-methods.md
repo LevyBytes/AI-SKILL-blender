@@ -4,7 +4,7 @@
 
 ### ImagePaint(Paint)
 
-base classes — bpy_struct, Paint
+base classes: bpy_struct, Paint
 class bpy.types. ImagePaint ( Paint )
 
 Settings that control image and texture painting mode.

@@ -68,7 +68,7 @@ type
 
 ### BlendDataPalettes(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataPalettes(bpy_prop_collection)
 
 Provides access to palette collections stored within Blender's database.

@@ -1,4 +1,4 @@
-# Icon Items — frame icons
+# Icon Items - frame icons
 
 | Value | Meaning |
 | --- | --- |

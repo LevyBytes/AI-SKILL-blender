@@ -90,7 +90,7 @@ type
 
 ### GeometryNodeInputImage(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputImage ( GeometryNode )
 
 Feed an image data-block in as input.

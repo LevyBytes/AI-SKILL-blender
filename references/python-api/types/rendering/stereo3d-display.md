@@ -84,7 +84,7 @@ type
 
 ### Stereo3dDisplay(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Stereo3dDisplay ( bpy_struct )
 
 Configuration for showing stereo 3D

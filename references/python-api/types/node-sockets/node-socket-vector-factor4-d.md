@@ -64,7 +64,7 @@ type
 
 ### NodeSocketVectorFactor4D(NodeSocketStandard) 
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketVectorFactor4D ( NodeSocketStandard ) 
 
 A node socket carrying a three-component vector.

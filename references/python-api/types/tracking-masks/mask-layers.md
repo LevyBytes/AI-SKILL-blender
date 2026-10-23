@@ -81,7 +81,7 @@ type
 
 ### MaskLayers(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. MaskLayers ( bpy_prop_collection )
 
 The group of layers belonging to a mask.

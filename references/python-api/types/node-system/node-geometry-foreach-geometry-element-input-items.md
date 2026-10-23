@@ -85,7 +85,7 @@ type
 
 ### NodeGeometryForeachGeometryElementInputItems(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodeGeometryForeachGeometryElementInputItems ( bpy_prop_collection )
 
 A set holding the input items for this node.

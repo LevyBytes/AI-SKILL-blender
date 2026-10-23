@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeVectorCurve(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeVectorCurve ( ShaderNode )
 
 Remaps the individual components of an input vector using editable curves.

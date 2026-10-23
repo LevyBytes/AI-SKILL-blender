@@ -1,4 +1,4 @@
-# Event Type Items — function keys
+# Event Type Items - function keys
 
 | Value | Meaning |
 | --- | --- |

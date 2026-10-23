@@ -13,7 +13,7 @@ Refinement stays possible though performance drops on dense geometry and realism
 Connectivity quality determines fold size
 and detail fidelity. Uniform, well-distributed topology proves critical.
 
-Most tools integrate smoothly—Masked vertices
+Most tools integrate smoothly: Masked vertices
 anchor in place for example.
 Auto-masked boundaries assist similarly.
 Scene gravity applies to cloth.

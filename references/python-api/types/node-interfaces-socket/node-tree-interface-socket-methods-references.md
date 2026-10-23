@@ -1,4 +1,4 @@
-# bpy.types.NodeTreeInterfaceSocket: methods — References
+# bpy.types.NodeTreeInterfaceSocket: methods - References
 
 ### References 
 

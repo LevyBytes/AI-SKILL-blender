@@ -4,7 +4,7 @@
 
 ### Node(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 NodeCustomGroup, NodeInternal

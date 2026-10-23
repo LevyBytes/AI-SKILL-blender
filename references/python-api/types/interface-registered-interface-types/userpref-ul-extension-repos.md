@@ -46,7 +46,7 @@ type
 
 ### `USERPREF_UL`_extension_repos(UIList) 
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `USERPREF_UL`_extension_repos ( UIList )
 

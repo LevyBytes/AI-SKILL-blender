@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputRadius(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputRadius ( GeometryNode )
 
 Read out the radius value carried at each point of curve or point-cloud geometry.

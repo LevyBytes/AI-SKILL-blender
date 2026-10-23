@@ -1,4 +1,4 @@
-# Icon Items — rna icons
+# Icon Items - rna icons
 
 | Value | Meaning |
 | --- | --- |

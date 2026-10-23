@@ -14,8 +14,8 @@ None.
 
 ### Outputs
 
-Vertex Index 1/2 — Indices of edge endpoints.
+Vertex Index 1/2: Indices of edge endpoints.
 
-Position 1/2 — Endpoint positions. Convenience; equivalent to Evaluate at Index Node from indices.
+Position 1/2: Endpoint positions. Convenience; equivalent to Evaluate at Index Node from indices.
 
 [Related references](INDEX.md).

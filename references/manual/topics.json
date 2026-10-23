@@ -20,6 +20,5 @@
   {"topic": "Troubleshooting", "file": "references/manual/troubleshooting/INDEX.md", "summary": "Open when diagnosing Blender failures or recovering work.", "keywords": []},
   {"topic": "Terminology", "file": "references/manual/glossary/INDEX.md", "summary": "Open when checking Blender-specific terms.", "keywords": []},
   {"topic": "Manual contribution", "file": "references/manual/contribute/INDEX.md", "summary": "Open when working on the Blender manual itself.", "keywords": []},
-  {"topic": "Manual licensing", "file": "references/manual/license.md", "summary": "Open when checking the source manual licensing terms.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": []}
 ]}

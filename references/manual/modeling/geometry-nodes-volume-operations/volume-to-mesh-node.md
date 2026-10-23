@@ -7,7 +7,7 @@ Builds a mesh at the volume surface. A threshold value specifies the surface bou
 Inputs:
 - Volume: Standard geometry input
 
-Resolution Mode — Controls final mesh resolution:
+Resolution Mode - Controls final mesh resolution:
 - Grid: Resolution depends on converted grid resolution; higher grids yield higher-resolution meshes; often most efficient
 - Voxel Amount: Specifies approximate final mesh resolution; voxel size adapts to volume size
 - Voxel Size: Uses fixed resolution independent of volume changes

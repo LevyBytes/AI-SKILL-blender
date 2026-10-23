@@ -4,7 +4,7 @@
 
 ### GeometryNodeGizmoTransform(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGizmoTransform ( GeometryNode ) 
 
 Display a transform gizmo in the viewport

@@ -11,7 +11,7 @@ Output operates at spline domain but can be interpolated to control points.
 Inputs: None
 
 Outputs:
-Length — Per-spline distance.
-Point Count — Control vertices per spline.
+Length: Per-spline distance.
+Point Count: Control vertices per spline.
 
 [Related references](INDEX.md).

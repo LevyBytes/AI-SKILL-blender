@@ -2,7 +2,7 @@
 
 ## Depth of Field
 
-Depth of Field — Focus and Blur
+Depth of Field: Focus and Blur
 
 EEVEE renders with a pinhole camera model by default, which produces perfectly focused images. To simulate real camera optics, depth of field can be applied via post-process filtering and sample-based methods. Camera optical settings are in the camera properties; quality controls are here.
 

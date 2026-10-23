@@ -1,4 +1,4 @@
-# bpy.types.RenderResult — class-contract, Inherited Properties, Inherited Functions, References, RenderResult(bpy_struct)
+# bpy.types.RenderResult - class-contract, Inherited Properties, Inherited Functions, References, RenderResult(bpy_struct)
 
 layers 
 

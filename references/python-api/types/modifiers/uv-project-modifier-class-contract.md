@@ -1,4 +1,4 @@
-# bpy.types.UVProjectModifier — class-contract, Inherited Properties, Inherited Functions, UVProjectModifier(Modifier)
+# bpy.types.UVProjectModifier - class-contract, Inherited Properties, Inherited Functions, UVProjectModifier(Modifier)
 
 aspect_x 
 

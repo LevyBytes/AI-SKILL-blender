@@ -1,4 +1,4 @@
-# Icon Items — layer icons
+# Icon Items - layer icons
 
 | Value | Meaning |
 | --- | --- |

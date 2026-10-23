@@ -1,4 +1,4 @@
-# bpy.types.KeyConfigurations: methods — References
+# bpy.types.KeyConfigurations: methods - References
 
 ### References
 

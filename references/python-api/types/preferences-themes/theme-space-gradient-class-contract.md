@@ -1,4 +1,4 @@
-# bpy.types.ThemeSpaceGradient — class-contract, Inherited Properties, Inherited Functions, References
+# bpy.types.ThemeSpaceGradient - class-contract, Inherited Properties, Inherited Functions, References
 
 gradients
 

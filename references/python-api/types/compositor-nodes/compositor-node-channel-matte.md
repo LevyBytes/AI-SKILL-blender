@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeChannelMatte(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeChannelMatte ( CompositorNode )
 
 Build a matte from the differences between color channels

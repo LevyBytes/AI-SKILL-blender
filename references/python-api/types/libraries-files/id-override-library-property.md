@@ -63,7 +63,7 @@ type
 
 ### IDOverrideLibraryProperty(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. IDOverrideLibraryProperty ( bpy_struct )
 
 Captures the details of one property that has been overridden.

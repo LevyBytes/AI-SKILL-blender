@@ -73,7 +73,7 @@ Adjusts deformation gradient smoothness.
 Pose IK Segments
 Sets inverse-kinematic segment quantity
 rendered as a segmented white line on the cursor.
-Produces curved deformations—like hair clumps and limbs.
+Produces curved deformations: like hair clumps and limbs.
 
 Lock Rotation when Scaling
 Under Scale/Translate Deformation, prevents rotation; only scaling occurs.

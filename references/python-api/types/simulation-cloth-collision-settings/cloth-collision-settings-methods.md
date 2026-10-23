@@ -4,7 +4,7 @@
 
 ### ClothCollisionSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ClothCollisionSettings ( bpy_struct )
 
 Cloth simulation options for object and self collision

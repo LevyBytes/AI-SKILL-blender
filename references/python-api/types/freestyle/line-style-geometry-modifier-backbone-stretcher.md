@@ -72,7 +72,7 @@ type
 
 ### LineStyleGeometryModifier_BackboneStretcher(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_BackboneStretcher ( LineStyleGeometryModifier ) 
 
 Extend both ends of the stroke backbone outward

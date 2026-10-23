@@ -1,4 +1,4 @@
-# Icon Items — menu icons
+# Icon Items - menu icons
 
 | Value | Meaning |
 | --- | --- |

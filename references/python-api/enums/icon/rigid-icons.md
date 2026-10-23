@@ -1,4 +1,4 @@
-# Icon Items — rigid icons
+# Icon Items - rigid icons
 
 | Value | Meaning |
 | --- | --- |

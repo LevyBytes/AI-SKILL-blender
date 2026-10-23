@@ -4,7 +4,7 @@
 
 ### LineStyleColorModifier_Noise(LineStyleColorModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleColorModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleColorModifier
 class bpy.types. LineStyleColorModifier_Noise ( LineStyleColorModifier ) 
 
 Varies line color from a random noise signal

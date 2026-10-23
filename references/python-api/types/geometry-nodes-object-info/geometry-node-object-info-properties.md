@@ -4,7 +4,7 @@
 
 ### GeometryNodeObjectInfo(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeObjectInfo ( GeometryNode ) 
 
 Pull data out of an object.

@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeRealizeInstances(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeRealizeInstances ( GeometryNode )
 
 Turn instances into actual geometry data

@@ -4,7 +4,7 @@
 
 ### LineStyleThicknessModifier_Tangent(LineStyleThicknessModifier)
 
-base classes — bpy_struct, LineStyleModifier, LineStyleThicknessModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleThicknessModifier
 class bpy.types. LineStyleThicknessModifier_Tangent ( LineStyleThicknessModifier )
 
 Sets line width from the stroke's running direction.

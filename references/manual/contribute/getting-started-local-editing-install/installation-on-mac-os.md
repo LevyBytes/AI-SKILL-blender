@@ -8,12 +8,12 @@ python3 -m ensurepip
 brew install git git-lfs
 git lfs install
 ```
-Downloading the repository — check out the Blender Manual's repository (a few minutes by connection speed):
+Downloading the repository: check out the Blender Manual's repository (a few minutes by connection speed):
 ```console
 cd ~
 git clone https://projects.blender.org/blender/blender-manual.git
 ```
-Setting up the build environment — open a Terminal, enter the folder git clone made, and install dependencies:
+Setting up the build environment: open a Terminal, enter the folder git clone made, and install dependencies:
 ```console
 cd ~/blender-manual
 make setup

@@ -17,7 +17,7 @@ Integration Scheme:
 - MacCormack: Implicit diffusion control; reduces dissipation while maintaining stability
 - BFECC: Back and Forth Error Compensation and Correction; minimizes dissipation, maintains sharp features
 
-Limiter — Overshoot/undershoot strategy:
+Limiter - Overshoot/undershoot strategy:
 - None: No limiting; fastest; can introduce gradient-region artifacts
 - Clamp: Constrains values to original neighborhood range; prevents over/undershooting, preserves stability
 - Revert: Falls back to first-order where clamping necessary; more conservative/stable than clamping alone

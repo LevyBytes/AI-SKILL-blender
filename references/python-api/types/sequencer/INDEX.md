@@ -19,8 +19,8 @@
 - Open when you need Meta strip: [Meta strip](../sequencer-meta-strip/INDEX.md).
 - Open when you need Movie clip strip: [Movie clip strip](../sequencer-movie-clip-strip/INDEX.md).
 - Open when you need Movie strip: [Movie strip](../sequencer-movie-strip/INDEX.md).
-- Open when you need bpy.types.MulticamStrip — class-contract, Inherited Properties, Inherited Functions, MulticamStrip(EffectStrip): [bpy.types.MulticamStrip — class-contract, Inherited Properties, Inherited Functions, MulticamStrip(EffectStrip)](multicam-strip-class-contract.md).
-- Open when you need bpy.types.MulticamStrip — MulticamStrip(EffectStrip): [bpy.types.MulticamStrip — MulticamStrip(EffectStrip)](multicam-strip-multicam-strip-effect-strip.md).
+- Open when you need bpy.types.MulticamStrip - class-contract, Inherited Properties, Inherited Functions, MulticamStrip(EffectStrip): [bpy.types.MulticamStrip - class-contract, Inherited Properties, Inherited Functions, MulticamStrip(EffectStrip)](multicam-strip-class-contract.md).
+- Open when you need bpy.types.MulticamStrip - MulticamStrip(EffectStrip): [bpy.types.MulticamStrip - MulticamStrip(EffectStrip)](multicam-strip-multicam-strip-effect-strip.md).
 - Open when you need bpy.types.MultiplyStrip: [bpy.types.MultiplyStrip](multiply-strip.md).
 - Open when you need Nla strip: [Nla strip](../sequencer-nla-strip/INDEX.md).
 - Open when you need bpy.types.RetimingKey: [bpy.types.RetimingKey](retiming-key.md).
@@ -51,7 +51,7 @@
 - Open when you need Strips top level: [Strips top level](../sequencer-strips-top-level/INDEX.md).
 - Open when you need bpy.types.SubtractStrip: [bpy.types.SubtractStrip](subtract-strip.md).
 - Open when you need Text strip: [Text strip](../sequencer-text-strip/INDEX.md).
-- Open when you need bpy.types.WipeStrip — class-contract, Inherited Properties, Inherited Functions, WipeStrip(EffectStrip): [bpy.types.WipeStrip — class-contract, Inherited Properties, Inherited Functions, WipeStrip(EffectStrip)](wipe-strip-class-contract.md).
-- Open when you need bpy.types.WipeStrip — WipeStrip(EffectStrip): [bpy.types.WipeStrip — WipeStrip(EffectStrip)](wipe-strip-wipe-strip-effect-strip.md).
+- Open when you need bpy.types.WipeStrip - class-contract, Inherited Properties, Inherited Functions, WipeStrip(EffectStrip): [bpy.types.WipeStrip - class-contract, Inherited Properties, Inherited Functions, WipeStrip(EffectStrip)](wipe-strip-class-contract.md).
+- Open when you need bpy.types.WipeStrip - WipeStrip(EffectStrip): [bpy.types.WipeStrip - WipeStrip(EffectStrip)](wipe-strip-wipe-strip-effect-strip.md).
 
 [Parent topics](../INDEX.md).

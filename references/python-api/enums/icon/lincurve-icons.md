@@ -1,4 +1,4 @@
-# Icon Items — lincurve icons
+# Icon Items - lincurve icons
 
 | Value | Meaning |
 | --- | --- |

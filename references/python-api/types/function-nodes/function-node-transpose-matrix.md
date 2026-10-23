@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeTransposeMatrix(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeTransposeMatrix ( FunctionNode )
 
 Mirrors a matrix across its diagonal so that rows and columns swap roles.

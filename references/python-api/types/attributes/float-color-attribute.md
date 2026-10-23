@@ -51,7 +51,7 @@ type
 
 ### FloatColorAttribute(Attribute)
 
-base classes — bpy_struct, Attribute
+base classes: bpy_struct, Attribute
 class bpy.types. FloatColorAttribute ( Attribute )
 
 A geometry attribute holding RGBA colors as 32-bit floating-point values per channel.

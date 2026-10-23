@@ -9,7 +9,7 @@ Shrinkwrap Hair Curves casts strands onto a target surface, nudging them to ride
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for shrinkwrapping.
+Geometry: the hair-curve geometry fed in for shrinkwrapping.
 
 Surface Input Type
 Picks how surface data is supplied for the shrinkwrap. A connected geometry input wins over an object input.

@@ -4,7 +4,7 @@
 
 ### GeometryNodeCurvePrimitiveBezierSegment(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurvePrimitiveBezierSegment ( GeometryNode )
 
 Produce a 2D Bézier spline out of the supplied control points and their handles.

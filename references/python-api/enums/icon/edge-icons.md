@@ -1,4 +1,4 @@
-# Icon Items — edge icons
+# Icon Items - edge icons
 
 | Value | Meaning |
 | --- | --- |

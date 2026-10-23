@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeColorMatte(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeColorMatte ( CompositorNode )
 
 Build a matte from a specified color, useful with green or blue screen footage

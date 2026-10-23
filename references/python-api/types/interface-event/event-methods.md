@@ -4,7 +4,7 @@
 
 ### Event(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Event ( bpy_struct )
 
 An event handled by the Window Manager.

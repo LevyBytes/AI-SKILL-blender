@@ -8,7 +8,7 @@ Combine two shaders together.
 
 ### Inputs
 
-- **Shaders** — Standard shader inputs.
+- **Shaders**: Standard shader inputs.
 
 ### Properties
 
@@ -16,7 +16,7 @@ None.
 
 ### Outputs
 
-- **Shader** — Standard shader output.
+- **Shader**: Standard shader output.
 
 ### Example
 

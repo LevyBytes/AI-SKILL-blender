@@ -4,7 +4,7 @@
 
 ### ThemeClipEditor(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeClipEditor ( bpy_struct )
 
 Styling for the Movie Clip Editor

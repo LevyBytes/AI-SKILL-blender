@@ -2,7 +2,7 @@
 
 ## Object Type Visibility
 
-Reference — Mode: All Modes. Location: Header ‣ Selectability & Visibility.
+Reference - Mode: All Modes. Location: Header ‣ Selectability & Visibility.
 
 This popover governs which object types stay visible and selectable — for instance, one click can hide every Light in the scene.
 

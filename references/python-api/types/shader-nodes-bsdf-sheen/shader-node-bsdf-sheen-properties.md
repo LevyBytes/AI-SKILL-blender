@@ -4,7 +4,7 @@
 
 ### ShaderNodeBsdfSheen(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfSheen ( ShaderNode ) 
 
 A reflection model suited to fabrics like cloth.

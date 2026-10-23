@@ -1,4 +1,4 @@
-# bpy.types.ShaderFx — class-contract, Inherited Properties, Inherited Functions, References, ShaderFx(bpy_struct)
+# bpy.types.ShaderFx - class-contract, Inherited Properties, Inherited Functions, References, ShaderFx(bpy_struct)
 
 name
 

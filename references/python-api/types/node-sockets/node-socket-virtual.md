@@ -57,7 +57,7 @@ type
 
 ### NodeSocketVirtual(NodeSocketStandard) 
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketVirtual ( NodeSocketStandard ) 
 
 A virtual socket attached to a node.

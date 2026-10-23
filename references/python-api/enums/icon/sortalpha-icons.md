@@ -1,4 +1,4 @@
-# Icon Items — sortalpha icons
+# Icon Items - sortalpha icons
 
 | Value | Meaning |
 | --- | --- |

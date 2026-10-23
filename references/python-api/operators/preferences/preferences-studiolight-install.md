@@ -44,9 +44,9 @@ Parameters:
 - filter_folder ( bool ) – Filter Folders, (optional)
 - filter_glob ( str ) – filter_glob, (optional, never None)
 - type ( Literal [ 'MATCAP' , 'WORLD' , 'STUDIO' ] ) – Type, (optional)
-- MATCAP — MatCap: install custom MatCaps.
-- WORLD — World: install custom HDRIs.
-- STUDIO — Studio: install custom Studio Lights.
+- MATCAP - MatCap: install custom MatCaps.
+- WORLD - World: install custom HDRIs.
+- STUDIO - Studio: install custom Studio Lights.
 Returns: The operator's result.
 Return type: set[Literal[Operator Return Items]]
 File: startup/bl_operators/userpref.py:1110

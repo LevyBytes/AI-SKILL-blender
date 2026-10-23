@@ -4,7 +4,7 @@
 
 ### GreasePencilTextureModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. GreasePencilTextureModifier ( Modifier )
 
 Remaps the texture coordinates carried by strokes.

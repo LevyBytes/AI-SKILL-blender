@@ -49,7 +49,7 @@ type
 
 ### MeshLoopTriangles(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. MeshLoopTriangles ( bpy_prop_collection )
 
 Tessellation of mesh polygons into triangles

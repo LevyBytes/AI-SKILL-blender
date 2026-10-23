@@ -1,4 +1,4 @@
-# Icon Items — surface icons
+# Icon Items - surface icons
 
 | Value | Meaning |
 | --- | --- |

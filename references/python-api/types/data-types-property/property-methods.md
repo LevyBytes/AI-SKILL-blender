@@ -4,7 +4,7 @@
 
 ### Property(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 BoolProperty, CollectionProperty, EnumProperty, FloatProperty, IntProperty, PointerProperty, StringProperty

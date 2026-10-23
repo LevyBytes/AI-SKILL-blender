@@ -4,7 +4,7 @@
 
 ### GizmoGroup(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. GizmoGroup ( bpy_struct )
 
 Holds an operator that is mid-execution, or one registered once it has finished running.

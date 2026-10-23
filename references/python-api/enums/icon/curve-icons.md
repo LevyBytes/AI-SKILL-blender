@@ -1,4 +1,4 @@
-# Icon Items — curve icons
+# Icon Items - curve icons
 
 | Value | Meaning |
 | --- | --- |

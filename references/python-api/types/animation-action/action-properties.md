@@ -4,7 +4,7 @@
 
 ### Action(ID)
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types.Action(ID)
 
 A set of F-Curves for keyframe animation

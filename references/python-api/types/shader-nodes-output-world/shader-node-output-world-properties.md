@@ -4,7 +4,7 @@
 
 ### ShaderNodeOutputWorld(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeOutputWorld ( ShaderNode )
 
 Sends computed light-color data to the scene's World.

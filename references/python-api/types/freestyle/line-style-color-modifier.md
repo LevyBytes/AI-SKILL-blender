@@ -56,7 +56,7 @@ type
 
 ### LineStyleColorModifier(LineStyleModifier) 
 
-base classes — bpy_struct, LineStyleModifier
+base classes: bpy_struct, LineStyleModifier
 
 subclasses —
 LineStyleColorModifier_AlongStroke, LineStyleColorModifier_CreaseAngle, LineStyleColorModifier_Curvature_3D, LineStyleColorModifier_DistanceFromCamera, LineStyleColorModifier_DistanceFromObject, LineStyleColorModifier_Material, LineStyleColorModifier_Noise, LineStyleColorModifier_Tangent

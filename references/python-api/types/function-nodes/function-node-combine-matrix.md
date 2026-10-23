@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeCombineMatrix(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeCombineMatrix ( FunctionNode ) 
 
 Build a 4x4 matrix out of its separate component values

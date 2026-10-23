@@ -4,7 +4,7 @@
 
 ### ParticleSystem(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ParticleSystem ( bpy_struct )
 
 A particle system attached to an object

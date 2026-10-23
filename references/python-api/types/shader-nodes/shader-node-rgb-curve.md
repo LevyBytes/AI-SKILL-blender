@@ -92,7 +92,7 @@ type
 
 ### ShaderNodeRGBCurve(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeRGBCurve ( ShaderNode )
 
 Adjusts color per channel through curve-based corrections.

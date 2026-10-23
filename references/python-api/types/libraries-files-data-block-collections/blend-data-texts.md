@@ -81,7 +81,7 @@ type
 
 ### BlendDataTexts(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types.BlendDataTexts(bpy_prop_collection)
 
 Provides access to text block resources in the database.

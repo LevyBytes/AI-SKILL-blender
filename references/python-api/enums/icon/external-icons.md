@@ -1,4 +1,4 @@
-# Icon Items — external icons
+# Icon Items - external icons
 
 | Value | Meaning |
 | --- | --- |

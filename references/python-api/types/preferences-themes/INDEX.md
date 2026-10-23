@@ -26,10 +26,10 @@
 - Open when you need bpy.types.ThemeRegionsSidebars: [bpy.types.ThemeRegionsSidebars](theme-regions-sidebars.md).
 - Open when you need bpy.types.ThemeRegions: [bpy.types.ThemeRegions](theme-regions.md).
 - Open when you need Theme sequence editor: [Theme sequence editor](../preferences-themes-theme-sequence-editor/INDEX.md).
-- Open when you need bpy.types.ThemeSpaceGeneric — class-contract, Inherited Properties, Inherited Functions, References: [bpy.types.ThemeSpaceGeneric — class-contract, Inherited Properties, Inherited Functions, References](theme-space-generic-class-contract.md).
-- Open when you need bpy.types.ThemeSpaceGeneric — ThemeSpaceGeneric(bpy_struct), ThemeSpaceGeneric(bpy_struct): [bpy.types.ThemeSpaceGeneric — ThemeSpaceGeneric(bpy_struct), ThemeSpaceGeneric(bpy_struct)](theme-space-generic-theme-space-generic-bpy-struct.md).
-- Open when you need bpy.types.ThemeSpaceGradient — class-contract, Inherited Properties, Inherited Functions, References: [bpy.types.ThemeSpaceGradient — class-contract, Inherited Properties, Inherited Functions, References](theme-space-gradient-class-contract.md).
-- Open when you need bpy.types.ThemeSpaceGradient — ThemeSpaceGradient(bpy_struct), ThemeSpaceGradient(bpy_struct): [bpy.types.ThemeSpaceGradient — ThemeSpaceGradient(bpy_struct), ThemeSpaceGradient(bpy_struct)](theme-space-gradient-theme-space-gradient-bpy-struct.md).
+- Open when you need bpy.types.ThemeSpaceGeneric - class-contract, Inherited Properties, Inherited Functions, References: [bpy.types.ThemeSpaceGeneric - class-contract, Inherited Properties, Inherited Functions, References](theme-space-generic-class-contract.md).
+- Open when you need bpy.types.ThemeSpaceGeneric - ThemeSpaceGeneric(bpy_struct), ThemeSpaceGeneric(bpy_struct): [bpy.types.ThemeSpaceGeneric - ThemeSpaceGeneric(bpy_struct), ThemeSpaceGeneric(bpy_struct)](theme-space-generic-theme-space-generic-bpy-struct.md).
+- Open when you need bpy.types.ThemeSpaceGradient - class-contract, Inherited Properties, Inherited Functions, References: [bpy.types.ThemeSpaceGradient - class-contract, Inherited Properties, Inherited Functions, References](theme-space-gradient-class-contract.md).
+- Open when you need bpy.types.ThemeSpaceGradient - ThemeSpaceGradient(bpy_struct), ThemeSpaceGradient(bpy_struct): [bpy.types.ThemeSpaceGradient - ThemeSpaceGradient(bpy_struct), ThemeSpaceGradient(bpy_struct)](theme-space-gradient-theme-space-gradient-bpy-struct.md).
 - Open when you need bpy.types.ThemeSpreadsheet: [bpy.types.ThemeSpreadsheet](theme-spreadsheet.md).
 - Open when you need bpy.types.ThemeStatusBar: [bpy.types.ThemeStatusBar](theme-status-bar.md).
 - Open when you need bpy.types.ThemeStripColor: [bpy.types.ThemeStripColor](theme-strip-color.md).

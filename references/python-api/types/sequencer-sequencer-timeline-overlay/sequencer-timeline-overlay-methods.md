@@ -4,7 +4,7 @@
 
 ### SequencerTimelineOverlay(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SequencerTimelineOverlay ( bpy_struct )
 classmethod bl_rna_get_subclass ( id , default = None , / )
 

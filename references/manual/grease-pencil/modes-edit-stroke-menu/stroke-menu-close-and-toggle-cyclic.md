@@ -9,7 +9,7 @@ Type:
 - Open All: opens all closed selected strokes.
 - Toggle: closes or opens as required.
 
-Match Point Density — adds points in the new segment to maintain the same density.
+Match Point Density: adds points in the new segment to maintain the same density.
 
 **Toggle Cyclic.**
 
@@ -20,19 +20,19 @@ Type:
 - Open All: opens all closed selected strokes.
 - Toggle: closes or opens as required.
 
-Match Point Density — adds points in the new segment to maintain the same density.
+Match Point Density: adds points in the new segment to maintain the same density.
 
 **Set Caps.**
 
 Menu ‣ Stroke ‣ Set Caps. Toggles stroke ending cap styles.
 
-Rounded — sets start and end points to rounded (default).
+Rounded: sets start and end points to rounded (default).
 
-Flat — toggles start and end point caps between flat or rounded.
+Flat: toggles start and end point caps between flat or rounded.
 
-Toggle Start — toggles the start point cap.
+Toggle Start: toggles the start point cap.
 
-Toggle End — toggles the end point cap.
+Toggle End: toggles the end point cap.
 
 **Switch Direction.**
 
@@ -46,13 +46,13 @@ Menu ‣ Stroke ‣ Set Start Point. Sets the start point for cyclic strokes, de
 
 Menu ‣ Stroke ‣ Set Uniform Thickness. Makes thickness equal across the entire stroke.
 
-Thickness — thickness value for all stroke points.
+Thickness: thickness value for all stroke points.
 
 **Set Uniform Opacity.**
 
 Menu ‣ Stroke ‣ Set Uniform Opacity. Makes opacity equal across the entire stroke.
 
-Opacity — opacity value for all stroke points.
+Opacity: opacity value for all stroke points.
 
 **Scale Thickness.**
 

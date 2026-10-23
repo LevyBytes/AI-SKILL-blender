@@ -4,7 +4,7 @@
 
 ### GreasePencilDrawing(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. GreasePencilDrawing ( bpy_struct )
 
 A Grease Pencil drawing

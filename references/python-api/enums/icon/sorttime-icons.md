@@ -1,4 +1,4 @@
-# Icon Items — sorttime icons
+# Icon Items - sorttime icons
 
 | Value | Meaning |
 | --- | --- |

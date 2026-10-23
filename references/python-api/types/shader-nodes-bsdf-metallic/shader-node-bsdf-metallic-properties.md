@@ -4,7 +4,7 @@
 
 ### ShaderNodeBsdfMetallic(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeBsdfMetallic ( ShaderNode ) 
 
 Microfacet-based metal reflection paired with a metallic Fresnel response

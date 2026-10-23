@@ -4,7 +4,7 @@
 
 ### MaskStrip(Strip)
 
-base classes — bpy_struct, Strip
+base classes: bpy_struct, Strip
 class bpy.types. MaskStrip ( Strip )
 
 A sequencer strip that pulls a video from a mask.

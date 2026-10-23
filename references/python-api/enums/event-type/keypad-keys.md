@@ -1,4 +1,4 @@
-# Event Type Items — keypad keys
+# Event Type Items - keypad keys
 
 | Value | Meaning |
 | --- | --- |

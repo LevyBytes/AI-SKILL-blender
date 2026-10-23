@@ -4,7 +4,7 @@
 
 ### LineStyleThicknessModifier_Curvature_3D(LineStyleThicknessModifier)
 
-base classes — bpy_struct, LineStyleModifier, LineStyleThicknessModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleThicknessModifier
 class bpy.types. LineStyleThicknessModifier_Curvature_3D ( LineStyleThicknessModifier )
 
 Derives line width from the radial curvature measured across 3D mesh surfaces.

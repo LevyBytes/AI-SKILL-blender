@@ -87,7 +87,7 @@ type
 
 ### Header(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Header ( bpy_struct )
 
 Holds the UI widgets that make up an editor's header bar.

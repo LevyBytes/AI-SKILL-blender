@@ -4,7 +4,7 @@
 
 ### ParticleSettingsTextureSlot(TextureSlot)
 
-base classes — bpy_struct, TextureSlot
+base classes: bpy_struct, TextureSlot
 class bpy.types. ParticleSettingsTextureSlot ( TextureSlot )
 
 A texture slot belonging to a Particle Settings data-block

@@ -1,4 +1,4 @@
-# Icon Items — link icons
+# Icon Items - link icons
 
 | Value | Meaning |
 | --- | --- |

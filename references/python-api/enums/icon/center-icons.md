@@ -1,4 +1,4 @@
-# Icon Items — center icons
+# Icon Items - center icons
 
 | Value | Meaning |
 | --- | --- |

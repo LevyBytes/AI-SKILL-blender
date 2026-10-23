@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexSky(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexSky ( ShaderNode )
 
 Builds a procedural sky texture.

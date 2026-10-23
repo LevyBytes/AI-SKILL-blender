@@ -4,7 +4,7 @@
 
 ### ShrinkwrapConstraint(Constraint)
 
-base classes — bpy_struct, Constraint
+base classes: bpy_struct, Constraint
 class bpy.types. ShrinkwrapConstraint ( Constraint )
 
 A constraint that drives a shrinkwrap-style relationship.

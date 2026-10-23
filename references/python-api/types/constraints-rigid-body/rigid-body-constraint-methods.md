@@ -4,7 +4,7 @@
 
 ### RigidBodyConstraint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. RigidBodyConstraint ( bpy_struct )
 
 A constraint acting on Objects taking part in a Rigid Body Simulation

@@ -4,7 +4,7 @@
 
 ### VolumeGrid(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. VolumeGrid ( bpy_struct )
 
 A single 3D volume grid.

@@ -63,7 +63,7 @@ type
 
 ### LayerObjects(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. LayerObjects ( bpy_prop_collection ) 
 
 Collections of objects

@@ -58,7 +58,7 @@ type
 
 ### ColorStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 class bpy.types. ColorStrip ( EffectStrip )
 
 A sequence strip that produces an image filled with one solid color

@@ -70,7 +70,7 @@ class bpy.types.AdjustmentStrip(EffectStrip)
 A sequence strip that applies filter adjustments to underlying layers
 ### AlphaOverStrip(EffectStrip)
 
-base classes — bpy_struct, Strip, EffectStrip
+base classes: bpy_struct, Strip, EffectStrip
 ## AdjustmentStrip(EffectStrip)
 
 [Related references](INDEX.md).

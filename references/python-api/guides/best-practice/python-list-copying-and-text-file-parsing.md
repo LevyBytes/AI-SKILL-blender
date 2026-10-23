@@ -1,4 +1,4 @@
-# Best Practice: Avoid Copying Lists, Writing Strings to a File — General Python, Parsing Strings (Import/Exporting), Parsing Numbers, Checking String Start/End
+# Best Practice: Avoid Copying Lists, Writing Strings to a File - General Python, Parsing Strings (Import/Exporting), Parsing Numbers, Checking String Start/End
 
 #### Avoid Copying Lists
 
@@ -24,12 +24,12 @@ Note too that handing over a sliced list copies that list into Python memory:
 
 Where my_list runs to tens of thousands of entries, a copy like that could swallow a good deal of extra memory.
 
-### Writing Strings to a File — General Python
+### Writing Strings to a File - General Python
 
 Below are three ways to fuse several strings into one before writing. The same lessons carry over to anywhere your code does heavy string joining:
 
 String concatenation
-The slowest of the bunch — steer clear where you can, above all when writing data inside a loop.
+The slowest of the bunch: steer clear where you can, above all when writing data inside a loop.
 
 ```pycon
 >>> file.write(str1 + " " + str2 + " " + str3 + "\n")

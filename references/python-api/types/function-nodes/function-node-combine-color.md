@@ -92,7 +92,7 @@ type
 
 ### FunctionNodeCombineColor(FunctionNode) 
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeCombineColor ( FunctionNode ) 
 
 Assemble four channels into one color according to a chosen color model

@@ -1,4 +1,4 @@
-# Icon Items — select icons
+# Icon Items - select icons
 
 | Value | Meaning |
 | --- | --- |

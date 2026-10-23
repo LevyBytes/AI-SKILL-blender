@@ -22,9 +22,9 @@ Mode: Edit Mode
 Menu: UV ‣ Merge
 Shortcut: M
 
-At Center — Moves selected UVs to their average position.
+At Center: Moves selected UVs to their average position.
 
-At Cursor — Moves selected UVs to the 2D cursor location.
+At Cursor: Moves selected UVs to the 2D cursor location.
 
 By Distance
 
@@ -33,11 +33,11 @@ Menu: UV ‣ Merge ‣ By Distance
 
 Merges selected UVs within the specified distance.
 
-Merge Distance — Maximum distance between merged vertices.
+Merge Distance: Maximum distance between merged vertices.
 
-Unselected — Merge selected UVs to unselected ones.
+Unselected: Merge selected UVs to unselected ones.
 
-Shared Vertex — Merge UVs corresponding to the same mesh vertex (even with different UV coordinates).
+Shared Vertex: Merge UVs corresponding to the same mesh vertex (even with different UV coordinates).
 
 Split
 
@@ -45,7 +45,7 @@ Mode: Edit Mode
 Menu: UV ‣ Split
 Shortcut: Alt - M
 
-Selection — Disconnects the selection from the rest of the UV map, duplicating the border edge to unselected elements.
+Selection: Disconnects the selection from the rest of the UV map, duplicating the border edge to unselected elements.
 
 UV Rip Move
 

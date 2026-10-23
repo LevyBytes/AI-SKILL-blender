@@ -4,7 +4,7 @@
 
 ### WireframeModifier(Modifier) 
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. WireframeModifier ( Modifier ) 
 
 A modifier that converts geometry into a wireframe

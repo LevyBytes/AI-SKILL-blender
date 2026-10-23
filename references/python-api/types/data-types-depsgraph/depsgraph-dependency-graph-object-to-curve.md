@@ -8,7 +8,7 @@ that need the curve standing in for the object typically use it.
 It expects the evaluated dependency graph as a mandatory argument, plus an optional boolean
 apply_modifiers that defaults to false. With apply_modifiers set and a curve object, the spline
 deform modifiers act on the control points. Bear in mind that constructive modifiers and ones that
-aren’t spline-enabled stay off — so Array won’t run, nor will deform modifiers whose Apply On Spline
+aren’t spline-enabled stay off: so Array won’t run, nor will deform modifiers whose Apply On Spline
 option is switched off.
 
 Given a text object, the text becomes a 3D curve and is returned. apply_modifiers carries no weight
@@ -64,6 +64,6 @@ if __name__ == "__main__":
     register()
 ```
 
-base class — bpy_struct
+base class: bpy_struct
 
 [Related references](INDEX.md).

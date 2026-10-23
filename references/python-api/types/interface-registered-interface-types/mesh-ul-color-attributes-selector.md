@@ -46,7 +46,7 @@ type
 
 ### `MESH_UL`_color_attributes_selector(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `MESH_UL`_color_attributes_selector ( UIList )
 

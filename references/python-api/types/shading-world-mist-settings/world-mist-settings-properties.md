@@ -4,7 +4,7 @@
 
 ### WorldMistSettings(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. WorldMistSettings ( bpy_struct ) 
 
 Mist settings attached to a World data-block

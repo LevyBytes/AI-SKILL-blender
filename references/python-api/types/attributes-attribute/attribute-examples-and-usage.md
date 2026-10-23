@@ -58,7 +58,7 @@ This is sometimes not desirable, e.g. when reading/writing positions, which are 
 The linked `read_positions` example uses `np.ravel` to pass a flat array.
 
 
-base class — bpy_struct
+base class: bpy_struct
 
 subclasses —
 BoolAttribute, ByteColorAttribute, ByteIntAttribute, Float2Attribute, Float4x4Attribute, FloatAttribute, FloatColorAttribute, FloatVectorAttribute, Int2Attribute, IntAttribute, QuaternionAttribute, Short2Attribute, StringAttribute

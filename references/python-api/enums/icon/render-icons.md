@@ -1,4 +1,4 @@
-# Icon Items — render icons
+# Icon Items - render icons
 
 | Value | Meaning |
 | --- | --- |

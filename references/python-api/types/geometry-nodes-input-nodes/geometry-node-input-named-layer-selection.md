@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputNamedLayerSelection(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputNamedLayerSelection ( GeometryNode )
 
 Emit a selection covering a Grease Pencil layer.

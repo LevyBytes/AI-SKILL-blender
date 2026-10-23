@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSetGreasePencilSoftness(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSetGreasePencilSoftness ( GeometryNode ) 
 
 Writes a softness attribute onto Grease Pencil geometry.

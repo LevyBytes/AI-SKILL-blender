@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeTool3DCursor(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeTool3DCursor ( GeometryNode ) 
 
 The position and orientation of the scene's 3D cursor.

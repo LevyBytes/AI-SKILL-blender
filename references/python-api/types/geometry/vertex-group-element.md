@@ -63,7 +63,7 @@ type
 
 ### VertexGroupElement(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. VertexGroupElement ( bpy_struct ) 
 
 The weight a single vertex carries within a vertex group

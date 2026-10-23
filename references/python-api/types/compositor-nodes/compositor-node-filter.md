@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeFilter(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeFilter ( CompositorNode )
 
 Runs one of the standard image-sharpening and enhancement filters.

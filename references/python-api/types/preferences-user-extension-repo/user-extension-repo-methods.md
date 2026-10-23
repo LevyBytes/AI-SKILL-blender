@@ -4,7 +4,7 @@
 
 ### UserExtensionRepo(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. UserExtensionRepo ( bpy_struct ) 
 
 Configuration that describes an extension repository

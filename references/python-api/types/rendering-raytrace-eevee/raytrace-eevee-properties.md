@@ -4,7 +4,7 @@
 
 ### RaytraceEEVEE(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. RaytraceEEVEE ( bpy_struct ) 
 
 Settings controlling the quality of the raytracing pipeline

@@ -1,4 +1,4 @@
-# Icon Items — area icons
+# Icon Items - area icons
 
 | Value | Meaning |
 | --- | --- |

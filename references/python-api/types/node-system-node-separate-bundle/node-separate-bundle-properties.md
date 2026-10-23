@@ -4,7 +4,7 @@
 
 ### NodeSeparateBundle(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeSeparateBundle ( NodeInternal )
 
 Break a bundle apart into several sockets.

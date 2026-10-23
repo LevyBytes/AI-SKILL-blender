@@ -73,7 +73,7 @@ type
 
 ### VectorFont(ID) 
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. VectorFont ( ID ) 
 
 A vector typeface used by Text objects

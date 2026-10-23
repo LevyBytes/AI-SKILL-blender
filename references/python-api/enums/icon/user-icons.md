@@ -1,4 +1,4 @@
-# Icon Items — user icons
+# Icon Items - user icons
 
 | Value | Meaning |
 | --- | --- |

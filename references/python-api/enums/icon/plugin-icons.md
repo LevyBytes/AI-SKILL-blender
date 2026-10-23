@@ -1,4 +1,4 @@
-# Icon Items — plugin icons
+# Icon Items - plugin icons
 
 | Value | Meaning |
 | --- | --- |

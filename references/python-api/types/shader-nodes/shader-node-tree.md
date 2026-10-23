@@ -68,7 +68,7 @@ type
 
 ### ShaderNodeTree(NodeTree)
 
-base classes — bpy_struct, ID, NodeTree
+base classes: bpy_struct, ID, NodeTree
 class bpy.types. ShaderNodeTree ( NodeTree )
 
 A graph of connected nodes that drives materials and similar shading data-blocks.

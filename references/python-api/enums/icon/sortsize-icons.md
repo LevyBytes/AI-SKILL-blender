@@ -1,4 +1,4 @@
-# Icon Items — sortsize icons
+# Icon Items - sortsize icons
 
 | Value | Meaning |
 | --- | --- |

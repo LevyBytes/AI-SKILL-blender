@@ -4,7 +4,7 @@
 
 ### CameraBackgroundImage(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CameraBackgroundImage ( bpy_struct )
 
 Reference image and viewport display controls

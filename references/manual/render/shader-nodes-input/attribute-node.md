@@ -12,11 +12,11 @@ None.
 
 ### Properties
 
-**Attribute Type** — Choose what kind of attribute data to access.
+**Attribute Type**: Choose what kind of attribute data to access.
 
 **Geometry:** The attribute comes from the object's mesh and can vary per-vertex or throughout the volume. Most geometry attributes are available through dedicated input nodes, except:
 
-- **Ocean Foam** — Retrieves scalar values for foam regions when using an Ocean Modifier (name-dependent).
+- **Ocean Foam**: Retrieves scalar values for foam regions when using an Ocean Modifier (name-dependent).
 
 See Stack Exchange for a complete list of available options.
 
@@ -32,14 +32,14 @@ Warning: Currently limited to 4 layers of Geometry Node instancing.
 
 Tip: Access useful built-in properties like: color (or world.color) for World viewport display color, render.resolution_x/y for render dimensions, camera.data.angle_x/y for active camera field of view. See driver Context Properties for an alternative lookup approach.
 
-**Name** — Specify the attribute to retrieve.
+**Name**: Specify the attribute to retrieve.
 
 ### Outputs
 
-- **Color** — RGB value interpolated from the attribute.
-- **Vector** — XYZ value interpolated from the attribute.
-- **Factor** — Scalar interpolated from the attribute.
-- **Alpha** — Alpha channel when available; defaults to 1 if absent.
+- **Color**: RGB value interpolated from the attribute.
+- **Vector**: XYZ value interpolated from the attribute.
+- **Factor**: Scalar interpolated from the attribute.
+- **Alpha**: Alpha channel when available; defaults to 1 if absent.
 
 Warning: Currently only View Layer attributes work in shaders for World or Light Objects.
 

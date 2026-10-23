@@ -88,7 +88,7 @@ type
 
 ### VertexGroups(bpy_prop_collection) 
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. VertexGroups ( bpy_prop_collection ) 
 
 A grouping that holds vertex groups

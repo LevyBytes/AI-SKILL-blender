@@ -4,7 +4,7 @@
 
 ### GeometryNodeCurveArc(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveArc ( GeometryNode )
 
 Build an arc as a poly spline.

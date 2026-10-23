@@ -4,7 +4,7 @@
 
 Supplementary information about an asset data block.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AssetMetaData ( bpy_struct )
 
 Extended metadata for asset identification and organization.

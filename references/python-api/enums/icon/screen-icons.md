@@ -1,4 +1,4 @@
-# Icon Items — screen icons
+# Icon Items - screen icons
 
 | Value | Meaning |
 | --- | --- |

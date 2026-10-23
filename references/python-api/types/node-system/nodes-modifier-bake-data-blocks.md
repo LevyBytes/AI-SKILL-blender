@@ -56,7 +56,7 @@ type
 
 ### NodesModifierBakeDataBlocks(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. NodesModifierBakeDataBlocks ( bpy_prop_collection )
 
 A set of the data-blocks that the baked data may point to.

@@ -91,7 +91,7 @@ type
 
 ### RenderPass(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. RenderPass ( bpy_struct )
 
 [Related references](INDEX.md).

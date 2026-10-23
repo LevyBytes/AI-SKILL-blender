@@ -7,7 +7,7 @@ Collection of images
 
 Registry of deformation cage objects.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 ### Inherited Properties 
 
 | Members | Members |

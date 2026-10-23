@@ -4,7 +4,7 @@
 
 ### IDOverrideLibraryPropertyOperation(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. IDOverrideLibraryPropertyOperation ( bpy_struct )
 
 Captures one operation applied to an overridden property.

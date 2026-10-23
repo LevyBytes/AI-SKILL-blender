@@ -63,7 +63,7 @@ type
 
 ### PreferencesKeymap(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PreferencesKeymap ( bpy_struct )
 
 Shortcut configuration for keyboards and other input devices

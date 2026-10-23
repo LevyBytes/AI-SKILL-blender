@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeGridLaplacian(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeGridLaplacian ( GeometryNode ) 
 
 Take the divergence of the input grid's gradient

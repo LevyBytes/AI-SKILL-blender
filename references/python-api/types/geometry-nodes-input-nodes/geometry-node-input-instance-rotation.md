@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputInstanceRotation(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputInstanceRotation ( GeometryNode )
 
 Read out how each instance within the geometry is rotated.

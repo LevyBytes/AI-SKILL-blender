@@ -9,10 +9,10 @@ The RGB to BW Node turns a color image black-and-white by outputting its luminan
 Note: you can wire Color sockets straight into Value sockets in a node graph, which also converts to black-and-white, so this node isn't always needed.
 
 Inputs:
-Image — a color image input.
+Image: a color image input.
 
 Outputs:
-Value — a grayscale value output.
+Value: a grayscale value output.
 
 ### RGB to BW Node 
 

@@ -4,7 +4,7 @@
 
 ### LineStyleAlphaModifier_Tangent(LineStyleAlphaModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleAlphaModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleAlphaModifier
 class bpy.types. LineStyleAlphaModifier_Tangent ( LineStyleAlphaModifier ) 
 
 Drives alpha transparency from the orientation the stroke is heading

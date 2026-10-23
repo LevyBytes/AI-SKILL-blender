@@ -4,7 +4,7 @@
 
 ### LineStyleColorModifier_Material(LineStyleColorModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleColorModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleColorModifier
 class bpy.types. LineStyleColorModifier_Material ( LineStyleColorModifier ) 
 
 Varies line color from a chosen material attribute

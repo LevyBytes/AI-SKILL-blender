@@ -71,7 +71,7 @@ type
 
 ### SoundEqualizerModifier(StripModifier)
 
-base classes — bpy_struct, StripModifier
+base classes: bpy_struct, StripModifier
 class bpy.types. SoundEqualizerModifier ( StripModifier )
 
 Applies equalization to audio

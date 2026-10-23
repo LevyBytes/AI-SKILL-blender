@@ -4,15 +4,15 @@
 
 Vertex Paint mode toolbar options:
 
-Brush — interface for any of the vertex paint brushes.
+Brush: interface for any of the vertex paint brushes.
 
-Annotate — sketch loose annotations.
+Annotate: sketch loose annotations.
 
-Annotate Line — sketch straight-line annotations.
+Annotate Line: sketch straight-line annotations.
 
-Annotate Polygon — sketch multi-sided annotations.
+Annotate Polygon: sketch multi-sided annotations.
 
-Annotate Eraser — remove drawn annotations.
+Annotate Eraser: remove drawn annotations.
 
 ### Vertex Paint Tools
 

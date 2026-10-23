@@ -58,7 +58,7 @@ Reposition or alter separately.
 
 - Selecting one point duplicates it as loose, keeping the original attached.
 
-Curves — Strand and Strip Options
+Curves: Strand and Strip Options
 
 Reference
 Panel: Render ‣ Curves

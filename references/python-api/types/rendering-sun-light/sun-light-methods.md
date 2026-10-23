@@ -4,7 +4,7 @@
 
 ### SunLight(Light)
 
-base classes — bpy_struct, ID, Light
+base classes: bpy_struct, ID, Light
 class bpy.types. SunLight ( Light )
 
 A light emitting parallel rays in a fixed direction.

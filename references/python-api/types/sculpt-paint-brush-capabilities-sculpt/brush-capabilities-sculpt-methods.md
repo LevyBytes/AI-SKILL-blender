@@ -4,7 +4,7 @@
 
 ### BrushCapabilitiesSculpt(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. BrushCapabilitiesSculpt ( bpy_struct )
 
 Read-only flags reporting which brush operations the active sculpt tool allows.

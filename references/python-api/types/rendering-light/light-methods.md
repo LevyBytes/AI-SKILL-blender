@@ -4,7 +4,7 @@
 
 ### Light(ID) 
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 
 subclasses —
 AreaLight, PointLight, SpotLight, SunLight

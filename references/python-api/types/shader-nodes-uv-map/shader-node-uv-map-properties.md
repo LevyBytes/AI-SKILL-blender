@@ -4,7 +4,7 @@
 
 ### ShaderNodeUVMap(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeUVMap ( ShaderNode )
 
 Fetches a UV map off the geometry, falling back to the default when none is named.

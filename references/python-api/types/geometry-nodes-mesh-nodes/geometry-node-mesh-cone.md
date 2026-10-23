@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeMeshCone(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeMeshCone ( GeometryNode ) 
 
 Build a cone-shaped mesh.

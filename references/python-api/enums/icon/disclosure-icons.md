@@ -1,4 +1,4 @@
-# Icon Items — disclosure icons
+# Icon Items - disclosure icons
 
 | Value | Meaning |
 | --- | --- |

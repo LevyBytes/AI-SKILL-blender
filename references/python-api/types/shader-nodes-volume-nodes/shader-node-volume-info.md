@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeVolumeInfo(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeVolumeInfo ( ShaderNode )
 
 Pulls volume data attributes out of volume grids.

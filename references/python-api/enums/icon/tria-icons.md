@@ -1,4 +1,4 @@
-# Icon Items — tria icons
+# Icon Items - tria icons
 
 | Value | Meaning |
 | --- | --- |

@@ -87,6 +87,6 @@ List of skeletal deformation rigs
 
 Registry of painting and sculpting brush definitions.
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 
 [Related references](INDEX.md).

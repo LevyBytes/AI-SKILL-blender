@@ -4,7 +4,7 @@
 
 ### ThemeSequenceEditor(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. ThemeSequenceEditor ( bpy_struct )
 
 Styling for the Sequence Editor

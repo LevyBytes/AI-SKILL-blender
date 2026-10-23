@@ -70,7 +70,7 @@ type
 
 A channel holding per-view-layer output data.
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. AOV ( bpy_struct )
 
 [Related references](INDEX.md).

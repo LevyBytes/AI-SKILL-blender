@@ -18,8 +18,8 @@ None.
 
 ### Outputs
 
-- **Location** — Point position.
-- **Radius** — Point size.
-- **Random** — Per-point random (0 to 1). Use with color ramps for color randomization.
+- **Location**: Point position.
+- **Radius**: Point size.
+- **Random**: Per-point random (0 to 1). Use with color ramps for color randomization.
 
 [Related references](INDEX.md).

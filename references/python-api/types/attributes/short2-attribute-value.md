@@ -56,7 +56,7 @@ type
 
 ### Short2AttributeValue(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Short2AttributeValue ( bpy_struct )
 
 One 2D entry held inside a geometry attribute.

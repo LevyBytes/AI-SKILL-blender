@@ -56,7 +56,7 @@ type
 
 ### SpreadsheetColumnID(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SpreadsheetColumnID ( bpy_struct )
 
 Information that identifies a spreadsheet column

@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputTangent(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputTangent ( GeometryNode ) 
 
 Read out the heading a curve points in at each of its control points.

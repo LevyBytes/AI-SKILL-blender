@@ -91,7 +91,7 @@ type
 
 ### Driver(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. Driver ( bpy_struct )
 
 Sets a property’s value by deriving it from an outside value

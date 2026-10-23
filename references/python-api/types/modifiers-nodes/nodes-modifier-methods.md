@@ -4,7 +4,7 @@
 
 ### NodesModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. NodesModifier ( Modifier )
 bl_system_properties_get ( * , do_create = False )
 

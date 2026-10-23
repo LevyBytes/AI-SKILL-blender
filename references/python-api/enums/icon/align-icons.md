@@ -1,4 +1,4 @@
-# Icon Items — align icons
+# Icon Items - align icons
 
 | Value | Meaning |
 | --- | --- |

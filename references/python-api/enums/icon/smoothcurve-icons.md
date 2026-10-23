@@ -1,4 +1,4 @@
-# Icon Items — smoothcurve icons
+# Icon Items - smoothcurve icons
 
 | Value | Meaning |
 | --- | --- |

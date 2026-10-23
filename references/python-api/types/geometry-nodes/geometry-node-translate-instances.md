@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeTranslateInstances(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeTranslateInstances ( GeometryNode )
 
 Shifts the position of top-level instances, working in either their local frame or world space.

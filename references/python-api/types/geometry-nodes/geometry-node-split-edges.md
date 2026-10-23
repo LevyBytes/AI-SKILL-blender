@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSplitEdges(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSplitEdges ( GeometryNode ) 
 
 Copies mesh edges and severs their links to the neighboring faces.

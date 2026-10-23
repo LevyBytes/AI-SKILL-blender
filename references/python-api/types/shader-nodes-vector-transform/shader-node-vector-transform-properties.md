@@ -4,7 +4,7 @@
 
 ### ShaderNodeVectorTransform(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeVectorTransform ( ShaderNode )
 
 Moves a vector, point, or normal across world, camera, and object spaces.

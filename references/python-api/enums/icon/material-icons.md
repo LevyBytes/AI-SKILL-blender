@@ -1,4 +1,4 @@
-# Icon Items — material icons
+# Icon Items - material icons
 
 | Value | Meaning |
 | --- | --- |

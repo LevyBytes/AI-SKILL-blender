@@ -64,7 +64,7 @@ type
 
 ### NodeSocketIntPercentage(NodeSocketStandard)
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketIntPercentage ( NodeSocketStandard )
 
 A node socket carrying an integer value.

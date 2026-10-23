@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputIndex(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputIndex ( GeometryNode )
 
 Read out an integer giving where each element sits in the list, counting up from zero.

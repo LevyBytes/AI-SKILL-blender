@@ -49,7 +49,7 @@ type
 
 ### PaintCurve(ID) 
 
-base classes — bpy_struct, ID
+base classes: bpy_struct, ID
 class bpy.types. PaintCurve ( ID )
 
 [Related references](INDEX.md).

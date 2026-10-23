@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeGlare(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeGlare ( CompositorNode )
 
 Surrounds the brightest image regions with lens flares, haze, and glowing halos.

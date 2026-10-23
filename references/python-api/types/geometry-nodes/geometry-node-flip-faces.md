@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeFlipFaces(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeFlipFaces ( GeometryNode ) 
 
 Invert the winding of vertices and edges on chosen faces so their normals point the other way

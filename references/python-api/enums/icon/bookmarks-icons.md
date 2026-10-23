@@ -1,4 +1,4 @@
-# Icon Items — bookmarks icons
+# Icon Items - bookmarks icons
 
 | Value | Meaning |
 | --- | --- |

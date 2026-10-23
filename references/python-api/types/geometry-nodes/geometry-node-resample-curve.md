@@ -92,7 +92,7 @@ type
 
 ### GeometryNodeResampleCurve(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeResampleCurve ( GeometryNode )
 
 Produce a poly spline to replace each spline supplied as input

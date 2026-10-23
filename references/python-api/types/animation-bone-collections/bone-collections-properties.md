@@ -4,7 +4,7 @@
 
 ### BoneCollections(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. BoneCollections ( bpy_prop_collection )
 
 This Armature's set of bone collections.

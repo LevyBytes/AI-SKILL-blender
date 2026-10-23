@@ -14,6 +14,6 @@ None.
 
 ### Outputs
 
-Length — Float per edge (scene scale units).
+Length: Float per edge (scene scale units).
 
 [Related references](INDEX.md).

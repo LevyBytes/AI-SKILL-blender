@@ -4,7 +4,7 @@
 
 ### KeyMapItem(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. KeyMapItem ( bpy_struct ) 
 
 A single entry within a Key Map

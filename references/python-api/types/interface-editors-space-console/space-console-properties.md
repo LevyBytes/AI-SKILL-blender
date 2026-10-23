@@ -4,7 +4,7 @@
 
 ### SpaceConsole(Space)
 
-base classes — bpy_struct, Space
+base classes: bpy_struct, Space
 class bpy.types. SpaceConsole ( Space )
 
 The interactive Python console

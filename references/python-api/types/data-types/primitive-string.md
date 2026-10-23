@@ -51,7 +51,7 @@ type
 
 ### PrimitiveString(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. PrimitiveString ( bpy_struct ) 
 
 RNA wrapped string

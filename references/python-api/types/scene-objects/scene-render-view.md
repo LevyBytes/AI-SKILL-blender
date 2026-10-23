@@ -77,7 +77,7 @@ type
 
 ### SceneRenderView(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. SceneRenderView ( bpy_struct )
 
 A render viewpoint used for 3D stereo and multiview rendering

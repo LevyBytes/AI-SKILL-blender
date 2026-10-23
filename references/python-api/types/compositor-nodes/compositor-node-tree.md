@@ -51,7 +51,7 @@ type
 
 ### CompositorNodeTree(NodeTree)
 
-base classes — bpy_struct, ID, NodeTree
+base classes: bpy_struct, ID, NodeTree
 class bpy.types. CompositorNodeTree ( NodeTree )
 
 A network of connected nodes that drives the compositing process.

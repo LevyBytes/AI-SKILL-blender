@@ -85,7 +85,7 @@ type
 
 ### CompositorNodeChromaMatte(CompositorNode)
 
-base classes — bpy_struct, Node, NodeInternal, CompositorNode
+base classes: bpy_struct, Node, NodeInternal, CompositorNode
 class bpy.types. CompositorNodeChromaMatte ( CompositorNode )
 
 Build a matte from chroma values

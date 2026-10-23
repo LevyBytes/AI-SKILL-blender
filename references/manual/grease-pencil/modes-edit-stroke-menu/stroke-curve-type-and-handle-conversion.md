@@ -1,17 +1,17 @@
-# Stroke Menu: **Set Curve Type.**, Handles — includes handle information during conversion.
+# Stroke Menu: **Set Curve Type.**, Handles - includes handle information during conversion.
 
 **Set Curve Type.**
 
 Menu ‣ Stroke ‣ Set Curve Type; shortcut V. Sets the spline type for stroke splines in the selection.
 
-Type — target spline type; see Spline Types for details:
+Type: target spline type; see Spline Types for details:
 - Bézier: converts the spline to Bézier type. Poly splines convert with vector handles; NURBS or Catmull Rom with automatic handles.
   Note: converting a NURBS spline to Bézier requires at least six points; if the count is not a multiple of three, the spline truncates.
 - NURBS: converts to NURBS type.
 - Poly: converts to poly type.
 - Catmull Rom: converts to Catmull Rom type.
 
-Handles — includes handle information during conversion.
+Handles: includes handle information during conversion.
 
 **Set Resolution.**
 
@@ -38,6 +38,6 @@ Menu ‣ Stroke ‣ Join Fills; shortcut Shift+J. Combines multiple selected fil
 
 Menu ‣ Stroke ‣ Separate Fills; shortcut Alt+P. Divides a unified fill region back into separate fills per boundary curve, enabling independent editing of formerly merged areas.
 
-Individual — creates a separate fill for each individual stroke.
+Individual: creates a separate fill for each individual stroke.
 
 [Related references](INDEX.md).

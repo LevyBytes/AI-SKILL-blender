@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeRotateInstances(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeRotateInstances ( GeometryNode )
 
 Turn geometry instances around, using either local or global space

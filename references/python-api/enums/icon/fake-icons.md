@@ -1,4 +1,4 @@
-# Icon Items — fake icons
+# Icon Items - fake icons
 
 | Value | Meaning |
 | --- | --- |

@@ -6,9 +6,9 @@ The Trim tool removes points where strokes intersect.
 
 **Tool Settings.**
 
-Flat Caps — marks newly created end caps as Flat.
+Flat Caps: marks newly created end caps as Flat.
 
-Threshold — controls the threshold for detecting stroke intersections.
+Threshold: controls the threshold for detecting stroke intersections.
 
 **Usage.**
 

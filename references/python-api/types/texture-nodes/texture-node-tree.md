@@ -44,7 +44,7 @@ type
 
 ### TextureNodeTree(NodeTree)
 
-base classes — bpy_struct, ID, NodeTree
+base classes: bpy_struct, ID, NodeTree
 class bpy.types. TextureNodeTree ( NodeTree )
 
 A graph of connected nodes that drives a texture

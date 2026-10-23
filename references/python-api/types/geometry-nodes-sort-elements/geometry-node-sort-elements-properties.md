@@ -4,7 +4,7 @@
 
 ### GeometryNodeSortElements(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSortElements ( GeometryNode ) 
 
 Reorders the elements of a geometry, giving them new indices.

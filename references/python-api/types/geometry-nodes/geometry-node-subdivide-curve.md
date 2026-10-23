@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeSubdivideCurve(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeSubdivideCurve ( GeometryNode ) 
 
 Cuts every curve segment up into a chosen number of pieces.

@@ -7,7 +7,7 @@ Animation data associated with a data-block
 
 ### AnimData(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 ### Inherited Properties
 
 | Members | Members |

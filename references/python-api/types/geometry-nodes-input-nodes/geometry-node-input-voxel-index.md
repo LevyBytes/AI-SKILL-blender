@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInputVoxelIndex(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInputVoxelIndex ( GeometryNode ) 
 
 Read out the whole-number grid coordinates of the voxel where the field is being sampled.

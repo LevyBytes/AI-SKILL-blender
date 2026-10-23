@@ -4,7 +4,7 @@
 
 ### VertexGroup(bpy_struct) 
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. VertexGroup ( bpy_struct ) 
 
 A set of vertices serving armature deform and similar uses

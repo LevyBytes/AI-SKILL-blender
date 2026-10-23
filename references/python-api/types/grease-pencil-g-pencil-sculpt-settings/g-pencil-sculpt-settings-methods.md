@@ -4,7 +4,7 @@
 
 ### GPencilSculptSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. GPencilSculptSettings ( bpy_struct )
 
 Shared properties for the Grease Pencil stroke-sculpting tools.

@@ -36,7 +36,7 @@ Note
 Simulation only calculates positive frames within Start/End. Extend End frame for longer sims.
 
 Offset
-Frame shift on cache loading—not during baking.
+Frame shift on cache loading: not during baking.
 
 Type
 Cache baking methodology.

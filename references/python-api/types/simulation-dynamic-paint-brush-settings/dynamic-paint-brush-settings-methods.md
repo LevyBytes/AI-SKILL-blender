@@ -4,7 +4,7 @@
 
 ### DynamicPaintBrushSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. DynamicPaintBrushSettings ( bpy_struct )
 
 Settings for a brush

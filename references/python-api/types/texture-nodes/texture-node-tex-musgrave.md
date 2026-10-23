@@ -85,7 +85,7 @@ type
 
 ### TextureNodeTexMusgrave(TextureNode)
 
-base classes — bpy_struct, Node, NodeInternal, TextureNode
+base classes: bpy_struct, Node, NodeInternal, TextureNode
 class bpy.types. TextureNodeTexMusgrave ( TextureNode )
 
 [Related references](INDEX.md).

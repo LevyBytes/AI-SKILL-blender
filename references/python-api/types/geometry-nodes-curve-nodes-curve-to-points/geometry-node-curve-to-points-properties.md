@@ -4,7 +4,7 @@
 
 ### GeometryNodeCurveToPoints(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeCurveToPoints ( GeometryNode )
 
 Sample positions along curves to build a point cloud.

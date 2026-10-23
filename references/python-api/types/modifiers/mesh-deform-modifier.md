@@ -86,7 +86,7 @@ type
 
 ### MeshDeformModifier(Modifier)
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. MeshDeformModifier ( Modifier )
 
 Mesh deformation modifier to deform with other meshes

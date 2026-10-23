@@ -4,7 +4,7 @@
 
 ### GeometryNodeTree(NodeTree)
 
-base classes — bpy_struct, ID, NodeTree
+base classes: bpy_struct, ID, NodeTree
 class bpy.types. GeometryNodeTree ( NodeTree )
 
 A tree of connected nodes whose purpose is to build and process geometry.

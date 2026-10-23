@@ -9,7 +9,7 @@ Curl Hair Curves bends existing strands into curls by winding them around nearby
 ### Inputs
 
 Geometry
-Geometry — the hair-curve geometry fed in for curling.
+Geometry: the hair-curve geometry fed in for curling.
 
 Factor
 Overall strength of the curl. At 0.0 the effect is off; at 1.0 the full curl deform applies.

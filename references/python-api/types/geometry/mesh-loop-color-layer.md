@@ -77,7 +77,7 @@ type
 
 ### MeshLoopColorLayer(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MeshLoopColorLayer ( bpy_struct )
 
 Layer of vertex colors in a Mesh data-block

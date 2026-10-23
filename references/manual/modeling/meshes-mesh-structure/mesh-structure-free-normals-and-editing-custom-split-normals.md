@@ -44,7 +44,7 @@ Editing Normals.
 
 Certain tools, CAD ones especially, tend to spit out irregular geometry when they tessellate objects into meshes (long, sliver-thin triangles and the like). Auto-computed normals over such geometry often look wrong, so being able to import and use the normals the CAD tool itself produced matters.
 
-Mesh Structure — Topology and Loops
+Mesh Structure: Topology and Loops
 
 Only the FBX Importer and Alembic Importer currently support importing custom normals.
 

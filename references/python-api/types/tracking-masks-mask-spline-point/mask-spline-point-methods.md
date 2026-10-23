@@ -4,7 +4,7 @@
 
 ### MaskSplinePoint(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. MaskSplinePoint ( bpy_struct )
 
 A single point on a spline used to define the mask.

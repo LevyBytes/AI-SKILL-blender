@@ -56,7 +56,7 @@ type
 
 ### FloatAttributeValue(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. FloatAttributeValue ( bpy_struct )
 
 A floating-point value stored within a geometry attribute.

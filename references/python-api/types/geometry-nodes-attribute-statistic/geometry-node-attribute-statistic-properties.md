@@ -4,7 +4,7 @@
 
 ### GeometryNodeAttributeStatistic(GeometryNode)
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeAttributeStatistic ( GeometryNode )
 
 Works out statistics over a data set drawn from a field sampled on a geometry.

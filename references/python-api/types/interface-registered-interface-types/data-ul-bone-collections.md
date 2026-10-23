@@ -45,7 +45,7 @@ type
 
 ### `DATA_UL`_bone_collections(UIList)
 
-base classes — bpy_struct, UIList
+base classes: bpy_struct, UIList
 
 class bpy.types. `DATA_UL`_bone_collections ( UIList )
 

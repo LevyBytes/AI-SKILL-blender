@@ -4,7 +4,7 @@
 
 ### LineStyleGeometryModifier_PerlinNoise1D(LineStyleGeometryModifier) 
 
-base classes — bpy_struct, LineStyleModifier, LineStyleGeometryModifier
+base classes: bpy_struct, LineStyleModifier, LineStyleGeometryModifier
 class bpy.types. LineStyleGeometryModifier_PerlinNoise1D ( LineStyleGeometryModifier ) 
 
 Apply one-dimensional Perlin noise to the stroke backbone geometry

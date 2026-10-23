@@ -87,7 +87,7 @@ type
 
 ### NodeTreeInterfaceSocketStringFilePath(NodeTreeInterfaceSocket)
 
-base classes — bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
+base classes: bpy_struct, NodeTreeInterfaceItem, NodeTreeInterfaceSocket
 class bpy.types. NodeTreeInterfaceSocketStringFilePath ( NodeTreeInterfaceSocket )
 
 A node socket that carries a string

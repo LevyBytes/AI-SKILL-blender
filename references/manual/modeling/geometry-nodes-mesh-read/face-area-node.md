@@ -14,7 +14,7 @@ None.
 
 ### Outputs
 
-Area — Surface area per face.
+Area: Surface area per face.
 
 ### Examples
 

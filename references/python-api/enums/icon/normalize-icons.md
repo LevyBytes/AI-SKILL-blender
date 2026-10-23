@@ -1,4 +1,4 @@
-# Icon Items — normalize icons
+# Icon Items - normalize icons
 
 | Value | Meaning |
 | --- | --- |

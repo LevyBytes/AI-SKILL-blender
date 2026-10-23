@@ -85,7 +85,7 @@ type
 
 ### ShaderNodeNormal(ShaderNode) 
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeNormal ( ShaderNode ) 
 
 Produce a normal vector together with a dot product

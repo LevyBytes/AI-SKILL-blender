@@ -85,7 +85,7 @@ type
 
 ### FunctionNodeQuaternionToRotation(FunctionNode)
 
-base classes — bpy_struct, Node, NodeInternal, FunctionNode
+base classes: bpy_struct, Node, NodeInternal, FunctionNode
 class bpy.types. FunctionNodeQuaternionToRotation ( FunctionNode )
 
 Assembles a rotation out of individual quaternion components.

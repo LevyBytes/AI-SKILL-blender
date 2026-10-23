@@ -4,7 +4,7 @@
 
 ### CurvePaintSettings(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types. CurvePaintSettings ( bpy_struct )
 classmethod bl_rna_get_subclass ( id , default = None , / )
 

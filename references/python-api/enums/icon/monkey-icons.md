@@ -1,4 +1,4 @@
-# Icon Items — monkey icons
+# Icon Items - monkey icons
 
 | Value | Meaning |
 | --- | --- |

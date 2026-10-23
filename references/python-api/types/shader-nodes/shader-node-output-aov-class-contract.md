@@ -1,4 +1,4 @@
-# bpy.types.ShaderNodeOutputAOV — class-contract, Inherited Properties, Inherited Functions, ShaderNodeOutputAOV(ShaderNode)
+# bpy.types.ShaderNodeOutputAOV - class-contract, Inherited Properties, Inherited Functions, ShaderNodeOutputAOV(ShaderNode)
 
 aov_name
 

@@ -68,7 +68,7 @@ type
 
 ### BlendFileColorspace(bpy_struct)
 
-base class — bpy_struct
+base class: bpy_struct
 class bpy.types.BlendFileColorspace(bpy_struct)
 
 Holds metadata about the color encoding system selected for stored data in a blend file.

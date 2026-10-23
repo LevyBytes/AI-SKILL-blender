@@ -64,7 +64,7 @@ type
 
 ### NodeSocketVectorPercentage(NodeSocketStandard) 
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketVectorPercentage ( NodeSocketStandard ) 
 
 A node socket carrying a three-component vector.

@@ -1,4 +1,4 @@
-# Icon Items — rootcurve icons
+# Icon Items - rootcurve icons
 
 | Value | Meaning |
 | --- | --- |

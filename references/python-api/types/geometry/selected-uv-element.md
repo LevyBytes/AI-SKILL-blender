@@ -58,7 +58,7 @@ type
 
 ### SelectedUvElement(PropertyGroup)
 
-base classes — bpy_struct, PropertyGroup
+base classes: bpy_struct, PropertyGroup
 class bpy.types. SelectedUvElement ( PropertyGroup )
 
 [Related references](INDEX.md).

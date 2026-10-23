@@ -4,7 +4,7 @@
 
 ### UVWarpModifier(Modifier) 
 
-base classes — bpy_struct, Modifier
+base classes: bpy_struct, Modifier
 class bpy.types. UVWarpModifier ( Modifier ) 
 
 Offset UV coordinates by a target position

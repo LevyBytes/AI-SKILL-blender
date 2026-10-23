@@ -4,7 +4,7 @@
 
 ### NodeEvaluateClosure(NodeInternal)
 
-base classes — bpy_struct, Node, NodeInternal
+base classes: bpy_struct, Node, NodeInternal
 class bpy.types. NodeEvaluateClosure ( NodeInternal )
 
 Run the supplied closure.

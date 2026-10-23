@@ -85,7 +85,7 @@ type
 
 ### GeometryNodeInterpolateCurves(GeometryNode) 
 
-base classes — bpy_struct, Node, NodeInternal, GeometryNode
+base classes: bpy_struct, Node, NodeInternal, GeometryNode
 class bpy.types. GeometryNodeInterpolateCurves ( GeometryNode ) 
 
 Build fresh curves at points by blending between curves that already exist.

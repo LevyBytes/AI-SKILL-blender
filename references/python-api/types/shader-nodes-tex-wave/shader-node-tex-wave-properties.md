@@ -4,7 +4,7 @@
 
 ### ShaderNodeTexWave(ShaderNode)
 
-base classes — bpy_struct, Node, NodeInternal, ShaderNode
+base classes: bpy_struct, Node, NodeInternal, ShaderNode
 class bpy.types. ShaderNodeTexWave ( ShaderNode )
 
 Produces procedural striping or concentric rings, with optional noise applied.

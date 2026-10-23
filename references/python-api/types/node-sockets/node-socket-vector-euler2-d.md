@@ -64,7 +64,7 @@ type
 
 ### NodeSocketVectorEuler2D(NodeSocketStandard) 
 
-base classes — bpy_struct, NodeSocket, NodeSocketStandard
+base classes: bpy_struct, NodeSocket, NodeSocketStandard
 class bpy.types. NodeSocketVectorEuler2D ( NodeSocketStandard ) 
 
 A node socket carrying a three-component vector.

@@ -63,7 +63,7 @@ type
 
 ### CollectionObjects(bpy_prop_collection)
 
-base classes — bpy_prop, bpy_prop_collection
+base classes: bpy_prop, bpy_prop_collection
 class bpy.types. CollectionObjects ( bpy_prop_collection )
 
 A group holding the objects of a collection
